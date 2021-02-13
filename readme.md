@@ -9,30 +9,52 @@ Návrh slovníkové tabulky (relační)
 
 ### Arabic words table:
 
-| id | word | cz_id | cat_id | plural | stem_form | stem | masdar | transcription | example_id | valency |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | مكتبةٌ | 1 | 2 | ات ; مَكَاتِبُ | null | null | null | maktabatun | null | --- |
-| 2 | كَتَبَ | 2 | 1 | null | ـُ | I | كِتَابَة ; كِتبَة ; كَتب | kataba jaktubu | null | --- |
+__Sloupce:__
+- id (unique primary key)
+- ar (arabský význam)
+- cz (český význam)
+- cat_id (id kategorie)
+- root_id (id kořene)
+- stem (číslo kmene)
+- stem_vowel (prostřední vokál ve slovese)
+- plural
+- masdar
+- val (valence, předložka, se kterou se pojí)
+- transcription
+- variant (očíslované významy)
+- synonyme_ids (id synonym)
+- tags (@todo dospecifikovat)
+- examples_ids (id přidružených příkladů)
+- disabled (true | false, zablokovaná položka, která se nemá propsat do Db)
+
+| id  | word | cz_id | cat_id | plural | stem_form | stem  | masdar | transcription | example_id | valency | root_id | meaning_variant |
+| --- | ---: | :---: | :---:  | ---:   | ---:      | :---: | ---:   | ---           | ---        | ---     | :---:   | :---: |
+| 1   | مكتبةٌ | 1 | 2 | ات ; مَكَاتِبُ | null | null | null | maktabatun | null | --- | 1 | 1 |
+| 2   | كَتَبَ | 2 | 1 | null | ـُ | I | كِتَابَة ; كِتبَة ; كَتب | kataba jaktubu | null | --- | 1 | 1 |
+| 3   | إعجاب | 3 | 2 | át | null | IV | null | i3džábun | null | bi | 4 | 1 |
 
 
 ---
 
 ### Czech words table: todo
+V první řadě nebude zvlášť, pokud ji budu chtít zvlášť, možno dodělat.
 
 | id | word | ar_id | ??? |
 | --- | --- | --- | --- | 
 | 1 | knihovna, knihkupectví, nakladatelství | 1 | ??? |
 | 2 | psát | 2 | ??? |
+| 3 | obdiv (k) | 3 | ??? |
 
 ---
 
 ### Roots table:
 
-| id | root_norm | root_ar | root_lat |
-| --- | --- | --- | --- | 
-| 1 | k-t-b | كتب | ktb |
-| 2 | ch-S-S | خصص | ḫṣṣ |
-| 3 | ... | ...
+| id  | root_norm | root_ar | root_lat |
+| --- | ---       | :---:   | ---      | 
+| 1   | k-t-b     | كتب     | ktb      |
+| 2   | ch-S-S    | خصص     | ḫṣṣ       |
+| 3   | k-b-r     | كبر     | kbr      |
+| 4   | ...       | ...     |          |
 
 ---
 
@@ -46,17 +68,16 @@ Návrh slovníkové tabulky (relační)
 
 ### Categories:
 
-| id | name | title |
-| --- | --- | --- |
-| 1 | verb | Sloveso |
-| 2 | noun | Podstatné jméno |
-| 3 | adjective | Adjektivum |
-| 4 | masdar | Maṣdar |
-| 5 | participle | Participium |
-| 6 | phrase | Fráze |
-| 7 | preposition | Předložka |
-| 8 | ??? | ???
-
+| id  | name        | title         |
+| --- | ---         | ---           |
+| 1   | verb        | Sloveso       |
+| 2   | noun        | Podstatné jméno |
+| 3   | adjective   | Adjektivum    |
+| 4   | masdar      | Maṣdar        |
+| 5   | participle  | Participium   |
+| 6   | phrase      | Fráze         |
+| 7   | preposition | Předložka     |
+| 8   | ???         | ???           |
 ----
 
 Tabulky vedlejší:

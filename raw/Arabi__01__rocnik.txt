@@ -145,7 +145,7 @@ lá ... ba3da		ještě ne	b-3-d				AR_lekce_3
 تَاجِرٌ (تُجَّارٌ)		kupec, obchodník	t-dž-r			tádžirun tudždžárun	AR_lekce_3
 ترجمة (تراجمُ)		překlad	t-r-dž-m			tardžamatun tarádžimu	AR_lekce_3
 تَالٍ		následující	t-l-w				AR_lekce_3
-tamrun تمر	tumúrun	datle	t-m-r				AR_FOOD AR_lekce_3 ovoce
+تَمْرٌ (تُمُورٌ)		datle	t-m-r			tamrun tumúrun	AR_FOOD AR_lekce_3 ovoce
 جَاهِزٌ		hotový, připravený	dž-h-z			džáhizun	AR_lekce_3
 حَدَثَ (ـُ) حُدُوثٌ		stát se, přihodit se (zcela neutrální význam)	H-d-th			hadatha jadhuthu	AR_lekce_3 AR_muj_slovnicek_1 I_kmen slovesa
 حَرٌّ		teplo, horko	H-r-r			harrun	AR_lekce_3 duplicate
@@ -171,46 +171,46 @@ hikájatun حكاية		příběh	H-k-j				AR_lekce_3 duplicate
 عَجِيبٌ		podivuhodný, zvláštní, neobvyklý	3-dž-b			3adžíbun	AR_lekce_3 poezie_poetika
 fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
 فرحة		radost, potěšení	f-r-H			farhatun	AR_lekce_3
-mufídun مفيد		užitečný	f-j-d				AR_lekce_3
+مفيد		užitečný	f-j-d			mufídun	AR_lekce_3
 مقابلة		schůzka, setkání	q-b-l			muqábalatun	AR_lekce_3 duplicate
 استقبال		přijetí, přivítání	q-b-l			istiqbálun	AR_lekce_3
 تقدم		postoupit, přistoupit	q-d-m			taqaddama	AR_1.rocnik AR_lekce_3 opakovani_zapomenutych
 قذف		házet, vrhat	q-dh-f			qadhafa jaqdhifu	AR_lekce_3
-qiráatun قراءة		čtení	q-r-'				AR_lekce_3 duplicate
+قراءة		čtení	q-r-'			qirá'atun	AR_lekce_3 duplicate
 قِصَّةٌ (قِصَصٌ)		povídka, příběh	q-S-S			qissatun (qisasun)	AR_lekce_3 marked
 قائمٌ (1)	على {ٱلْقَدَمَيْنِ}	spočívající na, vycházející z (1); stojící na {obou nohách} (2)	q-'-m				AR_lekce_3
 كافٍ / كَافِيَّة		dostačující	k-f-j			káfin	AR_lekce_3
 لَحْظَةٌ (لَحَظَاتٌ)		okamžik, chvíle	l-H-Z			lahzatun	AR_lekce_3
 أَمْسَكَ	بـ	držet, svírat, uchopit	m-s-k			amsaka /bi/	AR_lekce_3 marked
-manaha منح	jamnahu /dvoj. ak./	udělit	m-n-H				AR_lekce_3 dvoji_akuzativ marked
+منح	/dvoj. ak./	udělit	m-n-H			manaha jamnahu	AR_lekce_3 dvoji_akuzativ marked
 مُنْذُ		(již) od, před (časově)	m-n-dh			mundhu	AR_lekce_3
-málun مال	amwálun	majetek	m-w-l				AR_lekce_3 marked
-nadždatun نجدة		záchrana	n-dž-d				AR_1.rocnik AR_lekce_3 leech opakovani_zapomenutych
+مال	amwálun	majetek	m-w-l			málun	AR_lekce_3 marked
+نجدة		záchrana	n-dž-d			nadždatun	AR_1.rocnik AR_lekce_3 leech opakovani_zapomenutych
 مندوب		zástupce, delegát	n-d-b			mandúbun	AR_lekce_3 duplicate
-nassun نص	nusúsun	text	n-S-S				AR_lekce_3 duplicate marked
+نص		text	n-S-S			naSSun nuSúSun	AR_lekce_3 duplicate marked
 اِنْتَقَلَ	إلى	přestěhovat se, přesunout se	n-q-l			intaqala ilá	AR_lekce_3 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 VIII_kmen slovesa
 نَهَضَ (ـَ) نُهُوضٌ		vstát	n-h-D			nahada	AR_1.rocnik AR_lekce_3 duplicate marked opakovani_zapomenutych
 متنوع		rozličný, rozmanitý	n-w-3			mutanawwi3un	AR_lekce_3
-nawátun نواة	nawan	pecka	n-w-j				AR_1.rocnik AR_lekce_3 opakovani_zapomenutych
+نَوَاةٌ (نَوىً)		pecka	n-w-j			nawátun nawan	AR_1.rocnik AR_lekce_3 opakovani_zapomenutych
 هدية		dar, dárek	h-d-j			hadíjatun (hadájá)	AR_lekce_3
-walihádhá ولهذا		(a) proto					AR_lekce_3 duplicate
+ولهذا		(a) proto	h			walihádhá	AR_lekce_3 duplicate spojky
 وصل	jasilu (ilá)	přijet, dorazit, dospět k	w-S-l			wasala	AR_lekce_3
 وقت		čas, doba	w-q-t			waqtun (awqátun)	AR_lekce_3
 مؤسسة		instituce, podnik	'-s-s			mu'assasatun	AR_1.rocnik AR_lekce_4 opakovani_zapomenutych
-ilch. (ilá áchirihi) الخ		atd	'-ch-r				AR_lekce_4 marked
-amínun امين	umaná'u	tajemník	'-m-n				AR_lekce_4 duplicate
-fí má ba3du فيما بعد		později	b-3-d				AR_lekce_4 duplicate
+الخ. (= إلى آخره)		atd	'-ch-r			ilch. (ilá áchirihi)	AR_lekce_4 marked
+أَمِينٌ (أُمَنَاءُ)		tajemník	'-m-n			amínun (umaná'u)	AR_lekce_4 duplicate
+فيما بعد		později	b-3-d			fí má ba3du	AR_lekce_4 duplicate spojky
 بواب		vrátný, domovník	b-w-b			bawwábun	AR_lekce_4
 بَيَان	(-átun)	údaj; oznámení, prohlášení	b-j-n			bajánun	AR_lekce_4
 تجارة		obchod, obchodní činnost	t-dž-r			tidžáratun	AR_lekce_4
-athná'a أثناءَ		během					AR_lekce_4
+أثناءَ		během				athná'a	AR_lekce_4 předložky
 جدول		rozvrh, rozpis	dž-d-w-l			džadwalun (džadáwilu)	AR_1.rocnik AR_lekce_4 opakovani_zapomenutych
 جمعية		shromáždění, sdružení	dž-m-3			džam3íjatun	AR_lekce_4
-džamí3un جميع		všechen	dž-m-3				AR_lekce_4
-tadžawwala تجول		projít se	dž-w-l				AR_lekce_4 duplicate
+جميع		všechen	dž-m-3			džamí3un	AR_lekce_4
+تجول		projít se	dž-w-l			tadžawwala	AR_lekce_4 duplicate slovesa V_kmen
 جَوْلَةٌ {1}		procházka, vycházka (1) ; kolo (voleb, rozhovorů) (2)	dž-w-l				AR_lekce_4 AR_muj_slovnicek_1 ostatní
 محادثاة		rozhovory, jednání	H-d-th			muhádathátun	AR_1.rocnik AR_lekce_4 marked opakovani_zapomenutych
-husnu dijáfatin حسن ضيافة		pohostinnost	D-j-f				AR_lekce_4 duplicate
+حسن ضيافة		pohostinnost	D-j-f			Husnu Dijáfatin	AR_lekce_4 duplicate
 حفلة		večírek, oslava, párty	H-f-l			Haflatun	AR_lekce_4 AR_muj_slovnicek_1 oficiality zábava
 حكومي		vládní, státni	H-k-m			hukúmíjun	AR_lekce_4
 حلويات		sladkosti	H-l-w			halawíjátun	AR_lekce_4 AR_muj_slovnicek_1 duplicate jídlo
@@ -220,14 +220,14 @@ husnu dijáfatin حسن ضيافة		pohostinnost	D-j-f				AR_lekce_4 duplicate
 مدير		ředitel, manažer	m-d-r			mudírun (mudará'u)	AR_lekce_4 duplicate marked
 اذاعة		rádio, rozhlas	dh-j-3			idhá3atun	AR_lekce_4
 رئيس		předseda, prezident, vedoucí	r-'-s			ra'ísun (ru'asá'u)	AR_lekce_4
-radžulu al-a3máli رجل الاعمال		podnikatel	3-m-l				AR_lekce_4 duplicate
+رجل الاعمال		podnikatel	3-m-l			radžulu al-a3máli	AR_lekce_4 duplicate
 زمن		čas, období	z-m-n			zamanun (azmánun)	AR_lekce_4 duplicate
 سِفَارَةٌ		velvyslanectví	s-f-r			sifáratun	AR_lekce_4 AR_muj_slovnicek_1 oficiality
 سفیر (سُفَرَاءُ)		velvyslanec	s-f-r			safírun sufarā'u	AR_lekce_4
 سياحة		turistika, cestování	s-j-H			sijáhatun	AR_lekce_4
 سائر		zbývající, zbytek	s-j-r			sá'irun	AR_1.rocnik AR_lekce_4 opakovani_zapomenutych
 شأنٌ (شُؤُونٌ)		věc, záležitost	š-'-n			ša'nun (šu'únun)	AR_lekce_4 duplicate
-šábbun شاب	šabábun	mladý člověk	š-b-b				AR_lekce_4 marked
+شَابٌّ (شُبَبَاءُ)		mladý člověk	š-b-b			šábbun šabábun	AR_lekce_4 marked
 مَشْرُوبٌ (ات)		nápoj, pití	š-r-b			mašrúbun -át	AR_lekce_4 AR_muj_slovnicek_1 ostatní
 شرح		vysvětlit	š-r-H			šara7a jašra7u	AR_lekce_4 duplicate
 صَحَفِيٌّ		publicistický, tiskový; novinář	s-H-f			sahafíjun	AR_lekce_4
@@ -244,8 +244,8 @@ radžulu al-a3máli رجل الاعمال		podnikatel	3-m-l				AR_lekce_4 duplic
 اِفْتَتَحَ		zahájit, slavnostně otevřít	f-t-H			iftataHa	AR_lekce_4 AR_muj_slovnicek_2 VIII_kmen slovesa
 فترة		období, čas	f-t-r			fatratun	AR_lekce_4 duplicate
 تَفَرَّجَ	على	prohlédnout si	f-r-dž			tafarradža	AR_1.rocnik AR_lekce_4 AR_muj_slovnicek_1 V_kmen opakovani_zapomenutych slovesa
-fursatun فرصة	furasun	příležitost (k čemu; opportunity)	f-r-S				AR_lekce_4
-qabila قبل	jaqbalu	přijmout	q-b-l				AR_lekce_4
+فرصة		příležitost (k čemu; opportunity)	f-r-S			fursatun (furasun)	AR_lekce_4
+قَبِلَ (ـَ)		přijmout	q-b-l			qabila jaqbalu	AR_lekce_4 I_kmen slovesa
 قدّم		nabídnout, představit, poskytnout, podat (žádost)	q-d-m			qaddama	AR_lekce_4
 متقدم		uchazeč, žadatel	q-d-m			mutaqadimun	AR_lekce_4 marked
 مقر		sídlo, rezidence	q-r-r			maqarrun	AR_lekce_4 duplicate
@@ -253,24 +253,24 @@ qabila قبل	jaqbalu	přijmout	q-b-l				AR_lekce_4
 قضية		případ, otázka (např. politická)	q-D-j			qadíjatun (qadájá)	AR_lekce_4 marked
 مستقل		nezávislý, samostatný	q-l-l			mustaqilun	AR_lekce_4
 قاعة		sál, hala (1); terminál (2)	q-w-3			qá3atun	AR_lekce_4 AR_muj_slovnicek_1 AR_muj_slovnicek_2 budovy
-كما		rovněž, také				kamá	AR_lekce_4 duplicate
+كما		rovněž, také	ka			kamá	AR_lekce_4 duplicate
 ماض		minulý, uplynulý	m-d-j			mádin	AR_lekce_4
-málíjun مالي		finanční	m-w-l				AR_lekce_4
-minhá منها		např.					AR_lekce_4 marked
-naba'un نبأ	anbá'un	zpráva	n-b-'				AR_1.rocnik AR_lekce_4 duplicate opakovani_zapomenutych
-munásabatun مناسبة		příležitost (slavnostní atd - occasion)	n-s-b				AR_lekce_4
-naša'a نشأ	janša'u	vzniknout	n-š-'				AR_lekce_4
+مالي		finanční	m-w-l			málíjun	AR_lekce_4
+منها		např.				minhá	AR_lekce_4 marked
+نبأ		zpráva	n-b-'			naba'un (anbá'un)	AR_1.rocnik AR_lekce_4 duplicate opakovani_zapomenutych
+مناسبة		příležitost (slavnostní atd - occasion)	n-s-b			munásabatun	AR_lekce_4
+نشأ		vzniknout	n-š-'			naša'a janša'u	AR_lekce_4 I_kmen IIIaeW/J slovesa
 نشرة		vysílání, leták, relace	n-š-r			našratun	AR_1.rocnik AR_lekce_4 opakovani_zapomenutych
 نَصَحَ (ـَـ, نَصْحٌ)	ه بـ	poradit někomu s něčím, doporučit někomu něco (a)	n-S-H			nasaha jansahu	AR_lekce_4 AR_muj_slovnicek_1 AR_muj_slovnicek_2b I_kmen slovesa
-nazaran ilá نظرا الى		vzhledem k	n-Z-r				AR_lekce_4 duplicate
+نَظَرًا إلى		vzhledem k	n-Z-r			nazaran ilá	AR_lekce_4 duplicate
 هام		významný, důležitý	h-m-m			hámmun	AR_lekce_4 duplicate
 هيئة		instituce, organizace, agentura; sbor (poradní, diplomatický)	h-j-'			haj'atun	AR_lekce_4
 متحد		sjednocený, spojený	w-H-d			muttahidun	AR_lekce_4
 اتفاقية		smlouva, dohoda	w-f-q			ittifáqíjatun	AR_lekce_4 duplicate
 توقيعٌ	على	podpis (+ alá)	w-q-3			tawqī3un	AR_lekce_4
-wikálatun وكالة		agentura	w-k-l				AR_lekce_4
-wikálatu al-anbá'i		tisková agentura	w-k-l				AR_lekce_4
-wakílun وكيل	wukalá'u	zástupce	w-k-l				AR_lekce_4 marked
+وكالة		agentura	w-k-l			wikálatun	AR_lekce_4
+وِكَالَةُ الأَنْبَاءِ		tisková agentura	w-k-l			wikálatu al-anbá'i	AR_lekce_4
+وَكِيلٌ (وِكَلَاءُ)		zástupce	w-k-l			wakílun wukalá'u	AR_lekce_4 marked
 وسط		střed, centrum, prostředí	w-s-T			wasatun (awsátun)	AR_lekce_4
 صناعي		průmyslový	S-n-3				AR_1.rocnik AR_muj_slovnicek_1 adjektiva duplicate opakovani_zapomenutych
 عظيم (عظاماءُ)		významný, vynikající	3-Z-m				AR_muj_slovnicek_1 adjektiva
@@ -293,7 +293,7 @@ wakílun وكيل	wukalá'u	zástupce	w-k-l				AR_lekce_4 marked
 عامٌ (أعوام)		"rok, ""léto"""	3-j-m				AR_muj_slovnicek_1 čas
 مفتاح (مفاتح)		klíč	f-t-H				AR_muj_slovnicek_1 dům předměty
 وقت		čas	w-q-t				AR_muj_slovnicek_1 čas
-نقود (sg. نقد)		peníze	n-q-d			naqdun (nuqúdun)	AR_lekce_3 AR_muj_slovnicek_1 duplicate předměty
+نَقْدٌ (نُقُودٌ)		peníze (používá se pl. forma)	n-q-d			naqdun (nuqúdun)	AR_lekce_3 AR_muj_slovnicek_1 duplicate předměty
 كفَايَة		dostatek	k-f-j				AR_muj_slovnicek_1 abstraktní ostatní
 بستان		sad, zahrada	fá				AR_muj_slovnicek_1 dům krajina
 والد (والدان)		rodiče (obvykle v duálu)	w-l-d				AR_muj_slovnicek_1 rodina
@@ -328,7 +328,7 @@ wakílun وكيل	wukalá'u	zástupce	w-k-l				AR_lekce_4 marked
 فهرس (فهارس)		seznam, katalog	f-h-r-s			fihrisun (fahárisu)	AR_lekce_4 AR_muj_slovnicek_1 ostatní
 خَاصٌّ {1}	بـ	týkající se něčeho	ch-S-S				AR_1.rocnik AR_lekce_4 AR_muj_slovnicek_1 opakovani_zapomenutych spojková_fráze
 قانون (قوانين)		zákon, právní věda	q-n-n			(<= IE?)	AR_muj_slovnicek_1 abstraktní škola
-كما		rovněž, také	k-m				AR_muj_slovnicek_1 adverbia duplicate
+كما		rovněž, také	ka				adverbia AR_muj_slovnicek_1 duplicate
 بيان		"údaj, oznámení, prohlášení, ""potaz"""	b-j-n				AR_muj_slovnicek_1 oficiality
 بَحْثٌ (أَبْحَاث)		výzkum, zkoumání, vědecká studie, referát (na konferenci), odborná práce	b-H-th			bahthun abháthun	AR_lekce_4 AR_muj_slovnicek_1 oficiality škola
 نادٍ (أندِيَة/نوادٍ)		klub	n-d-w			nádin (andijatun/nawádin)	AR_lekce_4 AR_muj_slovnicek_1 budovy město
@@ -377,7 +377,7 @@ wakílun وكيل	wukalá'u	zástupce	w-k-l				AR_lekce_4 marked
 قضية (قَضَايَا)		případ (právní), otázka (historická)	q-D-j				AR_muj_slovnicek_1 oficiality
 رَاهِنٌ		aktuální, současný	r-h-n	حَالِيٌّ، مُعَاصِرٌ			AR_1.rocnik AR_lekce_4 AR_muj_slovnicek_1 adjektiva opakovani_zapomenutych
 الوضع الحالي		současná situace	w-D-3				AR_muj_slovnicek_1 fráze
-هيأةُ الأممِ المتّحدةِ		OSN					AR_muj_slovnicek_1 organizace
+هيأةُ الأممِ المتّحدةِ		OSN	h-j-'				AR_muj_slovnicek_1 organizace
 فرصة (فرص)		šance, příležitost - jedinečná, mimořádná, neopakovatelná	f-r-S				AR_muj_slovnicek_1 ostatní
 رياضة		sport	r-j-D			rijáDatun	AR_lekce_4 AR_muj_slovnicek_1 ostatní
 توقيع على		podpis (čeho)	w-q-3				AR_muj_slovnicek_1 marked spojková_fráze
@@ -428,7 +428,7 @@ wakílun وكيل	wukalá'u	zástupce	w-k-l				AR_lekce_4 marked
 أَحَدُ/إحدى + ال + plurál		"jeden, ""nějaký"""	'-H-d				AR_muj_slovnicek_1 genitivni_vazby
 نفس + ال		tentýž, stejný	n-f-s				AR_muj_slovnicek_1 genitivni_vazby
 سائر + ال + plurál		ostatní	s-j-r				AR_muj_slovnicek_1 genitivni_vazby
-عدّة + neosobní plurál		několik	3-d-d				AR_lekce_4 AR_muj_slovnicek_1 genitivni_vazby
+عدّة	neosobní plurál +	několik	3-d-d				AR_lekce_4 AR_muj_slovnicek_1 genitivni_vazby
 أبداً		nikdy, vůbec	b-d-'			abadan	AR_lekce_5
 أجّل		odložit	'-dž-l			adždžala II.	AR_lekce_5
 متأكّد +من		být si jistý	'-k-d			muta'akkidun	AR_lekce_5 marked
@@ -624,7 +624,7 @@ wakílun وكيل	wukalá'u	zástupce	w-k-l				AR_lekce_4 marked
 بَرْدٌ		zima (chlad)	b-r-d				AR_muj_slovnicek_1 ostatní
 المجر		Maďarsko	IE				AR_muj_slovnicek_1 geografie státy
 مُثلَّج		ledový	th-l-dž				AR_1.rocnik AR_muj_slovnicek_1 adjektiva opakovani_zapomenutych
-ذاتِيَّةٌ		osobnost, identita	dh-t-j				AR_muj_slovnicek_1 marked oficiality ostatní
+ذاتِيَّةٌ		osobnost, identita	dh				AR_muj_slovnicek_1 marked oficiality ostatní
 اِسْتَخْدَامٌ		užití, použití	ch-d-m				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
 وَلَدَ (ـِـ)		porodit, mít dítě	w-l-d				AR_muj_slovnicek_1 I_kmen IaeW/J slaba_slovesa slovesa
 مَعُونَةٌ مَالِيَّةٌ		finanční pomoc	3-w-n				AR_1.rocnik AR_muj_slovnicek_1 oficiality opakovani_zapomenutych
@@ -654,37 +654,37 @@ wakílun وكيل	wukalá'u	zástupce	w-k-l				AR_lekce_4 marked
 مَقَالٌ (عن)		článek	q-w-l			maqálun	AR_muj_slovnicek_1 duplicate publicistika spojková_fráze
 بِفَضْلِ		díky, zásluhou něčeho	f-D-l				AR_muj_slovnicek_1 adverbia
 دُبَيْ		Dubaj	toponymum				AR_muj_slovnicek_1 geografie města_názvy
-mu'achcharan مؤخرا		nedávno	'-ch-r				AR_1.rocnik AR_lekce_6 opakovani_zapomenutych
-ta'šíratun تأشيرة		vízum	'-š-r				AR_lekce_6
-ta'šíratu duchúlin		vstupní vízum	'-š-r				AR_lekce_6 duplicate marked
-burdžun برج	abrádžun	věž	b-r-dž				AR_lekce_6 duplicate
-tabajjana anna... تبين أن		ukázalo se, že...	b-j-n				AR_lekce_6 fráze slovesa
-džawázun (safarin) جواز	-átun	(cestovní) pas	dž-w-z				AR_lekce_6 duplicate marked
-حديث		vyprávění, rozhovor, interview				7adíthun (a7ádíthu)	AR_lekce_6 duplicate marked
+مؤخرا		nedávno	'-ch-r			mu'achcharan	AR_1.rocnik AR_lekce_6 opakovani_zapomenutych
+تأشيرة		vízum	'-š-r			ta'šíratun	AR_lekce_6
+تَأْشِيرَةُ دُخُولٍ		vstupní vízum	'-š-r				AR_lekce_6 duplicate marked
+بُرْجٌ (أَبْرَاجٌ)		věž	b-r-dž			burdžun (abrádžun)	AR_lekce_6 duplicate
+تَبَيَّنَ أنَّ...		ukázalo se, že...	b-j-n			tabajjana anna...	AR_lekce_6 fráze
+جَوَازُ (ات) سفرٍ		(cestovní) pas	dž-w-z			džawázu safarin	AR_lekce_6 duplicate marked
+حديث		vyprávění, rozhovor, interview	H-d-th			7adíthun (a7ádíthu)	AR_lekce_6 duplicate marked
 حفظ		zapamatovat si, naučit se zpaměti	H-f-Z			7afiZa ja7faZu	AR_lekce_6 I_kmen slovesa
 حَلَمَ (ـُ)	بـ	snít (o)	H-l-m			Halama jaHlumu bi	AR_lekce_6 I_kmen slovesa
 حَالًا		ihned, okamžitě	H-w-l			Hálan	AR_lekce_6 AR_muj_slovnicek_1 adverbia
-بالذات		právě, přesně				bi-l-dhdháti	AR_lekce_6 marked
-ra'jun رأي	árá'un; + fí - na	názor	r-'-j				AR_lekce_6
-suhúlatun سهولة		snadnost	s-h-l				AR_lekce_6
+بالذات		právě, přesně	dh			bi-l-dhdháti	adverbia AR_lekce_6 marked
+رَأْيٌ	في	názor (na)	r-'-j			ra'jun (árá'un)	AR_lekce_6
+سهولة		snadnost	s-h-l			suhúlatun	AR_lekce_6
 بِسُهُولَةٍ		snadno, jednoduše	s-h-l			bisuhúlatin	AR_lekce_6 AR_muj_slovnicek_1 adverbia
 شَارِعٌ (شَوَارِعُ)		ulice	š-r-3			šári3un šawári3u	AR_lekce_6
-muštarakun مشترك		společný	š-r-k				AR_lekce_6 duplicate
-šamsun شمس	šumúsun	slunce	š-m-s				AR_lekce_6
+مشترك		společný	š-r-k			muštarakun	AR_lekce_6 duplicate
+شَمْسٌ (شُمُوسٌ)		slunce	š-m-s			šamsun (šumúsun)	AR_lekce_6
 عبارة		výraz, fráze	3-b-r			3ibáratun	AR_lekce_6
-i3dádun اعداد		příprava	3-d-d				AR_1.rocnik AR_lekce_6 duplicate marked opakovani_zapomenutych
+اِعْدَادٌ		příprava	3-d-d			i3dádun	AR_1.rocnik AR_lekce_6 duplicate marked opakovani_zapomenutych
 تعليمات		pokyny	3-l-m			ta3límátu	AR_lekce_6 AR_muj_slovnicek_1 ostatní
-Rajrun غير	+ zájm.suf.	jiný (než); ne-	gh-j-r				AR_lekce_6 marked
+غير	+ zájm.suf.	jiný (než); ne-	gh-j-r			ghajrun	AR_lekce_6 marked
 بفضل		díky, zásluhou	f-D-l			bifaDli	AR_lekce_6
 مغربي (مَغَارِبُ)	maRáribatun	Maročan	gh-r-b				AR_lekce_6 marked
-fanníjun فني		umělecký	f-n-n				AR_lekce_6
-فقط		jenom, pouze				faqaT	AR_lekce_6
+فَنِّيٌّ		umělecký	f-n-n			fanníjun	AR_lekce_6
+فقط		jenom, pouze	f-q-T			faqaT	AR_lekce_6
 لم يَكُنْ منهُ إلاّ أنْ	lam jakun minhu illā an	nezbývalo mu, než...	k-w-n				AR_lekce_6 fráze slovesa
 لوازم		nezbytnosti, potřebné věci	l-z-m			lawázimu	AR_lekce_6
 إِمْكَانٌ	= إِمكَانِيَّة	možnost, schopnost	m-k-n			imkánun = též imkánijatun	AR_lekce_6
-mamlakatun مملكة	mamáliku	království	m-l-k				AR_lekce_6
-(wa) hákadhá كذا	píše se se závěsným alifem nad h	(a) tak					AR_lekce_6 duplicate
-ihtimámun اهتمام	-átun	zájem	h-m-m				AR_lekce_6 duplicate marked
+مَمْلَكَةٌ (مَمَالِكُ)		království	m-l-k			mamlakatun (mamáliku)	AR_lekce_6
+(و) هكذا		(a) tak	ka			(wa) hákadhá (píše se se závěsným alifem nad h)	AR_lekce_6 duplicate
+اهتمام (ات)	-átun	zájem	h-m-m			ihtimámun	AR_lekce_6 duplicate marked
 كليةُ الهندسةِ المعماريةِ		fakulta architektury, architektonická fakulta	k-l-j			kullíjatu -l-handasati -l-mi3máríjati	AR_lekce_6 AR_muj_slovnicek_1 škola
 ربّى	هــ/ه	chovat, vychovávat; M: pedagogika (II.)	r-b-j				AR_muj_slovnicek_1 IIIaeW/J II_kmen slaba_slovesa slovesa
 شَاهَدَ	هــ	zahlédnout, prohlédnout si, dívat se na TV, vzhlédnout na (III.)	š-h-d			šáhada mušáhadatun	AR_muj_slovnicek_1 III_kmen slovesa
@@ -918,8 +918,8 @@ ihtimámun اهتمام	-átun	zájem	h-m-m				AR_lekce_6 duplicate marked
 مُشْتَرَك		společný	š-r-k				AR_muj_slovnicek_1 adjektiva duplicate
 غيّرٌ + z.suf.		jiný (než)	gh-j-r				AR_muj_slovnicek_1 spojková_fráze
 فقط		pouze, jenom	f-q-T				AR_muj_slovnicek_1 adverbia duplicate
-لم يكن منه إلاَّ أنْ ...		nezbylo mu než ...					AR_muj_slovnicek_1 spojková_fráze
-(و)هكذا		(a) tak	k				AR_muj_slovnicek_1 duplicate spojky
+لم يكن منه إلاَّ أنْ ...		nezbylo mu než ...	k-w-n				AR_muj_slovnicek_1 spojková_fráze
+(و)هكذا		(a) tak	ka				AR_muj_slovnicek_1 duplicate spojky
 كنيسة (كنائس)		kostel	k-n-s				AR_muj_slovnicek_1 kultura město
 قِسْمٌ (أقسامٌ)		oddělení, katedra	q-s-m				AR_muj_slovnicek_1 duplicate oficiality škola
 ذكر (ـُـ) ذِكْرٌ/ذِكْرَى/تَذْكَارٌ		zmínit, uvést	dh-k-r			dhakara jadhkuru dhikrun/dhikrá/tadhkárun	AR_muj_slovnicek_1 I_kmen slovesa
@@ -993,7 +993,7 @@ ihtimámun اهتمام	-átun	zájem	h-m-m				AR_lekce_6 duplicate marked
 كنس (ـُـ, كَنْس)		zamést, zametat	k-n-s				AR_1.rocnik AR_muj_slovnicek_1 I_kmen duplicate opakovani_zapomenutych slovesa
 قَارُورَةٌ (ات/قَوَارِيرُ)		láhev {1}, lahvička, flaška	q-r-r				AR_muj_slovnicek_1 předměty
 قوب (أقَوَابٌ)		hrníček	q-w-b				AR_muj_slovnicek_1 ethym_ie předměty
-لتر (لترات)		litr	IE			litrun, átun	AR_lekce_18 AR_muj_slovnicek_1 jednotky_měřící
+لتر (لترات)		litr				litrun, átun	AR_lekce_18 AR_muj_slovnicek_1 ethym_ie jednotky_měřící
 نسمة (ات)		dýchající, živá bytost	n-s-m				AR_muj_slovnicek_1 příroda
 أسْمَرُ / سَمْرَاءُ(سمر/سمراوات)		snědý	s-m-r				AR_muj_slovnicek_1 barvy
 أحمر / حَمْرَاءُ(حُمْرٌ/حَمْرَاوَات)		červená	H-m-r				AR_muj_slovnicek_1 barvy
@@ -1069,27 +1069,27 @@ ihtimámun اهتمام	-átun	zájem	h-m-m				AR_lekce_6 duplicate marked
 على بُعْدِ ............ من		ve vzdálenosti .................... od	b-3-d				AR_muj_slovnicek_1 spojková_fráze
 حَسَبَ		podle	H-s-b				AR_muj_slovnicek_1 duplicate
 قُرنٌ (قُرُونٌ)		století	Q-R-N				AR_muj_slovnicek_1 duplicate čas
-ta'thírun تأثير	-átun	vliv	'-th-r				AR_lekce_8
+تأثير	-átun	vliv	'-th-r			ta'thírun	AR_lekce_8
 من أَجْل		pro, za, kvůli	'-dž-l			min adžli	AR_lekce_8
-istúdijú إستوديو		studio	IE				AR_lekce_8
+إستوديو		studio	IE			istúdijú	AR_lekce_8 ethym_ie
 أُسْرَةٌ (أُسَرٌ)		rodina (1) ; rod, dynastie (2)	'-s-r			usratun usarun	AR_lekce_8
-Isrá'ílu إسرائيل		Izrael	toponymum				AR_lekce_8
-iTárun إطار	uTurun	rámec	T-j-r				AR_lekce_8
+إسرائيل		Izrael	toponymum			Isrá'ílu	AR_lekce_8
+إِطَارٌ (أُطُرٌ)		rámec	T-j-r			iTárun (uTurun)	AR_lekce_8
 أَمَّمَ		znárodnit	'-m-m			ammama II.	AR_lekce_8 II_kmen IIaeGeminae IaeW/J slaba_slovesa slovesa
-ta'mímun تأميم		znárodnění	'-m-m				AR_1.rocnik AR_lekce_8
+تأميم		znárodnění	'-m-m			ta'mímun	AR_1.rocnik AR_lekce_8
 أمل		naděje	'-m-l			amalun (ámálun)	AR_lekce_8
 أمن		bezpečnost	'-m-n			amnun	AR_lekce_8
-aulawíjatun أولوية		priorita	'-w-l				AR_lekce_8
+أولوية		priorita	'-w-l			awlawíjatun	AR_lekce_8
 مَبْدَأٌ (مَبَادِئُ)		zásada, princip	b-d-'			mabda'un mabádi'u	AR_lekce_8 AR_muj_slovnicek_2 ekonomika_finance tema_ekonomika_finance
-mubádaratun مبادرة		iniciativa	b-d-r				AR_1.rocnik AR_lekce_8
-binjatun بنية	binan بنى	struktura	b-n-j				AR_1.rocnik AR_lekce_8
-bajnamá بينما		zatímco	b-j-n				AR_lekce_8 duplicate
-tiknúlúdžijá تكنولوجيا		technologie	IE				AR_lekce_8 duplicate
+مبادرة		iniciativa	b-d-r			mubádaratun	AR_1.rocnik AR_lekce_8
+بِنْيَةٌ (بِنىً)		struktura	b-n-j			binjatun (binan)	AR_1.rocnik AR_lekce_8
+بينما		zatímco	b-j-n			bajnamá	AR_lekce_8 duplicate spojky
+تكنولوجيا		technologie	IE			tiknúlúdžijá	AR_lekce_8 duplicate
 تَمَّ	(i)	být dokončen, proveden; s masdarem opis trpného rodu	t-m-m			tamma	AR_lekce_8 IIaeGeminae I_kmen slovesa
-itmámun إتمام		dokončení	t-m-m				AR_lekce_8
+إتمام		dokončení	t-m-m			itmámun	AR_lekce_8 IV_kmen masdar
 جزءٌ		část, díl	dž-z-'			džuz'un (adžzá'un)	AR_lekce_8
-mudžtama3un مجتمع	-átun	společnost	dž-m-3				AR_lekce_8
-džiházun جهاز	adžhizatun	přístroj	dž-h-z				AR_lekce_8 duplicate
+مُجْتَمَعٌ		společnost	dž-m-3			mudžtama3un (-átun)	AR_lekce_8
+جِهَازٌ (أَجْهِزَةٌ)		přístroj	dž-h-z			džiházun (adžhizatun)	AR_lekce_8 duplicate
 مجال	-	oblast, prostor, pole působení	dž-j-l			madžálun (-átun)	AR_lekce_8
 حَدَّثَ	ه عن	vyprávět (komu o)	H-d-th			Haddatha	AR_lekce_8 AR_muj_slovnicek_1 II_kmen slovesa
 حِفَاظٌ	على	zachování, udržení	H-f-Z			7ifáZun 3alá	AR_lekce_8
@@ -1099,42 +1099,42 @@ džiházun جهاز	adžhizatun	přístroj	dž-h-z				AR_lekce_8 duplicate
 بحيث		takže, a tedy	H-j-th			bi7ajthu	AR_lekce_8 duplicate
 إِخْبَارِيٌّ		zpravodajský	ch-b-r			ichbáríjun	AR_lekce_8
 أخرج		režírovat	ch-r-dž			achradža IV.	AR_lekce_8 duplicate IV_kmen slovesa
-chaTwatun خطوة		krok	ch-T-w				AR_lekce_8
-duktúráh دكتوراه		doktorát	IE				AR_lekce_8
+خطوة		krok	ch-T-w			chaTwatun	AR_lekce_8
+دكتوراه		doktorát	IE			duktúráh	AR_lekce_8
 risálatu -d-duktúráh		disertační práce	r-s-l				AR_lekce_8
 أدنى	adná	blízký, přední	d-n-w				AR_lekce_8
 aš-šarqu al-adná		Přední východ	š-r-q				AR_lekce_8
-dunjá دنيا		(pozemský) svět					AR_lekce_8
+دنيا		svět (pozemský)	d-n-w			dunjá	AR_lekce_8
 دائم		stálý, trvalý	d-w-m			dá'imun	AR_lekce_8
 يرى أن		domnívá se, že	'-r-j			jará anna	AR_lekce_8 fráze slaba_slovesa slovesa
-radžá'un رجاء		prosba	r-dž-'				AR_lekce_8 duplicate
+رجاء		prosba	r-dž-'			radžá'un	AR_lekce_8 duplicate
 أرسل		poslat, odeslat	r-s-l			arsala IV.	AR_lekce_8 duplicate IV_kmen slovesa
 مركز	fí - na	zaměřený, orientovaný	r-k-z			murakkizun	AR_lekce_8
 تَرْمِيمٌ		rekonstrukce	r-m-m			tarmímun	AR_lekce_8
-rámin رام	ilá - k	směřující	r-m-j				AR_lekce_8
-rú7un روح	arwá7un	duch	r-w-H				AR_lekce_8
+رَامٍ	إلى	směřující (k)	r-m-j			rámin ilá	AR_lekce_8
+رُوحٌ (أَرْوَاحٌ)		duch	r-w-H			rú7un (arwá7un)	AR_lekce_8
 سَدٌّ (سُدُودٌ)		přehrada	s-d-d			saddun (sudúdun)	AR_lekce_8
 السَدُّ العَالِيُّ		Asuánská přehrada	s-d-d			as-sadda al-3álí	AR_lekce_8
-as3ada IV. أسعد		potěšit	s-3-d				AR_lekce_8 IV_kmen slovesa
-musalsalun مسلسل	-átun	seriál	s-l-s-l				AR_lekce_8 duplicate
-sil3atun سلعة	sil3un	zboží	s-l-3				AR_1.rocnik AR_lekce_8 duplicate opakovani_zapomenutych
+أسعد		potěšit	s-3-d			as3ada	AR_lekce_8 IV_kmen slovesa
+مسلسل		seriál	s-l-s-l			musalsalun (-átun)	AR_lekce_8
+سِلْعَةٌ (سِلْعٌ)		zboží	s-l-3			sil3atun (sil3un)	AR_1.rocnik AR_lekce_8 duplicate opakovani_zapomenutych
 سِلْمِيٌّ	silmíjun	mírový	s-l-m				AR_lekce_8
-salámun سلام		mír	s-l-m				AR_lekce_8
+سلام		mír	s-l-m			salámun	AR_lekce_8
 مُسَاهَمَةٌ	في	podíl, účast na	s-h-m			musáhamatun	AR_1.rocnik AR_lekce_8 opakovani_zapomenutych
-tasawwuqun تسوق		nakupování	s-w-q				AR_lekce_8
+تسوق		nakupování	s-w-q			tasawwuqun	AR_lekce_8 masdar
 لا سيما		zejména, především	s-w-m			lá sijjamá	AR_1.rocnik AR_lekce_8
 شَجَّعَ	ه على	povzbuzovat někoho k něčemu; fandit	š-dž-3			šadždža3a -hu 3alá	AR_1.rocnik AR_lekce_8 AR_muj_slovnicek_2 II_kmen slovesa
-ištirákíjatun اشتراكية		socialismus	š-r-k				AR_lekce_8
+اشتراكية		socialismus	š-r-k			ištirákíjatun	AR_lekce_8
 لا شك أن		není pochyb (o tom), že...	š-k-k			lá šakka (fí) anna...	AR_lekce_8
-tašjídun تشييد		vybudování	š-j-d				AR_lekce_8
-Sa77a7a II. صحح		opravit (text)	S-H-H				AR_lekce_8 II_kmen IIaeGeminae slovesa
+تشييد		vybudování	š-j-d			tašjídun	AR_lekce_8
+صحح		opravit (text)	S-H-H			Sa77a7a	AR_lekce_8 II_kmen IIaeGeminae slovesa
 مصادرة		zabavení, exekuce, konfiskace III.	S-d-r			muSádaratun	AR_1.rocnik AR_lekce_8 opakovani_zapomenutych
 صعيد		plocha, rovina	S-3-d			Sa3ídun (Su3udun)	AR_1.rocnik AR_lekce_8 opakovani_zapomenutych
 على صعيد		na úrovní	S-3-d			3alá Sa3ídin	AR_1.rocnik AR_lekce_8 opakovani_zapomenutych
-Salla7a II. صلح		opravit (stroj)	S-l-H				AR_lekce_8 II_kmen duplicate slovesa
-iSlá7un إصلاح	-átun	reforma	S-l-H				AR_lekce_8 marked
+صلح		opravit (stroj)	S-l-H			Salla7a	AR_lekce_8 duplicate II_kmen slovesa
+إصْلَاحٌ (ات)	-átun	reforma	S-l-H			iSlá7un	AR_lekce_8 marked
 إستصلاح		zúrodnění, obdělávání	S-l-H			istiSlá7un	AR_lekce_8
-Súratun صورة		způsob	S-w-r				AR_lekce_8 duplicate
+صورة		způsob	S-w-r			Súratun	AR_lekce_8 duplicate
 biSúratin mumtázatin		výborně	m-j-z				AR_lekce_8 duplicate
 من الضروري		je třeba, je nutné	D-r-r			min aD-Darúríji	AR_lekce_8 fráze slovesa
 طبق		uplatnit, garantovat	T-b-q			Tabbaqa II.	AR_1.rocnik AR_lekce_8 II_kmen opakovani_zapomenutych slovesa
@@ -1144,52 +1144,52 @@ bi-Taríqatin silmijatin		mírovou cestou	T-r-q				AR_lekce_8 marked
 عبر	3an - co	vyjádřit	3-b-r			3abbara II.	AR_lekce_8 duplicate II_kmen marked slovesa
 عدالة		spravedlnost	3-d-l			3adálatun	AR_lekce_8
 عادل		spravedlivý	3-d-l			3ádilun	AR_lekce_8
-ta3zízun تعزيز		upevnění	3-z-z				AR_1.rocnik AR_lekce_8 opakovani_zapomenutych
+تعزيز		upevnění	3-z-z			ta3zízun	AR_1.rocnik AR_lekce_8 opakovani_zapomenutych
 تعطل		rozbít se, porouchat se	3-T-l			ta3aTTala V.	AR_1.rocnik AR_lekce_8 duplicate opakovani_zapomenutych slovesa V_kmen
 عولمة		globalizace	3-l-m			3awlamatun	AR_lekce_8
-mu3áhadatun معاهدة		smlouva	3-h-d				AR_1.rocnik AR_lekce_8 duplicate marked oficiality opakovani_zapomenutych
-ta3wíDun تعويض	-átun	náhrada	3-w-d				AR_1.rocnik AR_lekce_8 leech opakovani_zapomenutych
+معاهدة		smlouva	3-h-d			mu3áhadatun	AR_1.rocnik AR_lekce_8 duplicate marked oficiality opakovani_zapomenutych
+تعويض		náhrada	3-w-d			ta3wíDun (-átun)	AR_1.rocnik AR_lekce_8 leech opakovani_zapomenutych
 عين		oko	3-j-n			3ajnun (3ujúnun)	AR_lekce_8
 غذائي		poravinový	gh-d-'			ghidhá'íju	AR_lekce_8 marked
 انفتاح		liberalizace, politika otevřených dveří (1) ; otevřenost (2)	f-t-H			infitá7un	AR_lekce_18 AR_lekce_8 marked
-faddánun فدان	fadádínu/afdinatun	feddán (cca 4200 m2)	f-d-n				AR_lekce_8
+فَدَّانٌ (أَفْدِنَةٌ, فَدَادِينُ)		feddán (cca 4200 m2)	f-d-n			faddánun (fadádínu, afdinatun)	AR_lekce_8
 من المفروض أنْ		be supposed to/that...; je třeba, aby	f-r-D			min al-mafrúDi an...	AR_lekce_8 fráze marked slovesa
 من الافضل أن		bude lépe, když...; raději	f-D-l			min al-afDali an...	AR_lekce_8 fráze slovesa
 القران الكريم		Korán	q-r-'			al-qur'ánu al-karímu	AR_lekce_8
 عن قريب		brzy, blízko (časově)	q-r-b			3an qaríbin	AR_lekce_8
-iqtiSádun اقتصاد		hospodářství	q-S-d				AR_lekce_8
+اقتصاد		hospodářství	q-S-d			iqtiSádun	AR_lekce_8
 إقليمي		regionální, teritoriální	q-l-m			iqlímíjun	AR_lekce_8 marked
 يجب القول إن		je třeba říci, že...	q-w-l			jadžibu -l-qawlu inna...	AR_lekce_8 fráze slovesa
 إِقَامَةٌ (2)		nastolení	q-w-m			iqámatun	AR_lekce_8
 أكرم		ucítit, pocítit	k-r-m			akrama IV.	AR_1.rocnik AR_lekce_8 IV_kmen marked opakovani_zapomenutych slovesa
-kallafa II. كلف		stát (na peníze)	k-l-f				AR_lekce_8 II_kmen slovesa
+كَلَّفَ		stát (na peníze)	k-l-f			kallafa	AR_lekce_8 II_kmen slovesa
 كلم	ak - s	hovořit, mluvit	k-l-m			kallama II.	AR_lekce_8 II_kmen slovesa
-kullíjun كلي		celkový	k-l-l				AR_lekce_8
+كلي		celkový	k-l-l			kullíjun	AR_lekce_8
 ملحوظ		význačný, významný	l-H-Z			mal7úZun	AR_lekce_8 duplicate
-líbirálíjatun ليبرالية		liberalismus	IE				AR_lekce_8
-mádžistírun ماجستير		magisterský titul	IE				AR_lekce_8
+ليبرالية		liberalismus	IE			líbirálíjatun	AR_lekce_8
+ماجستير		magisterský titul	IE			mádžistírun	AR_lekce_8
 risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
-maththala II. مثل		představovat	m-th-l				AR_lekce_8 II_kmen slovesa
-mimmá مما		což					AR_lekce_8
-músíqá موسيقى		hudba	IE				AR_lekce_8
-tamwílun تمويل		financování	m-w-l				AR_lekce_8
-mjúnich ميونخ		Mnichov	IE				AR_lekce_8
-nadžmun نجم	nudžúmun	hvězda	n-dž-m				AR_1.rocnik AR_lekce_8 opakovani_zapomenutych
-nizá3un نزاع	-átun	konflikt	n-z-3				AR_lekce_8
-manzilíjun منزلي		domácí	n-z-l				AR_lekce_8
+مثل		představovat	m-th-l			maththala	AR_lekce_8 II_kmen slovesa
+مما		což				mimmá	AR_lekce_8 zájmena
+موسيقى		hudba	IE			músíqá	AR_lekce_8
+تمويل		financování	m-w-l			tamwílun	AR_lekce_8
+ميونخ		Mnichov				mjúnich	AR_lekce_8 toponyma
+نجم		hvězda	n-dž-m			nadžmun (nudžúmun)	AR_1.rocnik AR_lekce_8 opakovani_zapomenutych
+نزاع		konflikt	n-z-3			nizá3un (-átun)	AR_lekce_8
+منزلي		domácí	n-z-l			manzilíjun	AR_lekce_8
 نشر		uveřejnění, publikování	n-š-r			našrun	AR_lekce_8
-náDala III. ناضل		bojovat	n-D-l				AR_1.rocnik AR_lekce_8 II_kmen opakovani_zapomenutych slovesa
-biSarfi -n-naZari 3an بصرف النظر عن		nehledě na	n-Z-r				AR_lekce_8 marked
-tanZímun تنظيم		organizování	n-Z-m				AR_lekce_8
-tanZímu -l-asrati تنظيم الاسرة		plánované rodičovství	n-Z-m				AR_lekce_8 marked
-náqidun ناقد	nuqqádun	kritik	n-q-d				AR_1.rocnik AR_lekce_8
+ناضل		bojovat	n-D-l			náDala	AR_1.rocnik AR_lekce_8 III_kmen opakovani_zapomenutych slovesa
+بصرف النظر عن		nehledě na	n-Z-r			biSarfi -n-naZari 3an	AR_lekce_8 fráze marked
+تنظيم		organizování	n-Z-m			tanZímun	AR_lekce_8 masdar
+تنظيم الاسرة		plánované rodičovství	n-Z-m			tanZímu -l-asrati	AR_lekce_8 marked
+نَاقِدٌ (نُقَّادٌ)		kritik	n-q-d			náqidun (nuqqádun)	AR_1.rocnik AR_lekce_8
 مناقشة		diskuse, obhajoba (práce)	n-q-š			munáqašatun	AR_lekce_8
 نهضة		renesance, obrození	n-h-D			nahDatun	AR_lekce_8
-núrun نور	anwárun	světlo	n-w-r				AR_lekce_8 duplicate
-hádhá wa هذا و	závěsný alif nad h	uvození nového odstavce					AR_lekce_8
+نُورٌ (أَنْوَارٌ)		světlo	n-w-r			núrun (anwárun)	AR_lekce_8 duplicate
+هذا و		uvození nového odstavce	h			hádhá wa	AR_lekce_8 spojky
 توزيع		rozdělení, distribuce	w-z-3			tawzí3un	AR_lekce_8
-waD3un وضع		vypracování	w-D-3				AR_lekce_8
-wafátun وفاة	wafajátun	úmrtí	w-f-j				AR_lekce_8
+وضع		vypracování	w-D-3			waD3un	AR_lekce_8
+وَفَاةٌ (وَفَيَاتٌ)		úmrtí	w-f-j			wafátun (wafajátun)	AR_lekce_8
 في أيام		během, za (doby)	j-w-m			fí ajjámi	AR_lekce_8 spojka spojková_fráze
 اليونسكو		UNESCO	IE			al-júniskú	AR_lekce_8
 عرَّف	ه على/بــ	seznámit někoho (udělat, aby někdo něco věděl) II.	3-r-f				AR_1.rocnik AR_muj_slovnicek_1 II_kmen opakovani_zapomenutych slovesa
@@ -1349,7 +1349,7 @@ wafátun وفاة	wafajátun	úmrtí	w-f-j				AR_lekce_8
 تدريب ,ات		trénink, cvičení	d-r-b			tadríbun, tadríbátun	AR_lekce_9
 مديريّة		ředitelství, správa	d-w-r			mudíríjatun	AR_lekce_9
 دون أنْ		aniž by	d-w-n			důna an	AR_lekce_9 spojky
-ذات + jméno v genitivu		mající (něco), vyznačující se (čím)				dhátu...	AR_lekce_9
+ذات + jméno v genitivu		mající (něco), vyznačující se (čím)	dh			dhátu...	AR_lekce_9 fráze
 رؤية		shlédnutí, poznání	r-'-j			ru'jatun	AR_1.rocnik AR_lekce_9 opakovani_zapomenutych
 تراسل	مع	dopisovat si (s)	r-s-l			VI. tarásala ma3a	AR_lekce_9 VI_kmen slovesa
 زقاق ,أزقّة		ulice, ulička	z-q-q			zuqáqun, aziqqatun	AR_1.rocnik AR_lekce_9
@@ -1480,7 +1480,7 @@ wafátun وفاة	wafajátun	úmrtí	w-f-j				AR_lekce_8
 مات (ú)		zemřít	m-w-t			máta	AR_lekce_10 duplicate
 مياه الشّربِ		pitná voda	š-r-f			mijáhu-š-šurbi	AR_lekce_10
 مميّزة		význačný, charakteristický rys	m-j-z			mumajjizatun	AR_lekce_10
-أنبوبة (أنابيب)		trouba, potrubí				unbúbatun (anábíbu)	AR_lekce_10
+أنبوبة (أنابيب)		trouba, potrubí	n-b-b			unbúbatun (anábíbu)	AR_lekce_10
 استنتج		vyvodit, vydedukovat, prijit na	n-t-dž			istantaža X.	AR_lekce_10 slovesa X_kmen
 انجاز (ات)		výsledek (práce), dosažení (výsledku), vymoženost	n-dž-z			inžázun	AR_1.rocnik AR_lekce_10 opakovani_zapomenutych
 نزل (ـِـ)		stékat, vytékat	n-z-l			nazala	AR_lekce_10 marked
@@ -1619,7 +1619,7 @@ wafátun وفاة	wafajátun	úmrtí	w-f-j				AR_lekce_8
 نَتِيجَةً	لِــ	v důsledku	n-t-dž				AR_slovicka_gramatika_1
 المُسْتَقْبَلُ		budoucnost	q-b-l			al-mustaqbalu	AR_lekce_9 AR_slovicka_gramatika_1
 شَكَا (ـُـ) شَكْوٌ	لِــ/إِلَى مِنْ	stěžovat si někomu na něco/někoho	š-k-w				AR_slovicka_gramatika_1
-(اللُغَة) العِبْرِيّة		hebrejština, hebrejský jazyk					AR_slovicka_gramatika_1
+(اللُغَة) العِبْرِيّة		hebrejština, hebrejský jazyk	3-b-r				AR_slovicka_gramatika_1
 مُجْرِمٌ (ون)		zločinec	dž-r-m				AR_slovicka_gramatika_1
 هَرَبَ (ـُـ) هُرُوبٌ		utéct, uniknout	h-r-b				AR_1.rocnik AR_slovicka_gramatika_1 opakovani_zapomenutych
 عَبرَ		přes, skrze	3-b-r				AR_slovicka_gramatika_1

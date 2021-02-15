@@ -72,7 +72,7 @@
 مُعَسكرٌ		tábor	3-s-k-r				AR_muj_slovnicek_1 místo
 خِلاَلَ		během	ch-l-l				AR_muj_slovnicek_1 předložky
 إجَازَةٌ		dovolená	dž-j-z			idžázatun	AR_lekce_3 AR_muj_slovnicek_1 freetime
-وَحدَ + zájmenná přípona		sám, sami	w-H-d				AR_muj_slovnicek_1 adverbia ostatní
+وَحدَ	+ zájmenná přípona	sám, sami	w-H-d		وحدها، وحدهم		adverbia AR_muj_slovnicek_1 ostatní
 مِنحَةٌ (منَحٌ)		stipendium	m-n-H			minhatun (minahun)	AR_lekce_3 AR_muj_slovnicek_1 škola
 إِقَامَةٌ (1)		pobyt (1); pořádání, uspořádání (2)	q-w-m			iqámatun	AR_muj_slovnicek_1 AR_slovnik_131-140 freetime škola
 دِرَاسِيٌ		studijní	d-r-s				AR_muj_slovnicek_1 adjektiva škola
@@ -85,7 +85,7 @@
 مِنطَقَةٌ (مَنَاطِقُ)		oblast	n-T-q			mintaqatun (manátiqu)	AR_1.rocnik AR_lekce_3 AR_muj_slovnicek_1 duplicate marked místo opakovani_zapomenutych
 سَفَرٌ		cesta, cestování	s-f-r			safarun	AR_lekce_3 AR_muj_slovnicek_1 abstraktní ostatní
 رَاجَعَ		projet si, zopakovat si III.	r-dž-3				AR_muj_slovnicek_1 III_kmen slovesa
-رَجَعَ (i)		vrátit se	r-dž-3				AR_muj_slovnicek_1 I_kmen slovesa
+رَجَعَ (ـِ)		vrátit se	r-dž-3				AR_muj_slovnicek_1 I_kmen slovesa
 تَمْرِينٌ		cvičení (úloha)	m-r-n			tamrínun	AR_1.rocnik AR_lekce_3 AR_muj_slovnicek_1 opakovani_zapomenutych texty činnost škola
 نَصٌّ (نُصُوصٌ)		text	n-S-S				AR_muj_slovnicek_1 duplicate texty činnost škola
 دَرْسٌ (دُرُوسٌ)		školní hodina, lekce	d-r-s				AR_muj_slovnicek_1 škola
@@ -150,7 +150,7 @@ lá ... ba3da		ještě ne	b-3-d				AR_lekce_3
 حَدَثَ (ـُ) حُدُوثٌ		stát se, přihodit se (zcela neutrální význam)	H-d-th			hadatha jadhuthu	AR_lekce_3 AR_muj_slovnicek_1 I_kmen slovesa
 حَرٌّ		teplo, horko	H-r-r			harrun	AR_lekce_3 duplicate
 حَضَرَ (ـُ) حُضُورٌ		zúčastnit se /ه/, dostavit se /إلى/	H-D-r			HaDara jaHDuru HuDúrun	AR_lekce_3 duplicate duplicate-vyznam duplicate_b
-hikájatun حكاية		příběh	H-k-j				AR_lekce_3 duplicate
+حكاية		příběh	H-k-j			hikájatun	AR_lekce_3 duplicate
 حِمَارٌ (حَمِيرٌ)		osel	H-m-r			himárun hamírun	AR_lekce_3
 خِبْرَةٌ	بـ/في	zkušenost (s/v)	ch-b-r			chibratun	AR_lekce_3 AR_muj_slovnicek_1 spojková_fráze
 من خِلال		prostřednictvím	ch-l-l			min xiláli	AR_lekce_3 marked
@@ -169,7 +169,7 @@ hikájatun حكاية		příběh	H-k-j				AR_lekce_3 duplicate
 ضَرَبَ (ـِـ)		bít, uhodit	D-r-b			Daraba jaDribu	AR_lekce_3
 ظَهَرَ(ـَ) ظُهُورٌ		objevit se, ukázat se	Z-h-r			zahara jazharu	AR_lekce_3 marked slovnik_101-110
 عَجِيبٌ		podivuhodný, zvláštní, neobvyklý	3-dž-b			3adžíbun	AR_lekce_3 poezie_poetika
-fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
+فجأة		náhle	f-dž-'			fadžatan	adverbia AR_lekce_3
 فرحة		radost, potěšení	f-r-H			farhatun	AR_lekce_3
 مفيد		užitečný	f-j-d			mufídun	AR_lekce_3
 مقابلة		schůzka, setkání	q-b-l			muqábalatun	AR_lekce_3 duplicate
@@ -275,10 +275,10 @@ fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
 صناعي		průmyslový	S-n-3				AR_1.rocnik AR_muj_slovnicek_1 adjektiva duplicate opakovani_zapomenutych
 عظيم (عظاماءُ)		významný, vynikající	3-Z-m				AR_muj_slovnicek_1 adjektiva
 مجتهد		pilný	dž-h-d				AR_1.rocnik AR_muj_slovnicek_1 adjektiva opakovani_zapomenutych
-دَلِيل (دلاَئِلُ\أَدِلَّةٌ)		důkaz	d-l-l			dalílun (dalá'ilu/adillatun)	AR_muj_slovnicek_1 abstraktní
+دَلِيل (دلاَئِلُ، أَدِلَّةٌ)		důkaz	d-l-l			dalílun (dalá'ilu, adillatun)	abstraktní AR_muj_slovnicek_1
 نُمُوذَجٌ (نَمَاذِجُ) {1}		model, vzor, předloha	n-m-dh-dž				AR_muj_slovnicek_1 předměty
 صَعْبٌ		těžké	S-3-b				AR_muj_slovnicek_1 adjektiva duplicate
-عَامِلٌ )عُمَّالٌ(		dělník	3-m-l			3ámilun (3ummálun)	AR_muj_slovnicek_1 lidé profese
+عَامِلٌ (عُمَّالٌ)		dělník	3-m-l			3ámilun (3ummálun)	AR_muj_slovnicek_1 lidé profese
 عامِل )عاملون(		pracovník	3-m-l				AR_muj_slovnicek_1 duplicate profese
 شاطئٌ (شواطئُ)		pláž	š-T-'				AR_muj_slovnicek_1 krajina město
 مستشفى		nemocnice	š-f-j				AR_muj_slovnicek_1 budovy město
@@ -420,18 +420,18 @@ fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
 عيد ميلاد		narozeniny, Vánoce	3-j-d				AR_muj_slovnicek_1 svátky události
 اَلْمَسِيحُ		pomazaný Kristus	m-s-H			al-masíHu	AR_muj_slovnicek_1 náboženství tradice
 ناجِحٌ		úspěšný	n-dž-H				AR_muj_slovnicek_1 adjektiva duplicate
-كلُّ + singulár		každý	k-l-l				AR_muj_slovnicek_1 genitivni_vazby
-كلُّ + ال + singulár		celý	k-l-l				AR_muj_slovnicek_1 genitivni_vazby
-كلُّ + ال + plurál		všechen (všechny, všichni)	k-l-l				AR_muj_slovnicek_1 genitivni_vazby
-جميع + ال + plurál		všechen (všichni, všechny)	dž-m-3				AR_muj_slovnicek_1 genitivni_vazby
-بعض + ال + plurál		některý	b-3-D				AR_muj_slovnicek_1 genitivni_vazby
-أَحَدُ/إحدى + ال + plurál		"jeden, ""nějaký"""	'-H-d				AR_muj_slovnicek_1 genitivni_vazby
+كلُّ	+ singulár	každý	k-l-l				AR_muj_slovnicek_1 genitivni_vazby
+كلُّ + الـ	+ singulár	celý	k-l-l				AR_muj_slovnicek_1 genitivni_vazby
+كلُّ + الـ	+ plurál	všechen (všechny, všichni)	k-l-l				AR_muj_slovnicek_1 genitivni_vazby
+جميع الـ	+ plurál	všechen (všichni, všechny)	dž-m-3				AR_muj_slovnicek_1 genitivni_vazby
+بعض الـ	+ plurál	některý	b-3-D				AR_muj_slovnicek_1 genitivni_vazby
+أَحَدُ/إحدى الـ	+ plurál	"jeden, ""nějaký"""	'-H-d				AR_muj_slovnicek_1 genitivni_vazby
 نفس + ال		tentýž, stejný	n-f-s				AR_muj_slovnicek_1 genitivni_vazby
-سائر + ال + plurál		ostatní	s-j-r				AR_muj_slovnicek_1 genitivni_vazby
+سائر + الـ	+ plurál	ostatní	s-j-r				AR_muj_slovnicek_1 genitivni_vazby
 عدّة	neosobní plurál +	několik	3-d-d				AR_lekce_4 AR_muj_slovnicek_1 genitivni_vazby
 أبداً		nikdy, vůbec	b-d-'			abadan	AR_lekce_5
 أجّل		odložit	'-dž-l			adždžala II.	AR_lekce_5
-متأكّد +من		být si jistý	'-k-d			muta'akkidun	AR_lekce_5 marked
+متأكّد	من	být si jistý (něčím)	'-k-d			muta'akkidun	AR_lekce_5 marked
 مأكولات		pokrmy (jídlo)	'-k-l			ma'kúlátun	AR_lekce_5 AR_muj_slovnicek_1 jídlo
 في أوائل		začátkem...	'-w-l			fí awá'ili	AR_lekce_5
 بداية		začátek	b-d-'			bidájatun	AR_lekce_5 duplicate
@@ -593,7 +593,7 @@ fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
 لَعْبٌ (ألعابٌ)		hra	l-3-b			la3bun, al3ábun	AR_lekce_5 AR_muj_slovnicek_1 zábava činnost
 مَطَرٌ (أمطار)		déšť	T-j-r			maTarun (amTárun)	AR_1.rocnik AR_lekce_5 AR_muj_slovnicek_1 opakovani_zapomenutych počasí příroda
 وَالِدٌ/وَالِدةٌ (آبَاءٌ)		otec/matka	w-l-d				AR_muj_slovnicek_1 rodina
-متأكُّدُ من		být si jist	'-k-d				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych spojková_fráze
+متأكُّدُ	من	být si jist (něčím)	'-k-d				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych spojková_fráze
 ألمَانِيَّا		Německo	IE				AR_muj_slovnicek_1 geografie státy
 بِداية		začátek	b-d-j				AR_muj_slovnicek_1 duplicate ostatní
 بِالتحديدِ		přesně	H-d-d				AR_1.rocnik AR_muj_slovnicek_1 adverbia duplicate opakovani_zapomenutych
@@ -801,16 +801,16 @@ fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
 مَهَمَّةٌ (مهامّ)		povinnost	h-m-m				AR_1.rocnik AR_muj_slovnicek_1 marked opakovani_zapomenutych ostatní
 بطاقة بَرِيدِيَّة		pohlednice	b-T-q				AR_1.rocnik AR_muj_slovnicek_1 duplicate opakovani_zapomenutych texty
 مبلَغٌ (مَبَالِغُ) {1}		částka, obnos, suma	b-l-gh				AR_lekce_17 AR_muj_slovnicek_1 AR_muj_slovnicek_2b peníze
-كم + (akuzativ singulár)		"kolik (""co do..."", zřetelový akuzativ)"	k-m				AR_muj_slovnicek_1 spojková_fráze
+كم	+ (akuzativ singulár)	"kolik (""co do..."", zřetelový akuzativ)"	k-m		كم وقطًا		AR_muj_slovnicek_1 spojková_fráze
 رأي في		názor na	r-'-j				AR_muj_slovnicek_1 spojková_fráze
 أمّا ... فـــ ...		pokud jde o ... tak ...	n-a				AR_muj_slovnicek_1 spojková_fráze syntaktické_spojení
 أساسي		základní	'-s-s			'asásíjun	AR_lekce_7 duplicate
 بترول		ropa	IE			batrůlun	AR_lekce_7 duplicate
 برلمان , ات		parlament	IE			barlamánun	AR_lekce_7
-بلغ (u) بلوغ		dosáhnout	b-l-gh			balagha, jablughu, bulůghun	AR_lekce_7 I_kmen slovesa
+بلغ (ـُ) بلوغ		dosáhnout	b-l-gh			balagha, jablughu, bulůghun	AR_lekce_7 I_kmen slovesa
 بالتّالي		čímž, a tak, a tudíž	t-l-j			bittálí	AR_1.rocnik AR_lekce_7 AR_muj_slovnicek_1 opakovani_zapomenutych spojky
 ثورة		revoluce	th-w-r			thauratun	AR_lekce_7 duplicate
-مجلس , مجالس		rada, zasedání, sněmovna	dž-l-s			madžlisun, madžálisu	AR_lekce_7
+مجلس (مجالس)		rada, zasedání, sněmovna	dž-l-s			madžlisun, madžálisu	AR_lekce_7
 مجلس الشيوخ		Senát	dž-l-s			madžlisu aš-šujůchi	AR_lekce_7
 مجلس النوّاب		Poslanecká sněmovna	dž-l-s			madžlisu an-nuwwábi	AR_lekce_7
 حاجز , حواجز		překážka, zábrana	H-dž-r			Hádžizun, Hawádžizu	AR_1.rocnik AR_lekce_7 leech opakovani_zapomenutych
@@ -833,12 +833,12 @@ fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
 رصيد , أرصدة		zisk, jmění	r-S-d			raSídun, arSidatun	AR_1.rocnik AR_lekce_7 opakovani_zapomenutych
 رياضي		sportovní, sportovec	r-j-D			rijáDíjun	AR_lekce_7
 زواج		sňatek	z-w-dž			zawádžun	AR_lekce_7
-زاد (i) زيادة		růst, zvyšovat se (+ 3alá/3an = přesahovat, převyšovat)	z-j-d			záda, jazídu, zijádatun	AR_lekce_7 IIaeW/J I_kmen slaba_slovesa slovesa
+زاد (ـِ) زيادة		růst, zvyšovat se (+ 3alá/3an = přesahovat, převyšovat)	z-j-d			záda, jazídu, zijádatun	AR_lekce_7 I_kmen IIaeW/J slaba_slovesa slovesa
 زائد		plus	z-j-d			zá'idun	AR_lekce_7 duplicate
 سابق		předchozí	s-b-q			sábiqun	AR_lekce_7 duplicate
 مسابقة		soutěž	s-b-q			musábaqatun	AR_lekce_7 duplicate marked sport
 سُرعة		rychlost	s-r-3			sur3atun	AR_lekce_7 AR_muj_slovnicek_1 ostatní
-شهد (a)		zažít, být svědkem + akuz	š-h-r			šahida, jašhadu	AR_lekce_7 duplicate_b I_kmen marked slovesa
+شهد (ـَ)		zažít, být svědkem + akuz	š-h-r			šahida, jašhadu	AR_lekce_7 duplicate_b I_kmen marked slovesa
 صرّح بــ		prohlásit (bico)	S-r-H			II.	AR_lekce_7 II_kmen slovesa
 صفحة		stránka	S-f-H			SafHatun	AR_lekce_7 duplicate
 صندوق , صناديق		fond, bedna, schránka	S-n-d-q			Sandůqun, Sanádíqu	AR_lekce_7
@@ -916,7 +916,7 @@ fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
 حتى الآن		dosud	'-j-n			7attá al-ána	AR_lekce_6 AR_muj_slovnicek_1 spojková_fráze
 ساري المَفْعُولِ		platný	s-r-j			sárí al-maf3úli	adjektiva AR_1.rocnik AR_lekce_6 AR_muj_slovnicek_1 opakovani_zapomenutych
 مُشْتَرَك		společný	š-r-k				AR_muj_slovnicek_1 adjektiva duplicate
-غيّرٌ + z.suf.		jiný (než)	gh-j-r				AR_muj_slovnicek_1 spojková_fráze
+غيّرٌ	+ z.suf.	jiný (než)	gh-j-r		غيره, غيرهنّ		AR_muj_slovnicek_1 spojková_fráze
 فقط		pouze, jenom	f-q-T				AR_muj_slovnicek_1 adverbia duplicate
 لم يكن منه إلاَّ أنْ ...		nezbylo mu než ...	k-w-n				AR_muj_slovnicek_1 spojková_fráze
 (و)هكذا		(a) tak	ka				AR_muj_slovnicek_1 duplicate spojky
@@ -1010,7 +1010,7 @@ fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
 أكَّدَ	على	ujistit, potvrdit, zdůraznit (o něčem) II.	'-k-d				AR_muj_slovnicek_1 II_kmen IaeW/J slaba_slovesa slovesa
 جمع (ـَـ)		shromáždit, získat	dž-m-3			džama3a	AR_muj_slovnicek_1 I_kmen slovesa
 حقَّق		uskutečnit, realizovat	H-q-q				AR_1.rocnik AR_muj_slovnicek_1 II_kmen duplicate opakovani_zapomenutych slovesa
-قصد (ـِـ)		mínit, mít na mysli	q-S-d			qaSada jaqSidu	AR_lekce_7 AR_muj_slovnicek_1 I_kmen slovesa
+قصد (ـِ)		mínit, mít na mysli	q-S-d			qaSada jaqSidu	AR_lekce_7 AR_muj_slovnicek_1 I_kmen slovesa
 بُلُوغٌ		dosažení	b-l-gh				AR_muj_slovnicek_1 ostatní
 حصول (على)		získání (čeho)	H-S-l				AR_muj_slovnicek_1 marked ostatní
 تَحَقِيقٌ		uskutečnění, realizace	H-q-q				AR_muj_slovnicek_1 ostatní
@@ -1101,9 +1101,9 @@ fadžatan فجأة		náhle	f-dž-'				AR_lekce_3
 أخرج		režírovat	ch-r-dž			achradža IV.	AR_lekce_8 duplicate IV_kmen slovesa
 خطوة		krok	ch-T-w			chaTwatun	AR_lekce_8
 دكتوراه		doktorát	IE			duktúráh	AR_lekce_8
-risálatu -d-duktúráh		disertační práce	r-s-l				AR_lekce_8
+رسالة الدكتوراه		disertační práce	r-s-l			risálatu -d-duktúráh	AR_lekce_8
 أدنى	adná	blízký, přední	d-n-w				AR_lekce_8
-aš-šarqu al-adná		Přední východ	š-r-q				AR_lekce_8
+الشَرْقُ الأَدْنَى		Přední východ	š-r-q			aš-šarqu al-adná	AR_lekce_8 toponyma
 دنيا		svět (pozemský)	d-n-w			dunjá	AR_lekce_8
 دائم		stálý, trvalý	d-w-m			dá'imun	AR_lekce_8
 يرى أن		domnívá se, že	'-r-j			jará anna	AR_lekce_8 fráze slaba_slovesa slovesa
@@ -1135,10 +1135,10 @@ aš-šarqu al-adná		Přední východ	š-r-q				AR_lekce_8
 إصْلَاحٌ (ات)	-átun	reforma	S-l-H			iSlá7un	AR_lekce_8 marked
 إستصلاح		zúrodnění, obdělávání	S-l-H			istiSlá7un	AR_lekce_8
 صورة		způsob	S-w-r			Súratun	AR_lekce_8 duplicate
-biSúratin mumtázatin		výborně	m-j-z				AR_lekce_8 duplicate
+بِصُورَةٍ مُمْتَازَةٍ		výborně	m-j-z			biSúratin mumtázatin	adverbia AR_lekce_8 duplicate
 من الضروري		je třeba, je nutné	D-r-r			min aD-Darúríji	AR_lekce_8 fráze slovesa
 طبق		uplatnit, garantovat	T-b-q			Tabbaqa II.	AR_1.rocnik AR_lekce_8 II_kmen opakovani_zapomenutych slovesa
-bi-Taríqatin silmijatin		mírovou cestou	T-r-q				AR_lekce_8 marked
+بِطَرِيقَةٍ سِلْمِيَّةٍ		mírovou cestou	T-r-q			bi-Taríqatin silmijatin	AR_lekce_8 marked
 تطوُّر/تطوِير	ات	vývoj, rozvoj	T-w-r				AR_lekce_8
 طيب		dobrý, laskavý, příjemný	T-j-b			Tajjibun	AR_lekce_8
 عبر	3an - co	vyjádřit	3-b-r			3abbara II.	AR_lekce_8 duplicate II_kmen marked slovesa
@@ -1168,7 +1168,7 @@ bi-Taríqatin silmijatin		mírovou cestou	T-r-q				AR_lekce_8 marked
 ملحوظ		význačný, významný	l-H-Z			mal7úZun	AR_lekce_8 duplicate
 ليبرالية		liberalismus	IE			líbirálíjatun	AR_lekce_8
 ماجستير		magisterský titul	IE			mádžistírun	AR_lekce_8
-risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
+رسالة المجستير		diplomka	r-s-l			risálatu -l-madžistíri	AR_lekce_8 marked
 مثل		představovat	m-th-l			maththala	AR_lekce_8 II_kmen slovesa
 مما		což				mimmá	AR_lekce_8 zájmena
 موسيقى		hudba	IE			músíqá	AR_lekce_8
@@ -1208,8 +1208,8 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 كشكُ اعترافٍ		zpovědnice	k-š-k				AR_muj_slovnicek_1 slovní_spojení
 هنديٌّ (هنود)		ind	h-n-d				AR_muj_slovnicek_1 státy
 كَهْرَبَائِيٌّ		elektrický, elektrikář	k-h-r-b			kahrabá'í	adjektiva AR_muj_slovnicek_1 profese
-بَعْدَ أنْ + perfektum		poté, co... (v minulosti)	b-3-d			ba3da an + perfektum	AR_muj_slovnicek_1 AR_muj_slovnicek_2 fráze spojková_fráze
-بعد أنْ + subjunktiv		poté, co (v budoucnosti)	b-3-d				AR_muj_slovnicek_1 spojková_fráze
+بَعْدَ أنْ	+ perfektum	poté, co... (v minulosti)	b-3-d			ba3da an + perfektum	AR_muj_slovnicek_1 AR_muj_slovnicek_2 fráze spojková_fráze
+بعد أنْ	+ subjunktiv	poté, co (v budoucnosti)	b-3-d				AR_muj_slovnicek_1 spojková_fráze
 أحياناً		někdy	H-j-n				AR_muj_slovnicek_1 čas_určení
 في غَالِبِ الأحيانِ		většinou	H-j-n				AR_1.rocnik AR_muj_slovnicek_1 duplicate opakovani_zapomenutych čas_určení
 في أيِّ حال من الأحوال		v žádném případě	H-j-l				AR_muj_slovnicek_1 čas_určení
@@ -1250,8 +1250,8 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 بِالتَّأكِيدِ		jistě, jistěže, ovšem	'-k-d				AR_muj_slovnicek_1 fráze
 بِحَيْثُ		takže	H-j-th				AR_muj_slovnicek_1 duplicate spojky
 بِصُورَةِ مُمْتَازَةٍ		výborně	m-j-z				AR_muj_slovnicek_1 adverbia duplicate fráze
-من الأفضل أنْ ... + subjunktiv		bude lépe, když...; raději ...	f-D-l				AR_muj_slovnicek_1 fráze spojková_fráze
-بِنَفْسِ + zájmenný sufix		"sám (zdůraznění), ""na vlastní duši"""	n-f-s				AR_muj_slovnicek_1 spojková_fráze
+من الأفضل أنْ ...	+ subjunktiv	bude lépe, když...; raději ...	f-D-l				AR_muj_slovnicek_1 fráze spojková_fráze
+بِنَفْسِ	+ zájmenný sufix	"sám (zdůraznění), ""na vlastní duši"""	n-f-s				AR_muj_slovnicek_1 spojková_fráze
 مِسَاحَةٌ		povrch (1), oblast (2), rozloha (3)	m-s-H			misáHatun, masáHatun	AR_1.rocnik AR_lekce_7 AR_muj_slovnicek_1 geografie opakovani_zapomenutych ostatní
 صِفْرٌ		nula	S-f-r				AR_muj_slovnicek_1 čísla
 تحت سطح البحر		pod mořskou hladinou	b-H-r				AR_muj_slovnicek_1 duplicate slovní_spojení
@@ -1341,7 +1341,7 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 مختبر , ات		laboratoř	ch-b-r			muchtabarun, muchtabarátun	AR_1.rocnik AR_lekce_9 opakovani_zapomenutych
 تخرّج	في	absolvovat v	ch-r-dž			tacharradža	AR_lekce_9 V_kmen slovesa
 مختصّ		specializovaný, příslušný	ch-S-S			muchtaSSun	AR_1.rocnik AR_lekce_9 opakovani_zapomenutych
-خطر (i,u)	بـ	přijít (na mysl)	ch-T-r			chaTara, juchTiru bi-	AR_lekce_9 I_kmen slovesa
+خطر (ـِ, ـُ)	بـ	přijít (na mysl)	ch-T-r			chaTara, juchTiru bi-	AR_lekce_9 I_kmen slovesa
 خيّب		zmařit	ch-j-b			II. chajjaba	AR_1.rocnik AR_lekce_9 II_kmen IIaeW/J slaba_slovesa slovesa
 خيّب آمالا		zklamat naděje	ch-j-b			chajjaba áláman	AR_lekce_9 II_kmen fráze slaba_slovesa slovesa
 دَبَّرَ		zařídit, zorganizovat, naplánovat	d-b-r			II. dabbara	AR_1.rocnik AR_lekce_9 II_kmen leech opakovani_zapomenutych slovesa
@@ -1349,7 +1349,7 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 تدريب ,ات		trénink, cvičení	d-r-b			tadríbun, tadríbátun	AR_lekce_9
 مديريّة		ředitelství, správa	d-w-r			mudíríjatun	AR_lekce_9
 دون أنْ		aniž by	d-w-n			důna an	AR_lekce_9 spojky
-ذات + jméno v genitivu		mající (něco), vyznačující se (čím)	dh			dhátu...	AR_lekce_9 fráze
+ذات	+ jméno v genitivu	mající (něco), vyznačující se (čím)	dh			dhátu...	AR_lekce_9 fráze
 رؤية		shlédnutí, poznání	r-'-j			ru'jatun	AR_1.rocnik AR_lekce_9 opakovani_zapomenutych
 تراسل	مع	dopisovat si (s)	r-s-l			VI. tarásala ma3a	AR_lekce_9 VI_kmen slovesa
 زقاق ,أزقّة		ulice, ulička	z-q-q			zuqáqun, aziqqatun	AR_1.rocnik AR_lekce_9
@@ -1383,9 +1383,9 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 تقاعد		odejít do důchodu, retire	3-q-d			taqá3ada VI.	AR_1.rocnik AR_lekce_9 IV_kmen opakovani_zapomenutych slovesa
 منجز (ات)		(dosažený) výsledek	n-dž-z			munžazun	AR_1.rocnik AR_lekce_9 leech opakovani_zapomenutych
 تدرب	على	procvičit se (v), zaškolit se (v), trénovat (co)	d-r-b			tadarraba	AR_lekce_9 V_kmen slovesa
-أَخَذَ + imperfektum		začít	'-ch-dh			achadha	AR_lekce_10 I_kmen IaeW/J duplicate slaba_slovesa slovesa
-أرضي		přízemní	-r-D			arDíjun	AR_lekce_10 adjektiva
-أسفٌ		lítost	-s-f			asafun	AR_lekce_10
+أَخَذَ	+ imperfektum	začít	'-ch-dh			achadha	AR_lekce_10 duplicate I_kmen IaeW/J slaba_slovesa slovesa
+أرضي		přízemní	'-r-D			arDíjun	adjektiva AR_lekce_10
+أسفٌ		lítost	'-s-f			asafun	AR_lekce_10
 للأسف		bohužel	'-s-f			li-l-asafi	AR_lekce_10
 في آخرِ الأمرِ		nakonec	'-m-r			fí áchiri-l-amri	AR_lekce_10
 بدءٌ		zahájení, začátek	b-d-j			bad'un	AR_lekce_10 marked
@@ -1458,7 +1458,7 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 افتقد	إلى	postrádat (něco)	f-q-d			iftaqada	AR_lekce_10
 افتقر	إلى	mít nedostatek (čeho)	f-q-r			iftaqara	AR_lekce_10
 فلوريدا		Florida	toponymum			flúrídá	AR_lekce_10
-فات (ú) ه		utéci (komu), ujet (např. vlak), uniknout (např. příležitost)	f-w-t			fáta	AR_lekce_10 I_kmen
+فات (ـُو)	ه	utéci (komu), ujet (např. vlak), uniknout (např. příležitost)	f-w-t			fáta	AR_lekce_10 I_kmen IIaeW/J slaba_slovesa
 فوراً		ihned, okamžitě	f-w-r			fawran	AR_lekce_10
 استقبل		uvítat, přivítat (oficiálně)	q-b-l			istaqbala X.	AR_lekce_10 slovesa X_kmen
 قبل أنْ ...		dříve, než....	q-b-l			qabla an...	AR_lekce_10
@@ -1485,7 +1485,7 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 انجاز (ات)		výsledek (práce), dosažení (výsledku), vymoženost	n-dž-z			inžázun	AR_1.rocnik AR_lekce_10 opakovani_zapomenutych
 نزل (ـِـ)		stékat, vytékat	n-z-l			nazala	AR_lekce_10 marked
 نصف (أنصاف)		polovina	n-S-f			niSfun (anSáfun)	AR_lekce_10 duplicate
-نصف + jméno v genitivu		napolo, polo-	n-S-f			niSfu	AR_lekce_10
+نصف	+ jméno v genitivu	napolo, polo-	n-S-f			niSfu	AR_lekce_10
 انتظر ه, هــ		čekat (na koho,co)	n-Z-r			intaZara	AR_lekce_10
 انتقال		přestěhování se	s-q-l			intiqálun	AR_lekce_10
 نار (نيران)		oheň, žár	n-w-r			nárun (níránun)	AR_lekce_10
@@ -1507,14 +1507,14 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 كَذَّبَ (1)		prohlašovat něco za lež = dementovat (1); nevěřit, prohlásit za lháře (2)	k-dh-b		deklarativní význam		AR_slovicka_gramatika_1 II_kmen slovesa
 جيّش		mobilizovat	dž-j-š		deklarativní význam		AR_slovicka_gramatika_1 II_kmen IIaeW/J slaba_slovesa slovesa
 حَكَمَ (ـُـ) حُكْم {2}	هــ	vládnout něčemu	H-k-m			Hakama (jaHkumu)	AR_slovicka_gramatika_1 I_kmen slovesa
-ردّ (ـُـ)	على	odpovědět na, reagovat na, vrátit něco	r-d-d			radda (jaruddu)	AR_slovicka_gramatika_1 IIaeGeminae I_kmen slovesa
+ردّ (ـُ)	على	odpovědět na, reagovat na, vrátit něco	r-d-d			radda (jaruddu)	AR_slovicka_gramatika_1 I_kmen IIaeGeminae slovesa
 ودّ (ـَـ)	هــ/ه	mít rád koho, co	w-d-d			wadda (jawaddu)	AR_slovicka_gramatika_1 IIaeGeminae I_kmen IaeW/J slaba_slovesa slovesa
 فشل (ـَـ)	في	neuspět v	f-š-l			fašala (jafšalu)	AR_slovicka_gramatika_1 I_kmen slovesa
 مرّ (ـُـ)	على	stavit se, zastavit se u někoho	m-r-r			marra (jamurru)	AR_1.rocnik AR_slovicka_gramatika_1 IIaeGeminae I_kmen opakovani_zapomenutych slovesa
 حلّ (ـُـ)	هــ	vyřešit něco	H-l-l			Halla (jaHullu)	AR_slovicka_gramatika_1 IIaeGeminae I_kmen slovesa
 همّ (ـُـ)	ه	dělat někomu starosti	h-m-m			hamma (jahummu)	AR_slovicka_gramatika_1 IIaeGeminae I_kmen slovesa
 بثّ (ـُـ)	هــ	vysílat, šířit, rozšiřovat koho, co	b-th-th			baththa (jabuththu)	AR_slovicka_gramatika_1 IIaeGeminae I_kmen slovesa
-شهد (ـَـ)	هــ	být svědkem něčeho	š-h-d			šahada (jašhadu)	AR_slovicka_gramatika_1 I_kmen duplicate_b slovesa
+شهد (ـَ)	هــ	být svědkem něčeho	š-h-d			šahada (jašhadu)	AR_slovicka_gramatika_1 duplicate_b I_kmen slovesa
 بذل (ـِـ) جهداً (جهوداً)		vynakládat (úsilí)	b-dh-l			badhala (jabdhilu)	AR_slovicka_gramatika_1 I_kmen marked slovesa
 وضع (ـَـ)		vypracovat něco (kancelářsko-intelektuální práce)	w-D-3			waDa3a (jaDa3u)	AR_lekce_8 AR_slovicka_gramatika_1 I_kmen IaeW/J slaba_slovesa slovesa
 سلّح	ه بــ	ozbrojit	s-l-H			sallaHa	AR_1.rocnik AR_slovicka_gramatika_1 II_kmen opakovani_zapomenutych slovesa
@@ -1555,12 +1555,12 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 عاديٌّ		běžný	3-j-d				AR_slovicka_gramatika_1 adjektiva
 بِشَكْلٍ مُنْتَظِمٍ		pravidelně	n-Z-m			bi-šaklin muntaZimin	AR_slovicka_gramatika_1 adverbia
 بانتظامٍ		pravidelně	n-Z-m				AR_slovicka_gramatika_1 adverbia duplicate
-إلاَّ + zápor		pouze					AR_slovicka_gramatika_1 adverbia duplicate
+إلاَّ	+ zápor	pouze					adverbia AR_slovicka_gramatika_1 duplicate
 رغم أنَّ		přestože, ačkoli	r-gh-m				AR_slovicka_gramatika_1 spojky
 بديهمٌّ		"""to je jedno, to je fuk, na tom nesejde"""					AR_1.rocnik AR_slovicka_gramatika_1 fráze marked opakovani_zapomenutych
-آخر + neurčené		poslední (v poslední)	'-ch-r				AR_1.rocnik AR_slovicka_gramatika_1
-آخر + určené		konec (na konci)	'-ch-r				AR_slovicka_gramatika_1
-بِضعُ + neurčené GS v plurálu, polarita		pár, několik, málo	b-D-3				AR_slovicka_gramatika_1
+آخر	+ neurčené	poslední (v poslední)	'-ch-r				AR_1.rocnik AR_slovicka_gramatika_1
+آخر	+ určené	konec (na konci)	'-ch-r				AR_slovicka_gramatika_1
+بِضعُ	+ neurčené GS v plurálu, polarita	pár, několik, málo	b-D-3				AR_slovicka_gramatika_1
 طُول		"""po celou dobu"" (předložka)"	T-w-l				AR_slovicka_gramatika_1 předložky
 تصبِح على خير!		Dobrou noc.	S-b-H				AR_slovicka_gramatika_1 fráze
 أنت من أهله.		"""Ty jsi z lidu Dobrého."" Odpověď na dobrou noc."					AR_slovicka_gramatika_1 fráze
@@ -1596,12 +1596,12 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 حيّ (أحياءٌ)		čtvrť	H-j-j				AR_slovicka_gramatika_1 duplicate
 اِنْقَسَمَ	إِلَى	rozdělit se, být rozdělen na VII.	q-s-m				AR_slovicka_gramatika_1
 اِنْسَحَبَ	من	stáhnout se, být stažen z	s-H-b				AR_slovicka_gramatika_1
-عَبَرَ (u) عُبُورٌ	هــ	přejít něco	3-b-r			I.	AR_slovicka_gramatika_1 I_kmen slovesa
+عَبَرَ (ـُ) عُبُورٌ	هـ	přejít něco	3-b-r			I.	AR_slovicka_gramatika_1 I_kmen slovesa
 جِسْرٌ (جُسُورٌ)		most	dž-s-r				AR_lekce_17 AR_slovicka_gramatika_1
-مَرّ (u) مُرُورٌ	بِــ	projíždět, procházet kolem něčeho	m-r-r			I.	AR_slovicka_gramatika_1 I_kmen slovesa
+مَرّ (ـُ) مُرُورٌ	بـ	projíždět, procházet kolem něčeho	m-r-r			I.	AR_slovicka_gramatika_1 I_kmen slovesa
 اِنْعَطَفَ	إِلَى	zahnout, zabočit	3-T-f				AR_1.rocnik AR_slovicka_gramatika_1 duplicate opakovani_zapomenutych
 اليَسَارُ		levá strana	j-s-r				AR_slovicka_gramatika_1
-ذَكَرَ (u) ذِكْرٌ	ه	zmínit něco, zmínit se o něčem	dh-k-r				AR_slovicka_gramatika_1
+ذَكَرَ (ـُ) ذِكْرٌ	ه	zmínit něco, zmínit se o něčem	dh-k-r				AR_slovicka_gramatika_1
 خِطَابٌ (ات)		projev, proslov	ch-T-b				AR_slovicka_gramatika_1
 فِيلْمٌ وَثَائِقِيّ		dokumentární film	w-th-q				AR_slovicka_gramatika_1
 حِمَايَةُ البِيئَةِ		ochrana životního prostředí	H-m-j				AR_slovicka_gramatika_1
@@ -1615,7 +1615,7 @@ risálatu -l-madžistíri		diplomka	r-s-l				AR_lekce_8 marked
 فِي الوَقْتِ الَذِي...... فِيهِ		v době, kdy	w-q-t				AR_slovicka_gramatika_1 duplicate
 العُثْمَانِيّونَ		Osmané	toponymum				AR_slovicka_gramatika_1
 فِيِينا		Vídeň	toponymum				AR_slovicka_gramatika_1
-كَسَرَ (i) كَسْرٌ	ه	rozbít; zlomit	k-s-r				AR_slovicka_gramatika_1
+كَسَرَ (ـِ) كَسْرٌ	ه	rozbít; zlomit	k-s-r				AR_slovicka_gramatika_1
 نَتِيجَةً	لِــ	v důsledku	n-t-dž				AR_slovicka_gramatika_1
 المُسْتَقْبَلُ		budoucnost	q-b-l			al-mustaqbalu	AR_lekce_9 AR_slovicka_gramatika_1
 شَكَا (ـُـ) شَكْوٌ	لِــ/إِلَى مِنْ	stěžovat si někomu na něco/někoho	š-k-w				AR_slovicka_gramatika_1

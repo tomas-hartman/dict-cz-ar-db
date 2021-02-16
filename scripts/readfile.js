@@ -14,7 +14,7 @@ async function readfile(filename, cb) {
 
         // roots.add(root);
         if(cb) cb(fields);
-      }
+    }
 }
 
 module.exports = readfile;

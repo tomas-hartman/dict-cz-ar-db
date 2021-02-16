@@ -97,3 +97,22 @@ Originální kolekce:
 - transkripce?
 - tagy 
 - source ((balíček))
+
+# Analýza dat
+Surová data (raw) je třeba nejprve zanalyzovat a opravit. Aby byla oprava co nejefektivnější, je potřeba udělat několik kroků:
+
+1. zajistit, že jsou správně uvedené kořeny (nemají zakázané znaky nebo nejsou chybějící)
+2. zajistit, aby v arabském textu pokud možno nebyla latinka
+3. najít a zredukovat duplicity
+4. @todo: zajistit slovní druhy
+ - slovesa musí mít kmeny
+ - odchytit chybějící slova bez slovních druhů a opravit
+
+# Generování dat @todo
+Konverze ze surových dat na čistá data
+
+1. konverze na správnou tabulkovou strukturu
+2. vygenerování tabulky kořenů
+3. pročištění textu (odstranění dvojitých mezer nebo přebytečných taTwílů)
+4. ...
+n. konverze do csv a import do db

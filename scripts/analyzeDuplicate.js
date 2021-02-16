@@ -20,12 +20,16 @@ const ignored = [
 ]
 
 /**
- * @todo find a way to log all examples of given non-unique data
+ * Analyzes data and then 1) store it into global var chunksStore, 2) [optionally] output them
+ * Or: 1) try to find deep duplicities (checks each word segment of each phrase). Not so accurate.
+ * 
+ * @todo najs to have: checkovat duplicity dvoufázově: první článek ze slovíček (obvykle hlavní slovo) + celé spojení ze slovíček, deep duplicates je too much a je nepřesné
  * @param {*} data 
  * @param {*} deepDuplicates checks if any segment of the word is duplicate, otherwise checks full word duplicity
+ * @param {*} outputData writes data down to a file on its own. False by default
  * @param {*} dataStream 
  */
-function analyzeDuplicates(data, deepDuplicates = false, dataStream = writeStreamDuplicates) {
+function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dataStream = writeStreamDuplicates) {
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
 
     const normAr = normalizeAr(ar);
@@ -41,7 +45,7 @@ function analyzeDuplicates(data, deepDuplicates = false, dataStream = writeStrea
                 continue;
             }
     
-            dataStream.write(data.join("\t") + "\n");
+            outputData && dataStream.write(data.join("\t") + "\n");
             break;
         }
     } else {
@@ -54,18 +58,37 @@ function analyzeDuplicates(data, deepDuplicates = false, dataStream = writeStrea
             
         } else {
             chunksStore[currentChunk] = [data, ...chunksStore[currentChunk]];
-            dataStream.write(data.join("\t") + "\n");
+            outputData && dataStream.write(data.join("\t") + "\n");
         }
     }
-
-    // console.log(chunksStore)
-    // console.log(Object.keys(chunksStore).filter((key) => key.length > 1))
 }
 
+/**
+ * Proccesses chunkStore and writes output.
+ * @param {Boolean} writeOutput 
+ * @param {fs.WriteStream} dataStream 
+ */
+async function proccessChunkStore(writeOutput = true, dataStream = writeStreamDuplicates) {
+    const output = await readfile(filename, (data) => analyzeDuplicates(data, false));
+
+    const duplicities = Object.keys(chunksStore).map((data) => {
+
+        if(chunksStore[data].length > 1){
+
+            const outputArr = chunksStore[data].map((lineData) => {
+                // console.log(lineData.join("\t"))
+                const string = lineData.join("\t");
+                return string;
+            });
+
+            dataStream.write(outputArr.join("\n") + "\n\n")
+            return outputArr.join("\n");
+        }
+    });
+}
 
 /**
- * @todo find a way to read chunksStore and get all the relevant data from it after readfile is finished.
+ * Dva způsoby jak checkovat duplicity. Lepší je proccessRestData(), protože vrací setřízený seznam duplicit vedle sebe.
  */
-readfile(filename, (data) => analyzeDuplicates(data, false));
-
-
+// readfile(filename, (data) => analyzeDuplicates(data, false, true));
+proccessChunkStore();

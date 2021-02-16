@@ -41,14 +41,14 @@ function analyzeRoots(data, dataStream = writeStreamRootErrors) {
     }
 }
 
-// Normalized words
+// Normalized words (not a check on its own, rather a helper)
 // readfile(filename, logNormalizedData);
 
 // Check latin chars in arabic text
 readfile(filename, analyzeLatinCharsInAr);
 
 // // Check roots
-// readfile(filename, analyzeRoots);
+readfile(filename, analyzeRoots);
 
 module.exports = {logNormalizedData, analyzeLatinCharsInAr, analyzeRoots};
 

@@ -28,9 +28,6 @@ function normalizeAr(word) {
     // Remove numerals (both latin and arabic and persian, just in case)
     output = output.replace(/[\u0030-\u0039\u0660-\u0669\u06f0-\u06f9]/g, "");
 
-    // console.log(word.toUnicode());
-    // console.log(output.toUnicode());
-
     // Remove whitespaces where there is more than 1
     output = output.replace(/\s{2,}/g," ")
 

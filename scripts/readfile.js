@@ -1,10 +1,10 @@
 const fs = require("fs");
 const readline = require('readline');
 
-async function readfile(filename, cb) {
+async function readfile(inputFile, cb) {
     // const roots = new Set();
     const rl = readline.createInterface({
-        input: fs.createReadStream(filename),
+        input: fs.createReadStream(inputFile),
     })
 
     for await (const line of rl) {

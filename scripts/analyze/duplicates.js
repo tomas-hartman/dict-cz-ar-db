@@ -1,10 +1,12 @@
 const fs = require("fs");
 const path = require("path");
-const readfile = require("./readfile");
+const readfile = require("../readfile");
 
-const filename = path.resolve(__dirname, "../raw/Arabi__01__rocnik.txt");
-const writeStreamDuplicates = fs.createWriteStream('./duplicates.txt');
-const normalizeAr = require("./normalizeAr");
+const inputFileName = path.resolve(__dirname, "../../raw/Arabi__01__rocnik.txt");
+const outputFileName = path.resolve(__dirname, "../../output/logs/duplicates.txt");
+
+const writeStreamDuplicates = fs.createWriteStream(outputFileName);
+const normalizeAr = require("../normalizeAr");
 
 const chunks = new Set();
 const chunksStore = {};
@@ -69,7 +71,7 @@ function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dat
  * @param {fs.WriteStream} dataStream 
  */
 async function proccessChunkStore(writeOutput = true, dataStream = writeStreamDuplicates) {
-    const output = await readfile(filename, (data) => analyzeDuplicates(data, false));
+    const output = await readfile(inputFileName, (data) => analyzeDuplicates(data, false));
 
     const duplicities = Object.keys(chunksStore).map((data) => {
 
@@ -88,7 +90,17 @@ async function proccessChunkStore(writeOutput = true, dataStream = writeStreamDu
 }
 
 /**
- * Dva způsoby jak checkovat duplicity. Lepší je proccessRestData(), protože vrací setřízený seznam duplicit vedle sebe.
+ * Deep duplicates (just for check)
+ */
+const analyzeDeepDuplicates = () => {
+    readfile(inputFileName, (data) => analyzeDuplicates(data, true, true));
+}
+
+/**
+ * Tři způsoby jak checkovat duplicity. Lepší je proccessChunkStore(), protože vrací setřízený seznam duplicit vedle sebe.
  */
 // readfile(filename, (data) => analyzeDuplicates(data, false, true));
-proccessChunkStore();
+// analyzeDeepDuplicates();
+// proccessChunkStore(); // preferred, nejpřehlednější
+
+module.exports = {analyzeDuplicates: proccessChunkStore, analyzeDeepDuplicates};

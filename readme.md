@@ -13,18 +13,20 @@ __Sloupce:__
 - id (unique primary key)
 - ar (arabský význam)
 - cz (český význam)
-- cat_id (id kategorie)
-- root_id (id kořene)
+- norm (normalizovaný fulltext, podle kterého se bude vyhledávat)
+- cat_id (id kategorie, slovní druh)
+- root_id (id kořene, kořen)
 - stem (číslo kmene)
 - stem_vowel (prostřední vokál ve slovese)
 - plural
 - masdar
-- val (valence, předložka, se kterou se pojí)
+- val (valence, předložka, se kterou se pojí, případně typ vazby)
 - transcription
 - variant (očíslované významy)
 - synonyme_ids (id synonym)
 - tags (@todo dospecifikovat)
 - examples_ids (id přidružených příkladů)
+- source_ids (id týkající se zdroje slovíčka, AR_gramatika_1 apod.) vlastní tabulka
 - disabled (true | false, zablokovaná položka, která se nemá propsat do Db)
 
 | id  | word | cz_id | cat_id | plural | stem_form | stem  | masdar | transcription | example_id | valency | root_id | meaning_variant |
@@ -49,8 +51,8 @@ V první řadě nebude zvlášť, pokud ji budu chtít zvlášť, možno doděla
 
 ### Roots table:
 
-| id  | root_norm | root_ar | root_lat |
-| --- | ---       | :---:   | ---      | 
+| id  | root_norm | root_ar | root_lat | 
+| --- | ---       | :---:   | ---      |
 | 1   | k-t-b     | كتب     | ktb      |
 | 2   | ch-S-S    | خصص     | ḫṣṣ       |
 | 3   | k-b-r     | كبر     | kbr      |
@@ -68,12 +70,27 @@ V první řadě nebude zvlášť, pokud ji budu chtít zvlášť, možno doděla
 
 ### Categories:
 
+sloveso, substantivum, adjektivum, adverbium, prepozice, spojka, částice, číslovka, fráze
+
+1. substantivum
+2. adjektivum
+3. zájmeno
+4. číslovka
+5. sloveso
+6. předložka
+7. spojka
+8. citoslovce
+9. částice
+10. fráze
+
+(masdar, participium    )
+
 | id  | name        | title         |
 | --- | ---         | ---           |
 | 1   | verb        | Sloveso       |
 | 2   | noun        | Podstatné jméno |
 | 3   | adjective   | Adjektivum    |
-| 4   | masdar      | Maṣdar        |
+| 4   | masdar      | Maṣdar        | ?
 | 5   | participle  | Participium   |
 | 6   | phrase      | Fráze         |
 | 7   | preposition | Předložka     |

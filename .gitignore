@@ -1,5 +1,10 @@
+# System files and other 
+.DS_Store
+/node_modules
+
+# Analyze reports
 output/logs/**/*.txt
-*.txt
+./*.txt
 
 # AnkiDB files, keep only original db files
 raw/AnkiDb/*

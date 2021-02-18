@@ -1,0 +1,22 @@
+{
+  "name": "dictczardb",
+  "version": "1.0.0",
+  "description": "Database repo for dictCzAr project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomas-hartman/dict-cz-ar-db.git"
+  },
+  "author": "Tomas Hartman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomas-hartman/dict-cz-ar-db/issues"
+  },
+  "homepage": "https://github.com/tomas-hartman/dict-cz-ar-db#readme",
+  "dependencies": {
+    "objects-to-csv": "^1.3.6"
+  }
+}

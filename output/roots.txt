@@ -218,7 +218,7 @@ n-m-dh-dž
 š-T-'
 š-f-j
 s-j-s
-název
+'-r-ch
 k-l-j
 dh-k-r
 s-n-w
@@ -270,6 +270,7 @@ m-H-n
 f-w-r
 H-j-dž
 m-3-d
+th-l-dž
 r-S-f
 b-r-z
 S-3-d
@@ -334,7 +335,6 @@ z-h-r
 d-r-dž
 dž-w-r
 š-t-'
-th-l-dž
 h-b-T
 s-q-T
 q-r-n
@@ -454,7 +454,6 @@ r-t-b
 r-S-d
 z-j-d
 s-b-q
-S-r-H
 S-f-H
 S-n-d-q
 T-n-n

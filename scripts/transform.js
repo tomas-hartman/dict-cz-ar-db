@@ -8,62 +8,68 @@ const ObjectsToCsv = require('objects-to-csv');
 
 const filename = "Arabi__01__rocnik";
 const inputFileName = path.resolve(__dirname, "../raw/" + filename + ".txt");
-const outputFileName = path.resolve(__dirname, "../output/" + filename + "__processed.txt");
+const outputFileName = path.resolve(__dirname, "../output/" + filename + "__processed.csv");
 const writeStream = fs.createWriteStream(outputFileName);
+
+
+const getValues = (name) => {
+    const filePath = path.resolve(__dirname, "../output/" + name + ".txt");
+
+    return fs.readFileSync(filePath, "utf8").split("\n");
+}
+
+const categories = getValues("categories");
+const roots = getValues("roots");
+const sources = getValues("sources");
+const stems = getValues("stems");
+const tags = getValues("tags");
+
+
+const getId = (value, collection) => {
+    const id = collection.findIndex((item) => item === value);
+
+    if(id >= 0) {
+        return id + 1;
+    }
+
+    return;
+}
+
 
 function resolveTags(tagsString) {
     const tagsArr = tagsString.split(" ");
 
-    const categories = [
-        "slovesa", 
-        "substantiva", 
-        "předložky", 
-        "zájmena", 
-        "spojky", 
-        "číslovky", 
-        "adjektiva", 
-        "adverbia", 
-        "fráze"
-    ];
-
-    const stems = [
-        "I_kmen",
-        "II_kmen",
-        "III_kmen",
-        "IV_kmen",
-        "V_kmen",
-        "VI_kmen",
-        "VII_kmen",
-        "VIII_kmen",
-        "IX_kmen",
-        "X_kmen",
-        "4_I_kmen",
-        "4_II_kmen",
-        "4_IV_kmen",
-    ]
-
     const outputCategory = [];
     const outputStem = [];
+    const outputSource = [];
+    const outputTags = [];
 
-    const tags = tagsArr.filter((item, id) => {
+    const _ = tagsArr.forEach((item) => {
         if(categories.find((category) => item === category)) {
-            outputCategory.push(item);
+            outputCategory.push(getId(item, categories));
             return false;
         }
 
         if(stems.find(stem => item === stem )){
-            outputStem.push(item);
+            outputStem.push(getId(item, stems));
             return false;
         }
 
-        return true;
-
+        if(sources.find(source => item === source )){
+            outputSource.push(getId(item, sources));
+            return false;
+        }
+        
+        if(tags.find(tag => item === tag)){
+            outputTags.push(getId(item, tags));
+            return false;
+        }
     });
 
     const output = {
-        tags: tags.join(" "),
+        tags: outputTags.join(" "),
         category: outputCategory.join(" "),
-        source: null, // @todo
+        source: outputSource.join(" "), // @todo
         disabled: "false", // @todo: tag: is-disabled
         stem: outputStem.join(" "),
     }
@@ -79,6 +85,7 @@ function resolveTags(tagsString) {
 async function convertFile(data) {
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
 
+    const rootId = getId(root, roots);
     const {tags: _tags, category, source, disabled, stem} = resolveTags(tags)
     // resolveAr() // checks data for plural, masdar, stem_vowel
 
@@ -87,7 +94,7 @@ async function convertFile(data) {
         cz,
         norm: "",
         cat_id: category,
-        root_id: root,
+        root_id: rootId,
         stem: stem,
         stem_vowel: null,
         plural: null,
@@ -96,9 +103,9 @@ async function convertFile(data) {
         transcription,
         meaning_variant: null,
         synonyms_ids: syn,
-        tags: _tags,
-        examples_ids: example,
-        source,
+        tags_ids: _tags,
+        examples_ids: example, // todo
+        source_ids: source,
         disabled,
     }
 
@@ -112,5 +119,28 @@ async function convertFile(data) {
     // console.log(output)
 }
 
+
+const outputKeys = {
+    ar: null,
+    cz: null,
+    norm: null,
+    cat_id: null,
+    root_id: null,
+    stem: null,
+    stem_vowel: null,
+    plural: null,
+    masdar: null,
+    val: null,
+    transcription: null, 
+    meaning_variant: null,
+    synonyms_ids: null,
+    tags_ids: null,
+    examples_ids: null, // todo
+    source_ids: null,
+    disabled: null,
+}
+
+const firstLine = Object.keys(outputKeys).join(",");
+writeStream.write(firstLine + "\n");
 readfile(inputFileName, convertFile);
 

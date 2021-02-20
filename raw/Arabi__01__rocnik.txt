@@ -58,7 +58,7 @@
 لَيلٌ (لَيَالٍ)		noc	l-j-l				AR_muj_slovnicek_1 cat_substantiva čas
 وَجَدَ (ـِـ, يجد)	هــ, ه (عن)	najít něco, někoho, zjistit něco	w-dž-d			wadžada jadžidu	AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
 أَخَذَ	هـ	vzít něco	'-ch-dh				AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
-طَلَبَ	هـ	žádat něco	T-l-b				AR_muj_slovnicek_1 cat_slovesa I_kmen
+طَلَبَ (ـُ) طَلَبٌ/طَلَبَاتٌ	هـ	žádat (něco)	T-l-b				AR_muj_slovnicek_1 cat_slovesa I_kmen
 قَرَأَ (ـَـ)	هـ	číst něco	q-r-'				AR_muj_slovnicek_1 cat_slovesa I_kmen slaba_slovesa
 نَزَلَ	في	ubytovat se v	n-z-l				AR_muj_slovnicek_1 cat_slovesa I_kmen marked
 شَكَرَ	ه على	poděkovat někomu za něco	š-k-r				AR_muj_slovnicek_1 cat_slovesa I_kmen
@@ -111,7 +111,7 @@
 عَامِّيَّة		hovorový jazyk, dialekt	3-m-m			3ámmíjatun	AR_lekce_3 AR_muj_slovnicek_1 cat_substantiva jazyk škola
 صَعْبٌ		těžký, obtížný	S-3-b			Sa3bun	AR_muj_slovnicek_1 cat_adjektiva
 خَاصَّةً		zejména, (ob)zvláště, především	ch-S-S				AR_lekce_3 AR_muj_slovnicek_1 cat_adverbia
-يَومٌ /أَيَّامٌ/		den	j-w-m				AR_muj_slovnicek_1 cat_substantiva ostatní čas
+يَومٌ (أَيَّامٌ)		den	j-w-m				AR_muj_slovnicek_1 cat_substantiva ostatní čas
 أَوَّلٌ -- أُوْلَى		první	'-w-l				AR_muj_slovnicek_1 cat_adjektiva cat_cislovky
 فَهِمَ (ـَـ)		rozumět	f-h-m			fahima jafhamu	AR_lekce_3 AR_muj_slovnicek_1 cat_slovesa I_kmen
 عَاشِرٌ		desátý	3-š-r			3áširun	AR_lekce_3 AR_muj_slovnicek_1 cat_adjektiva cat_cislovky
@@ -122,7 +122,7 @@
 قَالَ	إِنَّ	říct, že...	q-w-l				AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J slaba_slovesa
 قَضَى (ـِ، يَقْضِي)	هـ	strávit časově	q-D-j				AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa vz_ramá
 نَسِيَ	هــ	zapomenout (něco)	n-s-j				AR_muj_slovnicek_1 cat_slovesa I_kmen slaba_slovesa
-أَتَى (ـِـ)		přijít (إلى/لــ), přinést (بــ), vyplývat z čeho	'-t-j				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J IIIaeW/J opakovani_zapomenutych slaba_slovesa vz_ramá
+أَتَى (ـِ)		přijít (إلى/لــ), přinést (بــ), vyplývat z čeho	'-t-j				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J IIIaeW/J opakovani_zapomenutych slaba_slovesa vz_ramá
 عَادَ		vrátit se, vz. qála	3-w-d				AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J marked slaba_slovesa
 بَنَى		postavit, vz. ramá	b-n-j				AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa vz_ramá
 دَعَا		pozvat (w)	d-3-w				AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa
@@ -235,7 +235,7 @@
 عالٍ		vysoký	3-l-j			3álin (3álí, 3álíja)	AR_1.rocnik AR_lekce_4 AR_muj_slovnicek_1 cat_adjektiva opakovani_zapomenutych
 عَامٌّ		obecný, všeobecný, veřejný, generální	3-m-m			3ámmun	AR_lekce_4 AR_muj_slovnicek_1 cat_adjektiva
 عميد		děkan	3-m-d			3amídun	AR_1.rocnik AR_lekce_4 cat_substantiva
-عندما		když				3indamá	AR_lekce_4 cat_spojky
+عندما		když	3-n-d			3indamá	AR_lekce_4 cat_spojky
 اِفْتَتَحَ		zahájit, slavnostně otevřít	f-t-H			iftataHa	AR_lekce_4 AR_muj_slovnicek_2 cat_slovesa VIII_kmen
 فترة		období, čas	f-t-r			fatratun	AR_lekce_4 AR_muj_slovnicek_1 cat_substantiva čas
 تَفَرَّجَ	على	prohlédnout si	f-r-dž			tafarradža	AR_1.rocnik AR_lekce_4 AR_muj_slovnicek_1 cat_slovesa opakovani_zapomenutych V_kmen
@@ -300,7 +300,7 @@
 يَعْنِي هذا		to znamená	3-n-j				AR_muj_slovnicek_1 cat_fraze
 مشغول		zaneprázdněný	š-gh-l				AR_muj_slovnicek_1 cat_adjektiva
 الاتِّحَادُ الأُورُبِيُّ		Evropská Unie	w-h-d				AR_muj_slovnicek_1 cat_substantiva organizace
-لمََّا = عندما		když					AR_muj_slovnicek_1 cat_spojky
+لمََّا = عندما		když	3-n-d				AR_muj_slovnicek_1 cat_spojky
 معرفة (معارف)		poznatky, znalosti	3-r-f				abstraktní AR_muj_slovnicek_1 cat_substantiva marked
 علاقة		vztah	3-l-q				AR_muj_slovnicek_1 cat_substantiva oficiality
 إخوات		sourozenci	'-ch-w				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych rodina
@@ -486,7 +486,6 @@
 هَبَطَ (ـُـ, هُبُوطٌ)		klesat (1); odmítnout (2)	h-b-T				AR_muj_slovnicek_1 cat_slovesa I_kmen
 سَقَطَ (ـُ) سُقُوطٌ		spadnout, neuspět	s-q-T			saqaTa (u) suqúTun	AR_muj_slovnicek_1 cat_slovesa I_kmen
 شاهد (م. مشاهدة)		prohlížet si něco	š-h-d				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa III_kmen opakovani_zapomenutych
-طلب (ـَـ, طَلَبٌ/طَلَبَاتٌ)		žádat	T-l-b				AR_muj_slovnicek_1 cat_slovesa I_kmen
 مُقَارِنٌ		srovnání	q-r-n				AR_muj_slovnicek_1 cat_substantiva ostatní
 أَسِيرٌ (أُسَرَاءُ/أُسَارَى)		zajatec	'-s-r				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva lidé opakovani_zapomenutych
 خليج		zátoka	ch-l-dž				AR_muj_slovnicek_1 cat_substantiva geografie
@@ -504,8 +503,8 @@
 فَلَّاحٌ		rolník, zemědělec	f-l-H				AR_muj_slovnicek_1 profese
 تِجاريٌّ		obchodní, komerční	t-dž-r				AR_muj_slovnicek_1 cat_adjektiva oficiality
 أخذ (ـُـ, أَخْذٌ)		brát, vzít (klidně i taxi)	'-ch-dh				AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
-جاءَ (ـِـ, مَجِيءٌ/بِجَاءٌ)	ه بــ	přinést/přivést někomu něco	dž-j-'				AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J marked slaba_slovesa
-أتى (ـِـ, أَتْيَانٌ)	ه بــ	přinést někomu něco	'-t-j				AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J IIIaeW/J marked slaba_slovesa
+جاءَ (ـِ) مَجِيءٌ/بِجَاءٌ	ه بـ	přinést/přivést někomu něco	dž-j-'				AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J marked slaba_slovesa
+أتى (ـِ) إِتْيَانٌ	ه بـ	přinést někomu něco	'-t-j				AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J IIIaeW/J marked slaba_slovesa
 حمل (ـِـ, حَمْلٌ)		nést, nosit	H-m-l				AR_muj_slovnicek_1 cat_slovesa I_kmen
 وجد (يجِد ـِـ, وجود)		najít, maSdar: existence	w-dž-d				AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
 وجد (يجِد ـِـ, إِيجَادٌ)		najít, maSdar: nalézání se	w-dž-d				AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
@@ -640,13 +639,13 @@
 فقير (فُقَارَاءُ)		chudý	f-q-r				AR_muj_slovnicek_1 cat_adjektiva
 مواطن		občan	w-T-n				AR_1.rocnik AR_muj_slovnicek_1 lidé opakovani_zapomenutych
 مثل + هذه + الــهٍ		takový, takový, takové	m-th-l				AR_muj_slovnicek_1 cat_adjektiva cat_castice
-أُمٌّ /أُمُّوهاتٌ/		mamka (matka, obecně)	'-m-m				AR_muj_slovnicek_1 rodina
-أّبٌ /آباءٌ/		táta (otec, obecně)	'-b				AR_muj_slovnicek_1 rodina
-بنت /بنات/		dcera	b-n-t				AR_muj_slovnicek_1 rodina
-اِبنٌ /بَنُون, أَبناءٌ/		syn	b-n				AR_muj_slovnicek_1 rodina
-أَخٌ /أًخوانٌ, إِخوة/		bratr	'-ch				AR_muj_slovnicek_1 rodina
-أُختٌ /أُخواتٌ/		sestra	'-ch-t				AR_muj_slovnicek_1 rodina
-خال, خالة (خلانٌ, ات)		strýc (bratr matky), teta (sestra matky)	ch-w-l				AR_muj_slovnicek_1 rodina
+أُمٌّ (أُمُّوهاتٌ)		mamka (matka, obecně)	'-m-m				AR_muj_slovnicek_1 rodina
+أّبٌ (آباءٌ)		táta (otec, obecně)	'-b				AR_muj_slovnicek_1 rodina
+بِنْتٌ (بَنَات)		dcera	b-n-t				AR_muj_slovnicek_1 rodina
+اِبنٌ (بَنُون/أَبناءٌ)		syn	b-n				AR_muj_slovnicek_1 rodina
+أَخٌ (أًخوانٌ/إِخوة)		bratr	'-ch				AR_muj_slovnicek_1 rodina
+أُختٌ (أُخواتٌ)		sestra	'-ch-t				AR_muj_slovnicek_1 rodina
+خال, خالة (خلانٌ/ات)		strýc (bratr matky), teta (sestra matky)	ch-w-l				AR_muj_slovnicek_1 rodina
 بنتُ/اِبنُ الخَالِ(ة)		bratranec (sestřenice) ze strany matky	ch-j-l				AR_muj_slovnicek_1 rodina
 بنتُ/اِبنُ العَمِّ(ة)		bratranec (sestřenice) ze strany otce	3-m-m				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych rodina
 زوْجُ/زوجةُ الخالِ(ة)		přiženěný strýc (teta) ze strany matky	z-w-dž				AR_muj_slovnicek_1 rodina
@@ -659,7 +658,7 @@
 مات (ـُ) مَوْتٌ		zemřít	m-w-t			máta	AR_lekce_10 AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J slaba_slovesa
 دعا (ـُـ, دَعْوَةٌ)		pozvat	d-3-w				AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa
 بقي		zůstat	b-q-j				AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa vz_nasija
-قدر (ـِـ, قُدْرَةٌ/مقْدَرَة)	على	moci, být schopen (spíš zálžitost dialektů, MSA spíš istaTá3a)	q-d-r				AR_muj_slovnicek_1 cat_slovesa I_kmen
+قدر (ـِ) قُدْرَةٌ/مقْدَرَة	على	moci, být schopen (spíš zálžitost dialektů, MSA spíš istaTá3a)	q-d-r				AR_muj_slovnicek_1 cat_slovesa I_kmen
 قاد (ـُـ, قيادة)		řídit	q-j-d				AR_muj_slovnicek_1 cat_slovesa I_kmen leech slaba_slovesa
 خرج (ـُـ, خروج)		odejít	ch-r-dž				AR_muj_slovnicek_1 cat_slovesa I_kmen
 بَدَاَ (ـُـ, -)		zdát se, jevit se	b-d-'				AR_muj_slovnicek_1 cat_slovesa I_kmen slaba_slovesa
@@ -675,7 +674,7 @@
 خَالٌ (خِيلَانٌ)		bratr matky (strýc)	ch-w-l			chálun, chílánun	AR_lekce_7 cat_substantiva
 خالة (ات)		sestra matky (teta)	ch-w-l			chálatun	AR_lekce_7 cat_substantiva
 عمّ , أعمام		bratr otce (strýc)	3-m-m			3ammun, a3mámun	AR_lekce_7 cat_substantiva
-عَمّة , ات		sestra otce (teta)	3-m-m			3ammatun	AR_lekce_7 cat_substantiva
+عَمّة (ات)		sestra otce (teta)	3-m-m			3ammatun	AR_lekce_7 cat_substantiva
 فِعْلاً		opravdu, skutečně	f-3-l			fi3lan	AR_lekce_10 AR_lekce_7 AR_muj_slovnicek_1 cat_adverbia
 مَوْقِفُ (مَوَاقِفُ) سَياراَتٍ		parkoviště	w-q-f				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 město
 قَرَارٌ (ات) {1}		rozhodnutí (1) ; rezoluce (2)	q-r-r				AR_muj_slovnicek_1 ostatní
@@ -1232,7 +1231,7 @@
 ابتكارٌ (ات)		vynález	b-k-r			ibtikárun	AR_lekce_10 cat_substantiva
 مبتكَر		vynalezený	b-k-r			mubtakarun	AR_1.rocnik AR_lekce_10 cat_adjektiva opakovani_zapomenutych
 مُبلَّل		mokrý	b-l-l			muballalun	AR_1.rocnik AR_lekce_10 cat_adjektiva opakovani_zapomenutych
-بِنَاية /ات/		budova	b-n-j			binájatun	AR_lekce_10 AR_muj_slovnicek_1 budovy cat_substantiva město
+بِنَاية (ات)		budova	b-n-j			binájatun	AR_lekce_10 AR_muj_slovnicek_1 budovy cat_substantiva město
 باب (أبواب)		dveře	b-w-b			bábun (abwábun)	AR_lekce_10 cat_substantiva
 اتّبع		sledovat, uplatňovat, provádět (politiku)	t-b-3			ittaba3a VIII.	AR_1.rocnik AR_lekce_10 cat_slovesa leech opakovani_zapomenutych slaba_slovesa VIII_kmen
 استثنائي		výjimečný	th-n-y			istithná'íjun	AR_1.rocnik AR_lekce_10 cat_adjektiva opakovani_zapomenutych
@@ -1443,7 +1442,7 @@
 أَحْسَنَ	هــ	umět něco dobře, dobře zacházet	H-s-n			aHsana	AR_lekce_8 AR_muj_slovnicek_2 cat_slovesa IV_kmen
 ظُهْرٌ (أَظْهَارٌ)		poledne	Z-h-r			Zuhrun	AR_muj_slovnicek_1 AR_muj_slovnicek_2 čas
 بَحَثَ (ـَـ) بَحْثٌ	عن	hledat	b-H-th			baHatha 3an	AR_lekce_3 AR_muj_slovnicek_2 cat_slovesa I_kmen
-ذَهَبَ (ـَـ) ذَهَابٌ/ذُهُوبٌ		jít	dh-h-b			dhahaba jadhhabu dhahábun	cat_slovesa I_kmen
+ذَهَبَ (ـَ) ذَهَابٌ/ذُهُوبٌ		jít	dh-h-b			dhahaba jadhhabu dhahábun	cat_slovesa I_kmen
 قام (ـُ) قِيامٌ/قَوْمٌ {3}		stát, vstát, postavit se (1); odjet dopravním prostředkem (2)	q-w-m		قَامَ مِنَ ٱلنَّوْمِ vstávat	qáma (jaqúmu)	AR_muj_slovnicek_2 cat_slovesa I_kmen IIaeW/J slaba_slovesa
 مَوْقِفٌ (مواقِفُ)	من	postoj (k), názor; zastávka	w-q-f			mawqifun mawáqifu -- min	AR_muj_slovnicek_1 AR_muj_slovnicek_2 ostatní slovnik_161-konec
 حُكْمٌ	على	rozsudek, rozhodnutí (1); posouzení, zhodnocení (2)	H-k-m				AR_muj_slovnicek_1 AR_muj_slovnicek_2 AR_Ondrasoviny AR_Ondrasoviny-Zlocin_a_trest oficiality

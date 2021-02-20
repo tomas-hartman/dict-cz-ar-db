@@ -1,0 +1,10 @@
+cat_adjektiva
+cat_adverbia
+cat_castice
+cat_cislovky
+cat_fraze
+cat_prepozice
+cat_slovesa
+cat_spojky
+cat_substantiva
+cat_zajmena

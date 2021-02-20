@@ -10,6 +10,7 @@ const writeStreamCharErrors = fs.createWriteStream(outputFileName);
 function analyzeLatinCharsInAr(data, dataStream = writeStreamCharErrors) {
     // should log all lines with possible unwanted latin chars in these fields
     const regex = /[\u0041-\u007a]/g;
+    const regexSymbols = /[\/]/g;
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
 
     if (ar.match(regex)) {

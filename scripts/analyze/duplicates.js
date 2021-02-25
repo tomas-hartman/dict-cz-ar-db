@@ -6,7 +6,7 @@ const inputFileName = path.resolve(__dirname, "../../raw/Arabi__01__rocnik.txt")
 const outputFileName = path.resolve(__dirname, "../../output/logs/duplicates.txt");
 
 const writeStreamDuplicates = fs.createWriteStream(outputFileName);
-const normalizeAr = require("../normalizeAr");
+const normalizeAr = require("../normalize/normalizeAr");
 
 const chunks = new Set();
 const chunksStore = {};

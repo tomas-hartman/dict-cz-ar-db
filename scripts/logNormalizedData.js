@@ -1,5 +1,5 @@
 const fs = require("fs");
-const normalizeAr = require("./normalizeAr");
+const normalizeAr = require("./normalize/normalizeAr");
 const readfile = require("./readfile");
 
 const filename = path.resolve(__dirname, "../raw/Arabi__01__rocnik.txt");

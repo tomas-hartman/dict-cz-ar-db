@@ -29,7 +29,8 @@ function normalizeAr(word) {
     output = output.replace(/[\u0030-\u0039\u0660-\u0669\u06f0-\u06f9]/g, "");
 
     // Remove whitespaces where there is more than 1
-    output = output.replace(/\s{2,}/g," ")
+    output = output.replace(/\s{2,}/g," ");
+    output = output.trim();
 
     return output;
 }

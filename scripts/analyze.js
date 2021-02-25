@@ -30,7 +30,6 @@ readfile(filename, analyzeRoots);
 // Analyze transcription
 readfile(filename, analyzeTranscriptions);
 
-
 // Analyze duplicates
 analyzeDuplicates();
 

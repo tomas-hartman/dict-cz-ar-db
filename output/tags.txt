@@ -32,6 +32,7 @@ leech
 lidé
 literatura
 marked
+masdar
 materiály
 místnost
 místo
@@ -69,10 +70,6 @@ sport
 státy
 svátky
 technologie
-tema_ekonomika_finance
-tema_konflikty_terorismus
-tema_lekarstvi_zdravi
-tema_oficialni_schuzky
 toponyma
 tradice
 tělo

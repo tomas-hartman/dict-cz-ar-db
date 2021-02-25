@@ -26,5 +26,9 @@ slovnik_101-110
 slovnik_141-150
 slovnik_151-160
 slovnik_161-konec
+tema_ekonomika_finance
+tema_konflikty_terorismus
+tema_lekarstvi_zdravi
+tema_oficialni_schuzky
 text_Maghrib
 text_Maghrib_Adílá

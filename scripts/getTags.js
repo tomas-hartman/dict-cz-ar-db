@@ -21,7 +21,7 @@ function sortTags(data, dataStream = writeStream) {
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
     const regexCat = /^cat_/g;
     const regexStems = /_kmen$/g;
-    const regexSources = /^AR_|^text_|Hosnoviny|Ondrášoviny|slovnik_/g;
+    const regexSources = /^AR_|^text_|Hosnoviny|Ondrášoviny|slovnik_|^tema_/g;
 
     tags.split(" ").forEach((tag) => {
         if(tag.match(regexCat)){

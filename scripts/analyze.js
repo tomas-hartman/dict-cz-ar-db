@@ -6,6 +6,7 @@ const analyzeLatinCharsInVal = require("./analyze/latinCharsInVal");
 const analyzeRoots = require("./analyze/roots");
 const { analyzeDuplicates, analyzeDeepDuplicates } = require("./analyze/duplicates");
 const {analyzeUncategorized, analyzeMissingVerbsNotation} = require("./analyze/tags");
+const analyzeTranscriptions = require("./analyze/transcription");
 
 const filename = path.resolve(__dirname, "../raw/Arabi__01__rocnik.txt");
 
@@ -25,6 +26,10 @@ readfile(filename, analyzeLatinCharsInVal);
 
 // Check roots
 readfile(filename, analyzeRoots);
+
+// Analyze transcription
+readfile(filename, analyzeTranscriptions);
+
 
 // Analyze duplicates
 analyzeDuplicates();

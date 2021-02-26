@@ -1,35 +1,35 @@
-const conversionTable = require("./conversionTable");
-const readfile = require("../readfile");
-const path = require("path");
-const fs = require("fs");
+const conversionTable = require('./conversionTable');
+const readfile = require('../readfile');
+const path = require('path');
+const fs = require('fs');
 
-const outputFileName = path.resolve(__dirname, "../../output/logs/warning_transcription_interdentals.txt");
+const outputFileName = path.resolve(__dirname, '../../output/logs/warning_transcription_interdentals.txt');
 const outputStream = fs.createWriteStream(outputFileName);
 
 const getInterdentalsInRoot = (root) => {
-    const rootArr = root.split("-");
+    const rootArr = root.split('-');
 
     return rootArr.filter((radical) => {
-        return radical === "th" || radical === "dh";
-    })
-}
+        return radical === 'th' || radical === 'dh';
+    });
+};
 
 const convertToNormTranscription = (text, root) => {
-    let output = "";
+    let output = '';
 
-    if(text === "") return null;
+    if(text === '') return null;
     
     const replacer = (substr, p1, origin) => {
         // Upozornění, kdyby došlo k rizikové transkripci
-        if(substr === "th" || substr === "dh") outputStream.write(origin + "\n");
+        if(substr === 'th' || substr === 'dh') outputStream.write(origin + '\n');
 
-        const output = conversionTable[substr]
+        const output = conversionTable[substr];
 
         // Kdyby se narazilo na znak, který není v tabulce
         if(output === undefined) console.log(substr);
 
         return output;
-    }
+    };
 
     // check root, if it has dh, th, pokud ne, konvert normálně
     if(root && getInterdentalsInRoot(root).length === 0){
@@ -41,20 +41,22 @@ const convertToNormTranscription = (text, root) => {
     }
 
     return output;
-}
+};
 
 const convertWrapperCb = (data) => {
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
 
-    if(transcription === "") return;
+    if(transcription === '') return;
 
     const output = convertToNormTranscription(transcription, root);
 
     console.log(output);
-}
+};
 
 // const file = path.join(__dirname, "../../output/roots.txt");
-const file = path.join(__dirname, "../../raw/Arabi__01__rocnik.txt");
+// const file = path.join(__dirname, "../../raw/Arabi__01__rocnik.txt");
 
 // readfile(file, convertRoot);
-readfile(file, convertWrapperCb);
+// readfile(file, convertWrapperCb);
+
+module.exports = convertToNormTranscription;

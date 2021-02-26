@@ -1,9 +1,9 @@
-const fs = require("fs");
-const path = require("path");
-const readfile = require("./readfile");
+const fs = require('fs');
+const path = require('path');
+const readfile = require('./readfile');
 
-const outputFileName = path.resolve(__dirname, "../output/tags.txt");
-const inputFileName = path.resolve(__dirname, "../raw/Arabi__01__rocnik.txt");
+const outputFileName = path.resolve(__dirname, '../output/tags.txt');
+const inputFileName = path.resolve(__dirname, '../raw/Arabi__01__rocnik.txt');
 
 const writeStream = fs.createWriteStream(outputFileName);
 
@@ -23,7 +23,7 @@ function sortTags(data, dataStream = writeStream) {
     const regexStems = /_kmen$/g;
     const regexSources = /^AR_|^text_|Hosnoviny|Ondrášoviny|slovnik_|^tema_/g;
 
-    tags.split(" ").forEach((tag) => {
+    tags.split(' ').forEach((tag) => {
         if(tag.match(regexCat)){
             uniqueCategories.add(tag);
         } else if(tag.match(regexStems)) {
@@ -40,7 +40,7 @@ function sortTags(data, dataStream = writeStream) {
 const getStream = (outputName) => {
     const outputFileName = path.resolve(__dirname, `../output/${outputName}.txt`);
     return fs.createWriteStream(outputFileName);
-}
+};
 
 const generateOutput = (outputName, valuesSet) => {
     const outputStream = getStream(outputName);
@@ -48,18 +48,18 @@ const generateOutput = (outputName, valuesSet) => {
     const sortedSet = Array.from(valuesSet).sort();
 
     sortedSet.forEach((item) => {
-        outputStream.write(item + "\n");
+        outputStream.write(item + '\n');
     });
-}
+};
 
 async function getTags() {
     // Write file with roots
     await readfile(inputFileName, sortTags);
 
-    generateOutput("categories", uniqueCategories);
-    generateOutput("sources", uniqueSources);
-    generateOutput("stems", uniqueStems);
-    generateOutput("tags", uniqueValues);
+    generateOutput('categories', uniqueCategories);
+    generateOutput('sources', uniqueSources);
+    generateOutput('stems', uniqueStems);
+    generateOutput('tags', uniqueValues);
 
 }
 

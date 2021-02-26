@@ -1,14 +1,14 @@
-const path = require("path");
-const readfile = require("./readfile");
+const path = require('path');
+const readfile = require('./readfile');
 
-const analyzeLatinCharsInAr = require("./analyze/latinCharsInAr");
-const analyzeLatinCharsInVal = require("./analyze/latinCharsInVal");
-const analyzeRoots = require("./analyze/roots");
-const { analyzeDuplicates, analyzeDeepDuplicates } = require("./analyze/duplicates");
-const {analyzeUncategorized, analyzeMissingVerbsNotation} = require("./analyze/tags");
-const analyzeTranscriptions = require("./analyze/transcription");
+const analyzeLatinCharsInAr = require('./analyze/latinCharsInAr');
+const analyzeLatinCharsInVal = require('./analyze/latinCharsInVal');
+const analyzeRoots = require('./analyze/roots');
+const { analyzeDuplicates, analyzeDeepDuplicates } = require('./analyze/duplicates');
+const {analyzeUncategorized, analyzeMissingVerbsNotation} = require('./analyze/tags');
+const analyzeTranscriptions = require('./analyze/transcription');
 
-const filename = path.resolve(__dirname, "../raw/Arabi__01__rocnik.txt");
+const filename = path.resolve(__dirname, '../raw/Arabi__01__rocnik.txt');
 
 /**
  * This analyzes raw source data and logs potential errors into output/logs

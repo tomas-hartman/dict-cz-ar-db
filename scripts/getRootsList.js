@@ -1,9 +1,9 @@
-const fs = require("fs");
-const path = require("path");
-const readfile = require("./readfile");
+const fs = require('fs');
+const path = require('path');
+const readfile = require('./readfile');
 
-const outputFileName = path.resolve(__dirname, "../output/roots.txt");
-const inputFileName = path.resolve(__dirname, "../raw/Arabi__01__rocnik.txt");
+const outputFileName = path.resolve(__dirname, '../output/roots.txt');
+const inputFileName = path.resolve(__dirname, '../raw/Arabi__01__rocnik.txt');
 
 const writeStream = fs.createWriteStream(outputFileName);
 
@@ -19,14 +19,14 @@ function getRoots(data, dataStream = writeStream) {
 
     if(!uniqueRoots.has(root)){
         uniqueRoots.add(root);
-        dataStream.write(root + "\n");
+        dataStream.write(root + '\n');
     }
 }
 
 // Write file with roots
 readfile(inputFileName, getRoots);
 
-console.log(uniqueRoots)
+console.log(uniqueRoots);
 
 
 module.exports = getRoots;

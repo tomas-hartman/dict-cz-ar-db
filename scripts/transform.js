@@ -1,28 +1,29 @@
 /**
  * Transforms proccessed output into csv formatted output ready to be imported into db
  */
-const fs = require("fs");
-const path = require("path");
-const readfile = require("./readfile");
+const fs = require('fs');
+const path = require('path');
+const readfile = require('./readfile');
 const ObjectsToCsv = require('objects-to-csv');
+const convertToNormTranscription = require('./convert/convertToNormTransctiption');
 
-const filename = "Arabi__01__rocnik";
-const inputFileName = path.resolve(__dirname, "../raw/" + filename + ".txt");
-const outputFileName = path.resolve(__dirname, "../output/" + filename + "__processed.csv");
+const filename = 'Arabi__01__rocnik';
+const inputFileName = path.resolve(__dirname, '../raw/' + filename + '.txt');
+const outputFileName = path.resolve(__dirname, '../output/' + filename + '__processed.csv');
 const writeStream = fs.createWriteStream(outputFileName);
 
 
-const getValues = (name) => {
-    const filePath = path.resolve(__dirname, "../output/" + name + ".txt");
+const getValues = (name) => {
+    const filePath = path.resolve(__dirname, '../output/' + name + '.txt');
 
-    return fs.readFileSync(filePath, "utf8").split("\n");
-}
+    return fs.readFileSync(filePath, 'utf8').split('\n');
+};
 
-const categories = getValues("categories");
-const roots = getValues("roots");
-const sources = getValues("sources");
-const stems = getValues("stems");
-const tags = getValues("tags");
+const categories = getValues('categories');
+const roots = getValues('roots');
+const sources = getValues('sources');
+const stems = getValues('stems');
+const tags = getValues('tags');
 
 
 const getId = (value, collection) => {
@@ -33,11 +34,11 @@ const getId = (value, collection) => {
     }
 
     return;
-}
+};
 
 
 function resolveTags(tagsString) {
-    const tagsArr = tagsString.split(" ");
+    const tagsArr = tagsString.split(' ');
 
     const outputCategory = [];
     const outputStem = [];
@@ -67,12 +68,12 @@ function resolveTags(tagsString) {
     });
 
     const output = {
-        tags: outputTags.join(" "),
-        category: outputCategory.join(" "),
-        source: outputSource.join(" "), // @todo
-        disabled: "false", // @todo: tag: is-disabled
-        stem: outputStem.join(" "),
-    }
+        tags: outputTags.join(' '),
+        category: outputCategory.join(' '),
+        source: outputSource.join(' '), // @todo
+        disabled: 'false', // @todo: tag: is-disabled
+        stem: outputStem.join(' '),
+    };
 
     return output;
 }
@@ -86,13 +87,14 @@ async function convertFile(data) {
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
 
     const rootId = getId(root, roots);
-    const {tags: _tags, category, source, disabled, stem} = resolveTags(tags)
+    const {tags: _tags, category, source, disabled, stem} = resolveTags(tags);
+    const normTranscription = convertToNormTranscription(transcription, root);
     // resolveAr() // checks data for plural, masdar, stem_vowel
 
     const output = {
         ar,
         cz,
-        norm: "",
+        norm: '',
         cat_id: category,
         root_id: rootId,
         stem: stem,
@@ -100,14 +102,14 @@ async function convertFile(data) {
         plural: null,
         masdar: null,
         val,
-        transcription,
+        transcription: normTranscription,
         meaning_variant: null,
         synonyms_ids: syn,
         tags_ids: _tags,
         examples_ids: example, // todo
         source_ids: source,
         disabled,
-    }
+    };
 
 
     // console.log();
@@ -138,9 +140,9 @@ const outputKeys = {
     examples_ids: null, // todo
     source_ids: null,
     disabled: null,
-}
+};
 
-const firstLine = Object.keys(outputKeys).join(",");
-writeStream.write(firstLine + "\n");
+const firstLine = Object.keys(outputKeys).join(',');
+writeStream.write(firstLine + '\n');
 readfile(inputFileName, convertFile);
 

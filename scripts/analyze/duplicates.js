@@ -1,25 +1,25 @@
-const fs = require("fs");
-const path = require("path");
-const readfile = require("../readfile");
+const fs = require('fs');
+const path = require('path');
+const readfile = require('../readfile');
 
-const inputFileName = path.resolve(__dirname, "../../raw/Arabi__01__rocnik.txt");
-const outputFileName = path.resolve(__dirname, "../../output/logs/duplicates.txt");
+const inputFileName = path.resolve(__dirname, '../../raw/Arabi__01__rocnik.txt');
+const outputFileName = path.resolve(__dirname, '../../output/logs/duplicates.txt');
 
 const writeStreamDuplicates = fs.createWriteStream(outputFileName);
-const normalizeAr = require("../normalize/normalizeAr");
+const normalizeAr = require('../normalize/normalizeAr');
 
 const chunks = new Set();
 const chunksStore = {};
 const ignored = [
-    "ات",
-    "في",
-    "إلى",
-    "على",
-    "من",
-    "عن",
-    "ون",
-    "أن",
-]
+    'ات',
+    'في',
+    'إلى',
+    'على',
+    'من',
+    'عن',
+    'ون',
+    'أن',
+];
 
 /**
  * Analyzes data and then 1) store it into global var chunksStore, 2) [optionally] output them
@@ -35,7 +35,7 @@ function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dat
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
 
     const normAr = normalizeAr(ar);
-    const arChunks = normAr.split(" ");
+    const arChunks = normAr.split(' ');
 
     if(deepDuplicates) {
         for(let i = 0 ; i<arChunks.length; i++){
@@ -47,7 +47,7 @@ function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dat
                 continue;
             }
     
-            outputData && dataStream.write(data.join("\t") + "\n");
+            outputData && dataStream.write(data.join('\t') + '\n');
             break;
         }
     } else {
@@ -60,7 +60,7 @@ function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dat
             
         } else {
             chunksStore[currentChunk] = [data, ...chunksStore[currentChunk]];
-            outputData && dataStream.write(data.join("\t") + "\n");
+            outputData && dataStream.write(data.join('\t') + '\n');
         }
     }
 }
@@ -79,12 +79,12 @@ async function proccessChunkStore(writeOutput = true, dataStream = writeStreamDu
 
             const outputArr = chunksStore[data].map((lineData) => {
                 // console.log(lineData.join("\t"))
-                const string = lineData.join("\t");
+                const string = lineData.join('\t');
                 return string;
             });
 
-            dataStream.write(outputArr.join("\n") + "\n\n")
-            return outputArr.join("\n");
+            dataStream.write(outputArr.join('\n') + '\n\n');
+            return outputArr.join('\n');
         }
     });
 }
@@ -94,7 +94,7 @@ async function proccessChunkStore(writeOutput = true, dataStream = writeStreamDu
  */
 const analyzeDeepDuplicates = () => {
     readfile(inputFileName, (data) => analyzeDuplicates(data, true, true));
-}
+};
 
 /**
  * Tři způsoby jak checkovat duplicity. Lepší je proccessChunkStore(), protože vrací setřízený seznam duplicit vedle sebe.

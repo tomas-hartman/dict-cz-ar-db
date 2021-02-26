@@ -2,13 +2,13 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 أَثْرٌ (آثَارٌ),"stopa, pamětihodnost, památka",,9,1,,,,,,,,,23,,20,false
 آلَةٌ,stroj,,9,2,,,,,,,,,23,,20,false
 بَعِيدٌ (من بَعِيدٍ),vzdálený,,1,3,,,,,,,,,,,20,false
-تَابُوتٌ (تَوَابِيتُ),rakev,,9,4,,,,,,tábútun tawábítu,,,23,,20,false
+تَابُوتٌ (تَوَابِيتُ),rakev,,9,4,,,,,,tābūtun tawābītu,,,23,,20,false
 جِرَاحِيٌّ,chirurgický,,1,5,,,,,,,,,,,20,false
 جَيِّداً,dobře,,2,6,,,,,,,,,,,20,false
 حُجْرةٌ (حُجَرٌ),pokoj,,9,7,,,,,,,,,14,,20,false
 حَدِيقَةٌ (حَدَائِقُ),zahrada,,9,8,,,,,,,,,14 40,,20,false
 حَضَارَةٌ,"civilizace, kultura",,9,9,,,,,,,,,23,,20,false
-حَيْثَ,"kde (vztažná spojka); neboť, protože",,8,10,,,,,,7ajthu,,,47,,1 18 20,false
+حَيْثَ,"kde (vztažná spojka); neboť, protože",,8,10,,,,,,ḥajṯu,,,47,,1 18 20,false
 حَيَوَانٌ (ات),"""zvíře, """"živočich""""""",,9,11,,,,,,,,,63,,20,false
 خَالِصٌ,ryzí,,1,12,,,,,,,,,,,20,false
 خَشَبٌ,dřevo,,9,13,,,,,,,,,36 63,,20,false
@@ -17,7 +17,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 رَجُلٌ (رِجَالٌ),muž,,9,16,,,,,,,,,32,,20,false
 صَخْرِيٌّ,skalnatý,,1,17,,,,,,,,,36 47,,1 20,false
 مَصْنُوعٌ,"vyrobený, zhotovený",,1,18,,,,,,,,,,,20,false
-مَعْبَدٌ (مَعَابِدُ),chrám,,9,19,,,,,,ma3badun ma3ábidu,,,9 23,,20,false
+مَعْبَدٌ (مَعَابِدُ),chrám,,9,19,,,,,,maʿbadun maʿābidu,,,9 23,,20,false
 مِعْمَارٌ,architektura,,9,20,,,,,,,,,7 9 23 77,,20,false
 عَمَلٌ (أَعْمَالٌ),práce (na),,9,21,,,,,على,,,,59,,20,false
 مَقْبَرةٌ (مَقَابِرُ),hrobka,,9,22,,,,,,,,,9 23,,20,false
@@ -28,97 +28,97 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 هَرَمٌ (أَهْرَامٌ),pyramida,,9,27,,,,,,,,,9 23 47,,1 20,false
 قَيِّمٌ,"cenný, hodnotný",,1,28,,,,,,,,,,,20,false
 مَعْرُوفٌ,"proslulý, známý",,1,29,,,,,,,,,47,,1 20,false
-ضَيْفٌ (ضُيُوفٌ),host,,9,30,,,,,,Dajfun Dujúfun,,,32,,20,false
+ضَيْفٌ (ضُيُوفٌ),host,,9,30,,,,,,ḍajfun ḍujūfun,,,32,,20,false
 فَتَاةٌ (فَتَيَاتٌ),mladé ženy,,9,31,,,,,,,,,32,,20,false
 وَلَدٌ (أَوْلاَدُ),mladý chlapec,,9,32,,,,,,,,,32,,20,false
 سُؤَالٌ (أَسئِلَةُ),otázka,,9,33,,,,,,,,,49,,20,false
 إِجَابَةٌ (ات),odpověď,,9,34,,,,,,,,رَدٌّ (رُدُودٌ)، جَوَابٌ (أَجْوِبَةٌ),47 49,,1 11 20,false
 سَهْلٌ,snadný,,1,35,,,,,,,,,,,20,false
-صَحِيحٌ,"správný, správně",,1,36,,,,,,SaHíHun,,,,,13 20,false
+صَحِيحٌ,"správný, správně",,1,36,,,,,,ṣaḥīḥun,,,,,13 20,false
 مُشْكِلةٌ (مَشَاكِلُ),problém,,9,37,,,,,,,,,49,,20,false
-قَامُوسٌ (قَوَامِيسُ),"slovník; lexikon, registr",,9,38,,,,,,qámúsun (qawámísu),,,28 61 88,,1 13 20,false
+قَامُوسٌ (قَوَامِيسُ),"slovník; lexikon, registr",,9,38,,,,,,qāmūsun (qawāmīsu),,,28 61 88,,1 13 20,false
 صَحْفِيّ (ون),novinář,,9,39,,,,,,,,,59,,20,false
-مَكَانٌ (أَمَاكِنُ),místo,,9,40,,,,,,makánun amákinu,,,38,,20,false
+مَكَانٌ (أَمَاكِنُ),místo,,9,40,,,,,,makānun amākinu,,,38,,20,false
 "تُرْكِيٌ (أَتْرَاكٌ, تُركٌ)","turek, Turecký",,1,41,,,,,,,,,73,,20,false
-صَدَرَ (ـُ) صُدُورٌ {1},"vyjít, být vydán (kniha)",,7,42,7,,,,,Sadara jaSduru,,,,,13 20,false
+صَدَرَ (ـُ) صُدُورٌ {1},"vyjít, být vydán (kniha)",,7,42,7,,,,,ṣadara jaṣduru,,,,,13 20,false
 حَجَزَ,"zarezervovat, zamluvit (něco)",,7,43,7,,,,هـ,,,,,,20,false
-مُفِيدٌ,"užitečný, prospěšný",,1,44,,,,,,mufídun,,,,,13 20,false
+مُفِيدٌ,"užitečný, prospěšný",,1,44,,,,,,mufīdun,,,,,13 20,false
 إِرْهَابِيٌّ,"terorista, teroristický",,1,45,,,,,,,,,59,,20,false
 مُمتَازٌ,"výborný, vynikající",,1,46,,,,,,,,,,,20,false
 شَرقِيٌ,"východní, orientální",,1,47,,,,,,,,,,,20,false
-مُضِيفَةٌ,stewardka (hosteska),,9,30,,,,,,muDífatun,,,47 59,,1 20,false
+مُضِيفَةٌ,stewardka (hosteska),,9,30,,,,,,muḍīfatun,,,47 59,,1 20,false
 مُوَظَّفٌ,zaměstnaný,,1,48,,,,,,,,,47,,1 20,false
 الخُطُوطُ الجَوِيَةُ,aerolinie (letecké linky),,5,49,,,,,,,,,47 49 72,,1 20,false
-وَفْدٌ (وُفُودٌ),delegace,,9,50,,,,,,wafd wufúd,,,45 47,,1 20,false
+وَفْدٌ (وُفُودٌ),delegace,,9,50,,,,,,wafd wufūd,,,45 47,,1 20,false
 مَطْعَمٌ (مَطَاعِمُ),restaurace,,9,51,,,,,,,,,9 40 45,,20,false
 زِرَاعِيٌّ,zemědělský,,1,52,,,,,,,,,,,20,false
 الخَارِجُ,"zahraničí, cizina",,9,53,,,,,,,,,38,,20,false
 خَبَرٌ (أَخْبَارٌ),zpráva,,9,54,,,,,,,,,60,,20,false
-عَامِلٌ (عَامِلُونَ),pracovník,,9,21,,,,,,3ámilun (3ámilúna),,,32 47 59,,1 20,false
+عَامِلٌ (عَامِلُونَ),pracovník,,9,21,,,,,,ʿāmilun (ʿāmilūna),,,32 47 59,,1 20,false
 "قَلِيلٌ (قَلاَئِلُ , قِلاَلٌ)","malý, nepočetný",,1,55,,,,,,,,,47,,1 20,false
 لَيلٌ (لَيَالٍ),noc,,9,56,,,,,,,,,85,,20,false
-وَجَدَ (ـِ/يَجِدُ) وُجُودٌ,"najít něco, někoho, zjistit něco",,7,57,7,,,,"هـ, ه (عن)",wadžada (jadžidu) wudžúdun,,,6 66,,20,false
+وَجَدَ (ـِ/يَجِدُ) وُجُودٌ,"najít něco, někoho, zjistit něco",,7,57,7,,,,"هـ, ه (عن)",waǧada (jaǧidu) wuǧūdun,,,6 66,,20,false
 أَخَذَ,vzít něco,,7,58,7,,,,هـ,,,,6 66,,20,false
 طَلَبَ (ـُ) طَلَبٌ/طَلَبَاتٌ,žádat (něco),,7,59,7,,,,هـ,,,,,,20,false
 قَرَأَ (ـَـ),číst něco,,7,60,7,,,,هـ,,,,66,,20,false
 نَزَلَ,ubytovat se v,,7,25,7,,,,في,,,,34,,20,false
 شَكَرَ,poděkovat někomu za něco,,7,61,7,,,,ه على,,,,,,20,false
 وَضَعَ (ـَ) وَضْعُ,"položit, umístit (1); dát něco někam (2); vytvořit, vypracovat (3); porodit (4)",,7,62,7,,,,هـ,,,,6 66,,20,false
-بَعَثَ (ـَ) بَعْثٌ,poslat někomu něco,,7,63,7,,,,إلى/لِـ بِـ,ba3atha (jab3athu) ba3thun,,,,بعث الأستاذ لي/إليَّ بكتابٍ ممتعة.,20,false
+بَعَثَ (ـَ) بَعْثٌ,poslat někomu něco,,7,63,7,,,,إلى/لِـ بِـ,baʿaṯa (jabʿaṯu) baʿṯun,,,,بعث الأستاذ لي/إليَّ بكتابٍ ممتعة.,20,false
 رَكِبَ,svézt se něčím,,7,64,7,,,,هـ,,,,,,20,false
 سَأَلَ (ـَـ) سؤال/مسألة,zeptat se někoho na něco,,7,33,7,,,,ه عن,,,,5 66,سألت سكاناً عن طريقِ.,20,false
 أَكَلَ,sníst něco,,7,65,7,,,,هـ,,,,6 66,,20,false
-خَاطَبَ,"oslovit koho, obrátit se na koho",,7,66,3,,,,,cháTaba,,,,,13 20,false
+خَاطَبَ,"oslovit koho, obrátit se na koho",,7,66,3,,,,,ḫāṭaba,,,,,13 20,false
 إمرَأَةٌ (نِسَاءُ),žena,,9,67,,,,,,,,,32,,20,false
 مُعَسكرٌ,tábor,,9,68,,,,,,,,,38,,20,false
 خِلاَلَ,během,,6,69,,,,,,,,,,,20,false
-إجَازَةٌ,dovolená,,9,70,,,,,,idžázatun,,,19,,13 20,false
+إجَازَةٌ,dovolená,,9,70,,,,,,iǧāzatun,,,19,,13 20,false
 وَحدَ,"sám, sami",,2,71,,,,,+ zájmenná přípona,,,,49,وحدها، وحدهم,20,false
 مِنحَةٌ (منَحٌ),stipendium,,9,72,,,,,,minhatun (minahun),,,88,,13 20,false
-إِقَامَةٌ {1},"pobyt (1); pořádání, uspořádání (2)",,9,73,,,,,,iqámatun,,,19 88,,20 24,false
+إِقَامَةٌ {1},"pobyt (1); pořádání, uspořádání (2)",,9,73,,,,,,iqāmatun,,,19 88,,20 24,false
 دِرَاسِيٌ,studijní,,1,74,,,,,,,,,88,,20,false
-مَعْهَدٌ (مَعَاهِدُ),ústav,,9,75,,,,,,ma3hadun (ma3áhidu),,,9 88,,13 20,false
+مَعْهَدٌ (مَعَاهِدُ),ústav,,9,75,,,,,,maʿhadun (maʿāhidu),,,9 88,,13 20,false
 أَنَّ,že,,8,76,,,,,akuzativ podmětu +,anna,,,,,20,false
 بِالنِسبَةِ لِـ,pro; pokud jde o ...,,8,77,,,,,,bi-n-nisbati li...,,,,,13 20 27,false
-حَالِيٌّ,současný,,1,78,,,,,,Hálíjun,,رَاهِنٌ، مُعَاصِرٌ,,,13 20,false
+حَالِيٌّ,současný,,1,78,,,,,,ḥālījun,,رَاهِنٌ، مُعَاصِرٌ,,,13 20,false
 وَضَعٌ (أَوضَاعٌ),"společenská situace, poměry",,9,62,,,,,,,,,49,,20,false
-ثَقَافَةٌ,kultura,,9,79,,,,,,thaqáfatun,,,7 49,,13 20,false
-مِنطَقَةٌ (مَنَاطِقُ),oblast,,9,80,,,,,,mintaqatun (manátiqu),,,34 38 47,,1 13 20,false
+ثَقَافَةٌ,kultura,,9,79,,,,,,ṯaqāfatun,,,7 49,,13 20,false
+مِنطَقَةٌ (مَنَاطِقُ),oblast,,9,80,,,,,,mintaqatun (manātiqu),,,34 38 47,,1 13 20,false
 سَفَرٌ,"cesta, cestování",,9,81,,,,,,safarun,,,7 49,,13 20,false
-رَاجَعَ,"projet si, zopakovat si",,7,82,3,,,,,rádža3a,,,,,20,false
+رَاجَعَ,"projet si, zopakovat si",,7,82,3,,,,,rāǧaʿa,,,,,20,false
 رَجَعَ (ـِ),vrátit se,,7,82,7,,,,,,,,,,20,false
-تَمْرِينٌ,cvičení (úloha),,9,83,,,,,,tamrínun,,,47 87 88,,1 13 20,false
+تَمْرِينٌ,cvičení (úloha),,9,83,,,,,,tamrīnun,,,47 87 88,,1 13 20,false
 نَصٌّ (نُصُوصٌ),text,,9,84,,,,,,,,,87 88,,20,false
 دَرْسٌ (دُرُوسٌ),"školní hodina, lekce",,9,74,,,,,,,,,88,,20,false
 مُحَاضَرَةٌ,přednáška,,9,9,,,,,,,,,87 88,,20,false
-غَادَرَ,"odjet (odkud kam), vazba jako leave (x for /ilá/ y)",,7,85,3,,,,هـ إلى,ghádara -hu ilá,,,,,13 20,false
-خامِسٌ,pátý,,1 4,86,,,,,,chámisun,,,,,13 20,false
-يُولِْيُو,červenec,,9,87,,,,,,júlijú,,,85,,13 20,false
-بَاكِرٌ,časný,,1,88,,,,,,bákirun,,,85,,13 20,false
+غَادَرَ,"odjet (odkud kam), vazba jako leave (x for /ilá/ y)",,7,85,3,,,,هـ إلى,ghādara -hu ilā,,,,,13 20,false
+خامِسٌ,pátý,,1 4,86,,,,,,ḫāmisun,,,,,13 20,false
+يُولِْيُو,červenec,,9,87,,,,,,jūlijū,,,85,,13 20,false
+بَاكِرٌ,časný,,1,88,,,,,,bākirun,,,85,,13 20,false
 أَحَدٌ (إِحدَى),jeden (jedna),,4 9,89,,,,,,,,,,,20,false
-مَطَارٌ,letiště,,9,90,,,,,,maTárun,,,9 12 40,,13 20,false
-مَسُؤُولٌ,"zodpovědný představitel, činitel",,1,33,,,,,,mas'ūlun,,,32 59,,13 20,false
-فُصحَى,spisovný jazyk,,9,91,,,,,,fuSHá,,,88,,20,false
+مَطَارٌ,letiště,,9,90,,,,,,maṭārun,,,9 12 40,,13 20,false
+مَسُؤُولٌ,"zodpovědný představitel, činitel",,1,33,,,,,,masʾūlun,,,32 59,,13 20,false
+فُصحَى,spisovný jazyk,,9,91,,,,,,fuṣḥā,,,88,,20,false
 أوَّلاً,"nejprve, nejdříve",,2 4,2,,,,,,awwalan,,,,,13 20 23,false
 إِنْتَقَلَ,"přesunout se, přejít, přestěhovat se",,7,92,8,,,,إلى,,,,,,20,false
 تالٍ (التالي),"další, následující",,2,93,,,,,,,,,,,20,false
-مَبْسُوطٌ,spokojený,,1,94,,,,,,mabsúTun,,,,,13 20,false
+مَبْسُوطٌ,spokojený,,1,94,,,,,,mabsūṭun,,,,,13 20,false
 أَمَّا... فَــ...,jde-li o... pak...,,5 8,95,,,,,,,,,,,20,false
-مُمْتِعٌ,"příjemný, zajímavý; požitek přinášející, zábavný",,1,96,,,,,,mumti3un,,,,,1 13 20,false
-تَعَلَّمَ,"učit se, naučit se",,7,97,11,,,,هــ,ta3allama,,,,,13 20,false
-قِرَاءَةٌ,čtení,,9,60,,,,,,qirá'atun,,,18 26 88,,13 20,false
-نَظَّمَ,organizovat něco,,7,98,4,,,,هــ,naZZama,,,,,13 20,false
-صَوَّرَ,"fotografovat, zobrazovat; líčit",,7,99,4,,,,,Sawwara,,,5 66,,13 20,false
-عَامِّيَّة,"hovorový jazyk, dialekt",,9,100,,,,,,3ámmíjatun,,,24 88,,13 20,false
-صَعْبٌ,"těžký, obtížný",,1,101,,,,,,Sa3bun,,,,,20,false
+مُمْتِعٌ,"příjemný, zajímavý; požitek přinášející, zábavný",,1,96,,,,,,mumtiʿun,,,,,1 13 20,false
+تَعَلَّمَ,"učit se, naučit se",,7,97,11,,,,هــ,taʿallama,,,,,13 20,false
+قِرَاءَةٌ,čtení,,9,60,,,,,,qirāʾatun,,,18 26 88,,13 20,false
+نَظَّمَ,organizovat něco,,7,98,4,,,,هــ,naẓẓama,,,,,13 20,false
+صَوَّرَ,"fotografovat, zobrazovat; líčit",,7,99,4,,,,,ṣawwara,,,5 66,,13 20,false
+عَامِّيَّة,"hovorový jazyk, dialekt",,9,100,,,,,,ʿāmmījatun,,,24 88,,13 20,false
+صَعْبٌ,"těžký, obtížný",,1,101,,,,,,ṣaʿbun,,,,,20,false
 خَاصَّةً,"zejména, (ob)zvláště, především",,2,102,,,,,,,,,,,13 20,false
 يَومٌ (أَيَّامٌ),den,,9,103,,,,,,,,,49 85,,20,false
 أَوَّلٌ -- أُوْلَى,první,,1 4,2,,,,,,,,,,,20,false
 فَهِمَ (ـَـ),rozumět,,7,104,7,,,,,fahima jafhamu,,,,,13 20,false
-عَاشِرٌ,desátý,,1 4,105,,,,,,3áširun,,,,,13 20,false
+عَاشِرٌ,desátý,,1 4,105,,,,,,ʿāširun,,,,,13 20,false
 شَهْرٌ,měsíc,,9,106,,,,,,,,,49 85,,20,false
-أَغُسْطُس / أَوْتٌ,srpen (levanta / maghreb),,9,87,,,,,,aghusTus,,,41 85,,13 20,false
-مُسَاعَدَةٌ,pomoc,,9,107,,,,,,musá3adatun,,,7,,13 20,false
+أَغُسْطُس / أَوْتٌ,srpen (levanta / maghreb),,9,87,,,,,,aghusṭus,,,41 85,,13 20,false
+مُسَاعَدَةٌ,pomoc,,9,107,,,,,,musāʿadatun,,,7,,13 20,false
 زار,"navštívit, vz. qála",,7,108,7,,,,ه/هــ,,,,5 47 66,,1 20,false
 قَالَ,"říct, že...",,7,109,7,,,,إِنَّ,,,,5 66,,20,false
 قَضَى (ـِ، يَقْضِي),strávit časově,,7,110,7,,,,هـ,,,,3 66 79,,20,false
@@ -138,142 +138,142 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 رَضِيَ,být spokojen (být rád),,7,123,7,,,,,,,,47 66,,1 20,false
 نَامَ,"spát, usnout, vzor. qála",,7,124,7,,,,,,,,5 66,,20,false
 "تَرَكَ (ـُـ, تَرْكٌ)","zanechat, nechat, opustit",,7,125,7,,,,,,,,47,,1 20,false
-سَعِيدٌ (سُعَدَاءُ),šťastný,,1,107,,,,,,sa3ídun (su3adá'u),,,,,13 20,false
+سَعِيدٌ (سُعَدَاءُ),šťastný,,1,107,,,,,,saʿīdun (suʿadāʾu),,,,,13 20,false
 أُسْبُوعٌ (أَسَابِيَعُ),týden,,9,126,,,,,,,,,85,,20,false
-تَارِيخٌ (تَوَارِيخُ),"dějiny, historie",,9,127,,,,,,táríchun,,,23,,13 20,false
-لا ... بَعْدَ,ještě ne,,8,3,,,,,,lá ... ba3da,,,,,13,false
-بَغْلٌ (أَبْغَالٌ),mezek,,9,128,,,,,,baghlun abghálun,,,,,13,false
-تَاجِرٌ (تُجَّارٌ),"kupec, obchodník",,9,129,,,,,,tádžirun tudždžárun,,,,,13,false
-ترجمة (تراجمُ),překlad,,9,130,,,,,,tardžamatun tarádžimu,,,,,13,false
+تَارِيخٌ (تَوَارِيخُ),"dějiny, historie",,9,127,,,,,,tārīḫun,,,23,,13 20,false
+لا ... بَعْدَ,ještě ne,,8,3,,,,,,lā ... baʿda,,,,,13,false
+بَغْلٌ (أَبْغَالٌ),mezek,,9,128,,,,,,baghlun abghālun,,,,,13,false
+تَاجِرٌ (تُجَّارٌ),"kupec, obchodník",,9,129,,,,,,tāǧirun tuǧǧārun,,,,,13,false
+ترجمة (تراجمُ),překlad,,9,130,,,,,,tarǧamatun tarāǧimu,,,,,13,false
 تَالٍ,následující,,1,93,,,,,,,,,,,13,false
-تَمْرٌ (تُمُورٌ),datle,,9,131,,,,,,tamrun tumúrun,,,50,,2 13,false
-جَاهِزٌ,"hotový, připravený",,1,132,,,,,,džáhizun,,,,,13,false
-حَدَثَ (ـُ) حُدُوثٌ,"stát se, přihodit se (zcela neutrální význam)",,7,133,7,,,,,hadatha jadhuthu,,,,,13 20,false
+تَمْرٌ (تُمُورٌ),datle,,9,131,,,,,,tamrun tumūrun,,,50,,2 13,false
+جَاهِزٌ,"hotový, připravený",,1,132,,,,,,ǧāhizun,,,,,13,false
+حَدَثَ (ـُ) حُدُوثٌ,"stát se, přihodit se (zcela neutrální význam)",,7,133,7,,,,,hadaṯa jaḏuṯu,,,,,13 20,false
 حَرٌّ,"teplo, horko",,9,134,,,,,,harrun,,,,,13,false
-حَضَرَ (ـُ) حُضُورٌ,zúčastnit se (něčeho) (1); dostavit se (někam) (2),,7,9,7,,,,إلى/هـ,HaDara jaHDuru HuDúrun,,,,,13,false
-حكاية,"příběh, vyprávění",,9,135,,,,,,Hikájatun,,,28,,13 20,false
-حِمَارٌ (حَمِيرٌ),osel,,9,136,,,,,,himárun hamírun,,,,,13,false
-خِبْرَةٌ,zkušenost (s/v),,9,54,,,,,بـ/في,chibratun,,,,,13 20,false
-من خِلال,prostřednictvím,,2,69,,,,,,min xiláli,,,,,13,false
-مرعوب,"vylekaný, vystrašený",,1,137,,,,,,mar3úbun,,,31 47,,1 13,false
+حَضَرَ (ـُ) حُضُورٌ,zúčastnit se (něčeho) (1); dostavit se (někam) (2),,7,9,7,,,,إلى/هـ,ḥaḍara jaḥḍuru ḥuḍūrun,,,,,13,false
+حكاية,"příběh, vyprávění",,9,135,,,,,,ḥikājatun,,,28,,13 20,false
+حِمَارٌ (حَمِيرٌ),osel,,9,136,,,,,,himārun hamīrun,,,,,13,false
+خِبْرَةٌ,zkušenost (s/v),,9,54,,,,,بـ/في,ḫibratun,,,,,13 20,false
+من خِلال,prostřednictvím,,2,69,,,,,,min xilāli,,,,,13,false
+مرعوب,"vylekaný, vystrašený",,1,137,,,,,,marʿūbun,,,31 47,,1 13,false
 رَغِبَ (ـَ),"přát si něco, toužit po",,7,138,7,,,,في,raghba jarghabu fī,,,,,13 20,false
-مسحور,"očarovaný, okouzlený",,1,139,,,,,,mashúrun,,,47,,1 13,false
-سريع,"rychlý, expresní",,1,140,,,,,,sarí3un,,,,,13,false
-سَمَاعٌ,"naslouchání, slyšení",,9,141,,,,,,samá3un,,,,,13,false
-سِيَاحِيٌ,turistický,,1,142,,,,,,sijáhíjun,,,,,13,false
-سَيْفٌ (سُيُوفٌ),meč,,9,143,,,,,,sajfun (sujúfun),,,,,13,false
-شَدِيدٌ,"silný (ostrý, výrazný)",,1,144,,,,,,šadídun,,,34 53,,13 20,false
-"شَعَرَ (ـُـ, شُعُورٌ)","cítit se, cítit (ne čichem)",,7,145,7,,,,بــ,ša3ara jaš3uru,,,,,13 20,false
-ضَرَبَ (ـِـ),"bít, uhodit",,7,146,7,,,,,Daraba jaDribu,,,,,13,false
+مسحور,"očarovaný, okouzlený",,1,139,,,,,,mashūrun,,,47,,1 13,false
+سريع,"rychlý, expresní",,1,140,,,,,,sarīʿun,,,,,13,false
+سَمَاعٌ,"naslouchání, slyšení",,9,141,,,,,,samāʿun,,,,,13,false
+سِيَاحِيٌ,turistický,,1,142,,,,,,sijāhījun,,,,,13,false
+سَيْفٌ (سُيُوفٌ),meč,,9,143,,,,,,sajfun (sujūfun),,,,,13,false
+شَدِيدٌ,"silný (ostrý, výrazný)",,1,144,,,,,,šadīdun,,,34 53,,13 20,false
+"شَعَرَ (ـُـ, شُعُورٌ)","cítit se, cítit (ne čichem)",,7,145,7,,,,بــ,šaʿara jašʿuru,,,,,13 20,false
+ضَرَبَ (ـِـ),"bít, uhodit",,7,146,7,,,,,ḍaraba jaḍribu,,,,,13,false
 ظَهَرَ (ـَ) ظُهُورٌ,"objevit se, ukázat se",,7,147,7,,,,,zahara jazharu,,,34,,13 25,false
-عَجِيبٌ,"podivuhodný, zvláštní, neobvyklý",,1,148,,,,,,3adžíbun,,,54,,13,false
-فجأة,náhle,,2,149,,,,,,fadžatan,,,,,13,false
+عَجِيبٌ,"podivuhodný, zvláštní, neobvyklý",,1,148,,,,,,ʿaǧībun,,,54,,13,false
+فجأة,náhle,,2,149,,,,,,faǧatan,,,,,13,false
 فرحة,"radost, potěšení",,9,150,,,,,,farhatun,,,,,13,false
-مقابَلَة,schůzka (1); setkání (2),,9,151,,,,,,muqábalatun,,,45 47,,1 13 20,false
-استقبال,"přijetí, přivítání",,9,151,,,,,,istiqbálun,,,,,13,false
+مقابَلَة,schůzka (1); setkání (2),,9,151,,,,,,muqābalatun,,,45 47,,1 13 20,false
+استقبال,"přijetí, přivítání",,9,151,,,,,,istiqbālun,,,,,13,false
 تَقَدَّمَ,"postoupit, přistoupit",,7,152,11,,,,,taqaddama,,,47,,1 13,false
-قَذَفَ (ـِ),"házet, vrhat",,7,153,7,,,,,qadhafa jaqdhifu,,,,,13,false
+قَذَفَ (ـِ),"házet, vrhat",,7,153,7,,,,,qaḏafa jaqḏifu,,,,,13,false
 قِصَّةٌ (قِصَصٌ),"povídka, příběh",,9,154,,,,,,qissatun (qisasun),,,34,,13,false
 قائمٌ {1},"spočívající na, vycházející z (1); stojící na {obou nohách} (2)",,1,155,,,,,على {ٱلْقَدَمَيْنِ},,,,,,13,false
-كافٍ / كَافِيَّة,dostačující,,1,156,,,,,,káfin,,,,,13,false
+كافٍ / كَافِيَّة,dostačující,,1,156,,,,,,kāfin,,,,,13,false
 لَحْظَةٌ (لَحَظَاتٌ),"okamžik, chvíle",,9,157,,,,,,lahzatun,,,,,13,false
 أَمْسَكَ,"držet, svírat, uchopit",,7,158,5,,,,بـ,amsaka (bi),,,,,13,false
 مَنَحَ (ـَ),udělit,,7,72,7,,,,ه هـ,manaha jamnahu,,,13,,13,false
-مُنْذُ,"(již) od, před (časově)",,6,159,,,,,,mundhu,,,,,13,false
-مَالٌ (أَمْوَالٌ),majetek,,9,160,,,,,,málun amwálun,,,34,,13,false
-نجدة,záchrana,,9,161,,,,,,nadždatun,,,31 47,,1 13,false
-مندوب,"zástupce, delegát",,9,162,,,,,,mandúbun,,,,,13,false
-نص,text,,9,84,,,,,,naSSun nuSúSun,,,34,,13,false
-اِنْتَقَلَ,"přestěhovat se, přesunout se",,7,92,8,,,,إلى,intaqala ilá,,,,,13 20 23,false
+مُنْذُ,"(již) od, před (časově)",,6,159,,,,,,munḏu,,,,,13,false
+مَالٌ (أَمْوَالٌ),majetek,,9,160,,,,,,mālun amwālun,,,34,,13,false
+نجدة,záchrana,,9,161,,,,,,naǧdatun,,,31 47,,1 13,false
+مندوب,"zástupce, delegát",,9,162,,,,,,mandūbun,,,,,13,false
+نص,text,,9,84,,,,,,naṣṣun nuṣūṣun,,,34,,13,false
+اِنْتَقَلَ,"přestěhovat se, přesunout se",,7,92,8,,,,إلى,intaqala ilā,,,,,13 20 23,false
 نَهَضَ (ـَ) نُهُوضٌ,vstát; zvednout se,,7,163,7,,,,,nahada,,,47,,1 13 20,false
-متنوع,"rozličný, rozmanitý",,1,164,,,,,,mutanawwi3un,,,,,13,false
-نَوَاةٌ (نَوىً),pecka,,9,165,,,,,,nawátun nawan,,,47,,1 13,false
-هدية,"dar, dárek",,9,166,,,,,,hadíjatun (hadájá),,,,,13,false
-ولهذا,(a) proto,,8,167,,,,,,walihádhá,,,,,13,false
-وَصَلَ (ـِ),"přijet, dorazit, dospět (k)",,7,168,7,,,,إلى,waSala jaSilu,,,6 66,,13,false
-وَقْتٌ (أَوْقَاتٌ),"čas, doba",,9,169,,,,,,waqtun (awqátun),,,85,,13 20,false
-مؤسسة,"instituce, podnik",,9,170,,,,,,mu'assasatun,,,47,,1 14,false
-الخ. (= إلى آخره),atd.,,,171,,,,,,ilch. (ilá áchirihi),,,82,,14,false
-أَمِينٌ (أُمَنَاءُ),tajemník,,9,172,,,,,,amínun (umaná'u),,,45 59,,14 20,false
-فيما بعد,později,,8,3,,,,,,fí má ba3du,,,,,14,false
-بوّاب,"vrátný, domovník; dveřník",,9,173,,,,,,bawwábun,,,59,,14 23,false
-بَيَانٌ (ات),"""údaj; oznámení, prohlášení; """"potaz""""""",,9,174,,,,,,bajánun,,,45,,14 20,false
-تجارة,"obchod, obchodní činnost",,9,129,,,,,,tidžáratun,,,,,14,false
-أثناءَ,během,,6,,,,,,,athná'a,,,,,14,false
-جدول,"rozvrh, rozpis",,9,175,,,,,,džadwalun (džadáwilu),,,47,,1 14,false
-جمعية,"shromáždění, sdružení",,9,176,,,,,,džam3íjatun,,,,,14,false
-جميع,všechen,,1,176,,,,,,džamí3un,,,,,14,false
-تَجَوَّلَ,projít se,,7,177,11,,,,,tadžawwala,,,5 66,,14 20,false
+متنوع,"rozličný, rozmanitý",,1,164,,,,,,mutanawwiʿun,,,,,13,false
+نَوَاةٌ (نَوىً),pecka,,9,165,,,,,,nawātun nawan,,,47,,1 13,false
+هدية,"dar, dárek",,9,166,,,,,,hadījatun (hadājā),,,,,13,false
+ولهذا,(a) proto,,8,167,,,,,,walihādhā,,,,,13,false
+وَصَلَ (ـِ),"přijet, dorazit, dospět (k)",,7,168,7,,,,إلى,waṣala jaṣilu,,,6 66,,13,false
+وَقْتٌ (أَوْقَاتٌ),"čas, doba",,9,169,,,,,,waqtun (awqātun),,,85,,13 20,false
+مؤسسة,"instituce, podnik",,9,170,,,,,,muʾassasatun,,,47,,1 14,false
+الخ. (= إلى آخره),atd.,,,171,,,,,,ilḫ. (ilā āḫirihi),,,82,,14,false
+أَمِينٌ (أُمَنَاءُ),tajemník,,9,172,,,,,,amīnun (umanāʾu),,,45 59,,14 20,false
+فيما بعد,později,,8,3,,,,,,fī mā baʿdu,,,,,14,false
+بوّاب,"vrátný, domovník; dveřník",,9,173,,,,,,bawwābun,,,59,,14 23,false
+بَيَانٌ (ات),"""údaj; oznámení, prohlášení; """"potaz""""""",,9,174,,,,,,bajānun,,,45,,14 20,false
+تجارة,"obchod, obchodní činnost",,9,129,,,,,,tiǧāratun,,,,,14,false
+أثناءَ,během,,6,,,,,,,aṯnāʾa,,,,,14,false
+جدول,"rozvrh, rozpis",,9,175,,,,,,ǧadwalun (ǧadāwilu),,,47,,1 14,false
+جمعية,"shromáždění, sdružení",,9,176,,,,,,ǧamʿījatun,,,,,14,false
+جميع,všechen,,1,176,,,,,,ǧamīʿun,,,,,14,false
+تَجَوَّلَ,projít se,,7,177,11,,,,,taǧawwala,,,5 66,,14 20,false
 جَوْلَةٌ {1},"procházka, vycházka (1) ; kolo (voleb, rozhovorů) (2)",,9,177,,,,,,,,,49,,14 20,false
-محادثاة,"rozhovory, jednání",,9,133,,,,,,muhádathátun,,,34 47,,1 14,false
-حسنُ ضِيَافَةٍ,pohostinnost,,9,30,,,,,,Husnu Dijáfatin,,,49,,14 20,false
-حفلة,"večírek, oslava, párty",,9,178,,,,,,Haflatun,,,45 84,,14 20,false
-حكومي,"vládní, státni",,1,179,,,,,,hukúmíjun,,,,,14,false
-حلويات,sladkosti,,9,180,,,,,,halawíjátun,,,27,,14 20,false
-تخرج,"ukončení studia, absolvování (+fí)",,9,53,,,,,,tacharrudžun,,,,,14,false
-دَوْرٌ (أدْوَارٌ) {1},"role, úloha",,9,181,,,,,,dawrun adwárun,,,45,,14 20 21,false
-إدارة,"správa, řízení; ředitelství",,9,181,,,,,,idáratun,,,18 45 88,,14 20,false
-مدير (مُداراءُ),"ředitel, manažer",,9,181,,,,,,mudírun (mudará'u),,,34 45 59 88,,14 20,false
-اذاعة,"rádio, rozhlas",,9,182,,,,,,idhá3atun,,,,,14,false
-رئيس,"předseda, prezident, vedoucí",,9,15,,,,,,ra'ísun (ru'asá'u),,,,,14,false
-رجل الاعمال,podnikatel,,9,21,,,,,,radžulu al-a3máli,,,,,14,false
-زمن (أزمان/أزمنة),"čas, období",,9,183,,,,,,zamanun (azmánun),,,85,,14 20,false
-سِفَارَةٌ,velvyslanectví,,9,81,,,,,,sifáratun,,,45,,14 20,false
-سفیر (سُفَرَاءُ),velvyslanec,,9,81,,,,,,safírun sufarā'u,,,,,14,false
-سياحة,"turistika, cestování",,9,142,,,,,,sijáhatun,,,,,14,false
-سَائِرٌ,"zbývající, zbytek; ostatní",,1,184,,,,,,sá'irun,,,7 47,,1 14 20,false
-شأنٌ (شُؤُونٌ),"věc, záležitost",,9,185,,,,,,ša'nun (šu'únun),,,,,14,false
-شَابٌّ (شُبَبَاءُ),mladý člověk,,9,186,,,,,,šábbun šabábun,,,34,,14,false
-مَشْرُوبٌ (ات),"nápoj, pití",,9,187,,,,,,mašrúbun -át,,,49,,14 20,false
-شَرَحَ (ـَ) شَرْحٌ,"vysvětlit, popsat",,7,188,7,,,,,šaraHa (jašraHu) šarHun,,,47,,1 14 20,false
-صَحَفِيٌّ,"publicistický, tiskový (1); novinář (2)",,1 9,189,,,,,,sahafíjun,,,59,,14,false
-طبيعي,"přírodní, přirozený",,1,190,,,,,,tabí3íjun,,,,,14 20,false
-تَعَرَّفَ,"seznámit se s někým/něcím, poznat někoho",,7,29,11,,,,على/بـ,ta3arrafa,,,,,11 14 20 22,false
-تَعَرُّفٌ,seznámení se s,,9,29,,,,,على/بـ,ta3arrufun,,,18,,14,false
-عريق,"starobylý, starý",,1,191,,,,,,3aríqun,,,,,14 20,false
+محادثاة,"rozhovory, jednání",,9,133,,,,,,muhādaṯātun,,,34 47,,1 14,false
+حسنُ ضِيَافَةٍ,pohostinnost,,9,30,,,,,,ḥusnu ḍijāfatin,,,49,,14 20,false
+حفلة,"večírek, oslava, párty",,9,178,,,,,,ḥaflatun,,,45 84,,14 20,false
+حكومي,"vládní, státni",,1,179,,,,,,hukūmījun,,,,,14,false
+حلويات,sladkosti,,9,180,,,,,,halawījātun,,,27,,14 20,false
+تخرج,"ukončení studia, absolvování (+fí)",,9,53,,,,,,taḫarruǧun,,,,,14,false
+دَوْرٌ (أدْوَارٌ) {1},"role, úloha",,9,181,,,,,,dawrun adwārun,,,45,,14 20 21,false
+إدارة,"správa, řízení; ředitelství",,9,181,,,,,,idāratun,,,18 45 88,,14 20,false
+مدير (مُداراءُ),"ředitel, manažer",,9,181,,,,,,mudīrun (mudarāʾu),,,34 45 59 88,,14 20,false
+اذاعة,"rádio, rozhlas",,9,182,,,,,,iḏāʿatun,,,,,14,false
+رئيس,"předseda, prezident, vedoucí",,9,15,,,,,,raʾīsun (ruʾasāʾu),,,,,14,false
+رجل الاعمال,podnikatel,,9,21,,,,,,raǧulu al-aʿmāli,,,,,14,false
+زمن (أزمان/أزمنة),"čas, období",,9,183,,,,,,zamanun (azmānun),,,85,,14 20,false
+سِفَارَةٌ,velvyslanectví,,9,81,,,,,,sifāratun,,,45,,14 20,false
+سفیر (سُفَرَاءُ),velvyslanec,,9,81,,,,,,safīrun sufarāʾu,,,,,14,false
+سياحة,"turistika, cestování",,9,142,,,,,,sijāhatun,,,,,14,false
+سَائِرٌ,"zbývající, zbytek; ostatní",,1,184,,,,,,sāʾirun,,,7 47,,1 14 20,false
+شأنٌ (شُؤُونٌ),"věc, záležitost",,9,185,,,,,,šaʾnun (šuʾūnun),,,,,14,false
+شَابٌّ (شُبَبَاءُ),mladý člověk,,9,186,,,,,,šābbun šabābun,,,34,,14,false
+مَشْرُوبٌ (ات),"nápoj, pití",,9,187,,,,,,mašrūbun -āt,,,49,,14 20,false
+شَرَحَ (ـَ) شَرْحٌ,"vysvětlit, popsat",,7,188,7,,,,,šaraḥa (jašraḥu) šarḥun,,,47,,1 14 20,false
+صَحَفِيٌّ,"publicistický, tiskový (1); novinář (2)",,1 9,189,,,,,,sahafījun,,,59,,14,false
+طبيعي,"přírodní, přirozený",,1,190,,,,,,tabīʿījun,,,,,14 20,false
+تَعَرَّفَ,"seznámit se s někým/něcím, poznat někoho",,7,29,11,,,,على/بـ,taʿarrafa,,,,,11 14 20 22,false
+تَعَرُّفٌ,seznámení se s,,9,29,,,,,على/بـ,taʿarrufun,,,18,,14,false
+عريق,"starobylý, starý",,1,191,,,,,,ʿarīqun,,,,,14 20,false
 مُعَاصِرٌ,současný (1) ; současník (2),,1,192,,,,,,mu³āsirun,,حَالِيٌّ، رَاهِنٌ,9 40 47,,1 12 14 20,false
-تعليم,"školství, vzdělání, výuka",,9,97,,,,,,ta3límun,,,88,,14 20,false
-عالٍ,vysoký,,1,193,,,,,,"3álin (3álí, 3álíja)",,,47,,1 14 20,false
-عَامٌّ,"obecný, všeobecný, veřejný, generální",,1,100,,,,,,3ámmun,,,,,14 20,false
-عميد,děkan,,9,194,,,,,,3amídun,,,,,1 14,false
-عندما,když,,8,,,,,,,3indamá,,,,,14,false
-اِفْتَتَحَ,"zahájit, slavnostně otevřít",,7,195,8,,,,,iftataHa,,,,,14 21,false
+تعليم,"školství, vzdělání, výuka",,9,97,,,,,,taʿlīmun,,,88,,14 20,false
+عالٍ,vysoký,,1,193,,,,,,"ʿālin (ʿālī, ʿālīja)",,,47,,1 14 20,false
+عَامٌّ,"obecný, všeobecný, veřejný, generální",,1,100,,,,,,ʿāmmun,,,,,14 20,false
+عميد,děkan,,9,194,,,,,,ʿamīdun,,,,,1 14,false
+عندما,když,,8,,,,,,,ʿindamā,,,,,14,false
+اِفْتَتَحَ,"zahájit, slavnostně otevřít",,7,195,8,,,,,iftataḥa,,,,,14 21,false
 فترة,"období, čas",,9,196,,,,,,fatratun,,,85,,14 20,false
-تَفَرَّجَ,prohlédnout si,,7,197,11,,,,على,tafarradža,,,47,,1 14 20,false
-فرصة (فرص),"příležitost, šance (k čemu; opportunity; jedinečná, mimořádná, neopakovatelná)",,9,198,,,,,,furSatun (furaSun),,,49,,14 20,false
+تَفَرَّجَ,prohlédnout si,,7,197,11,,,,على,tafarraǧa,,,47,,1 14 20,false
+فرصة (فرص),"příležitost, šance (k čemu; opportunity; jedinečná, mimořádná, neopakovatelná)",,9,198,,,,,,furṣatun (furaṣun),,,49,,14 20,false
 قَبِلَ (ـَ),přijmout,,7,151,7,,,,,qabila jaqbalu,,,,,14,false
 قدّم,"nabídnout, představit, poskytnout, podat (žádost)",,7,152,4,,,,,qaddama,,,47,,1 14 20,false
 متقدم,"uchazeč, žadatel",,9,152,,,,,,mutaqadimun,,,34 80,,14,false
 مقرٌّ,"sídlo, rezidence",,9,199,,,,,,maqarrun,,,9 45,,14 20,false
-قسم,"oddělení, katedra",,9,200,,,,,,qismun (aqsámun),,,,,14,false
-قضية,"případ, otázka (např. politická)",,9,110,,,,,,qadíjatun (qadájá),,,34,,14,false
+قسم,"oddělení, katedra",,9,200,,,,,,qismun (aqsāmun),,,,,14,false
+قضية,"případ, otázka (např. politická)",,9,110,,,,,,qadījatun (qadājā),,,34,,14,false
 مستقل,"nezávislý, samostatný",,1,55,,,,,,mustaqilun,,,,,14,false
-قاعة,"sál, hala (1); terminál (2)",,9,201,,,,,,qá3atun,,,9,,14 20 21,false
-كما,"rovněž, také",,2,24,,,,,,kamá,,,,,14 20,false
-ماض,"minulý, uplynulý",,1,202,,,,,,mádin,,,,,14,false
-مالي,finanční,,1,160,,,,,,málíjun,,,,,14,false
-منها,např.,,,95,,,,,,minhá,,,34 82,,14,false
-نبأ,zpráva,,9,203,,,,,,naba'un (anbá'un),,,47,,1 14,false
-مناسبة,příležitost (slavnostní atd - occasion),,9,77,,,,,,munásabatun,,,49,,14 20,false
-نشأ (ـَ),vzniknout,,7,204,7,,,,,naša'a janša'u,,,3 47 66,,1 14 20,false
+قاعة,"sál, hala (1); terminál (2)",,9,201,,,,,,qāʿatun,,,9,,14 20 21,false
+كما,"rovněž, také",,2,24,,,,,,kamā,,,,,14 20,false
+ماض,"minulý, uplynulý",,1,202,,,,,,mādin,,,,,14,false
+مالي,finanční,,1,160,,,,,,mālījun,,,,,14,false
+منها,např.,,,95,,,,,,minhā,,,34 82,,14,false
+نبأ,zpráva,,9,203,,,,,,nabaʾun (anbāʾun),,,47,,1 14,false
+مناسبة,příležitost (slavnostní atd - occasion),,9,77,,,,,,munāsabatun,,,49,,14 20,false
+نشأ (ـَ),vzniknout,,7,204,7,,,,,našaʾa janšaʾu,,,3 47 66,,1 14 20,false
 نشرة,"vysílání, leták, relace",,9,205,,,,,,našratun,,,47,,1 14,false
 "نَصَحَ (ـَـ, نَصْحٌ)","poradit někomu s něčím, doporučit někomu něco (a)",,7,206,7,,,,ه بـ,nasaha jansahu,,,,,14 20 22,false
-نَظَرًا إلى,vzhledem k,,5,207,,,,,,nazaran ilá,,,,,14 20,false
-هامّ,"významný, důležitý",,1,208,,,,,,hámmun,,,,,14 20,false
-هيئة,"instituce, organizace, agentura; sbor (poradní, diplomatický)",,9,209,,,,,,haj'atun,,,,,14,false
+نَظَرًا إلى,vzhledem k,,5,207,,,,,,nazaran ilā,,,,,14 20,false
+هامّ,"významný, důležitý",,1,208,,,,,,hāmmun,,,,,14 20,false
+هيئة,"instituce, organizace, agentura; sbor (poradní, diplomatický)",,9,209,,,,,,hajʾatun,,,,,14,false
 متحد,"sjednocený, spojený",,1,71,,,,,,muttahidun,,,,,14,false
-اِتِّفَاقِيَّةٌ,"smlouva, dohoda",,9,210,,,,,,ittifáqíjatun,,,45,,14 20,false
-توقيعٌ,podpis (čeho),,9,211,,,,,على,tawqī3un,,,,,14 20,false
-وكالة,agentura,,9,212,,,,,,wikálatun,,,,,14,false
-وِكَالَةُ الأَنْبَاءِ,tisková agentura,,9,212,,,,,,wikálatu al-anbá'i,,,,,14,false
-وَكِيلٌ (وِكَلَاءُ),zástupce,,9,212,,,,,,wakílun wukalá'u,,,34,,14,false
-وسط,"střed, centrum, prostředí",,9,213,,,,,,wasatun (awsátun),,,,,14,false
+اِتِّفَاقِيَّةٌ,"smlouva, dohoda",,9,210,,,,,,ittifāqījatun,,,45,,14 20,false
+توقيعٌ,podpis (čeho),,9,211,,,,,على,tawqīʿun,,,,,14 20,false
+وكالة,agentura,,9,212,,,,,,wikālatun,,,,,14,false
+وِكَالَةُ الأَنْبَاءِ,tisková agentura,,9,212,,,,,,wikālatu al-anbāʾi,,,,,14,false
+وَكِيلٌ (وِكَلَاءُ),zástupce,,9,212,,,,,,wakīlun wukalāʾu,,,34,,14,false
+وسط,"střed, centrum, prostředí",,9,213,,,,,,wasatun (awsātun),,,,,14,false
 صناعي,průmyslový,,1,18,,,,,,,,,47,,1 20,false
 عظيم (عظاماءُ),"významný, vynikající",,1,214,,,,,,,,,,,20,false
 مجتهد,pilný,,1,215,,,,,,,,,47,,1 20,false
-دَلِيل (دلاَئِلُ، أَدِلَّةٌ),důkaz,,9,216,,,,,,"dalílun (dalá'ilu, adillatun)",,,7,,20,false
+دَلِيل (دلاَئِلُ، أَدِلَّةٌ),důkaz,,9,216,,,,,,"dalīlun (dalāʾilu, adillatun)",,,7,,20,false
 نُمُوذَجٌ (نَمَاذِجُ) {1},"model, vzor, předloha",,9,217,,,,,,,,,61,,20,false
-عَامِلٌ (عُمَّالٌ),dělník,,9,21,,,,,,3ámilun (3ummálun),,,32 59,,20,false
+عَامِلٌ (عُمَّالٌ),dělník,,9,21,,,,,,ʿāmilun (ʿummālun),,,32 59,,20,false
 شاطئٌ (شواطئُ),pláž,,9,218,,,,,,,,,29 40,,20,false
 مستشفى,nemocnice,,9,219,,,,,,,,,9 40,,20,false
 سياسي (ـون/ ساسةٌ),politik,,9,220,,,,,,,,,59,,20,false
@@ -281,20 +281,20 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 تَارِيخِ العالمِ الإسلامِي وحَاضَارَتِهِ,ĎAKIZ,,,221,,,,,,,,,62 88,,20,false
 معهد الدراسات العربية والإفريقية,ÚBVA,,9,75,,,,,,,,,88,,20,false
 كليةُ آدابِ,Filozofická fakulta,,9,222,,,,,,,,,34 88,,20,false
-تذكرة (تذاكر),"jízdenka, vstupenka, lístek (ticket)",,9,223,,,,,,tadhkaratun tadhákiru,,,49 51,,13 20,false
+تذكرة (تذاكر),"jízdenka, vstupenka, lístek (ticket)",,9,223,,,,,,taḏkaratun taḏākiru,,,49 51,,13 20,false
 سنة (سنوات),rok,,9,224,,,,,,,,,85,,20,false
 عامٌ (أعوام),"""rok, """"léto""""""",,9,225,,,,,,,,,85,,20,false
 مفتاح (مفاتح),klíč,,9,195,,,,,,,,,14 61,,20,false
-نَقْدٌ (نُقُودٌ),peníze (používá se pl. forma),,9,226,,,,,,naqdun (nuqúdun),,,61,,13 20,false
+نَقْدٌ (نُقُودٌ),peníze (používá se pl. forma),,9,226,,,,,,naqdun (nuqūdun),,,61,,13 20,false
 كفَايَة,dostatek,,9,156,,,,,,,,,7 49,,20,false
 بستان,"sad, zahrada",,9,227,,,,,,,,,14 29,,20,false
 والد (والدان),rodiče (obvykle v duálu),,9,32,,,,,,,,,64,,20,false
 وَلَدٌ,chlapec,,9,32,,,,,,waladun,,,64,,20,false
-رواية,román,,9,228,,,,,,riwájatun,,,28,,13 20,false
+رواية,román,,9,228,,,,,,riwājatun,,,28,,13 20,false
 جنوب,jih,,9,229,,,,,,,,,21,,20,false
 غَرْبٌ,západ,,9,230,,,,,,,,,21,,20,false
 شرق,východ,,9,47,,,,,,,,,21,,20,false
-مَوْعِدٌ (مَوَاعِدُ),"datum, termín, (smluvený) čas (1); schůzka (2)",,9,231,,,,,,"maw3idun, mawá3idu",,,45,,15 20 28,false
+مَوْعِدٌ (مَوَاعِدُ),"datum, termín, (smluvený) čas (1); schůzka (2)",,9,231,,,,,,"mawʿidun, mawāʿidu",,,45,,15 20 28,false
 هَدِيَةٌ (هَدَايَا),dárek,,9,166,,,,,,,,,61,,20,false
 في الماضي,v minulosti,,5,232,,,,,,,,,,,20,false
 رَائِعٌ,"znamenitý, vynikající; nádherný, krásný",,1,233,,,,,,,,,,,20,false
@@ -306,38 +306,38 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 علاقة,vztah,,9,237,,,,,,,,,45,,20,false
 إخوات,sourozenci,,9,238,,,,,,,,,47 64,,1 20,false
 زيارة,návštěva,,9,239,,,,,,,,,45,,20,false
-مبنًى (مبانٍ),budova,,9,114,,,,,,mabnan mabánin,,,9 40,,20,false
+مبنًى (مبانٍ),budova,,9,114,,,,,,mabnan mabānin,,,9 40,,20,false
 دخل,"vstoupit, nastoupit (u)",,7,240,7,,,,,,,,34,,20,false
-حق (حقوق),právo,,9,241,,,,,,Haqqun (Huqúqun),,,7 88,,14 20,false
+حق (حقوق),právo,,9,241,,,,,,ḥaqqun (ḥuqūqun),,,7 88,,14 20,false
 جلس (ـِـ) جُلُوس,"sedět (i), sednout si (do - fí)",,7,242,7,,,,في,,,,47,,1 20,false
 ثُمَّ,"poté, pak",,2,243,,,,,,,,,,"nikdy, nikdy není wa thumma!!!",20,false
-فهرس (فهارس),"seznam, katalog",,9,244,,,,,,fihrisun (fahárisu),,,49,,14 20,false
+فهرس (فهارس),"seznam, katalog",,9,244,,,,,,fihrisun (fahārisu),,,49,,14 20,false
 خَاصٌّ {1},týkající se něčeho,,9,102,,,,,بـ,,,,47,,1 14 20,false
-قانون (قوانين),"zákon, právní věda",,9,245,,,,,,qánúnun (qawánínu),,,7 17 88,,20,false
-بَحْثٌ (أَبْحَاث),"výzkum, zkoumání, vědecká studie, referát (na konferenci), odborná práce",,9,246,,,,,,bahthun abháthun,,,45 88,,14 20,false
-نادٍ (أندِيَة/نوادٍ),klub,,9,247,,,,,,nádin (andijatun/nawádin),,,9 40,,14 20,false
+قانون (قوانين),"zákon, právní věda",,9,245,,,,,,qānūnun (qawānīnu),,,7 17 88,,20,false
+بَحْثٌ (أَبْحَاث),"výzkum, zkoumání, vědecká studie, referát (na konferenci), odborná práce",,9,246,,,,,,bahṯun abhāṯun,,,45 88,,14 20,false
+نادٍ (أندِيَة/نوادٍ),klub,,9,247,,,,,,nādin (andijatun/nawādin),,,9 40,,14 20,false
 ترام (تراموايات),tramvaj,,9,87,,,,,,,,,12 40,,20,false
 بمناسبة,při příležitosti,,5,77,,,,,,,,,,,20,false
 نهاية,konec,,9,248,,,,,,,,,49,,14 20,false
 رَحَّبَ,přivítat,,7,249,4,,,,بـ,rahhaba,,,,,14 20,false
 برنامج (برامج),program,,9,250,,,,,,,,,45,,20,false
-أعمال,"jednání (na konferenci, = ta jednání)",,9,21,,,,,,a3málun,,,45,,14 20,false
-نشأة,vznik,,9,204,,,,,,naš'atun,,,47 49,,1 14 20,false
+أعمال,"jednání (na konferenci, = ta jednání)",,9,21,,,,,,aʿmālun,,,45,,14 20,false
+نشأة,vznik,,9,204,,,,,,našʾatun,,,47 49,,1 14 20,false
 في أواخر,"koncem, na konci",,6 9,2,,,,,,,,,34 85,,20,false
 حرب (حروب),válka (fem),,9,251,,,,,,,,,49,,20,false
 عُضْوٌ (أعضاءٌ),člen,,9,252,,,,,,,,,45 47,,1 20,false
 مُسْتَقِلّ (عن),nezávislý,,1,55,,,,,,,,,34 47,,1 20,false
-عضوية,členství,,9,253,,,,,,3uDwíjatun,,,45 47,,1 20,false
-دَعْمٌ,podpora,,9,254,,,,,,da3mun,,,45,,14 20,false
+عضوية,členství,,9,253,,,,,,ʿuḍwījatun,,,45 47,,1 20,false
+دَعْمٌ,podpora,,9,254,,,,,,daʿmun,,,45,,14 20,false
 على إنترنيت,na internetu,,5,87,,,,,,,,,62,,20,false
-موْقِعٌ (مَوَاقِعُ),"místo, poloha, lokalita (1); stránka (např. webová) (2)",,9,211,,,,,,mawqi3un (mawáqi3u),,,38,,6 20,false
+موْقِعٌ (مَوَاقِعُ),"místo, poloha, lokalita (1); stránka (např. webová) (2)",,9,211,,,,,,mawqiʿun (mawāqiʿu),,,38,,6 20,false
 أوائل,začátek (1); na začátku (2),,2 6 9,2,,,,,,,,,85,,20,false
 أواخر,"na konci, koncem",,2 6,171,,,,,,,,,34 85,,20,false
 أواسط,"uprostřed, středem (časově)",,2 6,213,,,,,,,,,47 85,,1 20,false
 منتصف,půlka (časově),,9,255,,,,,,,,,47 85,,1 20,false
 الجامعةُ العَرَبِيةُ,Liga Arabských států,,9,176,,,,,,,,,48,,20,false
-جَامِعَةُ ٱلدُّوَلِ ٱلْعَرَبِيَّةِ,Liga Arabských Států,,9,176,,,,,,džámi3atu ad-duwali al-3arabíjati,,,48,,20,false
-إستقلال,nezávislost (na něčem),,9,55,,,,,عن,istiqlálun 3an,,,,,20,false
+جَامِعَةُ ٱلدُّوَلِ ٱلْعَرَبِيَّةِ,Liga Arabských Států,,9,176,,,,,,ǧāmiʿatu ad-duwali al-ʿarabījati,,,48,,20,false
+إستقلال,nezávislost (na něčem),,9,55,,,,,عن,istiqlālun ʿan,,,,,20,false
 نال,získat (nezávislost),,7,256,7,,,,هــ,,,,5 34 66,,20,false
 نيل,získání,,9,256,,,,,,,,,47 49,,1 20,false
 وَزِيرُ الخَارِجِيَّة,ministr zahraničí,,9,53,,,,,,,,,45,,20,false
@@ -350,15 +350,15 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 رَاهِنٌ,"aktuální, současný",,1,257,,,,,,,,حَالِيٌّ، مُعَاصِرٌ,47,,1 14 20,false
 الوضع الحالي,současná situace,,5,62,,,,,,,,,,,20,false
 هيأةُ الأممِ المتّحدةِ,OSN,,9,209,,,,,,,,,48,,20,false
-رياضة,sport,,9,258,,,,,,rijáDatun,,,49,,14 20,false
+رياضة,sport,,9,258,,,,,,rijāḍatun,,,49,,14 20,false
 ثقافي,kulturní,,1,79,,,,,,,,,,,14 20,false
-جناح (أجنحة),"křídlo, pavilon",,9,259,,,,,,džináHun (adžniHatun),,,9 47,,1 14 20,false
+جناح (أجنحة),"křídlo, pavilon",,9,259,,,,,,ǧināḥun (aǧniḥatun),,,9 47,,1 14 20,false
 مَعْرِضٌ (مَعَارِضُ),"výstava, veletrh",,9,260,,,,,,,,,45 47,,1 20,false
 قطار سريع,rychlík,,9,261,,,,,,,,,12,,20,false
 حقيقة (حقائق),pravda,,9,241,,,,,,,,,7,,20,false
 قواعد,gramatika,,9,262,,,,,,,,,47 88,,1 20,false
 خِطَابٌ (ات),"projev, proslov",,9,66,,,,,,,,,45,,20 23,false
-فَقَدَ (ـِ) فَقْدٌ/فِقْدانٌ,ztratit; postrádat; propásnout,,7,263,7,,,,هـ,faqada (jafqidu) faqdun/fiqdánun,,,11,,12 20 21,false
+فَقَدَ (ـِ) فَقْدٌ/فِقْدانٌ,ztratit; postrádat; propásnout,,7,263,7,,,,هـ,faqada (jafqidu) faqdun/fiqdānun,,,11,,12 20 21,false
 أنا في حاجة,"mít potřebu (něčeho), potřebovat (něco), 1. os.",,5,264,,,,,الى,,,,62,,20,false
 كُرَّاسَةٌ (كَرَارِيسُ),sešit,,9,265,,,,,,,,,47 88,,1 20,false
 مائدة,stůl,,9,266,,,,,,,,,14 47,,1 20,false
@@ -370,19 +370,19 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 حادثة (حوادث),nehoda,,9,133,,,,,,,,,76,,20,false
 رأْيٌ (آراءٌ),názor (na něco),,9,118,,,,,في,,,,7,,20,false
 لَسْتُ فِي حَاجَةٍ إلَى,"nepotřebovat (něco), nemít mít potřebu (něčeho), 1.os.",,5,271,,,,,,,,,62,,20,false
-فِي ٱلْمِيعَادِ,včas,,2,272,,,,,,fi-l-mí3ádi,,,,,20,false
+فِي ٱلْمِيعَادِ,včas,,2,272,,,,,,fi-l-mīʿādi,,,,,20,false
 نزل الثلج,"padat sníh, sněžit",,5,273,,,,,,,,,62,,20,false
-رَصِيفٌ (أَرْصِفَةٌ),"nástupiště zastávka, chodník, molo",,9,274,,,,,,raSífun (arSifatun),,,40,,20 21,false
+رَصِيفٌ (أَرْصِفَةٌ),"nástupiště zastávka, chodník, molo",,9,274,,,,,,raṣīfun (arṣifatun),,,40,,20 21,false
 بَارِزٌ,"výrazný, přední, význačný",,1,275,,,,,,,,,47,,1 20,false
-صَعِدَ (ـَـ),"vystoupit, nastoupit (do letadla), vylézt (nahoru)",,7,276,7,,,,الى,Sa3ida jaS3adu,,,12 47,,1 20,false
+صَعِدَ (ـَـ),"vystoupit, nastoupit (do letadla), vylézt (nahoru)",,7,276,7,,,,الى,ṣaʿida jaṣʿadu,,,12 47,,1 20,false
 درّاجة / عجلة,jízdní kolo,,9,277,,,,,,,,,12 34,,20,false
-مَحَلٌّ (ات/مَحَالُّ),"obchod, krám se vším (1); pozice, místo, umístění (2)",,9,278,,,,,,maHallun maHallát - maHállu,,,9 40,,20,false
-دواءٌ (أدوِيَة),lék,,,279,,,,,,dawá'un adwijatun,,,49 81,,11 20 31,false
+مَحَلٌّ (ات/مَحَالُّ),"obchod, krám se vším (1); pozice, místo, umístění (2)",,9,278,,,,,,maḥallun maḥallāt - maḥāllu,,,9 40,,20,false
+دواءٌ (أدوِيَة),lék,,,279,,,,,,dawāʾun adwijatun,,,49 81,,11 20 31,false
 قَرِيَة (قرًى),vesnice,,9,280,,,,,,,,,38 40,,20,false
 سَبْبٌ (أَسْبَابٌ),"příčina, důvod",,9,281,,,,,,,,,7 34,,20,false
 عيد ميلاد,"narozeniny, Vánoce",,9,282,,,,,,,,,71 76,,20,false
-اَلْمَسِيحُ,pomazaný Kristus,,9,283,,,,,,al-masíHu,,,42 74,,20,false
-ناجِحٌ,úspěšný,,1,284,,,,,,nádžiHun,,,47,,1 20,false
+اَلْمَسِيحُ,pomazaný Kristus,,9,283,,,,,,al-masīḥu,,,42 74,,20,false
+ناجِحٌ,úspěšný,,1,284,,,,,,nāǧiḥun,,,47,,1 20,false
 كلُّ,každý,,1,285,,,,,+ singulár,,,,20,,20,false
 كلُّ + الـ,celý,,1,285,,,,,+ singulár,,,,20,,20,false
 كلُّ + الـ,"všechen (všechny, všichni)",,1,285,,,,,+ plurál,,,,20,,20,false
@@ -393,98 +393,98 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 سائر + الـ,ostatní,,1,121,,,,,+ plurál,,,,20,,20,false
 عدّة,několik,,2,288,,,,,neosobní plurál +,,,,20,,14 20,false
 أَبَدًا,"vůbec, nikdy (po záporu)",,2,289,,,,,,abadan,,,,,15 20 23,false
-أجّل,"posunout, odložit",,7,290,4,,,,,adždžala,,,6 66,,15 21,false
-مُتَأَكِّدٌ,být si (něčím) jistý,,5,291,,,,,من (أَنَّ),muta'akkidun,,,47,,1 15 20,false
-مَأْكُولاَتٌ,pokrmy (jídlo),,9,65,,,,,,ma'kúlátun,,,27,,15 20 23,false
-في أوائل,začátkem...,,2,2,,,,,,fí awá'ili,,,,,15,false
-بِداية,začátek,,9,120,,,,,,bidájatun,,,49,,15 20,false
-ابتدائي,"základní, primární, počáteční",,1,120,,,,,,ibtidá'íjun,,,,,15 20,false
+أجّل,"posunout, odložit",,7,290,4,,,,,aǧǧala,,,6 66,,15 21,false
+مُتَأَكِّدٌ,být si (něčím) jistý,,5,291,,,,,من (أَنَّ),mutaʾakkidun,,,47,,1 15 20,false
+مَأْكُولاَتٌ,pokrmy (jídlo),,9,65,,,,,,maʾkūlātun,,,27,,15 20 23,false
+في أوائل,začátkem...,,2,2,,,,,,fī awāʾili,,,,,15,false
+بِداية,začátek,,9,120,,,,,,bidājatun,,,49,,15 20,false
+ابتدائي,"základní, primární, počáteční",,1,120,,,,,,ibtidāʾījun,,,,,15 20,false
 بركة (بِرَك),rybník,,9,292,,,,,,birkatun (birakun),,,63,,15 20,false
-تعِب (ـَ),unavit se,,7,293,7,,,,,ta3iba (jat3abu),,,,,15 20,false
-تَعْبٌ,únava,,9,293,,,,,,ta3bun,,,,,15 20,false
-جوٌّ (أجْوَاءٌ),"vzduch, ovzduší, atmosféra",,9,294,,,,,,džawwun (adžwá'un),,,21 63,,15 20,false
-حَارٌّ,horký,,1,134,,,,,,Hárrun,,,,,15 20 21,false
-حصد,sklízet (úrodu),,9,295,,,,,,HaSada (jaHSudu),,,47,,1 15,false
-حَفِيد (أحفاد),vnuk,,9,296,,,,,,Hafídun (aHfádun),,,64,,15 20 21,false
-والحقّ أنَّ,"je pravdou (skutečností), že...",,5,241,,,,,,wa-l-Haqqu anna,,,,,15 21,false
-حلق (ـِـ),"holit, stříhat se",,7,297,7,,,,,Halaqa (jaHliqu),,,,,15 20,false
-حلق ذقناً,holit si vousy,,5,297,,,,,,Halaqa dhaqnan,,,,,15 20,false
-حاجة,"potřeba, nutnost",,9,264,,,,,,Hádžatun,,,49,,15 20,false
-لا حاجة إلى,"není třeba..., není nutno...",,5,271,,,,,,lá Hádžata ilá,,,,,15,false
-حَالٌ (أَحْوَالٌ),"situace, stav, případ",,9,78,,,,,,"Hálun, aHwálun",,,45,,15 20,false
-على كلِّ حالٍ,v každém případě,,5,78,,,,,,3alá kulli Hálin,,,,,15 20,false
-حيٌّ (أحياءٌ),čtvrť,,9,11,,,,,,Hajjun (aHjá'un),,,40,,15 20 21 23,false
+تعِب (ـَ),unavit se,,7,293,7,,,,,taʿiba (jatʿabu),,,,,15 20,false
+تَعْبٌ,únava,,9,293,,,,,,taʿbun,,,,,15 20,false
+جوٌّ (أجْوَاءٌ),"vzduch, ovzduší, atmosféra",,9,294,,,,,,ǧawwun (aǧwāʾun),,,21 63,,15 20,false
+حَارٌّ,horký,,1,134,,,,,,ḥārrun,,,,,15 20 21,false
+حصد,sklízet (úrodu),,9,295,,,,,,ḥaṣada (jaḥṣudu),,,47,,1 15,false
+حَفِيد (أحفاد),vnuk,,9,296,,,,,,ḥafīdun (aḥfādun),,,64,,15 20 21,false
+والحقّ أنَّ,"je pravdou (skutečností), že...",,5,241,,,,,,wa-l-ḥaqqu anna,,,,,15 21,false
+حلق (ـِـ),"holit, stříhat se",,7,297,7,,,,,ḥalaqa (jaḥliqu),,,,,15 20,false
+حلق ذقناً,holit si vousy,,5,297,,,,,,ḥalaqa dhaqnan,,,,,15 20,false
+حاجة,"potřeba, nutnost",,9,264,,,,,,ḥāǧatun,,,49,,15 20,false
+لا حاجة إلى,"není třeba..., není nutno...",,5,271,,,,,,lā ḥāǧata ilā,,,,,15,false
+حَالٌ (أَحْوَالٌ),"situace, stav, případ",,9,78,,,,,,"ḥālun, aḥwālun",,,45,,15 20,false
+على كلِّ حالٍ,v každém případě,,5,78,,,,,,ʿalā kulli ḥālin,,,,,15 20,false
+حيٌّ (أحياءٌ),čtvrť,,9,11,,,,,,ḥajjun (aḥjāʾun),,,40,,15 20 21 23,false
 حيّ سكني,sídliště,,9,11,,,,,,,,,,,15,false
-"حين , أحيان","doba, čas",,9,298,,,,,,Hínun (aHjánun),,,,,15,false
-في بعض أحيان,"někdy, občas",,2 5,298,,,,,,fí ba3di-l-aHjáni,,,,,15,false
-خُبْزٌ,chléb,,9,299,,,,,,chubzun,,,,,12,false
-خُرَافِيٌّ,"pohádkový, bájný",,1,300,,,,,,churáfíjun,,,,,15 20,false
-خَرِيفٌ,podzim,,9,300,,,,,,charífun,,,41 65 85,,15 20,false
-خُضَارٌ,zelenina,,9,301,,,,,,chuDárun,,,27 63,,15 20,false
-"خليج , خلجان",záliv,,9,302,,,,,,"chalídžun, chuldžánun",,,,,15,false
-الخليجُ,(státy) Zálivu,,9,302,,,,,,al-chalídžu,,,,,15,false
-ذكرى (ذكريات),vzpomínka,,9,223,,,,,,dhikrá (dhikrajátun),,,,,15 21,false
-رَخِيصٌ (أَرْخَصُ),"levný, levnější",,1,303,,,,,,rachíSun (archaSu),,,,,15 20,false
+"حين , أحيان","doba, čas",,9,298,,,,,,ḥīnun (aḥjānun),,,,,15,false
+في بعض أحيان,"někdy, občas",,2 5,298,,,,,,fī baʿdi-l-aḥjāni,,,,,15,false
+خُبْزٌ,chléb,,9,299,,,,,,ḫubzun,,,,,12,false
+خُرَافِيٌّ,"pohádkový, bájný",,1,300,,,,,,ḫurāfījun,,,,,15 20,false
+خَرِيفٌ,podzim,,9,300,,,,,,ḫarīfun,,,41 65 85,,15 20,false
+خُضَارٌ,zelenina,,9,301,,,,,,ḫuḍārun,,,27 63,,15 20,false
+"خليج , خلجان",záliv,,9,302,,,,,,"ḫalīǧun, ḫulǧānun",,,,,15,false
+الخليجُ,(státy) Zálivu,,9,302,,,,,,al-ḫalīǧu,,,,,15,false
+ذكرى (ذكريات),vzpomínka,,9,223,,,,,,ḏikrā (ḏikrajātun),,,,,15 21,false
+رَخِيصٌ (أَرْخَصُ),"levný, levnější",,1,303,,,,,,raḫīṣun (arḫaṣu),,,,,15 20,false
 مرشِد,průvodce,,9,304,,,,,,muršidun,,,47 59,,1 15 20,false
-مريح,pohodlný,,1,305,,,,,,muríHun,,,47,,1 15 20,false
-ساخن,teplý,,1,306,,,,,,sáchinun,,,,,15 20 21,false
-سَبَحَ (ـَ),plavat,,7,307,7,,,,,sabaHa (jasbaHu),,,47,,1 15 20,false
-مسرحية,divadelní hra,,9,308,,,,,,masraHíjatun,,,,,15,false
-سكنيٌّ,obytný,,1,309,,,,,,sakaníjun,,,,,15 20,false
-شاي,čaj,,9,310,,,,,,šájun,,,27,,15 20,false
-شطرنج,šachy,,9,227,,,,,,šaTrandžun,,,84,,15 20,false
-شَمَالٌ,sever,,9,311,,,,,,šamálun,,,21,(šimál je v eg. levá),15 20,false
-مشهد (مَشَاهد),"výjev, scéna",,9,312,,,,,,mašhadun (mašáhidu),,,49,,15 20,false
-مُشَاهَدَةٌ,"sledování, shlédnutí",,9,312,,,,,,mušáhadatun,,,47 87,مُشَاهَدَةُ فِيلْمٍ sledování filmu,1 15 20,false
-طَبَخَ (ـُ) طَبْخٌ,"vařit, uvařit",,7,313,7,,,,هـ,Tabacha (u) Tabchun,,,,,15 20 21 23,false
-عَرَضَ (ـِـ) عَرْضٌ {1},"předvést, dávat (představení), nabízet, vystavit",,7,260,7,,,,على,3araDa (ja3riDu),,,47,,1 15 20,false
-عمليٌّ,praktický,,1,21,,,,,,3amalíjun,,,,,15 20,false
-عودة,návrat,,9,113,,,,,,3awdatun,,,87,,15 20,false
-عادةً,obvykle,,2,282,,,,,,3ádatan,,,,,15 20,false
-عائلي,rodinný,,1,314,,,,,,3á'ilíjun,,,,,15,false
-غابة,les,,9,315,,,,,,Ghábatun,,,29 63,,15 20,false
-فاكِهة (فَوَاكِهُ),ovoce,,9,316,,,,,,fákihatun (fawákihu),,,27 63,,15 20,false
+مريح,pohodlný,,1,305,,,,,,murīḥun,,,47,,1 15 20,false
+ساخن,teplý,,1,306,,,,,,sāḫinun,,,,,15 20 21,false
+سَبَحَ (ـَ),plavat,,7,307,7,,,,,sabaḥa (jasbaḥu),,,47,,1 15 20,false
+مسرحية,divadelní hra,,9,308,,,,,,masraḥījatun,,,,,15,false
+سكنيٌّ,obytný,,1,309,,,,,,sakanījun,,,,,15 20,false
+شاي,čaj,,9,310,,,,,,šājun,,,27,,15 20,false
+شطرنج,šachy,,9,227,,,,,,šaṭranǧun,,,84,,15 20,false
+شَمَالٌ,sever,,9,311,,,,,,šamālun,,,21,(šimál je v eg. levá),15 20,false
+مشهد (مَشَاهد),"výjev, scéna",,9,312,,,,,,mašhadun (mašāhidu),,,49,,15 20,false
+مُشَاهَدَةٌ,"sledování, shlédnutí",,9,312,,,,,,mušāhadatun,,,47 87,مُشَاهَدَةُ فِيلْمٍ sledování filmu,1 15 20,false
+طَبَخَ (ـُ) طَبْخٌ,"vařit, uvařit",,7,313,7,,,,هـ,ṭabaḫa (u) ṭabḫun,,,,,15 20 21 23,false
+عَرَضَ (ـِـ) عَرْضٌ {1},"předvést, dávat (představení), nabízet, vystavit",,7,260,7,,,,على,ʿaraḍa (jaʿriḍu),,,47,,1 15 20,false
+عمليٌّ,praktický,,1,21,,,,,,ʿamalījun,,,,,15 20,false
+عودة,návrat,,9,113,,,,,,ʿawdatun,,,87,,15 20,false
+عادةً,obvykle,,2,282,,,,,,ʿādatan,,,,,15 20,false
+عائلي,rodinný,,1,314,,,,,,ʿāʾilījun,,,,,15,false
+غابة,les,,9,315,,,,,,Ghābatun,,,29 63,,15 20,false
+فاكِهة (فَوَاكِهُ),ovoce,,9,316,,,,,,fākihatun (fawākihu),,,27 63,,15 20,false
 قبول,přijetí,,9,151,,,,,,qubůlun,,,,,15,false
-قليلاً,"trochu, málo",,2,55,,,,,,qalílan,,,34,,15,false
-بعد قليلٍ,za chvíli,,5,55,,,,,,ba3da qalílin,,,,,15 20,false
-كثيراً,často,,2,317,,,,,,kathíran,,,,,15 21,false
+قليلاً,"trochu, málo",,2,55,,,,,,qalīlan,,,34,,15,false
+بعد قليلٍ,za chvíli,,5,55,,,,,,baʿda qalīlin,,,,,15 20,false
+كثيراً,často,,2,317,,,,,,kaṯīran,,,,,15 21,false
 كُرة القَدَمِ,fotbal,,9,318,,,,,,kuratu -l- qadami,,,34 69,,15 20,false
-كُشْكٌ (أكشاك),"stánek, altánek, kiosk",,9,319,,,,,,"kuškun, akšákun",,,9 17,,15 20 21,false
-مُلْحَقٌ,"atašé (1); příloha (2), připevněný, připojený (3)",,1 9,320,,,,,,mulHaqun,,,45 47 59,,1 15 20,false
-لِقاءٌ (ات),setkání,,9,119,,,,,,liqá'un,,,45,,15 20,false
+كُشْكٌ (أكشاك),"stánek, altánek, kiosk",,9,319,,,,,,"kuškun, akšākun",,,9 17,,15 20 21,false
+مُلْحَقٌ,"atašé (1); příloha (2), připevněný, připojený (3)",,1 9,320,,,,,,mulḥaqun,,,45 47 59,,1 15 20,false
+لِقاءٌ (ات),setkání,,9,119,,,,,,liqāʾun,,,45,,15 20,false
 مرةً,jednou,,2,321,,,,,,marratan,,,,,15,false
-نبات (ات),rostlina,,9,322,,,,,,nabátun,,,34,,15,false
+نبات (ات),rostlina,,9,322,,,,,,nabātun,,,34,,15,false
 نَشَرَ (ـُ),"uveřejnit, publikovat",,7,205,7,,,,,našara (janšuru),,,,,15 20,false
-منشُورٌ,"uveřejněný, publikovaný",,1,205,,,,,,manšúrun,,,,,15 20,false
-منشورات,"publikace, brožury, tiskoviny",,9,205,,,,,,manšúrátun,,,45,,15 20,false
-اِنتِظار,"čekání, očekávání",,9,207,,,,,,(i)ntiZárun,,,49,,15 20,false
+منشُورٌ,"uveřejněný, publikovaný",,1,205,,,,,,manšūrun,,,,,15 20,false
+منشورات,"publikace, brožury, tiskoviny",,9,205,,,,,,manšūrātun,,,45,,15 20,false
+اِنتِظار,"čekání, očekávání",,9,207,,,,,,(i)ntiẓārun,,,49,,15 20,false
 نَوْمٌ,spánek,,9,124,,,,,,nawmun,,,87,,15 20,false
 مُهْتَمٌّ,"zajímající se (o), zájemce",,9,208,,,,,بـ,muhtammun,,,,,15 20,false
-مَوْسِم (مواسِمُ),sezona (ne roční období),,9,323,,,,,,"mawsimun, mawásimu",,,69 85,,15 20,false
-وُصُولٌ,"příjezd, přílet, dosažení (čeho)",,9,168,,,,,إلى,wuSúlun,,,49,,15 20,false
-طُفُولة,dětství,,9,324,,,,,,Tufůlatun,,,64,,15 20,false
+مَوْسِم (مواسِمُ),sezona (ne roční období),,9,323,,,,,,"mawsimun, mawāsimu",,,69 85,,15 20,false
+وُصُولٌ,"příjezd, přílet, dosažení (čeho)",,9,168,,,,,إلى,wuṣūlun,,,49,,15 20,false
+طُفُولة,dětství,,9,324,,,,,,ṭufůlatun,,,64,,15 20,false
 مدرسة اِبتدائِيٌّ,základní škola,,9,74,,,,,,,,,40 88,,20,false
 مصنع (مصانع),továrna (výrobní závod),,9,18,,,,,,,,,9 40,,20,false
 مَكْتَبٌ (مَكَاتِبُ),"kancelář, úřad; psací stůl",,9,325,,,,,,maktabun,,,9,,20,false
 جدٌّ / جدة (أجداد),"dědeček, babička",,9,326,,,,,,,,,64,,20,false
-ضاحية (ضواحٍ),předměstí,,9,327,,,,,,DáHíjatun (DawáHin),,,40,,15 20,false
+ضاحية (ضواحٍ),předměstí,,9,327,,,,,,ḍāḥījatun (ḍawāḥin),,,40,,15 20,false
 نبات (نباتات),rostlina,,9,328,,,,,,,,,63,,20,false
-طَائِرٌ / طَيْرٌ (طُيُورٌ),"pták, ptactvo",,9,90,,,,,,"Tá'irun, Tajrun (Tujůrun)",,,63 83,,15 20,false
+طَائِرٌ / طَيْرٌ (طُيُورٌ),"pták, ptactvo",,9,90,,,,,,"ṭāʾirun, ṭajrun (ṭujůrun)",,,63 83,,15 20,false
 ضحك,smát se (a),,7,329,7,,,,,,,,,,20,false
-ذقن (ذُقون),brada,,9,330,,,,,,dhaqnun (dhuqůnun),,,75,,15 20,false
-أُسْطُورَةٌ (أسَاطِيرُ),"legenda, pověst",,9,331,,,,,,usTůratun (asáTíru),,,33 47,,1 15 20,false
+ذقن (ذُقون),brada,,9,330,,,,,,ḏaqnun (ḏuqůnun),,,75,,15 20,false
+أُسْطُورَةٌ (أسَاطِيرُ),"legenda, pověst",,9,331,,,,,,usṭůratun (asāṭīru),,,33 47,,1 15 20,false
 "رَسَمَ (ـُـ, رَسْمٌ)","kreslit, malovat (u)",,7,332,7,,,,,rasama (jarsumu),,,,,15 20,false
-بَطَلٌ (أبطال),hrdina,,9,333,,,,,,"baTalun, abTálun",,,32,,15 20 21,false
+بَطَلٌ (أبطال),hrdina,,9,333,,,,,,"baṭalun, abṭālun",,,32,,15 20 21,false
 زَهْرَة (زُهُورٌ),květina,,9,334,,,,,,"zahratun, zuhůrun",,,63,,15 20,false
-حَصَدَ (ـُـ),sklízet (úrodu),,7,295,7,,,,,HaSada jaHSudu HaSadun,,,,,20,false
+حَصَدَ (ـُـ),sklízet (úrodu),,7,295,7,,,,,ḥaṣada jaḥṣudu ḥaṣadun,,,,,20,false
 درَّاجة,jízdní kolo,,9,335,,,,,,,,,12 34,,20,false
 مُجَاوِرٌ,"sousedící, sousední",,1,336,,,,,,,,,,,20,false
 مطبخ (مطابخُ),kuchyně,,9,313,,,,,,,,,14 37,,20,false
-شِتَاءٌ,zima (roční období),,9,337,,,,,,šitá'un,,,41 65 85,,20,false
+شِتَاءٌ,zima (roční období),,9,337,,,,,,šitāʾun,,,41 65 85,,20,false
 ثلج (ثلوج),sníh,,9,273,,,,,,,,,58 63,,20,false
 سَأَلَ (ـَ) سُؤَالٌ,ptát se,,7,33,7,,,,,,,,5 66,,20,false
 "هَبَطَ (ـُـ, هُبُوطٌ)",klesat (1); odmítnout (2),,7,338,7,,,,,,,,,,20,false
-سَقَطَ (ـُ) سُقُوطٌ,"spadnout, neuspět",,7,339,7,,,,,saqaTa (u) suqúTun,,,,,20,false
+سَقَطَ (ـُ) سُقُوطٌ,"spadnout, neuspět",,7,339,7,,,,,saqaṭa (u) suqūṭun,,,,,20,false
 شاهد (م. مشاهدة),prohlížet si něco,,7,312,3,,,,,,,,47,,1 20,false
 مُقَارِنٌ,srovnání,,9,340,,,,,,,,,49,,20,false
 أَسِيرٌ (أُسَرَاءُ/أُسَارَى),zajatec,,9,341,,,,,,,,,32 47,,1 20,false
@@ -495,9 +495,9 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 نارٌ,oheň,,9,345,,,,,,,,,16,,20,false
 ذِكْرِيَّةٌ (ذِكْرَايَاتٌ),vzpomínka,,9,223,,,,,,,,,7,,20,false
 و الحقُّ أنَّ ...,"je pravdou, že",,5,241,,,,,,,,,47,,1 20,false
-أَمَرٌ (أُمور),"věc, záležitost",,9,346,,,,,,amrun (umúrun),,,45,,14 20,false
-اِجْتِمَاعِيٌّ,"společenský, sociální",,1,176,,,,,,idžtimá3íjun,,,,,14 20 23,false
-قام (ـُ) قِيامٌ/قَوْمٌ {1},"podniknout, provést, vykonat",,7,73,7,,,,بـ,qáma (jaqúmu),,,5 31 66,,15 20,false
+أَمَرٌ (أُمور),"věc, záležitost",,9,346,,,,,,amrun (umūrun),,,45,,14 20,false
+اِجْتِمَاعِيٌّ,"společenský, sociální",,1,176,,,,,,iǧtimāʿījun,,,,,14 20 23,false
+قام (ـُ) قِيامٌ/قَوْمٌ {1},"podniknout, provést, vykonat",,7,73,7,,,,بـ,qāma (jaqūmu),,,5 31 66,,15 20,false
 ريف (أرياف),venkov,,9,347,,,,,,,,,38 40,,20,false
 في بعضِ الأحيانِ,občas,,2 5,298,,,,,,,,,62,,20,false
 فَلَّاحٌ,"rolník, zemědělec",,,348,,,,,,,,,59,,20,false
@@ -511,22 +511,22 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 "وَجِعَ (يَوْجَعُ ـَـ, وَجَعٌ)","bolet, cítit bolest",,7,350,7,,,,,,,,6 47 66,,1 20,false
 شيءً (أشياءَ),věc,,,351,,,,,,,,,49,,20,false
 وَثِيقَةٌ (وثائقُ),dokument,,9,352,,,,,,,,,45,,20,false
-"مشى (ـِـ, مَشْيٌ)","""jít pěšky, """"marš""""""",,7,353,7,,,,,mašá jamší mašjun,,,66,,20,false
+"مشى (ـِـ, مَشْيٌ)","""jít pěšky, """"marš""""""",,7,353,7,,,,,mašā jamšī mašjun,,,66,,20,false
 أَكْلٌ,jídlo,,9,65,,,,,,aklun,,,27,,15 20,false
 حمل (ـِـ),nést,,7,349,7,,,,,,,,,,20,false
 خَبَزَ (ـِـ),péct pečivo,,7,299,7,,,,,,,,27,,20,false
-رَبِيعٌ,jaro,,9,354,,,,,,rabí3un,,,65,,15 20 21,false
+رَبِيعٌ,jaro,,9,354,,,,,,rabīʿun,,,65,,15 20 21,false
 صَيْفٌ,léto,,,355,,,,,,,,,65 85,,20,false
-زَرَعَ (ـَـ),pěstovat,,7,52,7,,,,,zara3a (jazra3u),,,,,15 20,false
-إِضافيٌّ,"doplňkový, náhradní",,1,30,,,,,,'iDáfíjun,,,,,15 20,false
+زَرَعَ (ـَـ),pěstovat,,7,52,7,,,,,zaraʿa (jazraʿu),,,,,15 20,false
+إِضافيٌّ,"doplňkový, náhradní",,1,30,,,,,,ʾiḍāfījun,,,,,15 20,false
 فتح (ـَـ),otevřít,,7,195,7,,,,,,,,,,20,false
 لعب (ـَـ),hrát,,7,356,7,,,,,,,,,,20,false
-لَعْبٌ (ألعابٌ),hra,,9,356,,,,,,"la3bun, al3ábun",,,84 87,,15 20,false
-مَطَرٌ (أمطار),déšť,,9,90,,,,,,maTarun (amTárun),,,47 58 63,,1 15 20,false
+لَعْبٌ (ألعابٌ),hra,,9,356,,,,,,"laʿbun, alʿābun",,,84 87,,15 20,false
+مَطَرٌ (أمطار),déšť,,9,90,,,,,,maṭarun (amṭārun),,,47 58 63,,1 15 20,false
 وَالِدٌ/وَالِدةٌ (آبَاءٌ),otec/matka,,,32,,,,,,,,,64,,20,false
 ألمَانِيَّا,Německo,,,87,,,,,,,,,21 70 73,,20,false
 بِالتحديدِ,přesně,,2,357,,,,,,,,,47,,1 20,false
-تخريجٌ,"promoce, slavnostní vyřazení absoloventů",,9,53,,,,,,tachrídžun,,,18 88,,15 20,false
+تخريجٌ,"promoce, slavnostní vyřazení absoloventů",,9,53,,,,,,taḫrīǧun,,,18 88,,15 20,false
 عُطْلَةٌ (عُطَل),"volno, prázdniny",,,358,,,,,,,,,19,,20,false
 عطلةُ نِهايةِ الاُسبوعِ,víkend,,,358,,,,,,,,,19,,20,false
 بسُرعَةٍ,rychle,,2,140,,,,,,,,,,,20,false
@@ -537,7 +537,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 شبكة الإنترنيت,internetová síť,,,362,,,,,,,,,72,,20,false
 مقَدَماً/سلناً,v budoucnosti,,2,152,,,,,,,,,34,,20,false
 ثامنة,osmý,,1 4,363,,,,,,,,,,,20,false
-دَارٌ (دُورٌ),lepší dům - fem.,,,181,,,,,,dárun dúrun,,,9,,20,false
+دَارٌ (دُورٌ),lepší dům - fem.,,,181,,,,,,dārun dūrun,,,9,,20,false
 مُؤَسَّسة (ـات),instituce,,,170,,,,,,,,,45 49,,20,false
 تماماً,"zcela, naplno",,2,364,,,,,,,,,,,20,false
 كلاب = بوبي,pes,,,365,,,,,,,,,83,,20,false
@@ -545,7 +545,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 المجر,Maďarsko,,,87,,,,,,,,,21 70 73,,20,false
 مُثلَّج,ledový,,1,273,,,,,,,,,47,,1 20,false
 ذاتِيَّةٌ,"osobnost, identita",,,366,,,,,,,,,34 45 49,,20,false
-اِسْتَخْدَامٌ,"užití, použití",,9,367,,,,,,istichdámun,,,47 49,,1 6 20,false
+اِسْتَخْدَامٌ,"užití, použití",,9,367,,,,,,istiḫdāmun,,,47 49,,1 6 20,false
 وَلَدَ (ـِـ),"porodit, mít dítě",,7,32,7,,,,,,,,6 66,,20,false
 مَعُونَةٌ مَالِيَّةٌ,finanční pomoc,,,368,,,,,,,,,45 47,,1 20,false
 أمير البحر,admirál,,,346,,,,,,,,,59,,20,false
@@ -554,13 +554,13 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 تَلَقٍّ,"přijetí, získání, recepce (znalosti, umu)",,,370,,,,,< تَلَقَّى,,,,18 34 49,,20,false
 اِستقبال حافلٌ,slavnostní přijetí,,,178,,,,,,,,,45 47,,1 20,false
 محيطُ الاطلسيِّ,Atlantský oceán,,,371,,,,,,,,,21 34,,20,false
-اِسْتَنْتَجَ,"vyvodit, vydedukovat, přijít na něco",,7,372,12,,,,,istantadža,,,47,,1 6 20,false
+اِسْتَنْتَجَ,"vyvodit, vydedukovat, přijít na něco",,7,372,12,,,,,istantaǧa,,,47,,1 6 20,false
 سفينة (سُفُنٌ),"loď, plavidlo",,,373,,,,,,,,,12,,20,false
-تزوَّج,"oženit se (s), vdát se (za)",,7,374,11,,,,من,tazawwadža,,,5 66,,20 23,false
-بحّر,plout po moři,,7,375,4,,,,,baHHara,,,,,20,false
+تزوَّج,"oženit se (s), vdát se (za)",,7,374,11,,,,من,tazawwaǧa,,,5 66,,20 23,false
+بحّر,plout po moři,,7,375,4,,,,,baḥḥara,,,,,20,false
 شَاقٌّ,"únavný, vysilující, úmorný",,1,376,,,,,,,,,47,,1 20,false
 مُسْتَقْمَرة,kolonie,,,377,,,,,,,,,21 23 47,,1 20,false
-تَنْقِيبٌ,"průzkum, hledání (čeho), pátrání (po)",,9,378,,,,,عن,tanqíbun,,,49,,17 20,false
+تَنْقِيبٌ,"průzkum, hledání (čeho), pátrání (po)",,9,378,,,,,عن,tanqībun,,,49,,17 20,false
 أمواج البحر,mořské vlny,,,379,,,,,,,,,21,,20,false
 أرضٌ (أراضٍ),"země, půda, území",,,380,,,,,,,,,21,,20,false
 "حجز (ـِـ, حَجْرٌ)","zamluvit, rezervovat",,7,43,7,,,,,,,,,,20,false
@@ -569,42 +569,42 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 بِدُونِ,bez,,6,382,,,,,,,,,,,20,false
 تَأْشِيرَةُ دُخُولٍ,vstupní vízum,,9,383,,,,,,duplicita,,,10 45 62,,16 20,false
 بِتحديدِ,přesně,,2,357,,,,,,,,,,,20,false
-تحديد,"stanovení, určení, vymezení",,,357,,,,,,taHdídun,,,,,20,false
-مَقَالٌ,článek (o),,9,109,,,,,(عن),maqálun,,,60,,20,false
-بِفَضْلِ,"díky, zásluhou (něčeho)",,2,384,,,,,,bifaDli,,,,,16 20,false
+تحديد,"stanovení, určení, vymezení",,,357,,,,,,taḥdīdun,,,,,20,false
+مَقَالٌ,článek (o),,9,109,,,,,(عن),maqālun,,,60,,20,false
+بِفَضْلِ,"díky, zásluhou (něčeho)",,2,384,,,,,,bifaḍli,,,,,16 20,false
 دُبَيْ,Dubaj,,,360,,,,,,,,,21 39,,20,false
-مؤخرا,nedávno,,2,171,,,,,,mu'achcharan,,,47,,1 16,false
-تأشيرة,vízum,,9,383,,,,,,ta'šíratun,,,46,,16 28 32,false
-بُرْجٌ (أَبْرَاجٌ),věž,,9,385,,,,,,burdžun (abrádžun),,,23 40,,16 20,false
+مؤخرا,nedávno,,2,171,,,,,,muʾaḫḫaran,,,47,,1 16,false
+تأشيرة,vízum,,9,383,,,,,,taʾšīratun,,,46,,16 28 32,false
+بُرْجٌ (أَبْرَاجٌ),věž,,9,385,,,,,,burǧun (abrāǧun),,,23 40,,16 20,false
 تَبَيَّنَ أنَّ...,"ukázalo se, že...",,5,174,,,,,,tabajjana anna...,,,,,16,false
-جَوَازُ (ات) سفرٍ,(cestovní) pas,,9,386,,,,,,džawázu safarin,,,34,,16,false
-حديث,"vyprávění, rozhovor, interview",,9,133,,,,,,7adíthun (a7ádíthu),,,34,,16,false
-حفظ,"zapamatovat si, naučit se zpaměti",,7,387,7,,,,,7afiZa ja7faZu,,,,,16,false
-حَلَمَ (ـُ),snít (o),,7,388,7,,,,بـ,Halama jaHlumu bi,,,,,16,false
-حَالًا,"ihned, okamžitě",,2,78,,,,,,Hálan,,,,,16 20,false
-بالذات,"právě, přesně",,2,366,,,,,,bi-l-dhdháti,,,34,,16,false
-رَأْيٌ,názor (na),,9,118,,,,,في,ra'jun (árá'un),,,,,16,false
-سهولة,snadnost,,9,35,,,,,,suhúlatun,,,,,16,false
-بِسُهُولَةٍ,"snadno, jednoduše",,2,35,,,,,,bisuhúlatin,,,,,16 20,false
-شَارِعٌ (شَوَارِعُ),ulice,,9,389,,,,,,šári3un šawári3u,,,,,16,false
+جَوَازُ (ات) سفرٍ,(cestovní) pas,,9,386,,,,,,ǧawāzu safarin,,,34,,16,false
+حديث,"vyprávění, rozhovor, interview",,9,133,,,,,,ḥadīṯun (aḥādīṯu),,,34,,16,false
+حفظ,"zapamatovat si, naučit se zpaměti",,7,387,7,,,,,ḥafiẓa jaḥfaẓu,,,,,16,false
+حَلَمَ (ـُ),snít (o),,7,388,7,,,,بـ,ḥalama jaḥlumu bi,,,,,16,false
+حَالًا,"ihned, okamžitě",,2,78,,,,,,ḥālan,,,,,16 20,false
+بالذات,"právě, přesně",,2,366,,,,,,bi-l-ḏḏāti,,,34,,16,false
+رَأْيٌ,názor (na),,9,118,,,,,في,raʾjun (ārāʾun),,,,,16,false
+سهولة,snadnost,,9,35,,,,,,suhūlatun,,,,,16,false
+بِسُهُولَةٍ,"snadno, jednoduše",,2,35,,,,,,bisuhūlatin,,,,,16 20,false
+شَارِعٌ (شَوَارِعُ),ulice,,9,389,,,,,,šāriʿun šawāriʿu,,,,,16,false
 مُشْتَرَك,společný,,1,390,,,,,,muštarakun,,,,,16 20,false
-شَمْسٌ (شُمُوسٌ),slunce,,9,391,,,,,,šamsun (šumúsun),,,63,,16 20,false
-عبارة,"výraz, fráze",,9,392,,,,,,3ibáratun,,,,,16,false
-اِعْدَادٌ,příprava,,9,288,,,,,,i3dádun,,,34 47,,1 16,false
-تعليمات,pokyny,,9,97,,,,,,ta3límátu,,,49,,16 20,false
+شَمْسٌ (شُمُوسٌ),slunce,,9,391,,,,,,šamsun (šumūsun),,,63,,16 20,false
+عبارة,"výraz, fráze",,9,392,,,,,,ʿibāratun,,,,,16,false
+اِعْدَادٌ,příprava,,9,288,,,,,,iʿdādun,,,34 47,,1 16,false
+تعليمات,pokyny,,9,97,,,,,,taʿlīmātu,,,49,,16 20,false
 غيّرٌ,jiný (než) (1); ne- (2),,1 6,393,,,,,+ zájm.suf.,ghajrun,,,34,"غيره, غيرهنّ",16 20,false
-مَغْرِبِيٌّ (مَغَارِبُة),"Maročan, marocký",,1 9,230,,,,,,maghribíjun magháribatun,,,21 32 34 73,,16 20,false
-فَنِّيٌّ,umělecký,,1,268,,,,,,fanníjun,,,,,16,false
-فقط,"jenom, pouze",,2,394,,,,,,faqaT,,,,,16 20,false
-لم يَكُنْ منهُ إلاّ أنْ,"nezbývalo mu, než...",,5,395,,,,,,lam jakun minhu illá an,,,62,,16,false
-لوازم,"nezbytnosti, nutné, potřebné věci nutné; požadavky",,9,396,,,,,,lawázimu,,,47 49,,1 16 20,false
-إِمْكَانٌ,"možnost, schopnost",,9,40,,,,,,imkánun,,إِمكَانِيَّة [imkánijatun],,,16,false
-مَمْلَكَةٌ (مَمَالِكُ),království,,9,397,,,,,,mamlakatun (mamáliku),,,,,16,false
-(و) هكذا,(a) tak,,8,24,,,,,,(wa) hákadhá (píše se se závěsným alifem nad h),,,,,16 20,false
-اِهْتِمامٌ (ات),zájem,,9,208,8,,,,,ihtimámun,,,18 49,,16 20,false
-كليةُ الهندسةِ المعماريةِ,"fakulta architektury, architektonická fakulta",,9,222,,,,,,kullíjatu -l-handasati -l-mi3máríjati,,,62 88,,16 20,false
-ربّى,"chovat, vychovávat",,7,398,4,,,,هـ/ه,rabbá,,,3 66,,10 20,false
-شَاهَدَ,"zahlédnout, prohlédnout si, dívat se na TV, vzhlédnout na",,7,312,3,,,,هـ,šáhada mušáhadatun,,,,,20,false
+مَغْرِبِيٌّ (مَغَارِبُة),"Maročan, marocký",,1 9,230,,,,,,maghribījun maghāribatun,,,21 32 34 73,,16 20,false
+فَنِّيٌّ,umělecký,,1,268,,,,,,fannījun,,,,,16,false
+فقط,"jenom, pouze",,2,394,,,,,,faqaṭ,,,,,16 20,false
+لم يَكُنْ منهُ إلاّ أنْ,"nezbývalo mu, než...",,5,395,,,,,,lam jakun minhu illā an,,,62,,16,false
+لوازم,"nezbytnosti, nutné, potřebné věci nutné; požadavky",,9,396,,,,,,lawāzimu,,,47 49,,1 16 20,false
+إِمْكَانٌ,"možnost, schopnost",,9,40,,,,,,imkānun,,إِمكَانِيَّة [imkánijatun],,,16,false
+مَمْلَكَةٌ (مَمَالِكُ),království,,9,397,,,,,,mamlakatun (mamāliku),,,,,16,false
+(و) هكذا,(a) tak,,8,24,,,,,,(wa) hākadhā (pīše se se zāvěsným alifem nad h),,,,,16 20,false
+اِهْتِمامٌ (ات),zájem,,9,208,8,,,,,ihtimāmun,,,18 49,,16 20,false
+كليةُ الهندسةِ المعماريةِ,"fakulta architektury, architektonická fakulta",,9,222,,,,,,kullījatu -l-handasati -l-miʿmārījati,,,62 88,,16 20,false
+ربّى,"chovat, vychovávat",,7,398,4,,,,هـ/ه,rabbā,,,3 66,,10 20,false
+شَاهَدَ,"zahlédnout, prohlédnout si, dívat se na TV, vzhlédnout na",,7,312,3,,,,هـ,šāhada mušāhadatun,,,,,20,false
 حُلْمٌ (أَحْلامٌ),sen,,,388,,,,,,,,,49,,20,false
 جائِزَة (جَوَائِزُ),"ocenění, cena",,,399,,,,,,,,,49,,20,false
 لاجئٌ (ون),uprchlík,,,400,,,,,,,,,32,,20 26,false
@@ -623,7 +623,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 متحف (متاحف),muzeum,,,405,,,,,,,,,9 40,,20,false
 مصرح (مصارح),divadlo,,,406,,,,,,,,,9 40,,20,false
 تُحْفَة (تُحَفٌ),exponát,,,405,,,,,,,,,61 77,,20,false
-اِنْتَهَزَ فرصةً,"využít příležitosti, chopit se příležitosti",,5,407,,,,,,intahaza furSatan,,,62,,3 9 20,false
+اِنْتَهَزَ فرصةً,"využít příležitosti, chopit se příležitosti",,5,407,,,,,,intahaza furṣatan,,,62,,3 9 20,false
 وَطَنٌ (أوْطان),vlast,,,408,,,,,,,,,23,,20,false
 أَصْلٌ (أُصُولٌ),původ,,,409,,,,,,,,,49,,20,false
 جِنْسِيَّة,občanství,,,410,,,,,,,,,49,,20,false
@@ -632,8 +632,8 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 حَضَرَ (ـُـ),dostavit se (někam),,7,9,7,,,,إلى,,,,47,,1 20,false
 أكَّدَ,"ujistit (o něčem), dosvědčit (1); zdůraznit (2)",,7,291,4,,,,لـ هـ/أن; على,akkada,,,6 66,,1 20,false
 صدّق,"věřit, že někdo mluví pravdu; potvrdit, ověřit správnost",,7,411,4,,,,,,,,34,,20,false
-غادر (مُغَادَرَة),odjet (odněkud někam),,7,85,3,,,,هـ إلى,ghádara mughádaratun,,,,,20,false
-حسّن,zkrášlit něco,,7,412,4,,,,هـ,Hassana,,,,,20,false
+غادر (مُغَادَرَة),odjet (odněkud někam),,7,85,3,,,,هـ إلى,ghādara mughādaratun,,,,,20,false
+حسّن,zkrášlit něco,,7,412,4,,,,هـ,ḥassana,,,,,20,false
 بشكلٍ غريب,zvláštním způsobem,,5,37,,,,,,,,,,,20,false
 صحراءٌ (صحارى/صحراوات),poušť,,,413,,,,,,,,,21,,20,false
 فقير (فُقَارَاءُ),chudý,,1,414,,,,,,,,,,,20,false
@@ -651,11 +651,11 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 زوْجُ/زوجةُ الخالِ(ة),přiženěný strýc (teta) ze strany matky,,,374,,,,,,,,,64,,20,false
 زوْجُ/زوجةُ العمِّ(ة),přiženěný strýc (teta) ze strany otce,,,374,,,,,,,,,47 64,,1 20,false
 عمٌّ / عمّةٌ,"strýc (bratr otce), teta (sestra otce)",,,100,,,,,,,,,64,,20,false
-حمٌّ (أَحْمَاءٌ),tchán,,9,424,,,,,,"Hammun, aHmá'un",,,47 64,,1 17 20,false
-حماة (حموات),tchýně,,9,424,,,,,,"Hamáatun, Hamawátun",,,64,,17 20,false
+حمٌّ (أَحْمَاءٌ),tchán,,9,424,,,,,,"ḥammun, aḥmāʾun",,,47 64,,1 17 20,false
+حماة (حموات),tchýně,,9,424,,,,,,"ḥamāatun, ḥamawātun",,,64,,17 20,false
 زوجة اِبني,zeťová,,,374,,,,,,,,,64,,20,false
 زوج بنتي,zeť,,,374,,,,,,,,,64,,20,false
-مات (ـُ) مَوْتٌ,zemřít,,7,425,7,,,,,máta,,,5 66,,6 20,false
+مات (ـُ) مَوْتٌ,zemřít,,7,425,7,,,,,māta,,,5 66,,6 20,false
 "دعا (ـُـ, دَعْوَةٌ)",pozvat,,7,115,7,,,,,,,,3 66,,20,false
 بقي,zůstat,,7,426,7,,,,,,,,3 66 78,,20,false
 قدر (ـِ) قُدْرَةٌ/مقْدَرَة,"moci, být schopen (spíš zálžitost dialektů, MSA spíš istaTá3a)",,7,427,7,,,,على,,,,,,20,false
@@ -669,42 +669,42 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 إِمْتِحَانَاتُ القُبُولِ,přijímací zkoušky,,,269,,,,,,,,,47 88,,1 20,false
 أَقْلَعَ,"vzlétnout, startovat",,7,430,5,,,,,,,,,,20 23,false
 أَجَادَ,"dobře umět, dobře ovládat",,7,6,5,,,,هـ,,,,5 66,,20 23,false
-"كشف (ـِـ, كَشْفٌ) {1}","vyšetřit, prohlédnout někoho",,7,431,5,,,,على,kašafa (jakšifu) kašfun 3alá,,,81,,20 23 31,false
-أجدادنا,naši předci,,9,326,,,,,,adždáduná,,,,,17,false
-خَالٌ (خِيلَانٌ),bratr matky (strýc),,9,422,,,,,,"chálun, chílánun",,,,,17,false
-خالة (ات),sestra matky (teta),,9,422,,,,,,chálatun,,,,,17,false
-"عمّ , أعمام",bratr otce (strýc),,9,100,,,,,,"3ammun, a3mámun",,,,,17,false
-عَمّة (ات),sestra otce (teta),,9,100,,,,,,3ammatun,,,,,17,false
-فِعْلاً,"opravdu, skutečně",,2,432,,,,,,fi3lan,,,,,6 17 20,false
+"كشف (ـِـ, كَشْفٌ) {1}","vyšetřit, prohlédnout někoho",,7,431,5,,,,على,kašafa (jakšifu) kašfun ʿalā,,,81,,20 23 31,false
+أجدادنا,naši předci,,9,326,,,,,,aǧdādunā,,,,,17,false
+خَالٌ (خِيلَانٌ),bratr matky (strýc),,9,422,,,,,,"ḫālun, ḫīlānun",,,,,17,false
+خالة (ات),sestra matky (teta),,9,422,,,,,,ḫālatun,,,,,17,false
+"عمّ , أعمام",bratr otce (strýc),,9,100,,,,,,"ʿammun, aʿmāmun",,,,,17,false
+عَمّة (ات),sestra otce (teta),,9,100,,,,,,ʿammatun,,,,,17,false
+فِعْلاً,"opravdu, skutečně",,2,432,,,,,,fiʿlan,,,,,6 17 20,false
 مَوْقِفُ (مَوَاقِفُ) سَياراَتٍ,parkoviště,,,433,,,,,,,,,40,,20 23,false
 قَرَارٌ (ات) {1},rozhodnutí (1) ; rezoluce (2),,,199,,,,,,,,,49,,20,false
-عَمَلِيةٌ (ات),"operace (1); proces, průběh (2)",,,21,,,,,,3amalíjatun,,,49,,8 20 23,false
+عَمَلِيةٌ (ات),"operace (1); proces, průběh (2)",,,21,,,,,,ʿamalījatun,,,49,,8 20 23,false
 قَلْبٌ (قُلُوبٌ),srdce,,,434,,,,,,,,,75,,20 23,false
 مَهَمَّةٌ (مَهَامٌّ),"úkol, povinnost (= něco důležitého)",,,208,,,,,,,,,47 49,,1 20 23,false
 عَلَى الإِطْلاَقِ,"naprosto, zcela (1); vůbec (v záporné větě) (2)",,2,435,,,,,,,,,47,,1 20 23,false
-تَحْضِيرٌ,příprava,,,9,,,,,,taHDírun,,,47 49,,1 20,false
+تَحْضِيرٌ,příprava,,,9,,,,,,taḥḍīrun,,,47 49,,1 20,false
 زوجة (ات),manželka,,,374,,,,,,,,,64,,20,false
 زوج (أزواج),manžel,,,374,,,,,,,,,64,,20,false
-اِجْتِمَاعٌ (ات),"schůze, zasedání",,9,176,,,,,,idžtimá3un,,,45 47,اِجْتِمَاعٌ طَارِئٌ mimořádná schůzka,1 15 20 23,false
+اِجْتِمَاعٌ (ات),"schůze, zasedání",,9,176,,,,,,iǧtimāʿun,,,45 47,اِجْتِمَاعٌ طَارِئٌ mimořádná schůzka,1 15 20 23,false
 رجل أعمالٍ,podnikatel,,,21,,,,,,,,,59,,20,false
 رئيس (رُؤَسَاءُ) جُمْهُورِيَّة,prezident republiky,,,15,,,,,,,,,59,,20,false
-في أول الأمرِ,nejprve,,2,2,,,,,,fí awwali l-amri,,,,,20,false
-هنّأ,přát někomu,,7,436,4,,,,ه بـ,hanna'a,,,,,20,false
+في أول الأمرِ,nejprve,,2,2,,,,,,fī awwali l-amri,,,,,20,false
+هنّأ,přát někomu,,7,436,4,,,,ه بـ,hannaʾa,,,,,20,false
 فرّج,"ukázat (učinit, aby si někdo něco prohlédl)",,7,197,4,,,,ه على,,,,,,20,false
-راسل,dopisovat si s někým,,7,361,3,,,,ه,rásala,,,47,,1 20,false
+راسل,dopisovat si s někým,,7,361,3,,,,ه,rāsala,,,47,,1 20,false
 وضّح,"objasnit, ozřejmit",,7,343,4,,,,هــ/أن لــ,,,,6 47 66,,1 20,false
-أعطى,dát (někomu něco),,7,437,5,,,,ه هـ,a3Tá,,,13 3 66,,20,false
-أَعْلَنَ,"prohlásit, oznámit, vyhlásit",,7,438,5,,,,(هـ/عن/أنَّ),a3lana,,,,,20,false
+أعطى,dát (někomu něco),,7,437,5,,,,ه هـ,aʿṭā,,,13 3 66,,20,false
+أَعْلَنَ,"prohlásit, oznámit, vyhlásit",,7,438,5,,,,(هـ/عن/أنَّ),aʿlana,,,,,20,false
 أنْتَجَ,"vyrábět, produkovat, vyprodukovat (něco), vyrobit (něco)",,7,372,5,,,,هـ,,,,,,20,false
-أَخْرَجَ {1},"vydělat, vyndat (způsobit, aby se něco dostalo pryč)",,7,53,5,,,,هـ من,achradža,,,47,,1 20,false
+أَخْرَجَ {1},"vydělat, vyndat (způsobit, aby se něco dostalo pryč)",,7,53,5,,,,هـ من,aḫraǧa,,,47,,1 20,false
 أَرْسَلَ,"poslat (něco někomu), odeslat",,7,361,5,,,,هـ بـ,arsala,,,,,18 20,false
-أوصل,"dovézt, svézt, přivézt",,7,168,5,,,,,awSala,,,6 47 66,,1 20,false
+أوصل,"dovézt, svézt, přivézt",,7,168,5,,,,,awṣala,,,6 47 66,,1 20,false
 وَصَّلَ,"dovézt, svézt, přivézt",,7,168,4,,,,,,,,6 66,,20,false
 سَلَّمَ,"předat, odevzdat (někomu něco)",,7,439,4,,,,ه هـ,sallama,,,13,,20,false
 سلَّم,pozdravovat (někoho od někoho),,7,439,4,,,,(لـ) على,,,,47,,1 20,false
-قَائِمَةٌ (قَوَائِمُ),"seznam.cz, soupis",,,155,,,,,,qá'imatun (qawá'imu),,,,,20 21 24,false
-نصيحة (نصائح),rada (doporučení),,,206,,,,,,naSíHatun (naSá'iHu),,,,,20,false
-مسألة (مسائلُ),"otázka, problém, téma",,9,33,,,,,,mas'alatun (masá'ilu),,,47,,1 20 23,false
+قَائِمَةٌ (قَوَائِمُ),"seznam.cz, soupis",,,155,,,,,,qāʾimatun (qawāʾimu),,,,,20 21 24,false
+نصيحة (نصائح),rada (doporučení),,,206,,,,,,naṣīḥatun (naṣāʾiḥu),,,,,20,false
+مسألة (مسائلُ),"otázka, problém, téma",,9,33,,,,,,masʾalatun (masāʾilu),,,47,,1 20 23,false
 نوع (أنواعٌ),druh,,,164,,,,,,,,,49,,20,false
 مُنْتَجٌ,výrobek,,,372,,,,,,,,,49,,20,false
 خِزانة (خَزَائن),skříň,,,440,,,,,,,,,14 43 47,,1 20,false
@@ -712,83 +712,83 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 مبلَغٌ (مَبَالِغُ) {1},"částka, obnos, suma",,,442,,,,,,,,,52,,11 20 22,false
 كم,"""kolik (""""co do..."""", zřetelový akuzativ)""",,10,24,,,,,+ akuzativ singulár,,,,,كم وقطًا,20,false
 أمّا ... فـــ ...,pokud jde o ... tak ...,,5 8,443,,,,,,,,,,,20,false
-أساسي,základní,,1,170,,,,,,'asásíjun,,,,,17,false
-بَتْرُولٌ,ropa,,9,95,,,,,,batrúlun,,,17 36,,17 20,false
-"برلمان , ات",parlament,,9,87,,,,,,barlamánun,,,,,17,false
-بَلَغَ (ـُ) بلوغ,"dosáhnout, dospět k",,7,442,7,,,,,balagha (jablughu) bulúghun,,,,,17 20,false
-بالتّالي,"čímž, a tak, a tudíž",,8,444,,,,,,bittálí,,,47,,1 17 20,false
-ثورة,revoluce,,9,445,,,,,,thauratun,,,,,17,false
-مجلس (مجالس),"rada, zasedání, sněmovna",,9,242,,,,,,"madžlisun, madžálisu",,,,,17,false
-مجلس الشيوخ,Senát,,9,242,,,,,,madžlisu aš-šujůchi,,,,,17,false
-مجلس النوّاب,Poslanecká sněmovna,,9,242,,,,,,madžlisu an-nuwwábi,,,,,17,false
-"حاجز , حواجز","překážka, zábrana",,9,7,,,,,,"Hádžizun, Hawádžizu",,,31 47,,1 17,false
-حَجْمٌ (أَحْجَامٌ),"objem, rozměr, rozsah",,9,446,,,,,,"Hadžmun, aHdžámun",,,49,,17 20,false
-حَقلٌ (حقول),pole,,9,447,,,,,,"Haqlun, Huqůlun",,,49,,17 20,false
-محلّي,"místní, lokální",,1,448,,,,,,mahallíjun,,,,,17,false
-"حلف , أحلاف","pakt, aliance",,9,449,,,,,,"Hilfun, aHláfun",,,47,,1 17,false
-اِحتياطيٌّ (احتياطات),"zásoba, rezerva; zásobní, rezervní",,1 9,450,8,,,,,IHtijáTíjun,,,49,...باستغلال احتياطات النفط...,17 20,false
-مخطوط,rukopisný,,1,49,,,,,,machTůTun,,,,,17,false
-مخطوطة,rukopis,,9,49,,,,,,machTůTatun,,,,,17,false
-داخل,uvnitř,,6,240,,,,,,dáchila,,,,,17,false
+أساسي,základní,,1,170,,,,,,ʾasāsījun,,,,,17,false
+بَتْرُولٌ,ropa,,9,95,,,,,,batrūlun,,,17 36,,17 20,false
+"برلمان , ات",parlament,,9,87,,,,,,barlamānun,,,,,17,false
+بَلَغَ (ـُ) بلوغ,"dosáhnout, dospět k",,7,442,7,,,,,balagha (jablughu) bulūghun,,,,,17 20,false
+بالتّالي,"čímž, a tak, a tudíž",,8,444,,,,,,bittālī,,,47,,1 17 20,false
+ثورة,revoluce,,9,445,,,,,,ṯauratun,,,,,17,false
+مجلس (مجالس),"rada, zasedání, sněmovna",,9,242,,,,,,"maǧlisun, maǧālisu",,,,,17,false
+مجلس الشيوخ,Senát,,9,242,,,,,,maǧlisu aš-šujůḫi,,,,,17,false
+مجلس النوّاب,Poslanecká sněmovna,,9,242,,,,,,maǧlisu an-nuwwābi,,,,,17,false
+"حاجز , حواجز","překážka, zábrana",,9,7,,,,,,"ḥāǧizun, ḥawāǧizu",,,31 47,,1 17,false
+حَجْمٌ (أَحْجَامٌ),"objem, rozměr, rozsah",,9,446,,,,,,"ḥaǧmun, aḥǧāmun",,,49,,17 20,false
+حَقلٌ (حقول),pole,,9,447,,,,,,"ḥaqlun, ḥuqůlun",,,49,,17 20,false
+محلّي,"místní, lokální",,1,448,,,,,,mahallījun,,,,,17,false
+"حلف , أحلاف","pakt, aliance",,9,449,,,,,,"ḥilfun, aḥlāfun",,,47,,1 17,false
+اِحتياطيٌّ (احتياطات),"zásoba, rezerva; zásobní, rezervní",,1 9,450,8,,,,,Iḥtijāṭījun,,,49,...باستغلال احتياطات النفط...,17 20,false
+مخطوط,rukopisný,,1,49,,,,,,maḫṭůṭun,,,,,17,false
+مخطوطة,rukopis,,9,49,,,,,,maḫṭůṭatun,,,,,17,false
+داخل,uvnitř,,6,240,,,,,,dāḫila,,,,,17,false
 مدرّب,trenér,,9,451,,,,,,mudarribun,,,,,17,false
-درجة مئوية,stupneň Celsia,,9,335,,,,,,daradžatun mi'awíjatun,,,,,17,false
-دَعَمَ (ـَ) دَعْمٌ,podporovat,,7,254,7,,,,,da3ama,,,,,17,false
-"دقيقة , دقائق",minuta,,9,452,,,,,,"daqíqatun, daqá'iqu",,,,,17,false
-دَوْرَةٌ (ات),"kurz, školení (1); cyklus, okruh, průběh (2)",,9,181,,,,,,dawratun (dawarátun),,,49,,17 20 21,false
-مربَّعٌ,čtvereční,,1,354,,,,,,murabba3un,,,,,17 20,false
-"ترتيب ,ات",pořadí,,9,453,,,,,,tartíbun,,,,,17,false
-"رصيد , أرصدة","zisk, jmění",,9,454,,,,,,"raSídun, arSidatun",,,47,,1 17,false
-رِيَاضي,"sportovec (1), sportovní (2)",,1 9,258,,,,,,rijáDíjun,,,59 69,,17 20,false
-زواج,sňatek,,9,374,,,,,,zawádžun,,,,,17,false
-زاد (ـِ) زيادة,"růst, zvyšovat se (+ 3alá/3an = přesahovat, převyšovat)",,7,455,7,,,,,záda (jazídu) zijádatun,,,5 66,,17,false
-زائد,plus,,9,455,,,,,,zá'idun,,,,,17,false
-سابقٌ,"předchozí, dřívější",,1,456,,,,,,sábiqun,,,47,,1 17 20,false
-مُسَابَقة,soutěž,,9,456,,,,,,musábaqatun,,,49 69,,17 20,false
-سُرعة,rychlost,,9,140,,,,,,sur3atun,,,49,,17 20,false
+درجة مئوية,stupneň Celsia,,9,335,,,,,,daraǧatun miʾawījatun,,,,,17,false
+دَعَمَ (ـَ) دَعْمٌ,podporovat,,7,254,7,,,,,daʿama,,,,,17,false
+"دقيقة , دقائق",minuta,,9,452,,,,,,"daqīqatun, daqāʾiqu",,,,,17,false
+دَوْرَةٌ (ات),"kurz, školení (1); cyklus, okruh, průběh (2)",,9,181,,,,,,dawratun (dawarātun),,,49,,17 20 21,false
+مربَّعٌ,čtvereční,,1,354,,,,,,murabbaʿun,,,,,17 20,false
+"ترتيب ,ات",pořadí,,9,453,,,,,,tartībun,,,,,17,false
+"رصيد , أرصدة","zisk, jmění",,9,454,,,,,,"raṣīdun, arṣidatun",,,47,,1 17,false
+رِيَاضي,"sportovec (1), sportovní (2)",,1 9,258,,,,,,rijāḍījun,,,59 69,,17 20,false
+زواج,sňatek,,9,374,,,,,,zawāǧun,,,,,17,false
+زاد (ـِ) زيادة,"růst, zvyšovat se (+ 3alá/3an = přesahovat, převyšovat)",,7,455,7,,,,,zāda (jazīdu) zijādatun,,,5 66,,17,false
+زائد,plus,,9,455,,,,,,zāʾidun,,,,,17,false
+سابقٌ,"předchozí, dřívější",,1,456,,,,,,sābiqun,,,47,,1 17 20,false
+مُسَابَقة,soutěž,,9,456,,,,,,musābaqatun,,,49 69,,17 20,false
+سُرعة,rychlost,,9,140,,,,,,surʿatun,,,49,,17 20,false
 شهد (ـَ),zažít; být svědkem (něčeho),,7,312,7,,,,هـ,šahida (jašhadu),,,34,,17 23,false
-صَرَّحَ,prohlásit (bico),,7,406,4,,,,بـ,SarraHa,,,47,,1 17 20,false
-صَفْحَةٌ,stránka (list v knize),,9,457,,,,,,SafHatun,,,28,,17 20,false
-"صندوق , صناديق","fond, bedna, schránka",,9,458,,,,,,"Sandůqun, Sanádíqu",,,,,17,false
-صناعة,"průmysl, výroba",,9,18,,,,,,Siná3atun,,,,,17,false
-بالإضافة إلى,"nadto, mimo to, krom toho",,2,30,,,,,,bil-iDáfatu ilá,,,,,1 17,false
-طُنٌّ (أطنان),tuna,,9,459,,,,,,"Tunnun, aTnánun",,,17 25,,17 20,false
-عَادَلَ,"rovnat se, odpovídat (něčemu)",,7,460,3,,,,هـ,3ádala,,,,,17,false
-تَعَاقُدٌ,"smlouva, kontrakt",,9,461,,,,,,ta3áqudun,,,45,,17 20,false
-إعلامي,"publicista, mediální pracovník",,9,97,,,,,,i3lámíjun,,,89,,17,false
-عِمْلاقٌ (عَمَالِقَةٌ),"velikán, gigant, (červený) obr [hvězda]",,9,462,,,,,(أَحْمَرٌ),"3imláqun, 3amáliqatun",,,49 56,,17 20 21,false
-عملة (ات),měna,,9,21,,,,,,3umlatun,,,52,,17 20,false
-غاز (ات),plyn (tabí3íjun = zemní),,9,87,,,,,,gházun,,,34 36,,17 20,false
-اِسْتِغْلاَلٌ,"využití (1); též vykořisťování, zneužívání (2)",,9,463,12,,,,,istighlálun,,,18 47 49,,1 17 20,false
-فرعي,"dílčí, vedlejší",,1,464,,,,,,far3íjun,,,,,17,false
-فِضِّيٌّ,stříbrný,,1,465,,,,,,fiDDíjun,,,,فِضِّيُّ ٱللَّونِ stříbrné barvy,17,false
+صَرَّحَ,prohlásit (bico),,7,406,4,,,,بـ,ṣarraḥa,,,47,,1 17 20,false
+صَفْحَةٌ,stránka (list v knize),,9,457,,,,,,ṣafḥatun,,,28,,17 20,false
+"صندوق , صناديق","fond, bedna, schránka",,9,458,,,,,,"ṣandůqun, ṣanādīqu",,,,,17,false
+صناعة,"průmysl, výroba",,9,18,,,,,,ṣināʿatun,,,,,17,false
+بالإضافة إلى,"nadto, mimo to, krom toho",,2,30,,,,,,bil-iḍāfatu ilā,,,,,1 17,false
+طُنٌّ (أطنان),tuna,,9,459,,,,,,"ṭunnun, aṭnānun",,,17 25,,17 20,false
+عَادَلَ,"rovnat se, odpovídat (něčemu)",,7,460,3,,,,هـ,ʿādala,,,,,17,false
+تَعَاقُدٌ,"smlouva, kontrakt",,9,461,,,,,,taʿāqudun,,,45,,17 20,false
+إعلامي,"publicista, mediální pracovník",,9,97,,,,,,iʿlāmījun,,,89,,17,false
+عِمْلاقٌ (عَمَالِقَةٌ),"velikán, gigant, (červený) obr [hvězda]",,9,462,,,,,(أَحْمَرٌ),"ʿimlāqun, ʿamāliqatun",,,49 56,,17 20 21,false
+عملة (ات),měna,,9,21,,,,,,ʿumlatun,,,52,,17 20,false
+غاز (ات),plyn (tabí3íjun = zemní),,9,87,,,,,,ghāzun,,,34 36,,17 20,false
+اِسْتِغْلاَلٌ,"využití (1); též vykořisťování, zneužívání (2)",,9,463,12,,,,,istighlālun,,,18 47 49,,1 17 20,false
+فرعي,"dílčí, vedlejší",,1,464,,,,,,farʿījun,,,,,17,false
+فِضِّيٌّ,stříbrný,,1,465,,,,,,fiḍḍījun,,,,فِضِّيُّ ٱللَّونِ stříbrné barvy,17,false
 تَفَوُّق,"převaha, prvenství",,9,466,,,,,,tafauwwuqun,,,49,,17 20,false
-قَابِلٌ,vhodný (k),,1,151,,,,,بـ,qábilun bi,,,,,17 20,false
-مقابِلَ,oproti (za...),,6,151,,,,,,muqábila,,,47,,1 17,false
-قُصْوَى,maximální (ženský rod),,1,467,,,,,,quSwá,,,,,17,false
+قَابِلٌ,vhodný (k),,1,151,,,,,بـ,qābilun bi,,,,,17 20,false
+مقابِلَ,oproti (za...),,6,151,,,,,,muqābila,,,47,,1 17,false
+قُصْوَى,maximální (ženský rod),,1,467,,,,,,quṣwā,,,,,17,false
 "قوّة (قُوًّى, قُوّات)",síla,,9,468,,,,,,quwwatun,,,,,17,false
 أكثر,více než,,2,317,,,,,بـ,,,,,,17,false
-مكعّب,krychlový,,1,469,,,,,,muka33abun,,,,,17,false
+مكعّب,krychlový,,1,469,,,,,,mukaʿʿabun,,,,,17,false
 تَكَوَّنَ,"sestávat (z), skládat se (z)",,7,395,11,,,,من,takawwana,,,5 66,,17 20 23,false
-مَكَانَةٌ,"místo, umístění, postavení, pořadí",,9,40,,,,,,makánatun,,,49,,17 20,false
-لافِتٌ,"nápadný, pozoruhodný",,1,470,,,,,,láfitun,,,,,17,false
-مِثْلماَ,tak jako,,2 3,415,,,,,,mithlamá,,,,,17 20,false
-ميدالية,medaile,,9,87,,,,,,mídálíjatun,,,,,17,false
-نَحْوٌ,"syntax, větná skladba",,,471,,,,,,naHwun,,,22,,,false
-"نسخة , نسخ","kopie, exemplář",,9,472,,,,,,"nuschatun, nusachun",,,,,17,false
+مَكَانَةٌ,"místo, umístění, postavení, pořadí",,9,40,,,,,,makānatun,,,49,,17 20,false
+لافِتٌ,"nápadný, pozoruhodný",,1,470,,,,,,lāfitun,,,,,17,false
+مِثْلماَ,tak jako,,2 3,415,,,,,,miṯlamā,,,,,17 20,false
+ميدالية,medaile,,9,87,,,,,,mīdālījatun,,,,,17,false
+نَحْوٌ,"syntax, větná skladba",,,471,,,,,,naḥwun,,,22,,,false
+"نسخة , نسخ","kopie, exemplář",,9,472,,,,,,"nusḫatun, nusaḫun",,,,,17,false
 نَسَمَةٌ (ات),"duše, člověk (statistický údaje) (1); dech (2); dýchající, živá bytost (3)",,9,473,,,,,,nasamatun,,,49 63,,17 20,false
-منظّمة,organizace,,9,98,,,,,,munaZZamatun,,,,,17,false
-تَنَافَسَ,"soupeřit, závodit, zápolit",,7,287,10,,,,,tanáfasa,,,47,,1 17,false
-نفط,"nafta, ropa",,9,95,,,,,,nafTun,,,17 36,,17 20,false
-نُهُوض,vzestup,,9,163,,,,,,nuhůDun,,,49,,17 20,false
-نهائي,"konečný, finální",,1,248,,,,,,nihá'íjun,,,,,17,false
-"نائب , نوّاب","poslanec, zástupce",,9,474,,,,,,"ná'ibun, nuwwábun",,,,,17,false
-مُوَاصَلَةٌ,pokračování,,9,168,,,,,,mawáSalatun,,,49,,17 20,false
-توقيت,"čas, časové pásmo",,9,169,,,,,,tawqítun,,,,,17,false
-وَقَعَ (ـَ، يَقَعُ) وُقُوعٌ,"nacházet se, ležet (1); přihodit se (negativní konotace a jevy) (2); odehrávat se (3); spadnout (4)",,7,211,7,,,,,waqa3a,,,6 66,,17 20,false
+منظّمة,organizace,,9,98,,,,,,munaẓẓamatun,,,,,17,false
+تَنَافَسَ,"soupeřit, závodit, zápolit",,7,287,10,,,,,tanāfasa,,,47,,1 17,false
+نفط,"nafta, ropa",,9,95,,,,,,nafṭun,,,17 36,,17 20,false
+نُهُوض,vzestup,,9,163,,,,,,nuhůḍun,,,49,,17 20,false
+نهائي,"konečný, finální",,1,248,,,,,,nihāʾījun,,,,,17,false
+"نائب , نوّاب","poslanec, zástupce",,9,474,,,,,,"nāʾibun, nuwwābun",,,,,17,false
+مُوَاصَلَةٌ,pokračování,,9,168,,,,,,mawāṣalatun,,,49,,17 20,false
+توقيت,"čas, časové pásmo",,9,169,,,,,,tawqītun,,,,,17,false
+وَقَعَ (ـَ، يَقَعُ) وُقُوعٌ,"nacházet se, ležet (1); přihodit se (negativní konotace a jevy) (2); odehrávat se (3); spadnout (4)",,7,211,7,,,,,waqaʿa,,,6 66,,17 20,false
 وُلِدَ,narodil se,,7,32,7,,,,,wulida,,,6 66,,17,false
 "مرِض (ـَـ, مَرَضٌ)",onemocnět,,7,475,7,,,,,,,,,,20,false
-عزم (ـِ) عَزْمٌ,rozhodnout se (k/že),,7,476,7,,,,على (أنْ),3azama 3alá (an),,,47,,1 16 20,false
-"كشف (ـِـ, كَشْفٌ) {2}","objevit, odhalit (koho co?)",,7,431,7,,,,هــ/عن,kašafa (jakšifu) kašfun 3an,,,,,20,false
+عزم (ـِ) عَزْمٌ,rozhodnout se (k/že),,7,476,7,,,,على (أنْ),ʿazama ʿalā (an),,,47,,1 16 20,false
+"كشف (ـِـ, كَشْفٌ) {2}","objevit, odhalit (koho co?)",,7,431,7,,,,هــ/عن,kašafa (jakšifu) kašfun ʿan,,,,,20,false
 نقاب (مناقبة),závoje na obličeji (žena zahalená i s niqábem),,,378,,,,,,,,,30 44,,20,false
 حجاب (محاجبة),šátek na hlavu a krk (žena s hidžábem - splňující pravidla),,,477,,,,,,,,,30 34 44,,20,false
 بُرْقعَ (بَرَاقعُ),burka,,,478,,,,,,,,,30 44,,20,false
@@ -797,7 +797,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 مُفرَد (ات),"lexém, slovo (více lingvisticky)",,,480,,,,,,,,,47 88,,1 20,false
 مرة أخرى,"znovu, ještě jednou",,2,321,,,,,,,,من جديدٍ,,,20,false
 قَلْعَةٌ (قِلاعٌ),"hrad, citadela",,,430,,,,,,,,,23 40,,20,false
-مُجَرَّدُ,"pouhý, samotný",,1,481,,,,,+ neurčené GS,mudžarradun,,,,,20,false
+مُجَرَّدُ,"pouhý, samotný",,1,481,,,,,+ neurčené GS,muǧarradun,,,,,20,false
 حفظ (ـَـ),:),,7,387,7,,,,,,,,,,20,false
 جَوَاز,cestovní pas,,,386,,,,,,,,,10 45,,20,false
 حديث (أحديثة),"vyprávění, rozhovor, interview",,,133,,,,,,,,,34 49,,20,false
@@ -806,26 +806,26 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 سيارةُ الأجرةٍ,taxi,,,121,,,,,,,,,10,,20,false
 شُبَّاك (شبابيكُ),okno,,,362,,,,,,,,,9,,20,false
 صَفٌّ (صُفُوف),řada,,9,482,,,,,,,,,49,,20,false
-انطِبَاع (ات),dojem,,9,190,,,,,,inTibá3un (-át),,,31 47 49,,1 16 20,false
+انطِبَاع (ات),dojem,,9,190,,,,,,inṭibāʿun (-āt),,,31 47 49,,1 16 20,false
 عِبَارَة (ات),"výraz, formulace, rčení",,,392,,,,,,,,,47 49,,1 20,false
 إعَدَادٌ,příprava,,,288,,,,,,,,,47 49,,1 20,false
-معلمٌ (معالمُ),pamětihodnost,,9,97,,,,,,ma3lamun ma3álimu,,,10 23 31 47,,1 16 20,false
+معلمٌ (معالمُ),pamětihodnost,,9,97,,,,,,maʿlamun maʿālimu,,,10 23 31 47,,1 16 20,false
 عُنوَانٌ (عَنَاوِينٌ),"adresa, titulek",,,483,,,,,,,,,45,,20,false
-قُنْصُلٌ (قَنَاصِلُ),konzul,,9,87,,,,,,qunSulun (qanáSilu),,,45 59,,20 23,false
+قُنْصُلٌ (قَنَاصِلُ),konzul,,9,87,,,,,,qunṣulun (qanāṣilu),,,45 59,,20 23,false
 مقهى (مقاهٍ),kavárna,,,484,,,,,,,,,40 84,,20,false
-مَعِدَةٌ (مِعَدٌ),žaludek,,9,272,,,,,,ma3idatun (mi3adun),,,47 75,,1 16 20,false
-حتى الآن,dosud,,6,485,,,,,,7attá al-ána,,,,,16 20,false
-ساري المَفْعُولِ,platný,,1,486,,,,,,sárí al-maf3úli,,,47,,1 16 20,false
+مَعِدَةٌ (مِعَدٌ),žaludek,,9,272,,,,,,maʿidatun (miʿadun),,,47 75,,1 16 20,false
+حتى الآن,dosud,,6,485,,,,,,ḥattā al-āna,,,,,16 20,false
+ساري المَفْعُولِ,platný,,1,486,,,,,,sārī al-mafʿūli,,,47,,1 16 20,false
 لم يكن منه إلاَّ أنْ ...,nezbylo mu než ...,,5,395,,,,,,,,,,,20,false
 كنيسة (كنائس),kostel,,,487,,,,,,,,,30 40,,20,false
 قِسْمٌ (أقسامٌ),"oddělení, katedra",,,200,,,,,,,,,45 88,,20,false
-ذَكَرَ (ـُ) ذِكْرٌ/ذِكْرَى/تَذْكَارٌ,"zmínit (něco), uvést (něco), zmínit se (o něčem)",,7,223,7,,,,هـ,dhakara (jadhkuru) dhikrun/dhikrá/tadhkárun,,,,,20 23,false
-استخراجٌ,těžba (proces dostávání něčeho ven),,9,53,12,,,,,istichrádžun,,,18 49,,17 20,false
-مَرْحَلَة (مراحل),etapa,,9,488,,,,,,"marHalatun, maráHilu",,,85,,17 20,false
+ذَكَرَ (ـُ) ذِكْرٌ/ذِكْرَى/تَذْكَارٌ,"zmínit (něco), uvést (něco), zmínit se (o něčem)",,7,223,7,,,,هـ,ḏakara (jaḏkuru) ḏikrun/ḏikrā/taḏkārun,,,,,20 23,false
+استخراجٌ,těžba (proces dostávání něčeho ven),,9,53,12,,,,,istiḫrāǧun,,,18 49,,17 20,false
+مَرْحَلَة (مراحل),etapa,,9,488,,,,,,"marḥalatun, marāḥilu",,,85,,17 20,false
 زيادة,"zvýšení, nárust",,,455,,,,,,,,,47 49,,1 20,false
 غاز طبعيٌّ,zemní plyn,,,87,,,,,,,,,36,,20,false
-مَتْرٌ (أمتارٌ),metr,,9,87,,,,,,"matrun, amtárun",,,25,,17 20,false
-مَنْجَمٌ (مناجمُ),důl,,9,489,,,,,,"mandžamun, manádžimu",,,40 47,,1 17 20,false
+مَتْرٌ (أمتارٌ),metr,,9,87,,,,,,"matrun, amtārun",,,25,,17 20,false
+مَنْجَمٌ (مناجمُ),důl,,9,489,,,,,,"manǧamun, manāǧimu",,,40 47,,1 17 20,false
 نِسْبَةٌ (نِسَبٌ),"vztah, příbuznost (1); poměr, procento, míra (2); měřítko (3)",,9,77,,,,,,"nisbatun, nisabun",,,47 49,نسبة البِطَالة (míra nezaměstnanosti),1 17 20 27,false
 بَالِغٌ,"velký, výrazný",,1,442,,,,,,,,,,,20,false
 سادسٌ,šestý,,1 4,490,,,,,,,,,,,20,false
@@ -833,7 +833,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 حَوْلَ,o (týkající se čeho),,6,78,,,,,,,,,,,20,false
 الصينُ,Čína,,,95,,,,,,,,,21 70 73,,20,false
 نَحْوَ,"zhruba, asi, kolem (před číslovkou)",,2,471,,,,,,,,,47,,1 17 20,false
-اِتِّفاقٌ (ات),dohoda,,9,210,,,,,,ittifáqun,,,34 45 47,,1 17 20,false
+اِتِّفاقٌ (ات),dohoda,,9,210,,,,,,ittifāqun,,,34 45 47,,1 17 20,false
 مثل هذه البيت,takovéto domy,,,491,,,,,,,,,62 67,,20,false
 مثل هذه الأسئلة,takovéto otázky (použití s neosobním plurálem),,,33,,,,,,,,,62 67,,20,false
 أمثالُ هؤلاءِ الصحفيين,takovíto novináři (spojení s osobním plurálem),,,415,,,,,,,,,47 62 67,,1 20,false
@@ -845,7 +845,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 تغيّرَ,změnit se V.,,7,393,11,,,,,,,,5 47 66,,1 20,false
 تغدّى,obědvat V.,,7,493,11,,,,,,,,3 66,,20,false
 تَعَشَّى,večeřet V.,,7,494,11,,,,,,,,3 66,,20,false
-اِنْسَحَبَ,"stáhnout se (i např. vojsko) (z), být stažený (z)",,7,495,9,,,,من,insaHaba,,,,,1 6 20 23,false
+اِنْسَحَبَ,"stáhnout se (i např. vojsko) (z), být stažený (z)",,7,495,9,,,,من,insaḥaba,,,,,1 6 20 23,false
 "نظام (نُظُوم, أنظِمة)","řád, režim",,,98,,,,,,,,,45 57,,20,false
 عَشَاءٌ,večeře,,,496,,,,,,,,,27,,20,false
 حفلةُ العشاءَ,slavnostní večeře,,,178,,,,,,,,,27 62 67 84,,20,false
@@ -858,15 +858,15 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 مرةً واحدةً,ještě jednou,,2,71,,,,,,,,,,,20,false
 في الحقيقة,ve skutečnosti,,2,241,,,,,,,,,,,20,false
 تَنَازَلَ,ustoupit (od něčeho),,7,25,10,,,,عن,,,,47,,1 20 23,false
-اِنْخَفَضَ,"snížit se, klesnout",,7,499,9,,,,,inchafaDa,,,47,,1 6 20 23,false
-اِنْعَقَدَ,"konat se, být uspořádaný",,7,461,9,,,,,in3aqada,,,47,,1 6 20 23,false
+اِنْخَفَضَ,"snížit se, klesnout",,7,499,9,,,,,inḫafaḍa,,,47,,1 6 20 23,false
+اِنْعَقَدَ,"konat se, být uspořádaný",,7,461,9,,,,,inʿaqada,,,47,,1 6 20 23,false
 اِرْتَفَعَ,"zvýšit se, vzrůst",,7,500,8,,,,,,,,,,20,false
-صِحّةٌ,zdraví (1); pravdivost (2),,9,36,,,,,,SiHHatun,,,81,,19 20 23 31,false
+صِحّةٌ,zdraví (1); pravdivost (2),,9,36,,,,,,ṣiḥḥatun,,,81,,19 20 23 31,false
 سِعْرٌ (أَسْعَارٌ),"cena, sazba, kurz",,,501,,,,,,,,,52,,20 23,false
 غِذَاءٌ (أَغْذِيَة),potravina (1); jídlo (2),,,502,,,,,,,,,27 47,,1 20 23,false
-فَصْلٌ (فُصُولٌ),semestr (1); roční období (2); kapitola (3),,,404,,,,,,faSlun (fuSúlun),,,,,11 20 23,false
+فَصْلٌ (فُصُولٌ),semestr (1); roční období (2); kapitola (3),,,404,,,,,,faṣlun (fuṣūlun),,,,,11 20 23,false
 مُجَلّدٌ (ات),"svazek, díl (knihy); složka (PC)",,,503,,,,,,,,,28 47,,1 20 23,false
-عَصْرٌ (عُصُورٌ),"epocha, období",,9,192,,,,,,3aSrun (3uSúrun),,,85,,6 20 23,false
+عَصْرٌ (عُصُورٌ),"epocha, období",,9,192,,,,,,ʿaṣrun (ʿuṣūrun),,,85,,6 20 23,false
 مَدْخَلٌ (مَدَاخِلُ),"vstup, vchod",,,240,,,,,,,,,9,,20 23,false
 بَعْدَ ذلك,"poté, potom",,6,3,,,,,,,,,85,,20 23,false
 بِشَكْلٍ مَلْحُوظٍ,"výrazně, znatelně",,,37,,,,,,,,,47,,1 20,false
@@ -877,7 +877,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 "كنس (ـُـ, كَنْس)","zamést, zametat",,7,487,7,,,,,,,,47,,1 20,false
 قَارُورَةٌ (ات/قَوَارِيرُ),"láhev {1}, lahvička, flaška",,,199,,,,,,,,,61,,20,false
 قوب (أقَوَابٌ),hrníček,,,506,,,,,,,,,17 61,,20,false
-لتر (لترات),litr,,,95,,,,,,"litrun, átun",,,17 25,,12 20,false
+لتر (لترات),litr,,,95,,,,,,"litrun, ātun",,,17 25,,12 20,false
 أسْمَرُ / سَمْرَاءُ(سمر/سمراوات),snědý,,1,507,,,,,,,,,8,,20,false
 أحمر / حَمْرَاءُ(حُمْرٌ/حَمْرَاوَات),červená,,1,136,,,,,,,,,8,,20,false
 أزرق/زَرْقَاءُ(زُرْقٌ/زرقاوات),modrá,,1,508,,,,,,,,,8,,20,false
@@ -890,22 +890,22 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 بُنِّيٌّ,hnědá (barva kávových bobů),,1,513,,,,,,,,,8 47,,1 20,false
 رَمَادِيٌّ,šedý (popelavý),,1,514,,,,,,,,,8 47,,1 20,false
 وَرْدِيٌّ,růžový,,1,515,,,,,,,,,8,,20,false
-جمع (ـَـ),"shromáždit, získat",,7,176,7,,,,,džama3a,,,,,20,false
+جمع (ـَـ),"shromáždit, získat",,7,176,7,,,,,ǧamaʿa,,,,,20,false
 حقَّق,"uskutečnit, realizovat",,7,241,4,,,,,,,,47,,1 20,false
-قصد (ـِ),"mínit, mít na mysli",,7,516,7,,,,,qaSada jaqSidu,,,,,17 20,false
+قصد (ـِ),"mínit, mít na mysli",,7,516,7,,,,,qaṣada jaqṣidu,,,,,17 20,false
 بُلُوغٌ,dosažení,,,442,,,,,,,,,49,,20,false
 حصول (على),získání (čeho),,,517,,,,,,,,,34 49,,20,false
 تَحَقِيقٌ,"uskutečnění, realizace",,,241,,,,,,,,,49,,20,false
-إداريٌّ,organizátor,,9,181,,,,,,idáríjun,,,32 47,,1 17 20,false
+إداريٌّ,organizátor,,9,181,,,,,,idārījun,,,32 47,,1 17 20,false
 مركز (مراكز),"centrum, střed; postavení, místo (pořadí)",,,518,,,,,,,,,49,,20,false
-سَيْطَرَةٌ,"nadvláda, převaha",,9,519,,,,,,sajTaratun,,,49,,17 20,false
-أَصْبَحَ (1),"stát se (kým, čím)",,7,520,5,,,,ه/هـ,aSba7a,,,,,17 20,false
+سَيْطَرَةٌ,"nadvláda, převaha",,9,519,,,,,,sajṭaratun,,,49,,17 20,false
+أَصْبَحَ (1),"stát se (kým, čím)",,7,520,5,,,,ه/هـ,aṣbaḥa,,,,,17 20,false
 صُعُود,vzestup,,9,276,,,,,,,,,18 49,,17 20,false
-مُقابِلٌ,"protistojící, protilehlý",,1,151,,,,,,muqábilun,,,,,20,false
+مُقابِلٌ,"protistojící, protilehlý",,1,151,,,,,,muqābilun,,,,,20,false
 قارّة,kontinent,,,199,,,,,,,,,21,,20,false
 قُوّة,síla,,,468,,,,,,,,,49,,20,false
-لَجْنَة (لَجَان),"komise, výbor",,9,521,,,,,,"ladžnatun, lidžánun",,,49,,17 20,false
-هَدَفٌ (أهْدَاف),cíl,,9,522,,,,,,"hadafun, ahdáfun",,,49,,17 20,false
+لَجْنَة (لَجَان),"komise, výbor",,9,521,,,,,,"laǧnatun, liǧānun",,,49,,17 20,false
+هَدَفٌ (أهْدَاف),cíl,,9,522,,,,,,"hadafun, ahdāfun",,,49,,17 20,false
 إذْ أنَّ,neboť,,8,523,,,,,,idh anna,,,,,17 20,false
 أطلانطا,Atlanta,,,87,,,,,,,,,39,,20,false
 أتينا,Athény,,,87,,,,,,,,,39,,20,false
@@ -935,133 +935,133 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 حَدٌّ (حُدُودٌ),hranice,,,357,,,,,,,,,21,,20,false
 عالمُ الآثارِ,archeolog,,,97,,,,,,,,,59,,20,false
 ثَوْرَةٌ (ات),revoluce,,,445,,,,,,,,,49,,20,false
-على بُعْدِ,ve vzdálenosti (od),,2 6,3,,,,,من,3alá bu3di min,,,,,20,false
-حَسَبَ,podle,,6,529,,,,,,Hasaba,,,,,6 20,false
-قُرنٌ (قُرُونٌ),století (1); roh (2),,9,340,,,,,,qarnun qurúnun,,,85,,20 23,false
-تَأْثِيرٌ (ات),vliv,,9,1,,,,,,ta'thírun,,,,,18,false
-من أَجْل,"pro, za, kvůli",,6,290,,,,,,min adžli,,,,,18,false
-إستوديو,studio,,9,87,,,,,,istúdijú,,,17,,18,false
+على بُعْدِ,ve vzdálenosti (od),,2 6,3,,,,,من,ʿalā buʿdi min,,,,,20,false
+حَسَبَ,podle,,6,529,,,,,,ḥasaba,,,,,6 20,false
+قُرنٌ (قُرُونٌ),století (1); roh (2),,9,340,,,,,,qarnun qurūnun,,,85,,20 23,false
+تَأْثِيرٌ (ات),vliv,,9,1,,,,,,taʾṯīrun,,,,,18,false
+من أَجْل,"pro, za, kvůli",,6,290,,,,,,min aǧli,,,,,18,false
+إستوديو,studio,,9,87,,,,,,istūdijū,,,17,,18,false
 أُسْرَةٌ (أُسَرٌ),"rodina (1) ; rod, dynastie (2)",,9,341,,,,,,usratun usarun,,,,,18,false
-إسرائيل,Izrael,,9,95,,,,,,Isrá'ílu,,,73,,18,false
-إِطَارٌ (أُطُرٌ),rámec,,9,90,,,,,,iTárun (uTurun),,,,,18,false
+إسرائيل,Izrael,,9,95,,,,,,Isrāʾīlu,,,73,,18,false
+إِطَارٌ (أُطُرٌ),rámec,,9,90,,,,,,iṭārun (uṭurun),,,,,18,false
 أَمَّمَ,znárodnit,,7,416,4,,,,,ammama,,,6 4 66,,18,false
-تأميم,znárodnění,,9,416,,,,,,ta'mímun,,,,,1 18,false
-أمل,naděje,,9,530,,,,,,amalun (ámálun),,,,,18,false
+تأميم,znárodnění,,9,416,,,,,,taʾmīmun,,,,,1 18,false
+أمل,naděje,,9,530,,,,,,amalun (āmālun),,,,,18,false
 أمن,bezpečnost,,9,172,,,,,,amnun,,,,,18,false
-أولوية,priorita,,9,2,,,,,,awlawíjatun,,,,,18,false
-مَبْدَأٌ (مَبَادِئُ),"zásada, princip",,9,120,,,,,,mabda'un mabádi'u,,,15,,18 21 29,false
-مبادرة,iniciativa,,9,531,,,,,,mubádaratun,,,,,1 18,false
+أولوية,priorita,,9,2,,,,,,awlawījatun,,,,,18,false
+مَبْدَأٌ (مَبَادِئُ),"zásada, princip",,9,120,,,,,,mabdaʾun mabādiʾu,,,15,,18 21 29,false
+مبادرة,iniciativa,,9,531,,,,,,mubādaratun,,,,,1 18,false
 بِنْيَةٌ (بِنىً),struktura,,9,114,,,,,,binjatun (binan),,,,,1 18,false
-بينما,zatímco,,8,174,,,,,,bajnamá,,,,,18,false
-تكنولوجيا,technologie,,9,87,,,,,,tiknúlúdžijá,,,,,18,false
+بينما,zatímco,,8,174,,,,,,bajnamā,,,,,18,false
+تكنولوجيا,technologie,,9,87,,,,,,tiknūlūǧijā,,,,,18,false
 تَمَّ (ـِ),"být dokončen, proveden; s masdarem opis trpného rodu",,7,364,7,,,,,tamma,,,4,,18,false
-إتمام,dokončení,,9,364,5,,,,,itmámun,,,18,,18,false
-جزءٌ,"část, díl",,9,532,,,,,,džuz'un (adžzá'un),,,,,18,false
-مُجْتَمَعٌ,společnost,,9,176,,,,,,mudžtama3un (-átun),,,,,18,false
-جِهَازٌ (أَجْهِزَةٌ),přístroj,,9,132,,,,,,džiházun (adžhizatun),,,,,18,false
-مجال,"oblast, prostor, pole působení",,9,533,,,,,-,madžálun (-átun),,,,,18,false
-حَدَّثَ,vyprávět (komu o),,7,133,4,,,,ه عن,Haddatha,,,,,18 20,false
-حِفَاظٌ,"zachování, udržení",,9,387,,,,,على,7ifáZun 3alá,,,,,18,false
-حكومة,vláda,,9,179,,,,,,7ukúmatun,,,34,,18,false
+إتمام,dokončení,,9,364,5,,,,,itmāmun,,,18,,18,false
+جزءٌ,"část, díl",,9,532,,,,,,ǧuzʾun (aǧzāʾun),,,,,18,false
+مُجْتَمَعٌ,společnost,,9,176,,,,,,muǧtamaʿun (-ātun),,,,,18,false
+جِهَازٌ (أَجْهِزَةٌ),přístroj,,9,132,,,,,,ǧihāzun (aǧhizatun),,,,,18,false
+مجال,"oblast, prostor, pole působení",,9,533,,,,,-,maǧālun (-ātun),,,,,18,false
+حَدَّثَ,vyprávět (komu o),,7,133,4,,,,ه عن,ḥaddaṯa,,,,,18 20,false
+حِفَاظٌ,"zachování, udržení",,9,387,,,,,على,ḥifāẓun ʿalā,,,,,18,false
+حكومة,vláda,,9,179,,,,,,ḥukūmatun,,,34,,18,false
 حَوَلَى,"asi, zhruba",,3,78,,,,,,,,,,,18,false
-بِحَيْثُ,"takže, a tedy",,8,10,,,,,,bi7ajthu,,,,,18 20,false
-إِخْبَارِيٌّ,zpravodajský,,1,54,,,,,,ichbáríjun,,,,,18,false
-خطوة,krok,,9,534,,,,,,chaTwatun,,,,,18,false
-دكتوراه,doktorát,,9,87,,,,,,duktúráh,,,,,18,false
-رسالة الدكتوراه,disertační práce,,,361,,,,,,risálatu -d-duktúráh,,,62 88,,18,false
-أدنى,"blízký, přední",,1,535,,,,,,adná,,,,,18,false
-الشَرْقُ الأَدْنَى,Přední východ,,,47,,,,,,aš-šarqu al-adná,,,73,,18,false
-دنيا,svět (pozemský),,9,535,,,,,,dunjá,,,,,18,false
-دائم,"stálý, trvalý",,1,536,,,,,,dá'imun,,,,,18,false
-يرى أن,"domnívá se, že",,5,537,,,,,,jará anna,,,62,,18,false
-رَجَاءٌ,prosba,,9,538,,,,,,radžá'un,,,47 49,,1 18 20,false
+بِحَيْثُ,"takže, a tedy",,8,10,,,,,,biḥajṯu,,,,,18 20,false
+إِخْبَارِيٌّ,zpravodajský,,1,54,,,,,,iḫbārījun,,,,,18,false
+خطوة,krok,,9,534,,,,,,ḫaṭwatun,,,,,18,false
+دكتوراه,doktorát,,9,87,,,,,,duktūrāh,,,,,18,false
+رسالة الدكتوراه,disertační práce,,,361,,,,,,risālatu -d-duktūrāh,,,62 88,,18,false
+أدنى,"blízký, přední",,1,535,,,,,,adnā,,,,,18,false
+الشَرْقُ الأَدْنَى,Přední východ,,,47,,,,,,aš-šarqu al-adnā,,,73,,18,false
+دنيا,svět (pozemský),,9,535,,,,,,dunjā,,,,,18,false
+دائم,"stálý, trvalý",,1,536,,,,,,dāʾimun,,,,,18,false
+يرى أن,"domnívá se, že",,5,537,,,,,,jarā anna,,,62,,18,false
+رَجَاءٌ,prosba,,9,538,,,,,,raǧāʾun,,,47 49,,1 18 20,false
 مُرَكِّزٌ,"zaměřený, orientovaný (na)",,1,518,,,,,في,murakkizun,,,,,18,false
-تَرْمِيمٌ,rekonstrukce,,9,539,,,,,,tarmímun,,,,,18,false
-رَامٍ,směřující (k),,1,540,,,,,إلى,rámin ilá,,,,,18,false
-رُوحٌ (أَرْوَاحٌ),duch,,9,305,,,,,,rú7un (arwá7un),,,,,18,false
-سَدٌّ (سُدُودٌ),přehrada,,9,541,,,,,,saddun (sudúdun),,,,,18,false
-السَدُّ العَالِيُّ,Asuánská přehrada,,,541,,,,,,as-sadda al-3álí,,,73,,18,false
-أسْعَدَ,potěšit,,7,107,5,,,,,as3ada,,,47,,1 18 20,false
-مسلسل,seriál,,9,542,,,,,,musalsalun (-átun),,,,,18,false
-سِلْعَةٌ (سِلْعٌ),zboží,,9,543,,,,,,sil3atun (sil3un),,,47,,1 18,false
-سِلْمِيٌّ,mírový,,1,439,,,,,,silmíjun,,,,,18,false
-سلام,mír,,9,439,,,,,,salámun,,,,,18,false
-مُسَاهَمَةٌ,"podíl, účast na",,9,544,,,,,في,musáhamatun,,,47,,1 18,false
+تَرْمِيمٌ,rekonstrukce,,9,539,,,,,,tarmīmun,,,,,18,false
+رَامٍ,směřující (k),,1,540,,,,,إلى,rāmin ilā,,,,,18,false
+رُوحٌ (أَرْوَاحٌ),duch,,9,305,,,,,,rūḥun (arwāḥun),,,,,18,false
+سَدٌّ (سُدُودٌ),přehrada,,9,541,,,,,,saddun (sudūdun),,,,,18,false
+السَدُّ العَالِيُّ,Asuánská přehrada,,,541,,,,,,as-sadda al-ʿālī,,,73,,18,false
+أسْعَدَ,potěšit,,7,107,5,,,,,asʿada,,,47,,1 18 20,false
+مسلسل,seriál,,9,542,,,,,,musalsalun (-ātun),,,,,18,false
+سِلْعَةٌ (سِلْعٌ),zboží,,9,543,,,,,,silʿatun (silʿun),,,47,,1 18,false
+سِلْمِيٌّ,mírový,,1,439,,,,,,silmījun,,,,,18,false
+سلام,mír,,9,439,,,,,,salāmun,,,,,18,false
+مُسَاهَمَةٌ,"podíl, účast na",,9,544,,,,,في,musāhamatun,,,47,,1 18,false
 تسوق,nakupování,,9,492,,,,,,tasawwuqun,,,18,,18,false
-لا سيما,"zejména, především",,2,545,,,,,,lá sijjamá,,,,,1 18,false
-شَجَّعَ,povzbuzovat někoho k něčemu; fandit,,7,546,4,,,,ه على,šadždža3a -hu 3alá,,,,,1 18 21,false
-اشتراكية,socialismus,,9,390,,,,,,ištirákíjatun,,,,,18,false
-لا شك أن,"není pochyb (o tom), že...",,5,547,,,,,,lá šakka (fí) anna...,,,62,,18,false
-تشييد,vybudování,,9,548,,,,,,tašjídun,,,,,18,false
-صَحَّحَ,"opravit (např. text), zkorigovat",,7,36,4,,,,هـ,SaHHaHa,,,4,,18,false
-مصادرة,"zabavení, exekuce, konfiskace",,9,42,,,,,,muSádaratun,,,47,,1 18,false
-صعيد,"plocha, rovina",,9,276,,,,,,Sa3ídun (Su3udun),,,47,,1 18,false
-على صعيد,na úrovni,,2,276,,,,,,3alá Sa3ídin,,,47,,1 18,false
-صَلَّحَ,"opravit (technicky, např. stroj)",,7,549,4,,,,,Salla7a,,,,,18 20,false
-إصْلَاحٌ (ات),reforma,,9,549,,,,,,iSláHun,,,15 18,,18,false
-إستصلاح,"zúrodnění, obdělávání",,9,549,,,,,,istiSlá7un,,,,,18,false
-صورة,způsob,,9,99,,,,,,Súratun,,,,,18,false
-بِصُورَةٍ مُمْتَازَةٍ,výborně,,2 5,550,,,,,,biSúratin mumtázatin,,,,,18 20,false
-من الضروري,"je třeba, je nutné",,5,551,,,,,,min aD-Darúríji,,,62,,18,false
-طَبَّقَ,"uplatnit, garantovat (1); aplikovat (něco na) (2)",,7,552,4,,,,هـ على,Tabbaqa,,,47,,1 18 21,false
-بِطَرِيقَةٍ سِلْمِيَّةٍ,mírovou cestou,,2,553,,,,,,bi-Taríqatin silmijatin,,,34,,18,false
+لا سيما,"zejména, především",,2,545,,,,,,lā sijjamā,,,,,1 18,false
+شَجَّعَ,povzbuzovat někoho k něčemu; fandit,,7,546,4,,,,ه على,šaǧǧaʿa -hu ʿalā,,,,,1 18 21,false
+اشتراكية,socialismus,,9,390,,,,,,ištirākījatun,,,,,18,false
+لا شك أن,"není pochyb (o tom), že...",,5,547,,,,,,lā šakka (fī) anna...,,,62,,18,false
+تشييد,vybudování,,9,548,,,,,,tašjīdun,,,,,18,false
+صَحَّحَ,"opravit (např. text), zkorigovat",,7,36,4,,,,هـ,ṣaḥḥaḥa,,,4,,18,false
+مصادرة,"zabavení, exekuce, konfiskace",,9,42,,,,,,muṣādaratun,,,47,,1 18,false
+صعيد,"plocha, rovina",,9,276,,,,,,ṣaʿīdun (ṣuʿudun),,,47,,1 18,false
+على صعيد,na úrovni,,2,276,,,,,,ʿalā ṣaʿīdin,,,47,,1 18,false
+صَلَّحَ,"opravit (technicky, např. stroj)",,7,549,4,,,,,ṣallaḥa,,,,,18 20,false
+إصْلَاحٌ (ات),reforma,,9,549,,,,,,iṣlāḥun,,,15 18,,18,false
+إستصلاح,"zúrodnění, obdělávání",,9,549,,,,,,istiṣlāḥun,,,,,18,false
+صورة,způsob,,9,99,,,,,,ṣūratun,,,,,18,false
+بِصُورَةٍ مُمْتَازَةٍ,výborně,,2 5,550,,,,,,biṣūratin mumtāzatin,,,,,18 20,false
+من الضروري,"je třeba, je nutné",,5,551,,,,,,min aḍ-ḍarūrīji,,,62,,18,false
+طَبَّقَ,"uplatnit, garantovat (1); aplikovat (něco na) (2)",,7,552,4,,,,هـ على,ṭabbaqa,,,47,,1 18 21,false
+بِطَرِيقَةٍ سِلْمِيَّةٍ,mírovou cestou,,2,553,,,,,,bi-ṭarīqatin silmijatin,,,34,,18,false
 تطوُّر/تطوِير,"vývoj, rozvoj",,9,554,,,,,ات,,,,,,18,false
-طيب,"dobrý, laskavý, příjemný",,1,555,,,,,,Tajjibun,,,,,18,false
-عَبَّرَ,vyjádřit (co),,7,392,4,,,,عن,3abbara,,,,,18,false
-عدالة,spravedlnost,,9,460,,,,,,3adálatun,,,,,18,false
-عادل,spravedlivý,,1,460,,,,,,3ádilun,,,,,18,false
-تعزيز,upevnění,,9,556,,,,,,ta3zízun,,,47,,1 18,false
-تَعَطَّلَ,"rozbít se, porouchat se",,7,358,11,,,,,ta3aTTala,,,47,,1 18 20,false
-عولمة,globalizace,,9,97,,,,,,3awlamatun,,,,,18,false
-معاهدة,smlouva,,9,75,,,,,,mu3áhadatun,,,34 45 47,,1 18,false
-تعويض,náhrada,,9,113,,,,,,ta3wíDun (-átun),,,31 47,,1 18,false
-عين,oko,,9,557,,,,,,3ajnun (3ujúnun),,,,,18,false
-غذائي,poravinový,,1,558,,,,,,ghidhá'íju,,,34,,18,false
-انفتاح,"liberalizace, politika otevřených dveří (1) ; otevřenost (2)",,9,195,,,,,,infitá7un,,,34,,12 18,false
-"فَدَّانٌ (أَفْدِنَةٌ, فَدَادِينُ)",feddán (cca 4200 m2),,9,559,,,,,,"faddánun (fadádínu, afdinatun)",,,,,18,false
-من المفروض أنْ,"mít něco za něco; předpokládat, že něco je nějak; be supposed to; je třeba, aby (?)",,5,560,,,,,,min al-mafrúDi an...,,,62,,18 21,false
-القران الكريم,Korán,,9,60,,,,,,al-qur'ánu al-karímu,,,,,18,false
-عن قريب,"brzy, blízko (časově)",,2,497,,,,,,3an qaríbin,,,,,18,false
-اِقْتِصَادٌ,"ekonomika, hospodářství",,9,516,,,,,,iqtiSádun,,,,,18 20,false
-إقليمي,"regionální, teritoriální",,1,561,,,,,,iqlímíjun,,,34,,18,false
-يَجِبُ القَوْلُ إِنَّ,"je třeba říci, že",,5,109,,,,,,jadžibu -l-qawlu inna...,,,62,,18,false
-إِقَامَةٌ {2},nastolení,,9,73,,,,,,iqámatun,,,,,18,false
+طيب,"dobrý, laskavý, příjemný",,1,555,,,,,,ṭajjibun,,,,,18,false
+عَبَّرَ,vyjádřit (co),,7,392,4,,,,عن,ʿabbara,,,,,18,false
+عدالة,spravedlnost,,9,460,,,,,,ʿadālatun,,,,,18,false
+عادل,spravedlivý,,1,460,,,,,,ʿādilun,,,,,18,false
+تعزيز,upevnění,,9,556,,,,,,taʿzīzun,,,47,,1 18,false
+تَعَطَّلَ,"rozbít se, porouchat se",,7,358,11,,,,,taʿaṭṭala,,,47,,1 18 20,false
+عولمة,globalizace,,9,97,,,,,,ʿawlamatun,,,,,18,false
+معاهدة,smlouva,,9,75,,,,,,muʿāhadatun,,,34 45 47,,1 18,false
+تعويض,náhrada,,9,113,,,,,,taʿwīḍun (-ātun),,,31 47,,1 18,false
+عين,oko,,9,557,,,,,,ʿajnun (ʿujūnun),,,,,18,false
+غذائي,poravinový,,1,558,,,,,,ghidhāʾīju,,,34,,18,false
+انفتاح,"liberalizace, politika otevřených dveří (1) ; otevřenost (2)",,9,195,,,,,,infitāḥun,,,34,,12 18,false
+"فَدَّانٌ (أَفْدِنَةٌ, فَدَادِينُ)",feddán (cca 4200 m2),,9,559,,,,,,"faddānun (fadādīnu, afdinatun)",,,,,18,false
+من المفروض أنْ,"mít něco za něco; předpokládat, že něco je nějak; be supposed to; je třeba, aby (?)",,5,560,,,,,,min al-mafrūḍi an...,,,62,,18 21,false
+القران الكريم,Korán,,9,60,,,,,,al-qurʾānu al-karīmu,,,,,18,false
+عن قريب,"brzy, blízko (časově)",,2,497,,,,,,ʿan qarībin,,,,,18,false
+اِقْتِصَادٌ,"ekonomika, hospodářství",,9,516,,,,,,iqtiṣādun,,,,,18 20,false
+إقليمي,"regionální, teritoriální",,1,561,,,,,,iqlīmījun,,,34,,18,false
+يَجِبُ القَوْلُ إِنَّ,"je třeba říci, že",,5,109,,,,,,jaǧibu -l-qawlu inna...,,,62,,18,false
+إِقَامَةٌ {2},nastolení,,9,73,,,,,,iqāmatun,,,,,18,false
 أكْرَمَ,"uctít, poctít",,7,562,5,,,,,akrama,,,47,,1 18 20,false
 كَلَّفَ,stát peníze (koho),,7,563,4,,,,ه,kallafa,,,47,,1 18 20,false
 كَلَّمَ,"hovořit, mluvit (s)",,7,564,4,,,,ه,kallama,,,,,18,false
-كلي,celkový,,1,285,,,,,,kullíjun,,,,,18,false
-ملحوظ,"význačný, významný",,1,157,,,,,,mal7úZun,,,,,18,false
-ليبرالية,liberalismus,,9,87,,,,,,líbirálíjatun,,,,,18,false
-ماجستير,magisterský titul,,9,87,,,,,,mádžistírun,,,,,18,false
-رسالة المجستير,diplomka,,,361,,,,,,risálatu -l-madžistíri,,,34,,18,false
-مَثَّلَ,představovat,,7,415,4,,,,,maththala,,,,,18 20,false
-مما,což,,10,95,,,,,,mimmá,,,,,18,false
-موسيقى,hudba,,9,87,,,,,,músíqá,,,,,18,false
-تمويل,financování,,9,160,,,,,,tamwílun,,,,,18,false
-ميونخ,Mnichov,,9,95,,,,,,mjúnich,,,73,,18,false
-نجم,hvězda,,9,489,,,,,,nadžmun (nudžúmun),,,47,,1 18,false
-نزاع,konflikt,,9,565,,,,,,nizá3un (-átun),,,,,18,false
-منزلي,domácí,,1,25,,,,,,manzilíjun,,,,,18,false
+كلي,celkový,,1,285,,,,,,kullījun,,,,,18,false
+ملحوظ,"význačný, významný",,1,157,,,,,,malḥūẓun,,,,,18,false
+ليبرالية,liberalismus,,9,87,,,,,,lībirālījatun,,,,,18,false
+ماجستير,magisterský titul,,9,87,,,,,,māǧistīrun,,,,,18,false
+رسالة المجستير,diplomka,,,361,,,,,,risālatu -l-maǧistīri,,,34,,18,false
+مَثَّلَ,představovat,,7,415,4,,,,,maṯṯala,,,,,18 20,false
+مما,což,,10,95,,,,,,mimmā,,,,,18,false
+موسيقى,hudba,,9,87,,,,,,mūsīqā,,,,,18,false
+تمويل,financování,,9,160,,,,,,tamwīlun,,,,,18,false
+ميونخ,Mnichov,,9,95,,,,,,mjūniḫ,,,73,,18,false
+نجم,hvězda,,9,489,,,,,,naǧmun (nuǧūmun),,,47,,1 18,false
+نزاع,konflikt,,9,565,,,,,,nizāʿun (-ātun),,,,,18,false
+منزلي,domácí,,1,25,,,,,,manzilījun,,,,,18,false
 نشر,"uveřejnění, publikování",,9,205,,,,,,našrun,,,,,18,false
-ناضل,bojovat,,7,566,3,,,,,náDala,,,47,,1 18,false
-بصرف النظر عن,nehledě na,,5,207,,,,,,biSarfi -n-naZari 3an,,,34,,18,false
-تنظيم,organizování,,9,98,,,,,,tanZímun,,,18,,18,false
-تنظيم الاسرة,plánované rodičovství,,,98,,,,,,tanZímu -l-asrati,,,34,,18,false
-نَاقِدٌ (نُقَّادٌ),kritik,,9,226,,,,,,náqidun (nuqqádun),,,,,1 18,false
-مناقشة,"diskuse, obhajoba (práce)",,9,567,,,,,,munáqašatun,,,,,18,false
-نهضة,"renesance, obrození",,9,163,,,,,,nahDatun,,,,,18,false
-نُورٌ (أَنْوَارٌ),světlo,,9,345,,,,,,núrun (anwárun),,,,,18,false
-هذا و,uvození nového odstavce,,8,167,,,,,,hádhá wa,,,,,18,false
-توزيع,"rozdělení, distribuce",,9,568,,,,,,tawzí3un,,,,,18,false
-وضع,vypracování,,9,62,,,,,,waD3un,,,,,18,false
-وَفَاةٌ (وَفَيَاتٌ),úmrtí,,9,569,,,,,,wafátun (wafajátun),,,,,18,false
-في أيام,"během, za (doby)",,8,103,,,,,,fí ajjámi,,,68,,18,false
-اليونسكو,UNESCO,,9,87,,,,,,al-júniskú,,,,,18,false
-عرَّف,"seznámit někoho (s) (udělat, aby někdo něco věděl)",,7,29,4,,,,ه على/بـ,3arrafa,,,47,,1 20 23,false
-تَصَاعَدَ,"stoupat (vzhůru, postupně) VI.",,7,276,10,,,,,jde to po tech urovnich,,,,,20,false
+ناضل,bojovat,,7,566,3,,,,,nāḍala,,,47,,1 18,false
+بصرف النظر عن,nehledě na,,5,207,,,,,,biṣarfi -n-naẓari ʿan,,,34,,18,false
+تنظيم,organizování,,9,98,,,,,,tanẓīmun,,,18,,18,false
+تنظيم الاسرة,plánované rodičovství,,,98,,,,,,tanẓīmu -l-asrati,,,34,,18,false
+نَاقِدٌ (نُقَّادٌ),kritik,,9,226,,,,,,nāqidun (nuqqādun),,,,,1 18,false
+مناقشة,"diskuse, obhajoba (práce)",,9,567,,,,,,munāqašatun,,,,,18,false
+نهضة,"renesance, obrození",,9,163,,,,,,nahḍatun,,,,,18,false
+نُورٌ (أَنْوَارٌ),světlo,,9,345,,,,,,nūrun (anwārun),,,,,18,false
+هذا و,uvození nového odstavce,,8,167,,,,,,hādhā wa,,,,,18,false
+توزيع,"rozdělení, distribuce",,9,568,,,,,,tawzīʿun,,,,,18,false
+وضع,vypracování,,9,62,,,,,,waḍʿun,,,,,18,false
+وَفَاةٌ (وَفَيَاتٌ),úmrtí,,9,569,,,,,,wafātun (wafajātun),,,,,18,false
+في أيام,"během, za (doby)",,8,103,,,,,,fī ajjāmi,,,68,,18,false
+اليونسكو,UNESCO,,9,87,,,,,,al-jūniskū,,,,,18,false
+عرَّف,"seznámit někoho (s) (udělat, aby někdo něco věděl)",,7,29,4,,,,ه على/بـ,ʿarrafa,,,47,,1 20 23,false
+تَصَاعَدَ,"stoupat (vzhůru, postupně) VI.",,7,276,10,,,,,jde to po teḫ urovniḫ,,,,,20,false
 انقطع,"přerušit se, být přerušen",,7,570,9,,,,,,,,,,20,false
 اِنْطَلَقَ,"vyrazit, vydat se na cestu",,7,435,9,,,,,,,,,,20,false
-اشترى (شِراء),koupit něco,,7,571,8,,,,هــ,ištará jaštarí širá'un,,,66,,20,false
+اشترى (شِراء),koupit něco,,7,571,8,,,,هــ,ištarā jaštarī širāʾun,,,66,,20,false
 حاتف (حواتف),telefon,,,572,,,,,,,,,34 72,,20,false
 حقيبة,"taška (ale ne igelitka, lepší)",,,573,,,,,,,,,49,,20,false
 مَدَنِيٌّ,"civilista, civilní",,1,574,,,,,,,,,,,20,false
@@ -1071,8 +1071,8 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 مَطْلَبٌ (مطالب),požadavky,,,59,,,,,,,,,49,,20,false
 كشكُ اعترافٍ,zpovědnice,,,319,,,,,,,,,62 67,,20,false
 هنديٌّ (هنود),ind,,,578,,,,,,,,,70 73,,20,false
-كَهْرَبَائِيٌّ,"elektrický, elektrikář",,1,579,,,,,,kahrabá'í,,,59,,20,false
-بَعْدَ أنْ,"poté, co... (v minulosti)",,5 8,3,,,,,+ perfektum,ba3da an + perfektum,,,,,20 21,false
+كَهْرَبَائِيٌّ,"elektrický, elektrikář",,1,579,,,,,,kahrabāʾī,,,59,,20,false
+بَعْدَ أنْ,"poté, co... (v minulosti)",,5 8,3,,,,,+ perfektum,baʿda an + perfektum,,,,,20 21,false
 بعد أنْ,"poté, co (v budoucnosti)",,8,3,,,,,+ subjunktiv,,,,,,20,false
 أحياناً,někdy,,2,298,,,,,,,,,86,,20,false
 في غَالِبِ الأحيانِ,většinou,,2,298,,,,,,,,,47 62,,1 20,false
@@ -1082,7 +1082,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 لِيمُونَاتٍ,limonáda,,,87,,,,,,,,,27,,20,false
 كرسيٌّ (كراسٍ),židle,,,265,,,,,,,,,43 47,,1 20,false
 عِلْبَةٌ (عِلَبٌ),plechovka,,,580,,,,,,,,,31 61,,20,false
-خِرِّيجٌ (ون),absolvent univerzity,,9,53,,,,,,chirrídžun (-úna),,,32 88,,14 20 23,false
+خِرِّيجٌ (ون),absolvent univerzity,,9,53,,,,,,ḫirrīǧun (-ūna),,,32 88,,14 20 23,false
 نِسْفٌ,polovina,,,581,,,,,,,,,49,,20,false
 حَاكِمٌ (حُكّامٌ),vládce,,,179,,,,,,,,,32,,20,false
 غَنِيٌّ,"bohatý, majetný, zaopatřený",,1,582,,,,,,,,,,,20,false
@@ -1090,23 +1090,23 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 نَبِيذٌ,víno,,,583,,,,,,,,,27,,20,false
 مَعْجَبَةٌ,"""""""člověk, libující si v něčem"""", milovník""",,,148,,,,,,,,,32,,20,false
 فَرْدٌ (أفرادٌ) {1},člen (rodiny),,,480,,,,,العائلة,,,,64,,20,false
-حَبَّ (ـِ) حُبٌّ,"milovat, mít rád",,7,584,7,,,,,Habba jaHibbu Hubbun,,,4,,20,false
+حَبَّ (ـِ) حُبٌّ,"milovat, mít rád",,7,584,7,,,,,ḥabba jaḥibbu ḥubbun,,,4,,20,false
 حُبٌّ,láska,,,584,,,,,,,,,64,حُبًّا فِي z lásky k,20,false
 حِبٌّ (أَحْبَابٌ),"miláček, drahý/á",,,584,,,,,,,,,64,,20,false
-حضَّر,"připravit, přichystat",,7,9,4,,,,,7aDDara,,,47,,1 18 20,false
+حضَّر,"připravit, přichystat",,7,9,4,,,,,ḥaḍḍara,,,47,,1 18 20,false
 حَاوَلَ,snažit se,,7,78,3,,,,,,,,5 47 66,,1 20,false
-أخْرَجَ {2},režírovat,,7,53,5,,,,,achradža,,,,,18 20,false
-أَصْبَحَ (2),začít (něco dělat),,7,520,5,,,,+ imperfektum,aSba7a,,,47,أَصْبَحَ يَتَجَنَّبُ لِقَاءَهُ začít se vyhýbat (komu),1 18 20,false
-ثَمَنٌ (أثمان),"hodnota, cena",,9,363,,,,,,thamanun athmánun,,,49,,18 20,false
+أخْرَجَ {2},režírovat,,7,53,5,,,,,aḫraǧa,,,,,18 20,false
+أَصْبَحَ (2),začít (něco dělat),,7,520,5,,,,+ imperfektum,aṣbaḥa,,,47,أَصْبَحَ يَتَجَنَّبُ لِقَاءَهُ začít se vyhýbat (komu),1 18 20,false
+ثَمَنٌ (أثمان),"hodnota, cena",,9,363,,,,,,ṯamanun aṯmānun,,,49,,18 20,false
 خِدْمَةٌ,služba,,,367,,,,,,,,,47 49,,1 20,false
-خَطَأٌ (أخطاءٌ),chyba,,9,585,,,,,,chaTa'un (achTá'un),,,49,,18 20,false
+خَطَأٌ (أخطاءٌ),chyba,,9,585,,,,,,ḫaṭaʾun (aḫṭāʾun),,,49,,18 20,false
 "مَشْرُوعٌ (ات, مَشَارِيعُ)",projekt,,,389,,,,,,,,,45,,20,false
 نَدْوَةٌ,beseda,,9,247,,,,,,nadwatun,,,49,,18 20,false
-وَاحَةٌ,oáza,,9,586,,,,,,wá7atun,,,49,,18 20,false
+وَاحَةٌ,oáza,,9,586,,,,,,wāḥatun,,,49,,18 20,false
 بِالتَّأكِيدِ,"jistě, jistěže, ovšem",,5,291,,,,,,,,,,,20,false
-من الأفضل أنْ ...,"bude lépe, když...; raději ...",,5,384,,,,,+ subjunktiv,min al-afDali an...,,,62,,18 20,false
+من الأفضل أنْ ...,"bude lépe, když...; raději ...",,5,384,,,,,+ subjunktiv,min al-afḍali an...,,,62,,18 20,false
 بِنَفْسِ,"""sám (zdůraznění), """"na vlastní duši""""""",,2 5,287,,,,,+ zájmenný sufix,,,,,,20,false
-مِسَاحَةٌ,"povrch (1), oblast (2), rozloha (3)",,9,283,,,,,,"misáHatun, masáHatun",,,21 47 49,,1 17 20,false
+مِسَاحَةٌ,"povrch (1), oblast (2), rozloha (3)",,9,283,,,,,,"misāḥatun, masāḥatun",,,21 47 49,,1 17 20,false
 صِفْرٌ,nula,,4,509,,,,,,,,,,,20,false
 تحت سطح البحر,pod mořskou hladinou,,,375,,,,,,,,,62 67,,20,false
 فَوْقَ سطح البحر,nad mořskou hladinou,,,587,,,,,,,,,62 67,,20,false
@@ -1122,15 +1122,15 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 "طار (ـِـ, طَيْرَانٌ)","letět (samo o sobě), člověk vždy létá letadlem!",,7,90,7,,,,,,,,5 66,,20,false
 "نَقَلَ (ـُـ, نَقْلٌ) {1}","přenést, transportovat",,7,92,7,,,,,,,,,,20,false
 "قَطَعَ (ـَـ, قطعٌ)","urazit (vzdálenost), uříznout, useknout něco",,7,570,7,,,,هــ,,,,,,20,false
-تأخَّر,"opozdit se, zpozdit se, zdržet se (někde), mít zpoždění V.",,7,171,11,,,,,ta'achchara,,,6 66,,19 20,false
+تأخَّر,"opozdit se, zpozdit se, zdržet se (někde), mít zpoždění V.",,7,171,11,,,,,taʾaḫḫara,,,6 66,,19 20,false
 بُعْدٌ (أبعَادٌ),"vzdálenost, rozměr",,,3,,,,,,,,,49,,20,false
 مُسَافقة (ات),vzdálenost,,,593,,,,,,,,,49,,20,false
 اِرْتِفاع,"výška; pozvednutí, vyvýšení",,,500,,,,,(على),,,,47 49,,1 20,false
-مِعْطَفٌ (مَعَاطِفُ),"kabát, plášť, svrchník",,,594,,,,,,mi3Tafun ma3áTifu,,,44,,20,false
+مِعْطَفٌ (مَعَاطِفُ),"kabát, plášť, svrchník",,,594,,,,,,miʿṭafun maʿāṭifu,,,44,,20,false
 بَنْطَلُون (ات),kalhoty,,,95,,,,,,,,,17 44,,20,false
 قُبَّعَة (ات),čepice,,,595,,,,,,,,,34 44,,20,false
 سِرْوَالٌ (سَرَاوِلُ),kalhoty,,,87,,,,,,,,,44,,20,false
-فَرِيقٌ (فِرْقٌ),"tým (sportovní, odborný), pracovní skupina",,9,596,,,,,,faríqun (firaqun),,,34 47 69,,1 6 20,false
+فَرِيقٌ (فِرْقٌ),"tým (sportovní, odborný), pracovní skupina",,9,596,,,,,,farīqun (firaqun),,,34 47 69,,1 6 20,false
 حَفْرِيَّةٌ (ات),vykopávka,,,597,,,,,,,,,23,,20,false
 شُرْطَةٌ,policie,,,598,,,,,,,,,45,,20,false
 بَائِعٌ,prodavač,,,116,,,,,,,,,47 59,,1 20,false
@@ -1140,16 +1140,16 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 حَرِيرِيٌّ,hedvábný,,1,134,,,,,,,,,36 47,,1 20,false
 رَغْمَ أنَّ,"přestože, ačkoli",,8,601,,,,,,,,,,,20 23,false
 خَلْفٌ (خلوفٌ),za (zadní),,6,14,,,,,,,,,,,20,false
-جماعة (ات),skupina (může evokovat teroristické skupiny apod.),,,176,,,,,,džamá3atun,,,32 34,,20 23,false
-مَجْمُوعَة (ات),"skupina (zcela neutrální kontext) (1); sbírka, kolekce (2)",,9,176,,,,,,madžmú3atun,,,32 49,,19 20,false
-"عَقَدَ (ـِـ, عَقْدٌ) {1}","uspořádat, svolat (zasedání, schůzi, konferenci)",,7,461,7,,,,ٱلْجَلْسَةَ,3aqada,,,47,,1 20,false
+جماعة (ات),skupina (může evokovat teroristické skupiny apod.),,,176,,,,,,ǧamāʿatun,,,32 34,,20 23,false
+مَجْمُوعَة (ات),"skupina (zcela neutrální kontext) (1); sbírka, kolekce (2)",,9,176,,,,,,maǧmūʿatun,,,32 49,,19 20,false
+"عَقَدَ (ـِـ, عَقْدٌ) {1}","uspořádat, svolat (zasedání, schůzi, konferenci)",,7,461,7,,,,ٱلْجَلْسَةَ,ʿaqada,,,47,,1 20,false
 اختلف,"lišit se od, odlišovat se od",,7,14,8,,,,عن,,,,34,,20,false
-اِسْتَيْقَظَ,"probudit se, vzbudit se",,7,602,12,,,,,istajqaZa,,,6 66,,9 20,false
+اِسْتَيْقَظَ,"probudit se, vzbudit se",,7,602,12,,,,,istajqaẓa,,,6 66,,9 20,false
 استشار,"konzultovat, radit se s někým o něcem X.",,7,603,12,,,,ه في,,,,47 66,,1 20,false
-استخرج,"těžit (něco z), dobývat (něco z)",,7,53,12,,,,هـ من,istachradža,,,,,6 20,false
+استخرج,"těžit (něco z), dobývat (něco z)",,7,53,12,,,,هـ من,istaḫraǧa,,,,,6 20,false
 استراح,odpočinout si od něčeho X.,,7,305,12,,,,من,,,,66,,20,false
 حاسُوبٌ (ات),počítač,,,529,,,,,,,,,72,,20,false
-بِضَاعَةٌ (بَضَائِعُ),zboží,,,604,,,,,,"biDá3atun, baDá'i3u",,,27,,12 20 21,false
+بِضَاعَةٌ (بَضَائِعُ),zboží,,,604,,,,,,"biḍāʿatun, baḍāʾiʿu",,,27,,12 20 21,false
 مُبَارَاةٌ (مُبَارَيَاتٌ),"zápas, střetnutí, utkání (sportovní)",,,605,,,,,,,,,47 69,,1 20,false
 طَبعة (ات),vydání,,9,190,,,,,,,,,47,,1 20,false
 كمِّيَّة ضَخْمَةٌ من...,obrovské množství něčeho,,5,606,,,,,,,,,,,20,false
@@ -1160,210 +1160,210 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 محامٍ (مُحامونَ),"právník, advokát",,,607,,,,,,,,,59,,20,false
 مُحتَلٌّ,okupovaný,,1,448,,,,,,,,,,,20,false
 الحقيقة أنَّ,"pravdou je, že",,5,241,,,,,,,,,,,20,false
-أداءٌ,"provedení (práce), vykonání (zkoušky)",,9,608,,,,,,'adá'un,,,47,,1 19,false
-إِذَنْ,"tedy, nuže",,5,609,,,,,,'idhan,,,,,19,false
-أصليّ,"původní, originální",,1,409,,,,,,'aSlíjun,,,,,19,false
-أكسفورد,Oxford,,9,360,,,,,,'uskfůrd,,,,,19,false
-إنجلترا,Anglie,,9,360,,,,,,'indžiltirá,,,,,19,false
-"إنسان , ناس",člověk /lidé/,,9,610,,,,,,"'insánun, násun",,,,,19,false
-تبادل,vyměňovat si,,7,611,10,,,,,tabádala,,,,,19,false
-بيئة,(životní) prostředí,,9,612,,,,,,bí'atun,,,,,19,false
-بال,mysl,,9,613,,,,,,bálun,,,,,19,false
-خطر ببالٍ,"přijít na mysl, napadnout",,5,614,,,,,,chaTara bibálin,,,62,,19,false
-تابع,"náležející k, patřící",,1,615,,,,,لــ,tábi3un li-,,,,,19,false
-تجهيز,"vybavení (to, ze je neco vybaveno)",,9,132,,,,,,tadžhíz,,,47,,1 19,false
-مجهَّز,"vybavený, zařízený",,1,132,,,,,,mudžahhazun,,,47,,1 19,false
-حَجْزٌ,"objednání, rezervace",,9,43,,,,,,Hadžzun,,,,,19,false
-تحرّك,"pohybovat se, počínat si",,7,616,11,,,,,taHarraka,,,,,19,false
-الحاضر,přítomnost,,9,9,,,,,,al-HáDiru,,,,,19,false
-حَظَّ (حُظُوظٌ) {1},"štěstí (1) ; osud, sudba (2)",,9,617,,,,,,"HaZZun, HuZůZun",,,,,19,false
-لحسن الحظ,naštěstí,,2,617,,,,,,liHusni-l-HaZZi,,,,,19,false
-حماية,ochrana,,9,618,,,,,,Himájatun,,,,,19,false
-ﻫﻮ ﻓﻲ ﺣﺎﺟﺔ (ﻣﺎﺳﺔ) ﺇﻟﻰ,(naléhavě) potřebuje...,,5,264,,,,,,huwa fí Hádžatin (mássatin) ilá...,,,62,,19,false
-"مختبر , ات",laboratoř,,9,54,,,,,,"muchtabarun, muchtabarátun",,,47,,1 19,false
-تخرّج,absolvovat v,,7,53,11,,,,في,tacharradža,,,,,19,false
-مختصّ,"specializovaný, příslušný",,1,102,,,,,,muchtaSSun,,,47,,1 19,false
-"خطر (ـِ, ـُ)",přijít (na mysl),,7,614,7,,,,بـ,"chaTara, juchTiru bi-",,,,,19,false
-خيّب,zmařit,,7,619,4,,,,,chajjaba,,,5 66,,1 19,false
-خيّب آمالا,zklamat naděje,,5 7,619,4,,,,,chajjaba áláman,,,66,,19,false
+أداءٌ,"provedení (práce), vykonání (zkoušky)",,9,608,,,,,,ʾadāʾun,,,47,,1 19,false
+إِذَنْ,"tedy, nuže",,5,609,,,,,,ʾiḏan,,,,,19,false
+أصليّ,"původní, originální",,1,409,,,,,,ʾaṣlījun,,,,,19,false
+أكسفورد,Oxford,,9,360,,,,,,ʾuskfůrd,,,,,19,false
+إنجلترا,Anglie,,9,360,,,,,,ʾinǧiltirā,,,,,19,false
+"إنسان , ناس",člověk /lidé/,,9,610,,,,,,"ʾinsānun, nāsun",,,,,19,false
+تبادل,vyměňovat si,,7,611,10,,,,,tabādala,,,,,19,false
+بيئة,(životní) prostředí,,9,612,,,,,,bīʾatun,,,,,19,false
+بال,mysl,,9,613,,,,,,bālun,,,,,19,false
+خطر ببالٍ,"přijít na mysl, napadnout",,5,614,,,,,,ḫaṭara bibālin,,,62,,19,false
+تابع,"náležející k, patřící",,1,615,,,,,لــ,tābiʿun li-,,,,,19,false
+تجهيز,"vybavení (to, ze je neco vybaveno)",,9,132,,,,,,taǧhīz,,,47,,1 19,false
+مجهَّز,"vybavený, zařízený",,1,132,,,,,,muǧahhazun,,,47,,1 19,false
+حَجْزٌ,"objednání, rezervace",,9,43,,,,,,ḥaǧzun,,,,,19,false
+تحرّك,"pohybovat se, počínat si",,7,616,11,,,,,taḥarraka,,,,,19,false
+الحاضر,přítomnost,,9,9,,,,,,al-ḥāḍiru,,,,,19,false
+حَظَّ (حُظُوظٌ) {1},"štěstí (1) ; osud, sudba (2)",,9,617,,,,,,"ḥaẓẓun, ḥuẓůẓun",,,,,19,false
+لحسن الحظ,naštěstí,,2,617,,,,,,liḥusni-l-ḥaẓẓi,,,,,19,false
+حماية,ochrana,,9,618,,,,,,ḥimājatun,,,,,19,false
+ﻫﻮ ﻓﻲ ﺣﺎﺟﺔ (ﻣﺎﺳﺔ) ﺇﻟﻰ,(naléhavě) potřebuje...,,5,264,,,,,,huwa fī ḥāǧatin (māssatin) ilā...,,,62,,19,false
+"مختبر , ات",laboratoř,,9,54,,,,,,"muḫtabarun, muḫtabarātun",,,47,,1 19,false
+تخرّج,absolvovat v,,7,53,11,,,,في,taḫarraǧa,,,,,19,false
+مختصّ,"specializovaný, příslušný",,1,102,,,,,,muḫtaṣṣun,,,47,,1 19,false
+"خطر (ـِ, ـُ)",přijít (na mysl),,7,614,7,,,,بـ,"ḫaṭara, juḫṭiru bi-",,,,,19,false
+خيّب,zmařit,,7,619,4,,,,,ḫajjaba,,,5 66,,1 19,false
+خيّب آمالا,zklamat naděje,,5 7,619,4,,,,,ḫajjaba ālāman,,,66,,19,false
 دَبَّرَ,"zařídit, zorganizovat, naplánovat",,7,620,4,,,,,dabbara,,,47,,1 19,false
 تدرّب,"trénovat (co), procvičit se (v), zaškolit se (v)",,7,451,11,,,,على,tadarraba,,,,,19,false
-تَدْرِيبٌ (ات),"trénink, cvičení",,9,451,,,,,,tadríbun (tadríbátun),,,,,19,false
-مديريّة,"ředitelství, správa",,9,181,,,,,,mudíríjatun,,,,,19,false
+تَدْرِيبٌ (ات),"trénink, cvičení",,9,451,,,,,,tadrībun (tadrībātun),,,,,19,false
+مديريّة,"ředitelství, správa",,9,181,,,,,,mudīrījatun,,,,,19,false
 دون أنْ,aniž by,,8,382,,,,,,důna an,,,,,19,false
-ذات,"mající (něco), vyznačující se (čím)",,5,366,,,,,+ jméno v genitivu,dhátu...,,,,,19,false
-رؤية,"shlédnutí, poznání",,9,118,,,,,,ru'jatun,,,47,,1 19,false
-تراسل,dopisovat si (s),,7,361,10,,,,مع,tarásala,,,,,19,false
-زُقَاقٌ (أَزِقَّةٌ),"ulice, ulička",,9,621,,,,,,zuqáqun (aziqqatun),,,,,1 19,false
-مَسْجِدٌ (مَسَاجِدُ),mešita,,9,622,,,,,,masdžid (masádžidu),,,,,19,false
+ذات,"mající (něco), vyznačující se (čím)",,5,366,,,,,+ jméno v genitivu,ḏātu...,,,,,19,false
+رؤية,"shlédnutí, poznání",,9,118,,,,,,ruʾjatun,,,47,,1 19,false
+تراسل,dopisovat si (s),,7,361,10,,,,مع,tarāsala,,,,,19,false
+زُقَاقٌ (أَزِقَّةٌ),"ulice, ulička",,9,621,,,,,,zuqāqun (aziqqatun),,,,,1 19,false
+مَسْجِدٌ (مَسَاجِدُ),mešita,,9,622,,,,,,masǧid (masāǧidu),,,,,19,false
 تسلّم,"obdržet, převzít, dostat",,7,439,11,,,,,tasallama,,,,,19,false
-على السَواءِ,"jak...., tak....",,8,623,,,,,,3alá-s-sawá'i,,,47,,1 19,false
-سويسرا,Švýcarsko,,9,360,,,,,,swísrá,,,,,19,false
+على السَواءِ,"jak...., tak....",,8,623,,,,,,ʿalā-s-sawāʾi,,,47,,1 19,false
+سويسرا,Švýcarsko,,9,360,,,,,,swīsrā,,,,,19,false
 شرّف,poctít (někoho něčím),,7,624,4,,,,ه بـ,šarrafa,,,,,1 19,false
 مُشْرِقٌ,"zářný, skvělý",,1,47,,,,,,mušriqun,,,47,,1 19,false
-شِعرٌ (أشْعَارٌ),"poezie (obecný pojem), básnické dílo (celek)",,9,145,,,,,,ši3run (aš3árun),,,33,,19 21,false
-شهادة,"vysvědčení, osvědčení, diplom",,9,312,,,,,,šahádatun,,,,,19,false
-شهيّ,"chutný, lahodný",,1,625,,,,,,šahíjun,,,,,1 19,false
-منظّمة الصحّة العالميّة,Světová zdravotnická organizace (WHO),,,98,,,,,,munaZZamatu-S-SiHHati-l-3álamíjati,,,81,,19,false
-وزارة الصحّة,ministerstvo zdravotnictví,,,626,,,,,,wizarátu - S-SiHHati,,,81,,19,false
-صحّيّ,"zdravý, zdravotní",,1,36,,,,,,SiHHíjun,,,,,19,false
-تصفّح,listovat,,7,457,11,,,,,taSaffaHa,,,34,,19,false
-ضَمِنَ (ـَ),"zaručit, zajistit, garantovat",,7,627,7,,,,,Damina (jaDmanu),,,,,19,false
-فَرْعٌ (فُرُوعٌ),pobočka,,9,464,,,,,,far3un (furú3un),,,,,1 19,false
-تنفيذ,"realizace, provedení, metoda",,9,628,,,,,,tanfídh,,,,,19,false
+شِعرٌ (أشْعَارٌ),"poezie (obecný pojem), básnické dílo (celek)",,9,145,,,,,,šiʿrun (ašʿārun),,,33,,19 21,false
+شهادة,"vysvědčení, osvědčení, diplom",,9,312,,,,,,šahādatun,,,,,19,false
+شهيّ,"chutný, lahodný",,1,625,,,,,,šahījun,,,,,1 19,false
+منظّمة الصحّة العالميّة,Světová zdravotnická organizace (WHO),,,98,,,,,,munaẓẓamatu-ṣ-ṣiḥḥati-l-ʿālamījati,,,81,,19,false
+وزارة الصحّة,ministerstvo zdravotnictví,,,626,,,,,,wizarātu - ṣ-ṣiḥḥati,,,81,,19,false
+صحّيّ,"zdravý, zdravotní",,1,36,,,,,,ṣiḥḥījun,,,,,19,false
+تصفّح,listovat,,7,457,11,,,,,taṣaffaḥa,,,34,,19,false
+ضَمِنَ (ـَ),"zaručit, zajistit, garantovat",,7,627,7,,,,,ḍamina (jaḍmanu),,,,,19,false
+فَرْعٌ (فُرُوعٌ),pobočka,,9,464,,,,,,farʿun (furūʿun),,,,,1 19,false
+تنفيذ,"realizace, provedení, metoda",,9,628,,,,,,tanfīḏ,,,,,19,false
 مُتَقَدِّمٌ,"vyspělý, pokročilý, rozvinutý",,1,152,,,,,,mutaqaddimun,,,34,,19,false
-تعمق,prohloubit se,,7,629,11,,,,,ta3ammaqa,,,,,19,false
-تعاوُنٌ,spolupráce,,9,368,,,,,,ta3áwunun,,,,,19,false
-أُمنية (أمانٍ),přání,,9,172,,,,,,umníjatun (amánin),,,47,,1 19,false
-مُعْجَمٌ (مَعَاجِمُ),slovník,,9,630,,,,,,mu3žamun (ma3ážimu),,,47,,1 19,false
-متعدّد,"četný, početný",,1,288,,,,,,muta3addidun,,,,,19,false
-عادةٌ,zvyk,,9,282,,,,,,3ádatun,,,,,19,false
-تَقْلِيدٌ (تقاليدُ),"tradice, zvyk",,9,631,,,,,,taqálídu,,,,,19,false
-ناطق (أصلي),mluvčí (rodilý),,9,80,,,,,,náTiqun (aSlíjun),,,,,19,false
-مَاسَّةً,"nutně, naléhavě",,2,632,,,,,,mássatan,,,,,19,false
-تقاعد,"odejít do důchodu, retire",,7,461,10,,,,,taqá3ada,,,47,,1 19 24,false
-منجز (ات),(dosažený) výsledek,,9,633,,,,,,mundžazun,,,47,,1 19,false
-أَخَذَ,začít,,7,58,7,,,,+ imperfektum,achadha,,,6 66,,6,false
-أرضي,přízemní,,1,380,,,,,,arDíjun,,,,,6,false
+تعمق,prohloubit se,,7,629,11,,,,,taʿammaqa,,,,,19,false
+تعاوُنٌ,spolupráce,,9,368,,,,,,taʿāwunun,,,,,19,false
+أُمنية (أمانٍ),přání,,9,172,,,,,,umnījatun (amānin),,,47,,1 19,false
+مُعْجَمٌ (مَعَاجِمُ),slovník,,9,630,,,,,,muʿǧamun (maʿāǧimu),,,47,,1 19,false
+متعدّد,"četný, početný",,1,288,,,,,,mutaʿaddidun,,,,,19,false
+عادةٌ,zvyk,,9,282,,,,,,ʿādatun,,,,,19,false
+تَقْلِيدٌ (تقاليدُ),"tradice, zvyk",,9,631,,,,,,taqālīdu,,,,,19,false
+ناطق (أصلي),mluvčí (rodilý),,9,80,,,,,,nāṭiqun (aṣlījun),,,,,19,false
+مَاسَّةً,"nutně, naléhavě",,2,632,,,,,,māssatan,,,,,19,false
+تقاعد,"odejít do důchodu, retire",,7,461,10,,,,,taqāʿada,,,47,,1 19 24,false
+منجز (ات),(dosažený) výsledek,,9,633,,,,,,munǧazun,,,47,,1 19,false
+أَخَذَ,začít,,7,58,7,,,,+ imperfektum,aḫaḏa,,,6 66,,6,false
+أرضي,přízemní,,1,380,,,,,,arḍījun,,,,,6,false
 أسفٌ,lítost,,9,634,,,,,,asafun,,,,,6,false
 للأسف,bohužel,,2,634,,,,,,li-l-asafi,,,,,6,false
-في آخرِ الأمرِ,nakonec,,2,346,,,,,,fí áchiri-l-amri,,,,,6,false
-بدءٌ,"zahájení, začátek",,9,120,,,,,,bad'un,,,34,,6,false
-ابتكارٌ (ات),vynález,,9,88,,,,,,ibtikárun,,,,,6,false
+في آخرِ الأمرِ,nakonec,,2,346,,,,,,fī āḫiri-l-amri,,,,,6,false
+بدءٌ,"zahájení, začátek",,9,120,,,,,,badʾun,,,34,,6,false
+ابتكارٌ (ات),vynález,,9,88,,,,,,ibtikārun,,,,,6,false
 مبتكَر,vynalezený,,1,88,,,,,,mubtakarun,,,47,,1 6,false
 مُبلَّل,mokrý,,1,635,,,,,,muballalun,,,47,,1 6,false
-بِنَاية (ات),budova,,9,114,,,,,,binájatun,,,9 40,,6 20,false
-باب (أبواب),dveře,,9,173,,,,,,bábun (abwábun),,,,,6,false
-اتّبع,"sledovat, uplatňovat, provádět (politiku)",,7,615,8,,,,,ittaba3a,,,47,,1 6,false
-استثنائي,výjimečný,,1,636,,,,,,istithná'íjun,,,47,,1 6,false
-جدير بالذّكرِ أنّ..,"stojí za zmínku, že ...",,5,637,,,,,,džadírun bi-dhdhakri anna...,,,,,6,false
-تجربة (تجارب),zkušenost,,9,638,,,,,,tadžribatun (tadžáribu),,,,,6,false
-اِجْتَمَعَ,"sejít se, shromáždit se",,7,176,8,,,,,idžtama3a,,,,,6,false
-جمهور (جماهير),veřejnost,,9,639,,,,,,džumhúrun (džamáhíru),,,,,6,false
-جنتيل,"laskavý, galantní, ohleduplný",,1,95,,,,,,džantílun,,,17,,6,false
-حَاذِرٌ,opatrný,,1,640,,,,,,Hádhirun,,,47,,1 6,false
-احترق,hořet,,7,641,8,,,,,iHtaraqa,,,47,,1 6,false
-حافلة,autobus,,9,178,,,,,,Háfilatun,,,,,6,false
-تحقّق,"uskutečnit se, realizovat se",,7,241,11,,,,,taHaqqaqa,,,4,,6,false
-حقّاً,"skutečně, opravdu",,2,241,,,,,,Haqqan,,,,,6,false
-حليق,oholený,,1,297,,,,,,Halíqun,,,,,6,false
-احمرّ,zčervenat,,7,136,6,,,,,iHmarra,,,,,6,false
-حالة,případ,,9,642,,,,,,Hálatun,,,,,6,false
-اِخْتَبَرَ,"prověřit si, vyzkoušet (1); testovat (2)",,7,54,8,,,,,ichtabara,,,,,6 30,false
-اِخْتِبَارٌ (ات),"test, prověření, ověření, testování, zkouška",,9,54,,,,,,ichtibárun,,,,,6,false
-خارجاً,ven,,2,53,,,,,,cháridžan,,,,,6,false
-اِخْتَرَعَ,vynalézt,,7,643,8,,,,,ichtara3a,,,47,,1 6,false
-اختراع (ات),vynález,,9,643,,,,,,ichtirá3un,,,47,,1 6,false
-استخدم,použít,,7,367,12,,,,,istachdama,,,,,6,false
-اخضرّ,"být zelený, zezelenat",,7,301,6,,,,,ichDarra,,,,,6,false
-خلل,porucha,,9,69,,,,,,chalalun,,,47,,1 6,false
-إلى الخلف,dozadu,,9,14,,,,,,ila-l-chalfi,,,,,6,false
-ادّخر,"šetřit, ušetřit",,7,644,8,,,,,iddachara,,,47,,1 6,false
-دافع (دوافع),"impuls, hybná síla",,9,645,,,,,,dáfi3un (dawífi3u),,,,,6,false
-دقيق,"přesný, důkladný",,1,452,,,,,,daqíqun,,,47,,1 6,false
-اندلع,"vypuknout, propuknout, vzplát",,7,646,9,,,,,indala3a,,,,اندلع النور في بيت بالقرب من الكلية.,6 20 30,false
+بِنَاية (ات),budova,,9,114,,,,,,binājatun,,,9 40,,6 20,false
+باب (أبواب),dveře,,9,173,,,,,,bābun (abwābun),,,,,6,false
+اتّبع,"sledovat, uplatňovat, provádět (politiku)",,7,615,8,,,,,ittabaʿa,,,47,,1 6,false
+استثنائي,výjimečný,,1,636,,,,,,istiṯnāʾījun,,,47,,1 6,false
+جدير بالذّكرِ أنّ..,"stojí za zmínku, že ...",,5,637,,,,,,ǧadīrun bi-dhdhakri anna...,,,,,6,false
+تجربة (تجارب),zkušenost,,9,638,,,,,,taǧribatun (taǧāribu),,,,,6,false
+اِجْتَمَعَ,"sejít se, shromáždit se",,7,176,8,,,,,iǧtamaʿa,,,,,6,false
+جمهور (جماهير),veřejnost,,9,639,,,,,,ǧumhūrun (ǧamāhīru),,,,,6,false
+جنتيل,"laskavý, galantní, ohleduplný",,1,95,,,,,,ǧantīlun,,,17,,6,false
+حَاذِرٌ,opatrný,,1,640,,,,,,ḥāḏirun,,,47,,1 6,false
+احترق,hořet,,7,641,8,,,,,iḥtaraqa,,,47,,1 6,false
+حافلة,autobus,,9,178,,,,,,ḥāfilatun,,,,,6,false
+تحقّق,"uskutečnit se, realizovat se",,7,241,11,,,,,taḥaqqaqa,,,4,,6,false
+حقّاً,"skutečně, opravdu",,2,241,,,,,,ḥaqqan,,,,,6,false
+حليق,oholený,,1,297,,,,,,ḥalīqun,,,,,6,false
+احمرّ,zčervenat,,7,136,6,,,,,iḥmarra,,,,,6,false
+حالة,případ,,9,642,,,,,,ḥālatun,,,,,6,false
+اِخْتَبَرَ,"prověřit si, vyzkoušet (1); testovat (2)",,7,54,8,,,,,iḫtabara,,,,,6 30,false
+اِخْتِبَارٌ (ات),"test, prověření, ověření, testování, zkouška",,9,54,,,,,,iḫtibārun,,,,,6,false
+خارجاً,ven,,2,53,,,,,,ḫāriǧan,,,,,6,false
+اِخْتَرَعَ,vynalézt,,7,643,8,,,,,iḫtaraʿa,,,47,,1 6,false
+اختراع (ات),vynález,,9,643,,,,,,iḫtirāʿun,,,47,,1 6,false
+استخدم,použít,,7,367,12,,,,,istaḫdama,,,,,6,false
+اخضرّ,"být zelený, zezelenat",,7,301,6,,,,,iḫḍarra,,,,,6,false
+خلل,porucha,,9,69,,,,,,ḫalalun,,,47,,1 6,false
+إلى الخلف,dozadu,,9,14,,,,,,ila-l-ḫalfi,,,,,6,false
+ادّخر,"šetřit, ušetřit",,7,644,8,,,,,iddaḫara,,,47,,1 6,false
+دافع (دوافع),"impuls, hybná síla",,9,645,,,,,,dāfiʿun (dawīfiʿu),,,,,6,false
+دقيق,"přesný, důkladný",,1,452,,,,,,daqīqun,,,47,,1 6,false
+اندلع,"vypuknout, propuknout, vzplát",,7,646,9,,,,,indalaʿa,,,,اندلع النور في بيت بالقرب من الكلية.,6 20 30,false
 اِنْدَهَشَ,"divit se (1); divit se (něčemu), podivit se (něčemu) (2)",,7,647,9,,,,مِنْ,indahaša,,,47,,1 6 23,false
-على سبيل المثال,například,,5,415,,,,,,3alá sabíli-l-mitháli,,,,,6,false
+على سبيل المثال,například,,5,415,,,,,,ʿalā sabīli-l-miṯāli,,,,,6,false
 اِسْتَلَمَ,převzít,,7,439,8,,,,,istalama,,,47,,1 6,false
-اِسْتَمَعَ,"poslouchat (co), naslouchat (čemu)",,7,141,8,,,,إلى,istama3a,,,,,6 23,false
+اِسْتَمَعَ,"poslouchat (co), naslouchat (čemu)",,7,141,8,,,,إلى,istamaʿa,,,,,6 23,false
 سِنٌّ (أَسْنَانٌ),věk (1); zub (2),,9,648,,,,,,sinnun,,,34,,6,false
-سيّد (سادة),"paní, pán",,9,649,,,,,,sajjidun (sádatun),,,32,,6,false
+سيّد (سادة),"paní, pán",,9,649,,,,,,sajjidun (sādatun),,,32,,6,false
 اِشْتَغَلَ,"pracovat (na PC, nepříliš fyzicky)",,7,235,8,,,,,ištaghala,,,,,6 22,false
-شكل (أشكال),"forma, tvar",,9,37,,,,,,šaklun (aškálun),,,,,6,false
-صحيفة (صحوف),"noviny, listy",,9,39,,,,,,SaHífatun (SuHúfun),,,,,6,false
-مَصْدَرٌ (مَصَادِرُ),"pramen, zdroj",,9,42,,,,,,maSdarun (maSádiru),,,,,6 23,false
-صرخ (ـُ),křičet,,7,650,7,,,,,Saracha,,,,,1 6,false
-اصفرّ,zblednout,,7,509,6,,,,,iSfarra,,,,,6,false
-ضَوئيّ,světelný,,1,651,,,,,,Daw'íjun,,,47,,1 6,false
-رجل (رجال) الإطفاءِ,hasič,,9,652,,,,,,radžulu-l-iTfá'i,,,,,6,false
-ظَرْفٌ (ظُرُوفٌ),"podmínka, okolnost",,9,653,,,,,,Zarfun (Zurúfun),,,47,,1 6,false
-استعجل,"pospíchat, mít naspěch",,7,277,12,,,,,ista3džala,,,,,6,false
-مَعْدِنٌ (مَعَادِنُ),"kov, nerost",,9,654,,,,,,ma3dinun (ma3ádinu),,,31 47,,1 6,false
-من المعروفِ أنّ / والمعروفُ أنَّ ...,"je známo, že...",,5,29,,,,,,min al-ma3rúfi anna.../ wa al-ma3rúfu anna...,,,62,,6 18,false
-استعمال,použití,,9,21,,,,,,isti3málun,,,34,,6,false
-استغراب,údiv,,9,230,,,,,,istighrábun,,,47,,1 6,false
-باستغرابٍ,udiveně,,2,230,,,,,,bistighrábin,,,,,6,false
+شكل (أشكال),"forma, tvar",,9,37,,,,,,šaklun (aškālun),,,,,6,false
+صحيفة (صحوف),"noviny, listy",,9,39,,,,,,ṣaḥīfatun (ṣuḥūfun),,,,,6,false
+مَصْدَرٌ (مَصَادِرُ),"pramen, zdroj",,9,42,,,,,,maṣdarun (maṣādiru),,,,,6 23,false
+صرخ (ـُ),křičet,,7,650,7,,,,,ṣaraḫa,,,,,1 6,false
+اصفرّ,zblednout,,7,509,6,,,,,iṣfarra,,,,,6,false
+ضَوئيّ,světelný,,1,651,,,,,,ḍawʾījun,,,47,,1 6,false
+رجل (رجال) الإطفاءِ,hasič,,9,652,,,,,,raǧulu-l-iṭfāʾi,,,,,6,false
+ظَرْفٌ (ظُرُوفٌ),"podmínka, okolnost",,9,653,,,,,,ẓarfun (ẓurūfun),,,47,,1 6,false
+استعجل,"pospíchat, mít naspěch",,7,277,12,,,,,istaʿǧala,,,,,6,false
+مَعْدِنٌ (مَعَادِنُ),"kov, nerost",,9,654,,,,,,maʿdinun (maʿādinu),,,31 47,,1 6,false
+من المعروفِ أنّ / والمعروفُ أنَّ ...,"je známo, že...",,5,29,,,,,,min al-maʿrūfi anna.../ wa al-maʿrūfu anna...,,,62,,6 18,false
+استعمال,použití,,9,21,,,,,,istiʿmālun,,,34,,6,false
+استغراب,údiv,,9,230,,,,,,istighrābun,,,47,,1 6,false
+باستغرابٍ,udiveně,,2,230,,,,,,bistighrābin,,,,,6,false
 استغرق,trvat,,7,655,12,,,,,istaghraqa,,,47,,1 6,false
-للغاية,příliš,,2,656,,,,,,lilghájati,,,47,,1 6,false
-فروسيّة,"rytiřskost, hrdinství",,9,657,,,,,,furúsíjatun,,,,,6,false
-فارس (فرسان),rytíř,,9,657,,,,,,fárisun (fursánun),,,,,6,false
+للغاية,příliš,,2,656,,,,,,lilghājati,,,47,,1 6,false
+فروسيّة,"rytiřskost, hrdinství",,9,657,,,,,,furūsījatun,,,,,6,false
+فارس (فرسان),rytíř,,9,657,,,,,,fārisun (fursānun),,,,,6,false
 اِفْتَقَدَ,postrádat (něco),,7,263,8,,,,إلى,iftaqada,,,,,6 30,false
 اِفْتَقَرَ,mít nedostatek (čeho),,7,414,8,,,,إلى,iftaqara,,,,,6,false
-فلوريدا,Florida,,9,360,,,,,,flúrídá,,,,,6,false
-فات (ـُو),"utéci (komu), ujet (např. vlak), uniknout (např. příležitost)",,7,658,7,,,,ه,fáta,,,5 66,,6,false
+فلوريدا,Florida,,9,360,,,,,,flūrīdā,,,,,6,false
+فات (ـُو),"utéci (komu), ujet (např. vlak), uniknout (např. příležitost)",,7,658,7,,,,ه,fāta,,,5 66,,6,false
 استقبل,"uvítat, přivítat (oficiálně)",,7,151,12,,,,,istaqbala,,,,,6,false
 قبل أنْ ...,"dříve, než....",,8,151,,,,,,qabla an...,,,,,6,false
-اقتراب,přiblížení se,,9,497,,,,,,iqtirábun,,,,,6,false
-قَرَعَ (ـَ),"klepat, ťukat",,7,659,7,,,,,qara3a,,,47,,1 6,false
+اقتراب,přiblížení se,,9,497,,,,,,iqtirābun,,,,,6,false
+قَرَعَ (ـَ),"klepat, ťukat",,7,659,7,,,,,qaraʿa,,,47,,1 6,false
 أقلّ,"menší, nižší",,1,55,,,,,,aqallu,,,,,6,false
-قائل,říkající,,1,109,,,,,,qá'ilun,,,34,,6,false
-قائلاً,"řka, se slovy...",,2,109,,,,,,qá'ilan,,,,,6,false
-قوّات,jednotky (vojenské),,9,468,,,,,,quwwátun,,,34,,6,false
-قوي (أقوياءُ),silný,,1,468,,,,,,qawíjun (aqwijá'u),,,,,6,false
+قائل,říkající,,1,109,,,,,,qāʾilun,,,34,,6,false
+قائلاً,"řka, se slovy...",,2,109,,,,,,qāʾilan,,,,,6,false
+قوّات,jednotky (vojenské),,9,468,,,,,,quwwātun,,,34,,6,false
+قوي (أقوياءُ),silný,,1,468,,,,,,qawījun (aqwijāʾu),,,,,6,false
 اكتشف,objevit,,7,431,8,,,,,iktašafa,,,,,6,false
 الكلّ,"všichni, všechno",,9,285,,,,,,al-kullu,,,,,6,false
-كمّيّة,množství,,9,606,,,,,,kammíjatun,,,,,6,false
-من الملاحظ أنّ ...,"je zřejmé, že...",,5,157,,,,,,min al-muláHaZi anna...,,,62,,6,false
-التقطَ,"udělat, zhotovit (snímek, záběr) (1); sebrat, sbírat, shromáždit (2)",,7,660,8,,,,,iltaqaTa,,,,التقطَ صورة,6,false
-مَلْمُوس,"konkrétní (to, čeho se to týká)",,1,661,,,,,,malmúsun,,,47,,1 6,false
-لون (ألوان),barva,,9,662,,,,,,lawnun (alwánun),,,8,,6 20,false
-ألماس,diamant,,9,661,,,,,,almásun,,,,,6,false
-مياه الشّربِ,pitná voda,,9,624,,,,,,mijáhu-š-šurbi,,,,,6,false
+كمّيّة,množství,,9,606,,,,,,kammījatun,,,,,6,false
+من الملاحظ أنّ ...,"je zřejmé, že...",,5,157,,,,,,min al-mulāḥaẓi anna...,,,62,,6,false
+التقطَ,"udělat, zhotovit (snímek, záběr) (1); sebrat, sbírat, shromáždit (2)",,7,660,8,,,,,iltaqaṭa,,,,التقطَ صورة,6,false
+مَلْمُوس,"konkrétní (to, čeho se to týká)",,1,661,,,,,,malmūsun,,,47,,1 6,false
+لون (ألوان),barva,,9,662,,,,,,lawnun (alwānun),,,8,,6 20,false
+ألماس,diamant,,9,661,,,,,,almāsun,,,,,6,false
+مياه الشّربِ,pitná voda,,9,624,,,,,,mijāhu-š-šurbi,,,,,6,false
 مميّزة,"význačný, charakteristický rys",,9,550,,,,,,mumajjizatun,,,,,6,false
-أنبوبة (أنابيب),"trouba, potrubí",,9,663,,,,,,unbúbatun (anábíbu),,,,,6,false
-انجاز (ات),"výsledek (práce), dosažení (výsledku), vymoženost",,9,633,,,,,,indžázun,,,47,,1 6,false
+أنبوبة (أنابيب),"trouba, potrubí",,9,663,,,,,,unbūbatun (anābību),,,,,6,false
+انجاز (ات),"výsledek (práce), dosažení (výsledku), vymoženost",,9,633,,,,,,inǧāzun,,,47,,1 6,false
 نَزَلَ (ـِ),"stékat, vytékat",,7,25,7,,,,,nazala,,,,,6,false
-نصف (أنصاف),polovina,,9,255,,,,,,niSfun (anSáfun),,,,,6,false
-نصف,"napolo, polo-",,9,255,,,,,+ jméno v genitivu,niSfu,,,,,6,false
-اِنْتَظَرَ,"čekat (na koho,co)",,7,207,8,,,,"ه, هـ",intaZara,,,,,6,false
-انتقال,přestěhování se,,9,664,,,,,,intiqálun,,,,,6,false
-نار (نيران),"oheň, žár",,9,345,,,,,,nárun (níránun),,,,,6,false
-موسّع,"rozšířený, plenární",,1,665,,,,,,muwassa3un,,,,,1 6,false
-صِفة,"rys, vlastnost, charakteristika",,9,666,,,,,,Sifatun,,,,,6,false
+نصف (أنصاف),polovina,,9,255,,,,,,niṣfun (anṣāfun),,,,,6,false
+نصف,"napolo, polo-",,9,255,,,,,+ jméno v genitivu,niṣfu,,,,,6,false
+اِنْتَظَرَ,"čekat (na koho,co)",,7,207,8,,,,"ه, هـ",intaẓara,,,,,6,false
+انتقال,přestěhování se,,9,664,,,,,,intiqālun,,,,,6,false
+نار (نيران),"oheň, žár",,9,345,,,,,,nārun (nīrānun),,,,,6,false
+موسّع,"rozšířený, plenární",,1,665,,,,,,muwassaʿun,,,,,1 6,false
+صِفة,"rys, vlastnost, charakteristika",,9,666,,,,,,ṣifatun,,,,,6,false
 كم من الوقت؟,jak dlouho?,,5,667,,,,,,kam min al-waqti?,,,62,,6,false
 سَكَنَ (ـُـ) سُكُونٌ,bydlet,,7,309,7,,,,,,,,,,20,false
 طَوِيلٌ,dlouhý,,1,589,,,,,,,,,,,20,false
-وَرَّدَ (تَوْرِيدٌ),"dodávat, zásobovat",,7,515,4,,,,,warrada (tawrídun),,,6 47 66,,1 23,false
+وَرَّدَ (تَوْرِيدٌ),"dodávat, zásobovat",,7,515,4,,,,,warrada (tawrīdun),,,6 47 66,,1 23,false
 يبّس (تيبيسّ),vysušit (příkladové slovo na IaeJ),,7,668,4,,,,,,,,6 66,,23,false
-أكّل (تأكيل),"dát jíst, nakrmit",,7,65,4,,,,,akkala (ju'akkilu) ta'kílun,,,27 66,,22 4 23,false
+أكّل (تأكيل),"dát jíst, nakrmit",,7,65,4,,,,,akkala (juʾakkilu) taʾkīlun,,,27 66,,22 4 23,false
 قوّم (تقويمّ),"postavit, vztyčit, narovnat (1); opravit (2); zhodnotit (3)",,7,73,4,,,,,qawwama,,,5 47 66,,1 23,false
 كَسَّرَ,"rozbít (na kusy), roztřískat",,7,669,4,,,,,kassara,,,,,23,false
 قتّل,"pobít, zmasakrovat",,7,670,4,,,,هــ,,,,,intenzivní význam,23,false
-علّم,učit (někoho něčemu),,7,97,4,,,,ه هـ,3allama,,,34,,23,false
+علّم,učit (někoho něčemu),,7,97,4,,,,ه هـ,ʿallama,,,34,,23,false
 حمّل,naložit někomu,,7,349,4,,,,هــ,,,,,"kauzativně-faktativní význam (způsobit, aby něco nastalo)",23,false
 فرّح,rozveselit někoho,,7,150,4,,,,هــ,,,,,"kauzativně-faktativní význam (způsobit, aby něco nastalo)",23,false
 كَذَّبَ (1),"prohlašovat něco za lež = dementovat (1); nevěřit, prohlásit za lháře (2)",,7,671,4,,,,,,,,,deklarativní význam,23,false
 جيّش,mobilizovat,,7,672,4,,,,,,,,5 66,deklarativní význam,23,false
-حَكَمَ (ـُـ) حُكْم {2},vládnout něčemu,,7,179,7,,,,هــ,Hakama (jaHkumu),,,,,23,false
+حَكَمَ (ـُـ) حُكْم {2},vládnout něčemu,,7,179,7,,,,هــ,ḥakama (jaḥkumu),,,,,23,false
 ردّ (ـُ),"odpovědět na, reagovat na, vrátit něco",,7,673,7,,,,على,radda (jaruddu),,,4,,23,false
 ودّ (ـَـ),"mít rád koho, co",,7,674,7,,,,هــ/ه,wadda (jawaddu),,,6 4 66,,23,false
 فشل (ـَـ),neuspět v,,7,675,7,,,,في,fašala (jafšalu),,,,,23,false
 مرّ (ـُـ),"stavit se, zastavit se u někoho",,7,321,7,,,,على,marra (jamurru),,,4 47,,1 23,false
-حلّ (ـُـ),vyřešit něco,,7,448,7,,,,هــ,Halla (jaHullu),,,4,,23,false
+حلّ (ـُـ),vyřešit něco,,7,448,7,,,,هــ,ḥalla (jaḥullu),,,4,,23,false
 همّ (ـُ),dělat někomu starosti,,7,208,7,,,,ه,hamma (jahummu),,,4,,23,false
-بثّ (ـُـ),"vysílat, šířit, rozšiřovat koho, co",,7,676,7,,,,هــ,baththa (jabuththu),,,4,,23,false
-بذل (ـِـ) جهداً (جهوداً),vynakládat (úsilí),,7,677,7,,,,,badhala (jabdhilu),,,34,,23,false
-وضع (ـَـ),vypracovat něco (kancelářsko-intelektuální práce),,7,62,7,,,,,waDa3a (jaDa3u),,,6 66,,18 23,false
-سلّح,ozbrojit,,7,678,4,,,,ه بــ,sallaHa,,,47,,1 23,false
-حرّر,"osvobodit, uvolnit",,7,134,4,,,,هــ,Harrara,,,4 31,,23,false
-أتاح,poskytnout někomu něco,,7,679,5,,,,هــ/لــ,atáHa,,,5 66,,23,false
-أَحَبَّ,"mít rád, milovat někoho/něco",,7,584,5,,,,هــ/ه,aHabba,,,4,,11 23,false
+بثّ (ـُـ),"vysílat, šířit, rozšiřovat koho, co",,7,676,7,,,,هــ,baṯṯa (jabuṯṯu),,,4,,23,false
+بذل (ـِـ) جهداً (جهوداً),vynakládat (úsilí),,7,677,7,,,,,baḏala (jabḏilu),,,34,,23,false
+وضع (ـَـ),vypracovat něco (kancelářsko-intelektuální práce),,7,62,7,,,,,waḍaʿa (jaḍaʿu),,,6 66,,18 23,false
+سلّح,ozbrojit,,7,678,4,,,,ه بــ,sallaḥa,,,47,,1 23,false
+حرّر,"osvobodit, uvolnit",,7,134,4,,,,هــ,ḥarrara,,,4 31,,23,false
+أتاح,poskytnout někomu něco,,7,679,5,,,,هــ/لــ,atāḥa,,,5 66,,23,false
+أَحَبَّ,"mít rád, milovat někoho/něco",,7,584,5,,,,هــ/ه,aḥabba,,,4,,11 23,false
 أتمّ,dokončit něco,,7,364,5,,,,هــ,atamma,,,4,,23,false
-أفاد,informovat někoho o něčem,,7,44,5,,,,ه بــ/بأنَّ,afáda,,,5 66,,1 23,false
-انبغى,"být nutné, být nezbytné",,7,680,9,,,,أنْ,inbaghí,,,3 47 66,"nemá perfektní podobu, v minulosti kána + janbaghí",1 23,false
+أفاد,informovat někoho o něčem,,7,44,5,,,,ه بــ/بأنَّ,afāda,,,5 66,,1 23,false
+انبغى,"být nutné, být nezbytné",,7,680,9,,,,أنْ,inbaghī,,,3 47 66,"nemá perfektní podobu, v minulosti kána + janbaghí",1 23,false
 اِنْتَهَزَ,"chopit se (příležitosti), využít (výhodu)",,7,407,8,,,,هـ,intahaza,,,47,,1 23 33 34,false
 ارتبك,upadnout do rozpaků,,7,681,8,,,,,irtabaka,,,47,,1 23,false
 ازدهر,"rozkvést, rozkvétat",,7,334,8,,,,,izdahara,,,,,23,false
 استقرّ,stabilizovat se,,7,199,12,,,,,istaqarra,,,4,,23,false
 تَدَهْوَرَ,"zhoršit se, pokazit se",,7,682,1,,,,,tadahwara,,,2 5 66,,23,false
-اِضْمَحَلَّ,"zmizet, ztratit se, zaniknout",,7,683,2,,,,,iDmaHalla,,,2 11,,23,false
-تعبيرٌ (تعابيرُ),"vyjádření, výraz, fráze",,9,392,,,,,,ta3bírun (ta3ábíru),,,,,23,false
-هُجُومٌ (ات),útok,,9,684,,,,,,hudžúmun,,,76 87,,20 23,false
-زعِيم (زُعَمَاءُ),"vůdce, představitel",,9,685,,,,,,za3ímun (zu3amá'u),,,,,23,false
+اِضْمَحَلَّ,"zmizet, ztratit se, zaniknout",,7,683,2,,,,,iḍmaḥalla,,,2 11,,23,false
+تعبيرٌ (تعابيرُ),"vyjádření, výraz, fráze",,9,392,,,,,,taʿbīrun (taʿābīru),,,,,23,false
+هُجُومٌ (ات),útok,,9,684,,,,,,huǧūmun,,,76 87,,20 23,false
+زعِيم (زُعَمَاءُ),"vůdce, představitel",,9,685,,,,,,zaʿīmun (zuʿamāʾu),,,,,23,false
 بطُولة,mistrovství,,9,333,,,,,,,,,,,23,false
 قرنُ الوسطى,středověk,,9,340,,,,,,,,,34,,23,false
 همٌّ (هُمُوم),starost,,9,208,,,,,,,,,,,23,false
-وجهٌ (وُجُوهٌ) {1},"tvář, obličej (1) ; povrch, hladina (2)",,9,686,,,,,,wadžhun,,,,,23,false
+وجهٌ (وُجُوهٌ) {1},"tvář, obličej (1) ; povrch, hladina (2)",,9,686,,,,,,waǧhun,,,,,23,false
 غُروبٌ,západ slunce,,9,230,,,,,,,,,,,23,false
 بَثٌّ حيٌّ,živé vysílání,,9,676,,,,,,,,,,,23,false
 ذكرى (ذكرايات),"vzpomínka, připomínka - feminimum",,9,223,,,,,,,,,,,23,false
@@ -1373,7 +1373,7 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 ارهابيٌّ,"terorista, teroristický",,1,45,,,,,,,,,,,23,false
 فَضَائِيٌّ,"satelitní, vesmírný",,1,688,,,,,,,,,,نِظَامُ ٱلاِتِّصَالاَتِ ٱلْفَضَائِيُّ satelitní komunikační systém,23,false
 عاديٌّ,běžný,,1,282,,,,,,,,,,,23,false
-بِشَكْلٍ مُنْتَظِمٍ,pravidelně,,2,98,,,,,,bi-šaklin muntaZimin,,,,,23,false
+بِشَكْلٍ مُنْتَظِمٍ,pravidelně,,2,98,,,,,,bi-šaklin muntaẓimin,,,,,23,false
 بانتظامٍ,pravidelně,,2,98,,,,,,,,,,,23,false
 إلاَّ,pouze,,2,95,,,,,+ zápor,,,,,,23,false
 بديهمٌّ,"""""""to je jedno, to je fuk, na tom nesejde""""""",,5,95,,,,,,,,,34 47,,1 23,false
@@ -1389,14 +1389,14 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 قَراَرٌ (ات),rozhodnutí,,,199,,,,,,,,,,,23,false
 النِزاعُ الفِلَسْطِينِي الإِسْرائِيلي,Izraelsko-palestinský konflikt,,,565,,,,,,,,,,,23,false
 مَهَم (مَهَام),"úkol, povinnost",,,208,,,,,,,,,,,,false
-تَحَسَّنَ,zlepšit se,,7,412,11,,,,,taHassana,,,11,,19 20 23,false
+تَحَسَّنَ,zlepšit se,,7,412,11,,,,,taḥassana,,,11,,19 20 23,false
 غَيْرَ أَنّ,"avšak, nicméně",,8,393,,,,,,ghajri anna,,,34,,20 23,false
 أَجْهِزَةٌ إِلِكْتْرُونِّية,"elektronika, elektronické přístroje",,,132,,,,,,,,,67 72,,20 23,false
 مَوْسُوعَةٌ (ات),encyklopedie,,,26,,,,,,,,,88,,20 23,false
-مُصَّورٌ,"ilustrovaný, obrázkový",,1 2,99,,,,,,muSawwarun,,,47,,1 20 23,false
-بَاحِثٌ (ون),"badatel, výzkumník, vědec, výzkumný pracovník",,,246,,,,,,báHithun (-úna),,,59,,7 20 23,false
+مُصَّورٌ,"ilustrovaný, obrázkový",,1 2,99,,,,,,muṣawwarun,,,47,,1 20 23,false
+بَاحِثٌ (ون),"badatel, výzkumník, vědec, výzkumný pracovník",,,246,,,,,,bāḥiṯun (-ūna),,,59,,7 20 23,false
 اِنْقَسَمَ,"rozdělit se, být rozdělen na",,7,200,9,,,,إِلَى,,,,,,23,false
-عَبَرَ (ـُ) عُبُورٌ,přejít (něco),,7,392,7,,,,هـ,3abara (u) 3ubúrun,,,,,23,false
+عَبَرَ (ـُ) عُبُورٌ,přejít (něco),,7,392,7,,,,هـ,ʿabara (u) ʿubūrun,,,,,23,false
 جِسْرٌ (جُسُورٌ),most,,,692,,,,,,,,,,,11 23,false
 اِنْعَطَفَ,"zahnout, zabočit",,7,594,9,,,,إِلَى,,,,47,,1 23,false
 اليَسَارُ,levá strana,,,693,,,,,,,,,,,23,false
@@ -1419,32 +1419,32 @@ ar,cz,norm,cat_id,root_id,stem,stem_vowel,plural,masdar,val,transcription,meanin
 مُجْرِمٌ (ون),zločinec,,,696,,,,,,,,,,,23,false
 هَرَبَ (ـُـ) هُرُوبٌ,"utéct, uniknout",,,697,,,,,,,,,47,,1 23,false
 عَبرَ,"přes, skrze",,,392,,,,,,,,,,,23,false
-مَادّةٌ (مَوَادّ),"látka, materiál",,,698,,,,,,máddatun (mawáddu),,,,,23,false
+مَادّةٌ (مَوَادّ),"látka, materiál",,,698,,,,,,māddatun (mawāddu),,,,,23,false
 مُطْرِبٌ (ون),zpěvák,,,699,,,,,,,,,,,23,false
-اِعْتَبَرَ,"považovat, pokládat (něco/někoho za něco/někoho)",,7,392,8,,,,هـ/ه هـ/ه,i3tabara,,,,,23,false
+اِعْتَبَرَ,"považovat, pokládat (něco/někoho za něco/někoho)",,7,392,8,,,,هـ/ه هـ/ه,iʿtabara,,,,,23,false
 طرِيقٌ (طُرُقٌ),"cesta, silnice",,,553,,,,,,,,,,,23,false
-أَتَاحَ فُرْصَةً,poskytnout (někomu) příležitost,,7,679,5,,,,لِـ,atáHa furSatan,,,5 66,,23,false
+أَتَاحَ فُرْصَةً,poskytnout (někomu) příležitost,,7,679,5,,,,لِـ,atāḥa furṣatan,,,5 66,,23,false
 وَلَدَ (يَلِدُ) وِلاَدَةٌ,"porodit, (pas.) narodit se",,7,32,7,,,,ه,,,,6 66,,23,false
 اِسْتِعْراضٌ عَسْكَرِيّ,vojenská přehlídka,,,260,,,,,,,,,,,23,false
 لَذِيذٌ (ألذُّ),"chutný, lahodný",,1,700,,,,,,,,,,,23,false
 بَائِعٌ (بَاعَة),"obchodník, prodavač",,,116,,,,,,,,,,,23,false
 خَاطِئ,"chybný, nesprávný",,1,585,,,,,,,,,,,23,false
-اِحْتَرَمَ,"vážit si, respektovat",,7,701,8,,,,هـ,iHtarama,,,,,1 23,false
+اِحْتَرَمَ,"vážit si, respektovat",,7,701,8,,,,هـ,iḥtarama,,,,,1 23,false
 شَرّفَ بِزِيَارَة,poctít někoho návštěvou,,,624,,,,,هـ,,,,62,,23,false
-بَذَلَ (ـُـِ) جُهُودًا,vynaložit úsilí,,5,677,,,,,,badhala (u) džuhúdan,,,62,,23,false
+بَذَلَ (ـُـِ) جُهُودًا,vynaložit úsilí,,5,677,,,,,,baḏala (u) ǧuhūdan,,,62,,23,false
 كَافٍ,dostatečný,,1,156,,,,,,,,,,,23,false
 فَتْرَةُ الاِمْتِحَانَاتِ,zkouškové období,,,269,,,,,,,,,,,23,false
 بِنَجَاحٍ,úspěšně,,2,284,,,,,,,,,,,23,false
 طَرِيقَةٌ (طُرُقٌ),metoda; způsob,,,553,,,,,,,,,,,23,false
 البَحْثُ العِلْمِيُّ,vědecký výzkum,,,246,,,,,,,,,,,23,false
-رحلة (ات),"cesta, výlet",,,488,,,,,,riHlatun,,,,,,false
-أَحْسَنَ,"umět něco dobře, dobře zacházet",,7,412,5,,,,هــ,aHsana,,,,,18 21,false
-ظُهْرٌ (أَظْهَارٌ),poledne,,,147,,,,,,Zuhrun,,,85,,20 21,false
-بَحَثَ (ـَـ) بَحْثٌ,hledat,,7,246,7,,,,عن,baHatha 3an,,,,,13 21,false
-ذَهَبَ (ـَ) ذَهَابٌ/ذُهُوبٌ,jít,,7,702,7,,,,,dhahaba (jadhhabu) dhahábun,,,,,,false
-قام (ـُ) قِيامٌ/قَوْمٌ {3},"stát, vstát, postavit se (1); odjet dopravním prostředkem (2)",,7,73,7,,,,,qáma (jaqúmu),,,5 66,قَامَ مِنَ ٱلنَّوْمِ vstávat,21,false
-مَوْقِفٌ (مواقِفُ),"postoj (k), názor (ohledně) (1); zastávka (2)",,,433,,,,,من,mawqifun (mawáqifu),,,49,,20 21 28,false
+رحلة (ات),"cesta, výlet",,,488,,,,,,riḥlatun,,,,,,false
+أَحْسَنَ,"umět něco dobře, dobře zacházet",,7,412,5,,,,هــ,aḥsana,,,,,18 21,false
+ظُهْرٌ (أَظْهَارٌ),poledne,,,147,,,,,,ẓuhrun,,,85,,20 21,false
+بَحَثَ (ـَـ) بَحْثٌ,hledat,,7,246,7,,,,عن,baḥaṯa ʿan,,,,,13 21,false
+ذَهَبَ (ـَ) ذَهَابٌ/ذُهُوبٌ,jít,,7,702,7,,,,,ḏahaba (jaḏhabu) ḏahābun,,,,,,false
+قام (ـُ) قِيامٌ/قَوْمٌ {3},"stát, vstát, postavit se (1); odjet dopravním prostředkem (2)",,7,73,7,,,,,qāma (jaqūmu),,,5 66,قَامَ مِنَ ٱلنَّوْمِ vstávat,21,false
+مَوْقِفٌ (مواقِفُ),"postoj (k), názor (ohledně) (1); zastávka (2)",,,433,,,,,من,mawqifun (mawāqifu),,,49,,20 21 28,false
 حُكْمٌ,"rozsudek, rozhodnutí (1); posouzení, zhodnocení (2)",,,179,,,,,على,,,,45,,20 21 4 5,false
-مُكَثَّفٌ,intenzivní,,1,703,,,,,,mukaththafun,,,,,13 20 21,false
+مُكَثَّفٌ,intenzivní,,1,703,,,,,,mukaṯṯafun,,,,,13 20 21,false
 لاَ دَاعِيَ لِـ,není důvodu k,,5,704,,,,,,,,,,,,false
 تَرْبِيَة,"pedagogika, vzdělávání",,9,398,4,,,,,tarbijatun,,,35,,,false

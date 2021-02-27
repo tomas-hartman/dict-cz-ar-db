@@ -1,11 +1,9 @@
-const fs = require('fs');
 const path = require('path');
 const readfile = require('./readfile');
+const createOutputStream = require('./utils/createOutputStream');
 
-const outputFileName = path.resolve(__dirname, '../output/tags.txt');
 const inputFileName = path.resolve(__dirname, '../raw/Arabi__01__rocnik.txt');
-
-const writeStream = fs.createWriteStream(outputFileName);
+const outputStream = createOutputStream('../output/', 'tags.txt');
 
 const uniqueValues = new Set();
 const uniqueCategories = new Set();
@@ -13,12 +11,11 @@ const uniqueStems = new Set();
 const uniqueSources = new Set();
 
 /**
- * Returns list of roots
  * @param {*} data 
  * @param {*} dataStream 
  */
-function sortTags(data, dataStream = writeStream) {
-    const [ar, val, cz, root, syn, example, transcription, tags] = data;
+function sortTagsIntoCategories(data, dataStream = outputStream) {
+    const [_ar, _val, _cz, _root, _syn, _example, _transcription, tags] = data;
     const regexCat = /^cat_/g;
     const regexStems = /_kmen$/g;
     const regexSources = /^AR_|^text_|Hosnoviny|Ondrášoviny|slovnik_|^tema_/g;
@@ -37,15 +34,15 @@ function sortTags(data, dataStream = writeStream) {
     });
 }
 
-const getStream = (outputName) => {
-    const outputFileName = path.resolve(__dirname, `../output/${outputName}.txt`);
-    return fs.createWriteStream(outputFileName);
-};
+/**
+ * Generates files for each category of tags 
+ * @param {*} outputName 
+ * @param {*} setOfValues 
+ */
+const generateOutputFromSet = (outputName, setOfValues) => {
+    const outputStream = createOutputStream('../output/', `${outputName}.txt`);
 
-const generateOutput = (outputName, valuesSet) => {
-    const outputStream = getStream(outputName);
-
-    const sortedSet = Array.from(valuesSet).sort();
+    const sortedSet = Array.from(setOfValues).sort();
 
     sortedSet.forEach((item) => {
         outputStream.write(item + '\n');
@@ -53,20 +50,12 @@ const generateOutput = (outputName, valuesSet) => {
 };
 
 async function getTags() {
-    // Write file with roots
-    await readfile(inputFileName, sortTags);
+    await readfile(inputFileName, sortTagsIntoCategories);
 
-    generateOutput('categories', uniqueCategories);
-    generateOutput('sources', uniqueSources);
-    generateOutput('stems', uniqueStems);
-    generateOutput('tags', uniqueValues);
-
+    generateOutputFromSet('categories', uniqueCategories);
+    generateOutputFromSet('sources', uniqueSources);
+    generateOutputFromSet('stems', uniqueStems);
+    generateOutputFromSet('tags', uniqueValues);
 }
 
-getTags();
-
-
-module.exports = sortTags;
-
-
-
+module.exports = {sortTags: sortTagsIntoCategories, getTags};

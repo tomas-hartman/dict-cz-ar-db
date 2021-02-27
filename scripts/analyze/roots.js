@@ -23,6 +23,8 @@ function analyzeRoots(data, dataStream = writeStreamRootErrors) {
         || root.trim() === '' 
         || root.match(regexMissingAleph)) {
         dataStream.write(data.join('\t') + '\n');
+
+        return [root, data.join('\t')];
     }
 }
 

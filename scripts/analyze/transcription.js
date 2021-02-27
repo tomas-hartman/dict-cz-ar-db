@@ -14,6 +14,8 @@ function analyzeTranscriptions(data, dataStream = outputStream) {
 
     if (transcription.match(regexStem) || transcription.match(regexSpecialChars)) {
         dataStream.write(data.join('\t') + '\n');
+
+        return [transcription, data.join('\t')];
     }
 }
 

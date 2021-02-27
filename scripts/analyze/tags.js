@@ -11,6 +11,8 @@ function analyzeUncategorized(data, dataStream = outputStreamUncategorized) {
 
     if (!tags.match(regex)) {
         dataStream.write(data.join('\t') + '\n');
+
+        return [tags, data.join('\t')];
     }
 }
 
@@ -32,6 +34,8 @@ function analyzeMissingVerbsNotation(data, dataStream = outputStreamVerbsNotatio
 
     if ((hasCategory && !hasStemInfo) || (!hasCategory && hasStemInfo && !hasOtherCategory) ) {
         dataStream.write(data.join('\t') + '\n');
+
+        return [tags, data.join('\t')];
     }
 }
 

@@ -17,27 +17,28 @@ const filename = path.resolve(__dirname, '../raw/Arabi__01__rocnik.txt');
  *  - missing or corrupted roots
  *  - potentially incorrect values in arabic text and valencies
  */
+const analyze = () => {
+    // Check latin chars in arabic text
+    readfile(filename, analyzeLatinCharsInAr);
+    
+    // Check potentially unwanted latin characters in valency
+    readfile(filename, analyzeLatinCharsInVal);
+    
+    // Check roots
+    readfile(filename, analyzeRoots);
+    
+    // Analyze transcription
+    readfile(filename, analyzeTranscriptions);
+    
+    // Analyze duplicates
+    analyzeDuplicates();
+    
+    // Analyze tags
+    readfile(filename, analyzeUncategorized);
+    readfile(filename, analyzeMissingVerbsNotation);
+};
 
-// Check latin chars in arabic text
-readfile(filename, analyzeLatinCharsInAr);
-
-// Check potentially unwanted latin characters in valency
-readfile(filename, analyzeLatinCharsInVal);
-
-// Check roots
-readfile(filename, analyzeRoots);
-
-// Analyze transcription
-readfile(filename, analyzeTranscriptions);
-
-// Analyze duplicates
-analyzeDuplicates();
-
-// Analyze tags
-readfile(filename, analyzeUncategorized);
-readfile(filename, analyzeMissingVerbsNotation);
-
-module.exports = {analyzeLatinCharsInVal, analyzeLatinCharsInAr, analyzeRoots};
+module.exports = {analyze};
 
 
 

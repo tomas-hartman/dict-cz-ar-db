@@ -13,6 +13,7 @@ function analyzeLatinCharsInAr(data, dataStream = outputStream) {
 
     if (ar.match(regex)) {
         dataStream.write(data.join('\t') + '\n');
+        
         return [ar, data.join('\t')];
     }
 }

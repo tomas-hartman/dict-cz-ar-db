@@ -12,6 +12,8 @@ function analyzeLatinCharsInVal(data, dataStream = outputStream) {
 
     if (val.match(regex)) {
         dataStream.write(data.join('\t') + '\n');
+
+        return [val, data.join('\t')];
     }
 }
 

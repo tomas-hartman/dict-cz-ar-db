@@ -1,11 +1,10 @@
-const fs = require('fs');
 const path = require('path');
 const readfile = require('../readfile');
+const createOutputStream = require('../utils/createOutputStream');
 
 const inputFileName = path.resolve(__dirname, '../../raw/Arabi__01__rocnik.txt');
-const outputFileName = path.resolve(__dirname, '../../output/logs/duplicates.txt');
+const outputFile = createOutputStream('../../output/logs/', 'duplicates.txt');
 
-const writeStreamDuplicates = fs.createWriteStream(outputFileName);
 const normalizeAr = require('../normalize/normalizeAr');
 
 const chunks = new Set();
@@ -31,8 +30,8 @@ const ignored = [
  * @param {*} outputData writes data down to a file on its own. False by default
  * @param {*} dataStream 
  */
-function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dataStream = writeStreamDuplicates) {
-    const [ar, val, cz, root, syn, example, transcription, tags] = data;
+function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dataStream = outputFile) {
+    const [ar, _val, _cz, _root, _syn, _example, _transcription, _tags] = data;
 
     const normAr = normalizeAr(ar);
     const arChunks = normAr.split(' ');
@@ -70,10 +69,10 @@ function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dat
  * @param {Boolean} writeOutput 
  * @param {fs.WriteStream} dataStream 
  */
-async function proccessChunkStore(writeOutput = true, dataStream = writeStreamDuplicates) {
-    const output = await readfile(inputFileName, (data) => analyzeDuplicates(data, false));
+async function proccessChunkStore(writeOutput = true, dataStream = outputFile) {
+    const _output = await readfile(inputFileName, (data) => analyzeDuplicates(data, false));
 
-    const duplicities = Object.keys(chunksStore).map((data) => {
+    const _duplicities = Object.keys(chunksStore).map((data) => {
 
         if(chunksStore[data].length > 1){
 

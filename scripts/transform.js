@@ -12,7 +12,6 @@ const inputFileName = path.resolve(__dirname, '../raw/' + filename + '.txt');
 const outputFileName = path.resolve(__dirname, '../output/' + filename + '__processed.csv');
 const writeStream = fs.createWriteStream(outputFileName);
 
-
 const getValues = (name) => {
     const filePath = path.resolve(__dirname, '../output/' + name + '.txt');
 
@@ -25,7 +24,6 @@ const sources = getValues('sources');
 const stems = getValues('stems');
 const tags = getValues('tags');
 
-
 const getId = (value, collection) => {
     const id = collection.findIndex((item) => item === value);
 
@@ -35,7 +33,6 @@ const getId = (value, collection) => {
 
     return;
 };
-
 
 function resolveTags(tagsString) {
     const tagsArr = tagsString.split(' ');
@@ -81,8 +78,6 @@ function resolveTags(tagsString) {
 // const a = "AR_1.rocnik AR_muj_slovnicek_1 lidé opakovani_zapomenutych profese substantiva";
 // const b = "AR_lekce_3 AR_muj_slovnicek_1 III_kmen slovesa";
 
-// console.log(resolveTags(b));
-
 async function convertFile(data) {
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
 
@@ -111,7 +106,6 @@ async function convertFile(data) {
         disabled,
     };
 
-
     // console.log();
     const csvOutput = await new ObjectsToCsv([output]).toString(false);
 
@@ -120,7 +114,6 @@ async function convertFile(data) {
 
     // console.log(output)
 }
-
 
 const outputKeys = {
     ar: null,
@@ -142,7 +135,14 @@ const outputKeys = {
     disabled: null,
 };
 
-const firstLine = Object.keys(outputKeys).join(',');
-writeStream.write(firstLine + '\n');
-readfile(inputFileName, convertFile);
+const transform = (dataStream = writeStream) => {
+    const firstLine = Object.keys(outputKeys).join(',');
+    dataStream.write(firstLine + '\n');
+    readfile(inputFileName, convertFile);
+};
+
+// Todo
+transform();
+
+module.exports = transform;
 

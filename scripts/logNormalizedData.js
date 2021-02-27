@@ -9,7 +9,7 @@ const writeStreamNormalized = fs.createWriteStream(outputFileName);
 
 
 function logNormalizedData(data, dataStream = writeStreamNormalized) {
-    const [ar, val, cz, root, syn, example, transcription, tags] = data;
+    const [ar, ..._args] = data;
 
     const normalized = normalizeAr(ar);
     // const output = ar + " => " + normalized + "\n";

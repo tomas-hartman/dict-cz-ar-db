@@ -133,3 +133,12 @@ Konverze ze surových dat na čistá data
 3. pročištění textu (odstranění dvojitých mezer nebo přebytečných taTwílů)
 4. ...
 n. konverze do csv a import do db
+
+# Run
+
+1. analyze -> generates logs that show bugs that need to be fixed in anki
+2. prepare -> creates files with roots, tags, categories etc.
+
+- after prepare!
+
+3. transform -> transforms raw data (that should be fixed after analyzation) into csv file suitable for db

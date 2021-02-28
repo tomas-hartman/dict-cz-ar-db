@@ -1,11 +1,7 @@
-const createOutputStream = require('../utils/createOutputStream');
-
-const outputStream = createOutputStream('../../output/logs/', 'errors_latin_chars.txt');
-
 /**
  * Function that checks if there are any non-arabic letters where mostly arabic should be (field ar)
  */
-function analyzeLatinCharsInAr(data, dataStream = outputStream) {
+function analyzeLatinCharsInAr(data, dataStream) {
     // should log all lines with possible unwanted latin chars in these fields
     const regex = /[\u0041-\u007a]/g;
     const _regexSymbols = /[/]/g;
@@ -18,4 +14,4 @@ function analyzeLatinCharsInAr(data, dataStream = outputStream) {
     }
 }
 
-module.exports = analyzeLatinCharsInAr;
+module.exports = {analyzeLatinCharsInAr};

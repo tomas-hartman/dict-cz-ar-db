@@ -1,11 +1,4 @@
-const createOutputStream = require('../utils/createOutputStream');
-
-// analyze words without category
-const outputStreamUncategorized = createOutputStream('../../output/logs/', 'errors_uncategorized.txt');
-// analyze verbs without stem
-const outputStreamVerbsNotation = createOutputStream('../../output/logs/', 'errors_missing_verbs_notation.txt');
-
-function analyzeUncategorized(data, dataStream = outputStreamUncategorized) {
+function analyzeUncategorized(data, dataStream) {
     const regex = /cat_/g;
     const [_ar, _val, _cz, _root, _syn, _example, _transcription, tags] = data;
 
@@ -21,7 +14,7 @@ function analyzeUncategorized(data, dataStream = outputStreamUncategorized) {
  * @param {*} data 
  * @param {*} dataStream 
  */
-function analyzeMissingVerbsNotation(data, dataStream = outputStreamVerbsNotation) {
+function analyzeMissingVerbsNotation(data, dataStream) {
     // should log all lines with possible unwanted latin chars in these fields
     const regex = /cat_slovesa/g;
     const regexOtherCategory = /cat_/g;

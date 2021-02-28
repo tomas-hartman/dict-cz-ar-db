@@ -1,10 +1,4 @@
-const fs = require('fs');
-const path = require('path');
-
-const outputFileName = path.resolve(__dirname, '../../output/logs/errors_root.txt');
-const writeStreamRootErrors = fs.createWriteStream(outputFileName);
-
-function analyzeRoots(data, dataStream = writeStreamRootErrors) {
+function analyzeRoots(data, dataStream) {
     const [_ar, _val, _cz, root, _syn, _example, _transcription, tags] = data;
 
     const containsEthymTag = tags.includes('ethym_');
@@ -28,4 +22,4 @@ function analyzeRoots(data, dataStream = writeStreamRootErrors) {
     }
 }
 
-module.exports = analyzeRoots;
+module.exports = { analyzeRoots };

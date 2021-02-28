@@ -1,9 +1,4 @@
-const path = require('path');
 const readfile = require('../readfile');
-const createOutputStream = require('../utils/createOutputStream');
-
-const inputFileName = path.resolve(__dirname, '../../raw/Arabi__01__rocnik.txt');
-const outputFile = createOutputStream('../../output/logs/', 'duplicates.txt');
 
 const normalizeAr = require('../normalize/normalizeAr');
 
@@ -30,7 +25,7 @@ const ignored = [
  * @param {*} outputData writes data down to a file on its own. False by default
  * @param {*} dataStream 
  */
-function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dataStream = outputFile) {
+function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dataStream) {
     const [ar, _val, _cz, _root, _syn, _example, _transcription, _tags] = data;
 
     const normAr = normalizeAr(ar);
@@ -66,11 +61,10 @@ function analyzeDuplicates(data, deepDuplicates = false, outputData = false, dat
 
 /**
  * Proccesses chunkStore and writes output.
- * @param {Boolean} writeOutput 
- * @param {fs.WriteStream} dataStream 
+ * @param {fs.WriteStream} outputStream 
  */
-async function proccessChunkStore(writeOutput = true, dataStream = outputFile) {
-    const _output = await readfile(inputFileName, (data) => analyzeDuplicates(data, false));
+async function proccessChunkStore(outputStream, inputFile) {
+    const _output = await readfile(inputFile, (data) => analyzeDuplicates(data, false));
 
     const _duplicities = Object.keys(chunksStore).map((data) => {
 
@@ -82,7 +76,7 @@ async function proccessChunkStore(writeOutput = true, dataStream = outputFile) {
                 return string;
             });
 
-            dataStream.write(outputArr.join('\n') + '\n\n');
+            outputStream.write(outputArr.join('\n') + '\n\n');
             return outputArr.join('\n');
         }
     });
@@ -91,8 +85,8 @@ async function proccessChunkStore(writeOutput = true, dataStream = outputFile) {
 /**
  * Deep duplicates (just for check)
  */
-const analyzeDeepDuplicates = () => {
-    readfile(inputFileName, (data) => analyzeDuplicates(data, true, true));
+const analyzeDeepDuplicates = (inputFile) => {
+    readfile(inputFile, (data) => analyzeDuplicates(data, true, true));
 };
 
 /**
@@ -100,6 +94,6 @@ const analyzeDeepDuplicates = () => {
  */
 // readfile(filename, (data) => analyzeDuplicates(data, false, true));
 // analyzeDeepDuplicates();
-// proccessChunkStore(); // preferred, nejpřehlednější
+// proccessChunkStore(inputFileName); // preferred, nejpřehlednější
 
 module.exports = {analyzeDuplicates: proccessChunkStore, analyzeDeepDuplicates};

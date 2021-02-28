@@ -1,11 +1,7 @@
-const createOutputStream = require('../utils/createOutputStream');
-
-const outputStream = createOutputStream('../../output/logs/', 'errors_transcription.txt');
-
 /**
  * Function that checks if there are any non-arabic letters where mostly arabic should be (field ar)
  */
-function analyzeTranscriptions(data, dataStream = outputStream) {
+function analyzeTranscriptions(data, dataStream) {
     // should log all lines with possible unwanted latin chars in these fields
     const regexStem = /I{0,1}V?X?I{0,}\./g;
     const regexSpecialChars = /[[\]{}<>=!?#\\/]/g;
@@ -19,4 +15,4 @@ function analyzeTranscriptions(data, dataStream = outputStream) {
     }
 }
 
-module.exports = analyzeTranscriptions;
+module.exports = {analyzeTranscriptions};

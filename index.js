@@ -11,17 +11,48 @@
  * 2. připravit univezálnější logování
  */
 
+const inquirer = require('inquirer');
 const yargs = require('yargs/yargs');
 const { hideBin } = require('yargs/helpers');
 const argv = yargs(hideBin(process.argv)).argv;
 const path = require('path');
 
 const { analyze } = require('./scripts/analyze');
+const prepare = require('./scripts/prepare');
 
 if(argv._.length === 0) throw new Error('You must include path to raw data file first');
 
 const [pathToFile] = argv._;
 
-const filename = path.join(process.cwd(), pathToFile);
+const question = [
+    {
+        type: 'list',
+        name: 'action',
+        message: 'What action do you want to perform?',
+        choices: ['Analyze', 'Prepare', 'Transform']
+    }
+];
 
-if(filename) analyze(filename);
+inquirer.prompt(question).then((answers) => {
+    const {action} = answers;
+    const filename = path.join(process.cwd(), pathToFile);
+
+    if(filename){
+        switch (action) {
+        case 'Analyze':
+            analyze(filename);
+            break;
+        case 'Prepare':
+            prepare(filename);
+            break;
+        case 'Transform':
+            console.log('Nothing yet');
+            break;
+        default:
+            console.log('Nothing...');
+            break;
+        }
+    }
+});
+
+

@@ -34,6 +34,13 @@ const getId = (value, collection) => {
     return;
 };
 
+/**
+ * Scans each word's tags and sorts them into an object based on information that is obtained from tags.
+ * Replaces tags with their ids based on what's to be found in specific files generated in "prepare" step.
+ * There is several informations taken from word's tags, such as category, stem, source etc.
+ * @returns object with categorized information obtained from tags
+ * @param {*} tagsString 
+ */
 function resolveTags(tagsString) {
     const tagsArr = tagsString.split(' ');
 
@@ -135,6 +142,10 @@ const outputKeys = {
     disabled: null,
 };
 
+/**
+ * Gathers all information and generates final csv file. 
+ * @param {*} dataStream 
+ */
 const transform = (dataStream = writeStream) => {
     const firstLine = Object.keys(outputKeys).join(',');
     dataStream.write(firstLine + '\n');

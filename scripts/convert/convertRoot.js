@@ -4,6 +4,11 @@ const path = require('path');
 
 const file = path.join(__dirname, '../../output/roots.txt');
 
+/**
+ * @todo generate list of roots after it is once generated
+ * @param {*} param0 
+ * @param {*} cb 
+ */
 function convertRoot([_root], cb) {
     const rootArr = _root.split('-');
 

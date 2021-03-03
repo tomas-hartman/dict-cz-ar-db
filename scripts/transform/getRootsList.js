@@ -1,6 +1,3 @@
-const createOutputStream = require('./utils/createOutputStream');
-const writeStream = createOutputStream('../output/', 'roots.txt');
-
 const uniqueRoots = new Set();
 
 /**
@@ -8,7 +5,7 @@ const uniqueRoots = new Set();
  * @param {*} data 
  * @param {*} dataStream 
  */
-function getRoots(data, dataStream = writeStream) {
+function getRoots(data, dataStream) {
     const [_ar, _val, _cz, root, ..._args] = data;
 
     if(!uniqueRoots.has(root)){
@@ -17,4 +14,4 @@ function getRoots(data, dataStream = writeStream) {
     }
 }
 
-module.exports = getRoots;
+module.exports = {getRoots};

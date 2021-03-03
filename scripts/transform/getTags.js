@@ -1,9 +1,5 @@
-const path = require('path');
-const readfile = require('./readfile');
-const createOutputStream = require('./utils/createOutputStream');
-
-const inputFileName = path.resolve(__dirname, '../raw/Arabi__01__rocnik.txt');
-const outputStream = createOutputStream('../output/', 'tags.txt');
+const readfile = require('../readfile');
+const createOutputStream = require('../utils/createOutputStream');
 
 const uniqueValues = new Set();
 const uniqueCategories = new Set();
@@ -14,7 +10,7 @@ const uniqueSources = new Set();
  * @param {*} data 
  * @param {*} dataStream 
  */
-function sortTagsIntoCategories(data, dataStream = outputStream) {
+function sortTagsIntoCategories(data, dataStream) {
     const [_ar, _val, _cz, _root, _syn, _example, _transcription, tags] = data;
     const regexCat = /^cat_/g;
     const regexStems = /_kmen$/g;
@@ -29,18 +25,21 @@ function sortTagsIntoCategories(data, dataStream = outputStream) {
             uniqueSources.add(tag);
         } else if(!uniqueValues.has(tag)){
             uniqueValues.add(tag);
-            // dataStream.write(tag + "\n");
+            if(dataStream) {
+                dataStream.write(tag + '\n');
+            }
         }
     });
 }
 
 /**
  * Generates files for each category of tags 
+ * @todo add possibility to just add new tags to already existing file!
  * @param {*} outputName 
  * @param {*} setOfValues 
  */
 const generateOutputFromSet = (outputName, setOfValues) => {
-    const outputStream = createOutputStream('../output/', `${outputName}.txt`);
+    const outputStream = createOutputStream('../../output/', `${outputName}.txt`);
 
     const sortedSet = Array.from(setOfValues).sort();
 
@@ -49,8 +48,14 @@ const generateOutputFromSet = (outputName, setOfValues) => {
     });
 };
 
-async function getTags() {
-    await readfile(inputFileName, sortTagsIntoCategories);
+/**
+ * Creates lists of informations based on tags into separate files.
+ * This information is then used as reference in transform.
+ */
+async function getTags(inputFilename) {
+    // Optionally feed sortTagsIntoCategories() with this to output this file
+    // const outputTags = createOutputStream('../../output/', 'tags_unsorted.txt');
+    await readfile(inputFilename, (data) => sortTagsIntoCategories(data));
 
     generateOutputFromSet('categories', uniqueCategories);
     generateOutputFromSet('sources', uniqueSources);

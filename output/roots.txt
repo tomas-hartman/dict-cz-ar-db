@@ -172,6 +172,7 @@ w-q-t
 '-m-n
 b-w-b
 b-j-n
+th-n-j
 dž-d-w-l
 dž-m-3
 dž-w-l
@@ -192,6 +193,7 @@ T-b-3
 3-S-r
 3-l-j
 3-m-d
+3-n-d
 f-t-H
 f-t-r
 f-r-dž

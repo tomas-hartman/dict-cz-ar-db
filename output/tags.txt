@@ -16,6 +16,7 @@ ekonomika_finance
 elementy
 ethym_ie
 ethym_topo
+filozofie
 form_masdar
 freetime
 genitivni_vazby
@@ -37,7 +38,6 @@ masdar
 materiály
 místnost
 místo
-města_názvy
 město
 měsíc
 náboženství
@@ -76,6 +76,7 @@ tradice
 tělo
 události
 umění
+vz_da3á
 vz_nasija
 vz_ramá
 warn

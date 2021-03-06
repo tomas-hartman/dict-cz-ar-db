@@ -20,7 +20,7 @@ function normalizeAr(word) {
     output = output.replace(/[\u064b-\u0652]/g, '');
     
     // Remove [()[]{},.?]
-    output = output.replace(/[\u0028-\u002f\u003a-\u0040]/g,'');
+    output = output.replace(/[\u0028-\u002f\u003a-\u0040\u005b-\u005f\u007b-\u007e]/g,'');
 
     // Remove arabic interpunction and tatweel
     output = output.replace(/[\u061e-\u061f\u061b\u060c-\u060d\u0640]/g, '');

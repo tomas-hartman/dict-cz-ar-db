@@ -4,7 +4,7 @@ const getCategories = (tags) => {
      * která mohou mít po normalizaci stejný tvar a zmenšit tak počet
      * false errorů
      */
-    const ignoredCategories = ['cat_fraze', 'cat_castice', 'cat_adverbia'];
+    const ignoredCategories = ['cat_fraze', 'cat_castice'];
 
     const tagsArr = tags.split(' ');
     const categories = tagsArr.filter((tag) => {

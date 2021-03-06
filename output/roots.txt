@@ -359,7 +359,6 @@ l-3-b
 H-d-d
 3-T-l
 š-ch-S
-toponymum
 r-s-l
 š-b-k
 th-m-n
@@ -384,6 +383,7 @@ m-w-dž
 d-w-n
 '-š-r
 f-D-l
+toponymum
 b-r-dž
 dž-w-z
 H-f-Z
@@ -442,7 +442,6 @@ s-l-m
 ch-z-n
 b-T-q
 b-l-gh
-n-a
 t-l-j
 th-w-r
 H-dž-m

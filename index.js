@@ -37,22 +37,25 @@ const question = [
 inquirer.prompt(question).then((answers) => {
     const {action} = answers;
     const filename = path.join(process.cwd(), pathToFile);
-
-    if(filename){
-        switch (action) {
-        case 'Analyze':
-            analyze(filename);
-            break;
-        case 'Transform':
-            transform(filename);
-            break;
-        case 'Convert':
-            convert(filename);
-            break;
-        default:
-            console.log('Nothing...');
-            break;
+    try {
+        if(filename){
+            switch (action) {
+            case 'Analyze':
+                analyze(filename);
+                break;
+            case 'Transform':
+                transform(filename);
+                break;
+            case 'Convert':
+                convert(filename);
+                break;
+            default:
+                console.log('Nothing...');
+                break;
+            }
         }
+    } catch (err) {
+        console.error(err);
     }
 });
 

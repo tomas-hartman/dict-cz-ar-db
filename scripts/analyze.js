@@ -20,32 +20,32 @@ const createOutputStream = require('./utils/createOutputStream');
  */
 const analyze = (filename) => {
     // Check latin chars in arabic text
-    const outputLatinCharsInAr = createOutputStream('../../output/logs/', 'errors_latin_chars.txt');
+    const outputLatinCharsInAr = createOutputStream('../../output/logs/', 'errors_latin_chars.txt', filename);
     readfile(filename, (data) => analyzeLatinCharsInAr(data, outputLatinCharsInAr));
     
     // Check potentially unwanted latin characters in valency
-    const outputLatinCharsInVal = createOutputStream('../../output/logs/', 'errors_latin_chars_val.txt');
+    const outputLatinCharsInVal = createOutputStream('../../output/logs/', 'errors_latin_chars_val.txt', filename);
     readfile(filename, (data) => analyzeLatinCharsInVal(data, outputLatinCharsInVal));
     
     // Check roots
-    const outputRoot = createOutputStream('../../output/logs/', 'errors_root.txt');
+    const outputRoot = createOutputStream('../../output/logs/', 'errors_root.txt', filename);
     readfile(filename, (data) => analyzeRoots(data, outputRoot));
     
     // Analyze transcription
-    const outputTranscriptions = createOutputStream('../../output/logs/', 'errors_transcription.txt');
+    const outputTranscriptions = createOutputStream('../../output/logs/', 'errors_transcription.txt', filename);
     readfile(filename, (data) => analyzeTranscriptions(data, outputTranscriptions));
     
     // Analyze duplicates
-    const outputDuplicates = createOutputStream('../../output/logs/', 'errors_duplicates.txt');
+    const outputDuplicates = createOutputStream('../../output/logs/', 'errors_duplicates.txt', filename);
     analyzeDuplicates(outputDuplicates, filename);
     
     // TAGS:
     // analyze words without category
-    const outputUncategorized = createOutputStream('../../output/logs/', 'errors_uncategorized.txt');
+    const outputUncategorized = createOutputStream('../../output/logs/', 'errors_uncategorized.txt', filename);
     readfile(filename, (data) => analyzeUncategorized(data, outputUncategorized));
 
     // analyze verbs without stem
-    const outputMissingVerbsNotation = createOutputStream('../../output/logs/', 'errors_missing_verbs_notation.txt');
+    const outputMissingVerbsNotation = createOutputStream('../../output/logs/', 'errors_missing_verbs_notation.txt', filename);
     readfile(filename, (data) => analyzeMissingVerbsNotation(data, outputMissingVerbsNotation));
 };
 

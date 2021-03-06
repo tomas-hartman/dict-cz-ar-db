@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const readfile = require('../readfile');
 const ObjectsToCsv = require('objects-to-csv');
-const convertToNormTranscription = require('./convertToNormTransctiption');
+const convertToNormTranscription = require('./convertToNormTranscription');
  
 const getValues = (name) => {
     const filePath = path.resolve(__dirname, '../../output/' + name + '.txt');

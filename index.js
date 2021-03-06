@@ -18,7 +18,8 @@ const argv = yargs(hideBin(process.argv)).argv;
 const path = require('path');
 
 const { analyze } = require('./scripts/analyze');
-const prepare = require('./scripts/prepare');
+const transform = require('./scripts/transform');
+const { convert } = require('./scripts/convert');
 
 if(argv._.length === 0) throw new Error('You must include path to raw data file first');
 
@@ -29,7 +30,7 @@ const question = [
         type: 'list',
         name: 'action',
         message: 'What action do you want to perform?',
-        choices: ['Analyze', 'Prepare', 'Transform']
+        choices: ['Analyze', 'Transform', 'Convert']
     }
 ];
 
@@ -42,11 +43,11 @@ inquirer.prompt(question).then((answers) => {
         case 'Analyze':
             analyze(filename);
             break;
-        case 'Prepare':
-            prepare(filename);
-            break;
         case 'Transform':
-            console.log('Nothing yet');
+            transform(filename);
+            break;
+        case 'Convert':
+            convert(filename);
             break;
         default:
             console.log('Nothing...');

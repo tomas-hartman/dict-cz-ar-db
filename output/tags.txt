@@ -15,6 +15,7 @@ dům
 ekonomika_finance
 elementy
 ethym_ie
+ethym_topo
 form_masdar
 freetime
 genitivni_vazby

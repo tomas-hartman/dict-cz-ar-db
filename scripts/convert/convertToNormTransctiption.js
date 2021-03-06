@@ -33,10 +33,10 @@ const convertToNormTranscription = (text, root) => {
 
     // check root, if it has dh, th, pokud ne, konvert normálně
     if(root && getInterdentalsInRoot(root).length === 0){
-        const regex = /dž|ch|[áíúSTDZH372Rž']/g;
+        const regex = /dž|ch|gh|[áíúSTDZH372Rž']/g;
         output = text.replace(regex, replacer);
     } else {
-        const regex = /dh|th|dž|ch|[áíúSTDZH372Rž']/g;
+        const regex = /dh|th|dž|ch|gh|[áíúSTDZH372Rž']/g;
         output = text.replace(regex, replacer);
     }
 

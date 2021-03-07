@@ -10,6 +10,7 @@ const { analyzeTranscriptions } = require('./analyze/transcription');
 // const path = require('path');
 // const filename = path.resolve(__dirname, '../raw/Arabi__01__rocnik.txt');
 const createOutputStream = require('./utils/createOutputStream');
+const { analyzeVerbs } = require('./analyze/verbs');
 
 /**
  * This analyzes raw source data and logs potential errors into output/logs
@@ -41,12 +42,18 @@ const analyze = (filename) => {
     
     // TAGS:
     // analyze words without category
+    /** @todo lze vyřešit pomocí getCategory */
     const outputUncategorized = createOutputStream('../../output/logs/', 'errors_uncategorized.txt', filename);
     readfile(filename, (data) => analyzeUncategorized(data, outputUncategorized));
 
     // analyze verbs without stem
+    /** @todo bude řešit analyze/verbs */
     const outputMissingVerbsNotation = createOutputStream('../../output/logs/', 'errors_missing_verbs_notation.txt', filename);
     readfile(filename, (data) => analyzeMissingVerbsNotation(data, outputMissingVerbsNotation));
+    
+    // analyze verbs
+    const outputErrorsInVerbs = createOutputStream('../../output/logs/', 'errors_verbs.txt', filename);
+    readfile(filename, (data) => analyzeVerbs(data, outputErrorsInVerbs));
 };
 
 module.exports = {analyze};

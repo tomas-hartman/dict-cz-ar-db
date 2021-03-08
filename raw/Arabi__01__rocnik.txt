@@ -120,8 +120,8 @@
 مُسَاعَدَةٌ		pomoc	s-3-d			musá3adatun	abstraktní AR_lekce_3 AR_muj_slovnicek_1 cat_substantiva
 زار (ـُ)	ه/هـ	navštívit	z-w-r			zára (jazúru)	AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J opakovani_zapomenutych slaba_slovesa vz_qála
 قَالَ (ـُ)	إِنَّ	říct, že...	q-w-l				AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J slaba_slovesa vz_qála
-قَضَى (ـِ، يَقْضِي)	هـ	strávit časově	q-D-j				AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa vz_ramá
-نَسِيَ (يَنْسَى, ـَ)	هـ	zapomenout (něco)	n-s-j				AR_muj_slovnicek_1 cat_slovesa I_kmen slaba_slovesa vz_nasija
+قَضَى (ـِ, يَقْضِي)	هـ	strávit časově	q-D-j				AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa vz_ramá
+نَسِيَ (ـَ, يَنْسَى)	هـ	zapomenout (něco)	n-s-j				AR_muj_slovnicek_1 cat_slovesa I_kmen slaba_slovesa vz_nasija
 أَتَى (ـِ)		přijít (إلى/لــ), přinést (بــ), vyplývat z čeho	'-t-j				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J IIIaeW/J opakovani_zapomenutych slaba_slovesa vz_ramá
 عَادَ (ـُ)		vrátit se	3-w-d			3áda (ja3údu)	AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J marked slaba_slovesa vz_qála
 بَنَى (يبني, ـِ)		postavit	b-n-j			baná (jabní)	AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa vz_ramá
@@ -1176,7 +1176,7 @@
 مختبر , ات		laboratoř	ch-b-r			muchtabarun, muchtabarátun	AR_1.rocnik AR_lekce_9 cat_substantiva opakovani_zapomenutych
 تخرّج	في	absolvovat v	ch-r-dž			tacharradža	AR_lekce_9 cat_slovesa V_kmen
 مختصّ		specializovaný, příslušný	ch-S-S			muchtaSSun	AR_1.rocnik AR_lekce_9 cat_adjektiva opakovani_zapomenutych
-خطر (ـِ, ـُ)	بـ	přijít (na mysl)	ch-T-r			chaTara, juchTiru bi-	AR_lekce_9 cat_slovesa I_kmen
+خطر (ـِـُ)	بـ	přijít (na mysl)	ch-T-r			chaTara, juchTiru bi-	AR_lekce_9 cat_slovesa I_kmen
 خيّب		zmařit	ch-j-b			chajjaba	AR_1.rocnik AR_lekce_9 cat_slovesa II_kmen IIaeW/J slaba_slovesa
 خيّب آمالا		zklamat naděje	ch-j-b			chajjaba ámálan	AR_lekce_9 cat_fraze příklad
 دَبَّرَ		zařídit, zorganizovat, naplánovat	d-b-r			dabbara	AR_1.rocnik AR_lekce_9 cat_slovesa II_kmen opakovani_zapomenutych
@@ -1283,7 +1283,7 @@
 اِفْتَقَدَ	إلى	postrádat (něco)	f-q-d			iftaqada	AR_lekce_10 cat_slovesa tema_konflikty_terorismus VIII_kmen
 اِفْتَقَرَ	إلى	mít nedostatek (čeho)	f-q-r			iftaqara	AR_lekce_10 cat_slovesa VIII_kmen
 فلوريدا		Florida	toponymum			flúrídá	AR_lekce_10 cat_substantiva
-فات (ـُو)	ه	utéci (komu), ujet (např. vlak), uniknout (např. příležitost)	f-w-t			fáta	AR_lekce_10 cat_slovesa I_kmen IIaeW/J slaba_slovesa
+فات (ـُ, يَفُوتُ)	ه	utéci (komu), ujet (např. vlak), uniknout (např. příležitost)	f-w-t			fáta (jafútu)	AR_lekce_10 cat_slovesa I_kmen IIaeW/J slaba_slovesa
 استقبل		uvítat, přivítat (oficiálně)	q-b-l			istaqbala	AR_lekce_10 cat_slovesa X_kmen
 قبل أنْ ...		dříve, než....	q-b-l			qabla an...	AR_lekce_10 cat_spojky
 اقتراب		přiblížení se	q-r-b			iqtirábun	AR_lekce_10 cat_substantiva

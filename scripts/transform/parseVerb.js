@@ -1,23 +1,71 @@
 const { getCategories } = require('../utils/getCategory');
 const { getStem } = require('../utils/getStem');
 
+function transformVowel(rawVowel) {
+    if(!rawVowel) return;
+    // Strip () a další nechtěný
+    // strip prázdný taTwíl
+
+    const charsToStrip = /[(),\u060c\s]/g;
+    const vowelRegex = /(\u0640[\u064e-\u0650])/g;
+
+    let output = rawVowel.normalize('NFD');
+    output = output.replace(charsToStrip, '');
+    output = output.split(vowelRegex);
+    output = output.filter((item) => item !== '' && item !== 'ـ');
+    
+    return output.join(', ');
+}
+
+function parseFourConsonant(data, regexes) {
+    const [ar, ..._args] = data;
+    const cleanedAr = cleanWord(ar, regexes);
+
+    const splitForm = cleanedAr.split(' ');
+
+    const output = {
+        word: splitForm[0],
+        vowel: transformVowel(splitForm[1]),
+        masdar: undefined
+    };
+
+    return output;
+}
 
 function parseFirstStem(data, regexes) {
     const [ar, _val, cz, ..._args] = data;
     const cleanedAr = cleanWord(ar, regexes);
 
+    const splitTwoFormsRegex = /(.+?)[\s](\(.+?\))$/g;
     const splitForm = cleanedAr.split(' ');
 
     /**
-     * Slovo o 2-3 segmentech
-     * Forma: word (vowel) masdar | word (vowel)
-     * @todo fixnout vowel a odstranit závorky
+     * Slovo o 2 segmentech
+     * Forma: word (vowel, full form) | word (vowel, masdar) -> tohle se odchytí v analyze
+     */
+    if(cleanedAr.match(splitTwoFormsRegex)) {
+        const [word, vowel] = cleanedAr.split(splitTwoFormsRegex).filter((item) => item !== '');
+
+        const output = {
+            word, 
+            vowel: transformVowel(vowel), 
+            masdar: undefined
+        };
+
+        return output;
+    }
+
+    /**
+     * Slovo o 3 segmentech
+     * Forma: word (vowel) masdar
      */
     if(splitForm.length > 1 && splitForm.length < 4 ){
         const [word, vowel, masdar] = splitForm;
 
         const output = {
-            word, vowel, masdar
+            word: cleanWord(word, regexes), 
+            vowel: transformVowel(vowel), 
+            masdar
         };
 
         return output;
@@ -32,7 +80,7 @@ function parseFirstStem(data, regexes) {
         console.warn('Warning:', ar, cz);
 
         const output = {
-            word: ar, 
+            word: cleanedAr, 
             vowel: undefined, 
             masdar: undefined
         };
@@ -40,18 +88,25 @@ function parseFirstStem(data, regexes) {
         return output;
     } 
     
-    // Possibly risky I_kmen
-    // @todo Tady by mělo být nějaký obecnější __else__
-    const filteredMap = (item) => {
+    /**
+     * Possibly risky I_kmen
+     * Forma: (často) word (vowel) masdar, masdar | word (vowel, fullform) masdar
+     * @todo druhá forma by mohla být součást upravenýho 3-segmentovýho parseru
+     */
+
+    const filteredMapCb = (item) => {
         const output = item.trim();
             
         return output;
     };
 
-    const [word, vowel, masdar] = cleanedAr.split(regexes.regexWordThreeSegments).filter((item) => item && item !== '').map(filteredMap);
+    const filteredCleanArArr = cleanedAr.split(regexes.regexWordThreeSegments).filter((item) => item && item !== '');
+    const [word, vowel, masdar] = filteredCleanArArr.map(filteredMapCb);
 
     const output = {
-        word, vowel, masdar
+        word, 
+        vowel: transformVowel(vowel), 
+        masdar
     };
 
     return output;
@@ -68,7 +123,7 @@ function parseExtendedStems(data, regexes) {
      */
     if(cleanedAr.split(' ').length === 1){
         const output = {
-            word: ar,
+            word: cleanedAr,
             vowel: undefined,
             masdar: undefined
         };
@@ -110,7 +165,12 @@ function cleanWord(word, regexes) {
     return output;
 }
 
-// Refactor! Mísí se zde analýza s transformem!
+const regexes = {
+    regexVariants: /\{\d\}|\(\d\)/g,
+    regexWordInParentheses: /([\u0620-\u065f]+?)\s\(([\u0620-\u065f]+?)\)/g,
+    regexWordThreeSegments: /(.+?)\((.+?)\)(.+)?/g, // word (vowel) masdar +++?
+};
+
 /**
  * 
  * @param {*} data 
@@ -122,12 +182,6 @@ function parseVerb(data, outputStream) {
 
     const categories = getCategories(tags);
     const stem = getStem(tags);
-
-    const regexes = {
-        regexVariants: /\{\d\}|\(\d\)/g,
-        regexWordInParentheses: /([\u0620-\u065f]+?)\s\(([\u0620-\u065f]+?)\)/g,
-        regexWordThreeSegments: /(.+?)\((.+?)\)(.+)?/g, // word (vowel) masdar +++?
-    };
 
     const isVerb = categories.includes('cat_slovesa');
     const isFirstStem = stem[0] === 'I_kmen';
@@ -145,7 +199,10 @@ function parseVerb(data, outputStream) {
         /**
          * @todo dodělat support pro 4-konsonantní slovesa
          */
-        console.log('This werb is four consonant.');
+        console.log('This verb is four consonant.');
+        const output = parseFourConsonant(data, regexes);
+
+        console.log(output);
     } else if(!isFirstStem){
         const output = parseExtendedStems(data, regexes);
 
@@ -157,6 +214,8 @@ function parseVerb(data, outputStream) {
     } else {
         console.log('Error, something is wrong:\t', data.join('\t'));
     }
+
+    // console.log(data);
 }
 
 module.exports = {parseVerb};

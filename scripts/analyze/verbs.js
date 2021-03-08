@@ -16,6 +16,7 @@ function analyzeVerbs(data, dataStream) {
 
     const isVerb = categories.includes('cat_slovesa');
     const isFirstStem = stem[0] === 'I_kmen';
+    const isFourConsonant = stem[0] && stem[0].includes('4_');
 
     /** Pokud není sloveso, nezajímá mě to */
     if(!isVerb) return;
@@ -37,11 +38,14 @@ function analyzeVerbs(data, dataStream) {
      * 
      * - rozšířené kmeny s víceslovným popisem
      */
-    if(!isFirstStem) {
+    if(!isFirstStem && !isFourConsonant) {
         /**
          * @todo: vyřadit ty, které mají správně masdary
-         */
-        if(cleanedAr.split(' ').length > 1){
+        */
+
+        const hasCorrectMasdars = cleanedAr.split(' ').length === 2 && cleanedAr.match(/(\([^,\u0640]+?\))/g);
+
+        if(cleanedAr.split(' ').length > 1 && !hasCorrectMasdars){
             dataStream.write('Warn: Verb definition suspicious:\t' + data.join('\t') + '\n');
             return;
         }
@@ -51,8 +55,8 @@ function analyzeVerbs(data, dataStream) {
      * I_kmen 
      * 
      * - I_kmen, který má jenom jedno slovo (chybí mu kmenová hláska)
-     * @todo - I_kmen, který nemá kmenovou hlásku v závorkách
-     * @todo - I_kmen, který má v závorce i masdar 
+     * - I_kmen, který nemá kmenovou hlásku v závorkách
+     * - I_kmen, který má v závorce i masdar 
      */
     if(isFirstStem){
         if(cleanedAr.split(' ').length < 2){
@@ -60,8 +64,25 @@ function analyzeVerbs(data, dataStream) {
             return;
         }
 
-        // @todo - I_kmen, který nemá kmenovou hlásku v závorkách
-        // @todo - I_kmen, který má v závorce i masdar 
+        // I_kmen, který nemá kmenovou hlásku v závorkách
+        // forma: word __ masdar
+        if(!cleanedAr.match(/(\(.+?\))/g)){
+            // do stg
+            dataStream.write('Error: Verb vowel is not in parentheses:\t' + data.join('\t') + '\n');
+            return;
+        }
+        
+        // I_kmen, který má v závorce i masdar
+        if(cleanedAr.match(/(\(.+?[,\u060c/].+?\))/g)){
+            dataStream.write('Error: Incorrect form inside parentheses:\t' + data.join('\t') + '\n');
+            return;
+        }
+    }
+
+    // Čtyřkonsonantní
+    if(isFourConsonant){
+        dataStream.write('Warn: Check 4-cons verbs manually:\t' + data.join('\t') + '\n');
+        return;
     }
 
     /**

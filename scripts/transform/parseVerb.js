@@ -174,10 +174,9 @@ const regexes = {
 /**
  * 
  * @param {*} data 
- * @param {*} outputStream 
  * @returns {object} {word, vowel, masdar}
  */
-function parseVerb(data, outputStream) {
+function parseVerb(data) {
     const [_ar, _val, _cz, _root, _syn, _example, _transcription, tags] = data;
 
     const categories = getCategories(tags);
@@ -202,20 +201,21 @@ function parseVerb(data, outputStream) {
         console.log('This verb is four consonant.');
         const output = parseFourConsonant(data, regexes);
 
-        console.log(output);
+        // console.log(output);
+        return output;
     } else if(!isFirstStem){
         const output = parseExtendedStems(data, regexes);
 
-        console.log(output);
+        // console.log(output);
+        return output;
     } else if(isFirstStem) {
         const output = parseFirstStem(data, regexes);
 
-        console.log(output);
+        // console.log(output);
+        return output;
     } else {
         console.log('Error, something is wrong:\t', data.join('\t'));
     }
-
-    // console.log(data);
 }
 
 module.exports = {parseVerb};

@@ -21,6 +21,7 @@ const { analyze } = require('./scripts/analyze');
 const transform = require('./scripts/transform');
 const { convert } = require('./scripts/convert');
 const { parseVerb } = require('./scripts/transform/parseVerb');
+const { parseNoun } = require('./scripts/transform/parseNoun');
 const readfile = require('./scripts/readfile');
 
 if(argv._.length === 0) throw new Error('You must include path to raw data file first');
@@ -32,7 +33,7 @@ const question = [
         type: 'list',
         name: 'action',
         message: 'What action do you want to perform?',
-        choices: ['Parse verb','Analyze', 'Transform', 'Convert']
+        choices: ['Parse noun','Analyze', 'Transform', 'Convert']
     }
 ];
 
@@ -42,8 +43,8 @@ inquirer.prompt(question).then((answers) => {
     try {
         if(filename){
             switch (action) {
-            case 'Parse verb':
-                readfile(filename, (data) => parseVerb(data, ''));
+            case 'Parse noun':
+                readfile(filename, (data) => parseNoun(data, ''));
                 break;
             case 'Analyze':
                 analyze(filename);

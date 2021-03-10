@@ -6,6 +6,8 @@ const path = require('path');
 const readfile = require('../readfile');
 const ObjectsToCsv = require('objects-to-csv');
 const convertToNormTranscription = require('./convertToNormTranscription');
+const { parseVerb } = require('../transform/parseVerb');
+const { parseNoun } = require('../transform/parseNoun');
  
 const getValues = (name) => {
     const filePath = path.resolve(__dirname, '../../output/' + name + '.txt');
@@ -88,30 +90,71 @@ function resolveTags(tagsString) {
  
 async function convertFile(data, outputStream) {
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
- 
-    const rootId = getId(root, roots);
     const {tags: _tags, category, source, disabled, stem} = resolveTags(tags);
+
+    const rootId = getId(root, roots);
+
+    const getMeaningVariant = (word) => {
+        let match = word.match(/\(\d\)|{\d}/g);
+        
+        if(match){
+            match.filter((item) => item !== '');
+            match = match[0];
+            match = match.replace(/\D/g, '');
+
+            return match;
+        }
+    };
+
+    const isVerb = categories.includes('cat_slovesa');
+    const isNoun = categories.includes('cat_substantiva');
+
+    const verbalForms = isVerb && parseVerb(data);
+    const nounForms = isNoun && parseNoun(data);
+
+    const getTheWord = (ar, verbalForms, nounForms) => {
+        if(verbalForms?.word) {
+            return verbalForms.word;
+        }
+
+        if(nounForms?.word) {
+            return nounForms.word;
+        }
+
+        return ar;
+    };
+
     const normTranscription = convertToNormTranscription(transcription, root);
     // resolveAr() // checks data for plural, masdar, stem_vowel
+
+    const wordForm = getTheWord(ar, verbalForms, nounForms);
+
+    const otherFormsObj = {
+        word: wordForm,
+        vowel: verbalForms?.vowel,
+        masdar: verbalForms?.masdar,
+        plural: nounForms?.plural
+    };
  
     const output = {
-        ar,
+        ar: wordForm,
         cz,
         norm: '',
         cat_id: category,
         root_id: rootId,
         stem: stem,
-        stem_vowel: null,
-        plural: null,
-        masdar: null,
-        val,
+        stem_vowel: otherFormsObj.vowel,
+        plural: otherFormsObj.plural,
+        masdar: otherFormsObj.masdar,
+        val, // todo: replace doubled tatweels
         transcription: normTranscription,
-        meaning_variant: null,
+        meaning_variant: getMeaningVariant(ar),
         synonyms_ids: syn,
         tags_ids: _tags,
-        examples_ids: example, // todo
+        examples_ids: example, // todo -- jaké examples k němu patří
         source_ids: source,
         disabled,
+        isExample: false, // todo - je samo o sobě example?
     };
  
     // console.log();
@@ -141,6 +184,7 @@ const outputKeys = {
     examples_ids: null, // todo
     source_ids: null,
     disabled: null,
+    isExample: null, // todo
 };
  
 /**

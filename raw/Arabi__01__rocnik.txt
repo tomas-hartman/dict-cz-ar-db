@@ -42,7 +42,7 @@
 صَدَرَ (ـُ) صُدُورٌ {1}		vyjít, být vydán (kniha)	S-d-r			Sadara jaSduru	AR_lekce_3 AR_muj_slovnicek_1 cat_slovesa I_kmen
 حَجَزَ (ـِ) حَجْرٌ	هـ	zarezervovat, zamluvit (něco)	H-dž-z				AR_muj_slovnicek_1 cat_slovesa I_kmen
 مُفِيدٌ		užitečný, prospěšný	f-j-d			mufídun	AR_lekce_3 AR_muj_slovnicek_1 cat_adjektiva
-إِرْهَابِيٌّ		terorista, teroristický	r-h-b				AR_muj_slovnicek_1 cat_adjektiva profese
+إِرْهَابِيٌّ		terorista (1); teroristický (2)	r-h-b				AR_muj_slovnicek_1 cat_adjektiva cat_substantiva profese
 مُمتَازٌ		výborný, vynikající	m-t-z				AR_muj_slovnicek_1 cat_adjektiva
 شَرقِيٌ		východní, orientální	š-r-q				AR_muj_slovnicek_1 cat_adjektiva
 مُضِيفَةٌ		stewardka (hosteska)	D-j-f			muDífatun	AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych profese
@@ -56,7 +56,7 @@
 عَامِلٌ (عَامِلُونَ)		pracovník	3-m-l			3ámilun (3ámilúna)	AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva lidé opakovani_zapomenutych profese
 قَلِيلٌ (قَلاَئِلُ , قِلاَلٌ)		malý, nepočetný	q-l-l				AR_1.rocnik AR_muj_slovnicek_1 cat_adjektiva opakovani_zapomenutych
 لَيلٌ (لَيَالٍ)		noc	l-j-l				AR_muj_slovnicek_1 cat_substantiva čas
-وَجَدَ (ـِ, يَجِدُ) وُجُودٌ/إِيجَادٌ	هـ, ه (عن)	najít něco, někoho, zjistit něco	w-dž-d			wadžada (jadžidu) wudžúdun/'ídžádun	AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
+وَجَدَ (ـِ, يَجِدُ) وُجُودٌ, إِيجَادٌ	هـ, ه (عن)	najít něco, někoho, zjistit něco	w-dž-d			wadžada (jadžidu) wudžúdun/'ídžádun	AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
 أَخَذَ (ـُ)	هـ	vzít něco	'-ch-dh				AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
 طَلَبَ (ـُ) طَلَبٌ/طَلَبَاتٌ	هـ	žádat (něco)	T-l-b				AR_muj_slovnicek_1 cat_slovesa I_kmen
 قَرَأَ (ـَـ)	هـ	číst něco	q-r-'				AR_muj_slovnicek_1 cat_slovesa I_kmen slaba_slovesa
@@ -96,7 +96,7 @@
 بَاكِرٌ		časný	b-k-r			bákirun	AR_lekce_3 AR_muj_slovnicek_1 cat_adjektiva čas
 أَحَدٌ (إِحدَى)		jeden (jedna)	'-H-d				AR_muj_slovnicek_1 cat_cislovky cat_substantiva
 مَطَارٌ		letiště	T-j-r			maTárun	AR_lekce_3 AR_muj_slovnicek_1 budovy cat_substantiva doprava město
-مَسُؤُولٌ		zodpovědný představitel, činitel	s-'-l			mas'ūlun	AR_lekce_3 AR_muj_slovnicek_1 cat_adjektiva lidé profese
+مَسُؤُولٌ		zodpovědný představitel, činitel	s-'-l			mas'ūlun	AR_lekce_3 AR_muj_slovnicek_1 cat_adjektiva cat_substantiva lidé profese
 فُصحَى		spisovný jazyk	f-S-H			fuSHá	AR_muj_slovnicek_1 cat_substantiva škola
 أوَّلاً		nejprve, nejdříve	'-w-l			awwalan	AR_lekce_3 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_adverbia cat_cislovky
 إِنْتَقَلَ	إلى	přesunout se, přejít, přestěhovat se	n-q-l				AR_muj_slovnicek_1 cat_slovesa VIII_kmen
@@ -230,7 +230,7 @@
 تَعَرَّفَ	على/بـ	seznámit se s někým/něcím, poznat někoho	3-r-f			ta3arrafa	AR_lekce_17 AR_lekce_4 AR_muj_slovnicek_1 AR_muj_slovnicek_2b cat_slovesa V_kmen
 تَعَرُّفٌ	على/بـ	seznámení se s	3-r-f			ta3arrufun	AR_lekce_4 cat_substantiva form_masdar
 عريق		starobylý, starý	3-r-q			3aríqun	AR_lekce_4 AR_muj_slovnicek_1 cat_adjektiva
-مُعَاصِرٌ		současný (1) ; současník (2)	3-S-r	حَالِيٌّ، رَاهِنٌ		mu³āsirun	AR_1.rocnik AR_lekce_18 AR_lekce_4 AR_muj_slovnicek_1 budovy cat_adjektiva město opakovani_zapomenutych
+مُعَاصِرٌ		současný (1); současník (2)	3-S-r	حَالِيٌّ، رَاهِنٌ		mu³āsirun	AR_1.rocnik AR_lekce_18 AR_lekce_4 AR_muj_slovnicek_1 budovy cat_adjektiva cat_substantiva město opakovani_zapomenutych
 تعليم		školství, vzdělání, výuka	3-l-m			ta3límun	AR_lekce_4 AR_muj_slovnicek_1 cat_substantiva škola
 عالٍ		vysoký	3-l-j			3álin (3álí, 3álíja)	AR_1.rocnik AR_lekce_4 AR_muj_slovnicek_1 cat_adjektiva opakovani_zapomenutych
 عَامٌّ		obecný, všeobecný, veřejný, generální	3-m-m			3ámmun	AR_lekce_4 AR_muj_slovnicek_1 cat_adjektiva
@@ -376,7 +376,7 @@
 صَعِدَ (ـَـ)	الى	vystoupit, nastoupit (do letadla), vylézt (nahoru)	S-3-d			Sa3ida jaS3adu	AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa doprava I_kmen opakovani_zapomenutych
 درّاجة / عجلة		jízdní kolo	3-dž-l				AR_muj_slovnicek_1 cat_substantiva doprava marked
 مَحَلٌّ (ات/مَحَالُّ)		obchod, krám se vším (1); pozice, místo, umístění (2)	m-H-l			maHallun maHallát - maHállu	AR_muj_slovnicek_1 budovy cat_substantiva město
-دواءٌ (أدوِيَة)		lék	d-w-j			dawá'un adwijatun	AR_lekce_17 AR_muj_slovnicek_1 ostatní tema_lekarstvi_zdravi zdraví
+دواءٌ (أدوِيَة)		lék	d-w-j			dawá'un adwijatun	AR_lekce_17 AR_muj_slovnicek_1 cat_substantiva ostatní tema_lekarstvi_zdravi zdraví
 قَرِيَة (قرًى)		vesnice	q-r-j				AR_muj_slovnicek_1 cat_substantiva místo město
 سَبْبٌ (أَسْبَابٌ)		příčina, důvod	s-b-b				abstraktní AR_muj_slovnicek_1 cat_substantiva marked
 عيد ميلاد		narozeniny, Vánoce	3-j-d				AR_muj_slovnicek_1 cat_substantiva svátky události
@@ -499,7 +499,7 @@
 قام (ـُ) قِيامٌ/قَوْمٌ {1}	بـ	podniknout, provést, vykonat	q-w-m			qáma (jaqúmu)	AR_lekce_5 AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J leech slaba_slovesa
 ريف (أرياف)		venkov	r-j-f				AR_muj_slovnicek_1 cat_substantiva místo město
 في بعضِ الأحيانِ		občas	H-j-n				AR_muj_slovnicek_1 cat_adverbia cat_fraze příklad
-فَلَّاحٌ		rolník, zemědělec	f-l-H				AR_muj_slovnicek_1 profese
+فَلَّاحٌ		rolník, zemědělec	f-l-H				AR_muj_slovnicek_1 cat_substantiva profese
 تِجاريٌّ		obchodní, komerční	t-dž-r				AR_muj_slovnicek_1 cat_adjektiva oficiality
 أخذ (ـُ) أَخْذٌ		brát, vzít (klidně i taxi)	'-ch-dh			'achadha (u)	AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
 جاءَ (ـِ) مَجِيءٌ/بِجَاءٌ	ه بـ	přinést/přivést někomu něco	dž-j-'				AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J marked slaba_slovesa
@@ -508,68 +508,68 @@
 وُجُودٌ		existence	w-dž-d			wudžúdun	AR_muj_slovnicek_1 cat_substantiva filozofie form_masdar I_kmen
 إِيجَادٌ		nalézání se	w-dž-d			'ídžádun	AR_muj_slovnicek_1 cat_substantiva form_masdar I_kmen
 وَجِعَ (يَوْجَعُ, ـَـ) وَجَعٌ		bolet, cítit bolest	w-dž-3				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J opakovani_zapomenutych slaba_slovesa
-شيءً (أشياءَ)		věc	š-j-'				AR_muj_slovnicek_1 ostatní
+شيءً (أشياءَ)		věc	š-j-'				AR_muj_slovnicek_1 cat_substantiva ostatní
 وَثِيقَةٌ (وثائقُ)		dokument	w-th-q				AR_muj_slovnicek_1 cat_substantiva oficiality
 مشى (ـِ) مَشْيٌ		jít pěšky (mašírovat)	m-š-j			mašá (jamší) mašjun	AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa vz_ramá
 أَكْلٌ		jídlo	'-k-l			aklun	AR_lekce_5 AR_muj_slovnicek_1 cat_substantiva jídlo
 خَبَزَ (ـِـ)		péct pečivo	ch-b-z				AR_muj_slovnicek_1 cat_slovesa I_kmen jídlo
 رَبِيعٌ		jaro	r-b-3			rabí3un	AR_lekce_5 AR_muj_slovnicek_1 AR_muj_slovnicek_2 cat_substantiva rok
-صَيْفٌ		léto	S-j-f				AR_muj_slovnicek_1 rok čas
+صَيْفٌ		léto	S-j-f				AR_muj_slovnicek_1 cat_substantiva rok čas
 زَرَعَ (ـَـ)		pěstovat	z-r-3			zara3a (jazra3u)	AR_lekce_5 AR_muj_slovnicek_1 cat_slovesa I_kmen
 إِضافيٌّ		doplňkový, náhradní	D-j-f			'iDáfíjun	AR_lekce_5 AR_muj_slovnicek_1 cat_adjektiva
 فتح (ـَـ)		otevřít	f-t-H				AR_muj_slovnicek_1 cat_slovesa I_kmen
 لعب (ـَـ)		hrát	l-3-b				AR_muj_slovnicek_1 cat_slovesa I_kmen
 لَعْبٌ (ألعابٌ)		hra	l-3-b			la3bun, al3ábun	AR_lekce_5 AR_muj_slovnicek_1 cat_substantiva zábava činnost
 مَطَرٌ (أمطار)		déšť	T-j-r			maTarun (amTárun)	AR_1.rocnik AR_lekce_5 AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych počasí příroda
-وَالِدٌ/وَالِدةٌ (آبَاءٌ)		otec/matka	w-l-d				AR_muj_slovnicek_1 rodina
-ألمَانِيَّا		Německo	IE				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
+وَالِدٌ/وَالِدةٌ (آبَاءٌ)		otec/matka	w-l-d				AR_muj_slovnicek_1 cat_substantiva rodina
+ألمَانِيَّا		Německo	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
 بِالتحديدِ		přesně	H-d-d				AR_1.rocnik AR_muj_slovnicek_1 cat_adverbia opakovani_zapomenutych
 تخريجٌ		promoce, slavnostní vyřazení absoloventů	ch-r-dž			tachrídžun	AR_lekce_5 AR_muj_slovnicek_1 cat_substantiva form_masdar škola
-عُطْلَةٌ (عُطَل)		volno, prázdniny	3-T-l				AR_muj_slovnicek_1 freetime
-عطلةُ نِهايةِ الاُسبوعِ		víkend	3-T-l				AR_muj_slovnicek_1 freetime
+عُطْلَةٌ (عُطَل)		volno, prázdniny	3-T-l				AR_muj_slovnicek_1 cat_substantiva freetime
+عطلةُ نِهايةِ الاُسبوعِ		víkend	3-T-l				AR_muj_slovnicek_1 cat_substantiva freetime
 بسُرعَةٍ		rychle	s-r-3				AR_muj_slovnicek_1 cat_adverbia
 شَخْصِيَّاً		osobně	š-ch-S				AR_muj_slovnicek_1 cat_adverbia
-شبهُ جزيرةِ سيناءُ		Sinajský poloostrov					AR_muj_slovnicek_1 ethym_topo geografie toponyma
-موسمٌ سياحيٌّ		turistická sezona	w-s-m				AR_muj_slovnicek_1 příklad
-رسالةٌ قصيرةٌ		SMS	r-s-l				AR_muj_slovnicek_1 technologie
-شبكة الإنترنيت		internetová síť	š-b-k				AR_muj_slovnicek_1 technologie
+شبهُ جزيرةِ سيناءُ		Sinajský poloostrov					AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie toponyma
+موسمٌ سياحيٌّ		turistická sezona	w-s-m				AR_muj_slovnicek_1 cat_fraze příklad
+رسالةٌ قصيرةٌ		SMS	r-s-l				AR_muj_slovnicek_1 cat_substantiva technologie
+شبكة الإنترنيت		internetová síť	š-b-k				AR_muj_slovnicek_1 cat_substantiva technologie
 مقَدَماً/سلناً		v budoucnosti	q-d-m				AR_muj_slovnicek_1 cat_adverbia marked
 ثامنة		osmý	th-m-n				AR_muj_slovnicek_1 cat_adjektiva cat_cislovky
-دَارٌ (دُورٌ)		lepší dům - fem.	d-w-r			dárun dúrun	AR_muj_slovnicek_1 budovy
-مُؤَسَّسة (ـات)		instituce	'-s-s				AR_muj_slovnicek_1 oficiality ostatní
+دَارٌ (دُورٌ)		lepší dům - fem.	d-w-r			dárun dúrun	AR_muj_slovnicek_1 budovy cat_substantiva
+مُؤَسَّسة (ـات)		instituce	'-s-s				AR_muj_slovnicek_1 cat_substantiva oficiality ostatní
 تماماً		zcela, naplno	t-m-m				AR_muj_slovnicek_1 cat_adverbia
-كلاب = بوبي		pes	k-l-b				AR_muj_slovnicek_1 zvířata
-بَرْدٌ		zima (chlad)	b-r-d				AR_muj_slovnicek_1 ostatní
-المجر		Maďarsko	IE				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
+كلاب = بوبي		pes	k-l-b				AR_muj_slovnicek_1 cat_substantiva zvířata
+بَرْدٌ		zima (chlad)	b-r-d				AR_muj_slovnicek_1 cat_substantiva ostatní
+المجر		Maďarsko	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
 مُثلَّج		ledový	th-l-dž				AR_1.rocnik AR_muj_slovnicek_1 cat_adjektiva opakovani_zapomenutych
-ذاتِيَّةٌ		osobnost, identita	dh				AR_muj_slovnicek_1 marked oficiality ostatní
+ذاتِيَّةٌ		osobnost, identita	dh				AR_muj_slovnicek_1 cat_substantiva marked oficiality ostatní
 اِسْتَخْدَامٌ		užití, použití	ch-d-m			istichdámun	AR_1.rocnik AR_lekce_10 AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
 وَلَدَ (ـِـ)		porodit, mít dítě	w-l-d				AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
-مَعُونَةٌ مَالِيَّةٌ		finanční pomoc	3-w-n				AR_1.rocnik AR_muj_slovnicek_1 oficiality opakovani_zapomenutych
-أمير البحر		admirál	'-m-r				AR_muj_slovnicek_1 profese
-إِمكَانِيَّة	= إمكان	možnost, schopnost	m-k-n				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
-أُسطُولٌ (أساطيلُ)		flotila	'-s-T-l				AR_muj_slovnicek_1 ostatní
-تَلَقٍّ	< تَلَقَّى	přijetí, získání, recepce (znalosti, umu)	t-l-q				AR_muj_slovnicek_1 form_masdar marked ostatní
-اِستقبال حافلٌ		slavnostní přijetí	H-f-l				AR_1.rocnik AR_muj_slovnicek_1 oficiality opakovani_zapomenutych
-محيطُ الاطلسيِّ		Atlantský oceán	m-H-T				AR_muj_slovnicek_1 geografie marked
+مَعُونَةٌ مَالِيَّةٌ		finanční pomoc	3-w-n				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva oficiality opakovani_zapomenutych
+أمير البحر		admirál	'-m-r				AR_muj_slovnicek_1 cat_substantiva profese
+إِمكَانِيَّة	= إمكان	možnost, schopnost	m-k-n				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
+أُسطُولٌ (أساطيلُ)		flotila	'-s-T-l				AR_muj_slovnicek_1 cat_substantiva ostatní
+تَلَقٍّ	< تَلَقَّى	přijetí, získání, recepce (znalosti, umu)	t-l-q				AR_muj_slovnicek_1 cat_substantiva form_masdar marked ostatní
+اِستقبال حافلٌ		slavnostní přijetí	H-f-l				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva oficiality opakovani_zapomenutych
+محيطُ الاطلسيِّ		Atlantský oceán	m-H-T				AR_muj_slovnicek_1 cat_substantiva geografie marked
 اِسْتَنْتَجَ		vyvodit, vydedukovat, přijít na něco	n-t-dž			istantadža	AR_1.rocnik AR_lekce_10 AR_muj_slovnicek_1 cat_slovesa opakovani_zapomenutych X_kmen
-سفينة (سُفُنٌ)		loď, plavidlo	s-f-n				AR_muj_slovnicek_1 doprava
+سفينة (سُفُنٌ)		loď, plavidlo	s-f-n				AR_muj_slovnicek_1 cat_substantiva doprava
 تزوَّج	من	oženit se (s), vdát se (za)	z-w-dž			tazawwadža	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa IIaeW/J slaba_slovesa V_kmen
 بحّر		plout po moři	b-H-r			baHHara	AR_muj_slovnicek_1 cat_slovesa II_kmen
 شَاقٌّ		únavný, vysilující, úmorný	š-j-q				AR_1.rocnik AR_muj_slovnicek_1 cat_adjektiva opakovani_zapomenutych
-مُسْتَقْمَرة		kolonie	q-m-r				AR_1.rocnik AR_muj_slovnicek_1 geografie historie opakovani_zapomenutych
+مُسْتَقْمَرة		kolonie	q-m-r				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva geografie historie opakovani_zapomenutych
 تَنْقِيبٌ	عن	průzkum, hledání (čeho), pátrání (po)	n-q-b			tanqíbun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva ostatní
-أمواج البحر		mořské vlny	m-w-dž				AR_muj_slovnicek_1 geografie
-أرضٌ (أراضٍ)		země, půda, území	'-r-D				AR_muj_slovnicek_1 geografie
-نَتيجة (نتائجُ)		výsledek, důsledek, následek	n-t-dž				AR_muj_slovnicek_1 ostatní
-أُجرة (أُجُور)		poplatek	'-dž-r				AR_muj_slovnicek_1 oficiality
+أمواج البحر		mořské vlny	m-w-dž				AR_muj_slovnicek_1 cat_substantiva geografie
+أرضٌ (أراضٍ)		země, půda, území	'-r-D				AR_muj_slovnicek_1 cat_substantiva geografie
+نَتيجة (نتائجُ)		výsledek, důsledek, následek	n-t-dž				AR_muj_slovnicek_1 cat_substantiva ostatní
+أُجرة (أُجُور)		poplatek	'-dž-r				AR_muj_slovnicek_1 cat_substantiva oficiality
 بِدُونِ		bez	d-w-n				AR_muj_slovnicek_1 cat_prepozice
 تَأْشِيرَةُ دُخُولٍ		vstupní vízum	'-š-r			duplicita	AR_lekce_6 AR_muj_slovnicek_1 cat_substantiva cestování oficiality příklad
 بِتحديدِ		přesně	H-d-d				AR_muj_slovnicek_1 cat_adverbia
-تحديد		stanovení, určení, vymezení	H-d-d			taHdídun	AR_muj_slovnicek_1
+تحديد		stanovení, určení, vymezení	H-d-d			taHdídun	AR_muj_slovnicek_1 cat_substantiva
 مَقَالٌ	(عن)	článek (o)	q-w-l			maqálun	AR_muj_slovnicek_1 cat_substantiva publicistika
 بِفَضْلِ		díky, zásluhou (něčeho)	f-D-l			bifaDli	AR_lekce_6 AR_muj_slovnicek_1 cat_adverbia
-دُبَيْ		Dubaj	toponymum				AR_muj_slovnicek_1 ethym_topo geografie toponyma
+دُبَيْ		Dubaj	toponymum				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie toponyma
 مؤخرا		nedávno	'-ch-r			mu'achcharan	AR_1.rocnik AR_lekce_6 cat_adverbia opakovani_zapomenutych
 تأشيرة		vízum	'-š-r			ta'šíratun	AR_lekce_6 cat_substantiva oficialni_schuzky slovnik_161-konec tema_oficialni_schuzky
 بُرْجٌ (أَبْرَاجٌ)		věž	b-r-dž			burdžun (abrádžun)	AR_lekce_6 AR_muj_slovnicek_1 cat_substantiva historie město
@@ -602,28 +602,28 @@
 كليةُ الهندسةِ المعماريةِ		fakulta architektury, architektonická fakulta	k-l-j			kullíjatu -l-handasati -l-mi3máríjati	AR_lekce_6 AR_muj_slovnicek_1 cat_substantiva příklad škola
 ربّى	هـ/ه	chovat, vychovávat	r-b-j			rabbá	AR_lekce_16 AR_muj_slovnicek_1 cat_slovesa II_kmen IIIaeW/J slaba_slovesa
 شَاهَدَ	هـ	zahlédnout, prohlédnout si, dívat se na TV, vzhlédnout na	š-h-d			šáhada mušáhadatun	AR_muj_slovnicek_1 cat_slovesa III_kmen
-حُلْمٌ (أَحْلامٌ)		sen	H-l-m				AR_muj_slovnicek_1 ostatní
-جائِزَة (جَوَائِزُ)		ocenění, cena	dž-'-z				AR_muj_slovnicek_1 ostatní
-لاجئٌ (ون)		uprchlík	l-dž-'				AR_muj_slovnicek_1 lidé slovnik_141-150
-وَعْدٌ (وُعُودٌ)		slib	w-3-d				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
-اِنتخابات		volby	n-ch-b				AR_muj_slovnicek_1 oficiality
-حزب (أحزاب)		strana (politická)	H-z-b				AR_muj_slovnicek_1 oficiality
-مُزارِعٌ		zemědělec	z-r-3				AR_muj_slovnicek_1 profese
-مزرعة (مزارع)		farma, statek, zemědělská usedlost	z-r-3				AR_muj_slovnicek_1 budovy
-خِنْزِيرٌ (خَنَازِيرُ)		"prase, ""čuňátko"""	ch-n-z-r				AR_muj_slovnicek_1 zvířata
-حُرِّيَّة		svoboda	H-r-r				AR_muj_slovnicek_1 ostatní
-فصلٌ (فُصُولٌ) دِراسيٌّ		semestr	f-S-l				AR_muj_slovnicek_1 škola
+حُلْمٌ (أَحْلامٌ)		sen	H-l-m				AR_muj_slovnicek_1 cat_substantiva ostatní
+جائِزَة (جَوَائِزُ)		ocenění, cena	dž-'-z				AR_muj_slovnicek_1 cat_substantiva ostatní
+لاجئٌ (ون)		uprchlík	l-dž-'				AR_muj_slovnicek_1 cat_substantiva lidé slovnik_141-150
+وَعْدٌ (وُعُودٌ)		slib	w-3-d				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
+اِنتخابات		volby	n-ch-b				AR_muj_slovnicek_1 cat_substantiva oficiality
+حزب (أحزاب)		strana (politická)	H-z-b				AR_muj_slovnicek_1 cat_substantiva oficiality
+مُزارِعٌ		zemědělec	z-r-3				AR_muj_slovnicek_1 cat_substantiva profese
+مزرعة (مزارع)		farma, statek, zemědělská usedlost	z-r-3				AR_muj_slovnicek_1 budovy cat_substantiva
+خِنْزِيرٌ (خَنَازِيرُ)		"prase, ""čuňátko"""	ch-n-z-r				AR_muj_slovnicek_1 cat_substantiva zvířata
+حُرِّيَّة		svoboda	H-r-r				AR_muj_slovnicek_1 cat_substantiva ostatní
+فصلٌ (فُصُولٌ) دِراسيٌّ		semestr	f-S-l				AR_muj_slovnicek_1 cat_substantiva škola
 هذه المرَّةَ		tentokrát	m-r-r				AR_muj_slovnicek_1 cat_adverbia
 نَالَ (ـَ) نَيْلٌ, نوْل, نوْالُ		udělit, dát, věnovat, darovat	n-j-l				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen opakovani_zapomenutych slaba_slovesa
-رَأَس (رؤُوس)		hlava	r-'-s				AR_muj_slovnicek_1 tělo
-وَجَعٌ (أوجاعٌ)		bolest (1); onemocnění (2)	w-dž-3		وَجَعُ رَأْسٍ bolest hlavy, starost		AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní pocity tema_lekarstvi_zdravi zdraví
-متحف (متاحف)		muzeum	t-H-f				AR_muj_slovnicek_1 budovy město
-مصرح (مصارح)		divadlo	S-r-H				AR_muj_slovnicek_1 budovy město
-تُحْفَة (تُحَفٌ)		exponát	t-H-f				AR_muj_slovnicek_1 předměty umění
+رَأَس (رؤُوس)		hlava	r-'-s				AR_muj_slovnicek_1 cat_substantiva tělo
+وَجَعٌ (أوجاعٌ)		bolest (1); onemocnění (2)	w-dž-3		وَجَعُ رَأْسٍ bolest hlavy, starost		AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní pocity tema_lekarstvi_zdravi zdraví
+متحف (متاحف)		muzeum	t-H-f				AR_muj_slovnicek_1 budovy cat_substantiva město
+مصرح (مصارح)		divadlo	S-r-H				AR_muj_slovnicek_1 budovy cat_substantiva město
+تُحْفَة (تُحَفٌ)		exponát	t-H-f				AR_muj_slovnicek_1 cat_substantiva předměty umění
 اِنْتَهَزَ فرصةً		využít příležitosti, chopit se příležitosti	n-h-z			intahaza furSatan	AR_Hosnoviny AR_lekce_14 AR_muj_slovnicek_1 cat_fraze příklad
-وَطَنٌ (أوْطان)		vlast	w-T-n				AR_muj_slovnicek_1 historie
-أَصْلٌ (أُصُولٌ)		původ	'-S-l				AR_muj_slovnicek_1 ostatní
-جِنْسِيَّة		občanství	dž-m-s				AR_muj_slovnicek_1 ostatní
+وَطَنٌ (أوْطان)		vlast	w-T-n				AR_muj_slovnicek_1 cat_substantiva historie
+أَصْلٌ (أُصُولٌ)		původ	'-S-l				AR_muj_slovnicek_1 cat_substantiva ostatní
+جِنْسِيَّة		občanství	dž-m-s				AR_muj_slovnicek_1 cat_substantiva ostatní
 في أكثرِ الأحوالِ		v každém případě	H-w-l				AR_muj_slovnicek_1 cat_fraze
 شاءَ (ـَ) مُشِيئَةٌ		přát si	š-j-'			šá'a (jašá'u) muší'atun	AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J opakovani_zapomenutych slaba_slovesa
 حَضَرَ (ـُـ)	إلى	dostavit se (někam)	H-D-r				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen opakovani_zapomenutych
@@ -632,37 +632,37 @@
 غَادَرَ (مُغَادَرَة)	هـ إلى	odjet (odněkud někam)	gh-d-r			ghádara (mughádaratun)	AR_muj_slovnicek_1 cat_slovesa III_kmen
 حسّن	هـ	zkrášlit něco	H-s-n			Hassana	AR_muj_slovnicek_1 cat_slovesa II_kmen
 بشكلٍ غريب		zvláštním způsobem	š-k-l				AR_muj_slovnicek_1 cat_fraze
-صحراءٌ (صحارى/صحراوات)		poušť	S-h-r				AR_muj_slovnicek_1 geografie
+صحراءٌ (صحارى/صحراوات)		poušť	S-h-r				AR_muj_slovnicek_1 cat_substantiva geografie
 فقير (فُقَارَاءُ)		chudý	f-q-r				AR_muj_slovnicek_1 cat_adjektiva
-مواطن		občan	w-T-n				AR_1.rocnik AR_muj_slovnicek_1 lidé opakovani_zapomenutych
+مواطن		občan	w-T-n				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva lidé opakovani_zapomenutych
 مثل + هذه + الــهٍ		takový, takový, takové	m-th-l				AR_muj_slovnicek_1 cat_adjektiva cat_castice
-أُمٌّ (أُمُّوهاتٌ)		mamka (matka, obecně)	'-m-m				AR_muj_slovnicek_1 rodina
-أّبٌ (آباءٌ)		táta (otec, obecně)	'-b				AR_muj_slovnicek_1 rodina
-بِنْتٌ (بَنَات)		dcera	b-n-t				AR_muj_slovnicek_1 rodina
-اِبنٌ (بَنُون/أَبناءٌ)		syn	b-n				AR_muj_slovnicek_1 rodina
-أَخٌ (أًخوانٌ/إِخوة)		bratr	'-ch				AR_muj_slovnicek_1 rodina
-أُختٌ (أُخواتٌ)		sestra	'-ch-t				AR_muj_slovnicek_1 rodina
-خال, خالة (خلانٌ/ات)		strýc (bratr matky), teta (sestra matky)	ch-w-l				AR_muj_slovnicek_1 rodina
-بنتُ/اِبنُ الخَالِ(ة)		bratranec (sestřenice) ze strany matky	ch-j-l				AR_muj_slovnicek_1 rodina
-بنتُ/اِبنُ العَمِّ(ة)		bratranec (sestřenice) ze strany otce	3-m-m				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych rodina
-زوْجُ/زوجةُ الخالِ(ة)		přiženěný strýc (teta) ze strany matky	z-w-dž				AR_muj_slovnicek_1 rodina
-زوْجُ/زوجةُ العمِّ(ة)		přiženěný strýc (teta) ze strany otce	z-w-dž				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych rodina
-عمٌّ / عمّةٌ		strýc (bratr otce), teta (sestra otce)	3-m-m				AR_muj_slovnicek_1 rodina
+أُمٌّ (أُمُّوهاتٌ)		mamka (matka, obecně)	'-m-m				AR_muj_slovnicek_1 cat_substantiva rodina
+أّبٌ (آباءٌ)		táta (otec, obecně)	'-b				AR_muj_slovnicek_1 cat_substantiva rodina
+بِنْتٌ (بَنَات)		dcera	b-n-t				AR_muj_slovnicek_1 cat_substantiva rodina
+اِبنٌ (بَنُون/أَبناءٌ)		syn	b-n				AR_muj_slovnicek_1 cat_substantiva rodina
+أَخٌ (أًخوانٌ/إِخوة)		bratr	'-ch				AR_muj_slovnicek_1 cat_substantiva rodina
+أُختٌ (أُخواتٌ)		sestra	'-ch-t				AR_muj_slovnicek_1 cat_substantiva rodina
+خال, خالة (خلانٌ/ات)		strýc (bratr matky), teta (sestra matky)	ch-w-l				AR_muj_slovnicek_1 cat_substantiva rodina
+بنتُ/اِبنُ الخَالِ(ة)		bratranec (sestřenice) ze strany matky	ch-j-l				AR_muj_slovnicek_1 cat_substantiva rodina
+بنتُ/اِبنُ العَمِّ(ة)		bratranec (sestřenice) ze strany otce	3-m-m				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych rodina
+زوْجُ/زوجةُ الخالِ(ة)		přiženěný strýc (teta) ze strany matky	z-w-dž				AR_muj_slovnicek_1 cat_substantiva rodina
+زوْجُ/زوجةُ العمِّ(ة)		přiženěný strýc (teta) ze strany otce	z-w-dž				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych rodina
+عمٌّ / عمّةٌ		strýc (bratr otce), teta (sestra otce)	3-m-m				AR_muj_slovnicek_1 cat_substantiva rodina
 حمٌّ (أَحْمَاءٌ)		tchán	H-m-w			Hammun, aHmá'un	AR_1.rocnik AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych rodina
 حماة (حموات)		tchýně	H-m-w			Hamáatun, Hamawátun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva rodina
-زوجة اِبني		zeťová	z-w-dž				AR_muj_slovnicek_1 rodina
-زوج بنتي		zeť	z-w-dž				AR_muj_slovnicek_1 rodina
+زوجة اِبني		zeťová	z-w-dž				AR_muj_slovnicek_1 cat_substantiva rodina
+زوج بنتي		zeť	z-w-dž				AR_muj_slovnicek_1 cat_substantiva rodina
 مات (ـُ) مَوْتٌ		zemřít	m-w-t			máta	AR_lekce_10 AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J slaba_slovesa
 بَقِيَ (ـَ, يَبْقَى)		zůstat	b-q-j			baqija (jabqá)	AR_muj_slovnicek_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa vz_nasija
 قدر (ـِ) قُدْرَةٌ/مقْدَرَة	على	moci, být schopen (spíš zálžitost dialektů, MSA spíš istaTá3a)	q-d-r				AR_muj_slovnicek_1 cat_slovesa I_kmen
 قَادَ (ـُ) قِيَادَةٌ		řídit	q-w-d			qáda (jaqúdu) qijádatun	AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J slaba_slovesa
 خَرَجَ (ـُ) خُرُوجٌ		odejít	ch-r-dž			charadža (jachrudžu) churúdžun	AR_muj_slovnicek_1 cat_slovesa I_kmen
 بَدَا (ـُ) بُدُوٌّ		zdát se, jevit se	b-d-w			badá (jabdú) budúwun	AR_muj_slovnicek_1 cat_slovesa I_kmen slaba_slovesa vz_da3á
-طابعٌ (طوَابِعُ)		ráz, charakter, otisk, známka	T-b-3				AR_1.rocnik AR_muj_slovnicek_1 oficiality opakovani_zapomenutych
-أَلَمٌ (آلام)		bolest, bol, utrpení	'-l-m				AR_muj_slovnicek_1 pocity
+طابعٌ (طوَابِعُ)		ráz, charakter, otisk, známka	T-b-3				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva oficiality opakovani_zapomenutych
+أَلَمٌ (آلام)		bolest, bol, utrpení	'-l-m				AR_muj_slovnicek_1 cat_substantiva pocity
 كيف تَسِيرُ الأُمُورِ؟		Jak to jde?	s-j-r				AR_muj_slovnicek_1 cat_fraze
-حَرْبٌ أَهْلِيّة		občanská válka	H-r-b				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 události
-إِمْتِحَانَاتُ القُبُولِ		přijímací zkoušky	m-H-n				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych škola
+حَرْبٌ أَهْلِيّة		občanská válka	H-r-b				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva příklad události
+إِمْتِحَانَاتُ القُبُولِ		přijímací zkoušky	m-H-n				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych škola
 أَقْلَعَ		vzlétnout, startovat	q-l-3				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa IV_kmen
 أَجَادَ	هـ	dobře umět, dobře ovládat	dž-j-d				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa IIaeW/J IV_kmen slaba_slovesa
 كشف (ـِ) كَشْفٌ {1}	على	vyšetřit, prohlédnout někoho	k-š-f			kašafa (jakšifu) kašfun 3alá	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa I_kmen tema_lekarstvi_zdravi zdraví
@@ -672,18 +672,18 @@
 عمّ , أعمام		bratr otce (strýc)	3-m-m			3ammun, a3mámun	AR_lekce_7 cat_substantiva
 عَمّة (ات)		sestra otce (teta)	3-m-m			3ammatun	AR_lekce_7 cat_substantiva
 فِعْلاً		opravdu, skutečně	f-3-l			fi3lan	AR_lekce_10 AR_lekce_7 AR_muj_slovnicek_1 cat_adverbia
-مَوْقِفُ (مَوَاقِفُ) سَياراَتٍ		parkoviště	w-q-f				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 město
-قَرَارٌ (ات) {1}		rozhodnutí (1); rezoluce (2)	q-r-r			qarárun (-átun)	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 ostatní
-عَمَلِيةٌ (ات)		operace (1); proces, průběh (2)	3-m-l			3amalíjatun	AR_lekce_12 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 ostatní
-قَلْبٌ (قُلُوبٌ)		srdce	q-l-b				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 tělo
-مَهَمَّةٌ (مَهَامٌّ)		úkol, povinnost (= něco důležitého)	h-m-m				AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 opakovani_zapomenutych ostatní
+مَوْقِفُ (مَوَاقِفُ) سَياراَتٍ		parkoviště	w-q-f				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva město
+قَرَارٌ (ات) {1}		rozhodnutí (1); rezoluce (2)	q-r-r			qarárun (-átun)	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva ostatní
+عَمَلِيةٌ (ات)		operace (1); proces, průběh (2)	3-m-l			3amalíjatun	AR_lekce_12 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva ostatní
+قَلْبٌ (قُلُوبٌ)		srdce	q-l-b				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva tělo zdraví
+مَهَمَّةٌ (مَهَامٌّ)		úkol, povinnost (= něco důležitého)	h-m-m				AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva opakovani_zapomenutych ostatní
 عَلَى الإِطْلاَقِ		naprosto, zcela (1); vůbec (v záporné větě) (2)	T-l-q				AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_adverbia opakovani_zapomenutych
-تَحْضِيرٌ		příprava	H-D-r			taHDírun	AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
-زوجة (ات)		manželka	z-w-dž				AR_muj_slovnicek_1 rodina
-زوج (أزواج)		manžel	z-w-dž				AR_muj_slovnicek_1 rodina
+تَحْضِيرٌ		příprava	H-D-r			taHDírun	AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
+زوجة (ات)		manželka	z-w-dž				AR_muj_slovnicek_1 cat_substantiva rodina
+زوج (أزواج)		manžel	z-w-dž				AR_muj_slovnicek_1 cat_substantiva rodina
 اِجْتِمَاعٌ (ات)		schůze, zasedání	dž-m-3		اِجْتِمَاعٌ طَارِئٌ mimořádná schůzka	idžtimá3un	AR_1.rocnik AR_lekce_5 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva oficiality opakovani_zapomenutych
-رجل أعمالٍ		podnikatel	3-m-l				AR_muj_slovnicek_1 profese
-رئيس (رُؤَسَاءُ) جُمْهُورِيَّة		prezident republiky	r-'-s				AR_muj_slovnicek_1 profese
+رجل أعمالٍ		podnikatel	3-m-l				AR_muj_slovnicek_1 cat_substantiva profese
+رئيس (رُؤَسَاءُ) جُمْهُورِيَّة		prezident republiky	r-'-s				AR_muj_slovnicek_1 cat_substantiva profese
 في أول الأمرِ		nejprve	'-w-l			fí awwali l-amri	AR_muj_slovnicek_1 cat_adverbia
 هنّأ	ه بـ	přát někomu	h-n-'			hanna'a	AR_muj_slovnicek_1 cat_slovesa II_kmen
 فرّج	ه على	ukázat (učinit, aby si někdo něco prohlédl)	f-r-dž				AR_muj_slovnicek_1 cat_slovesa II_kmen
@@ -698,21 +698,21 @@
 وَصَّلَ		dovézt, svézt, přivézt	w-S-l				AR_muj_slovnicek_1 cat_slovesa IaeW/J II_kmen slaba_slovesa
 سَلَّمَ	ه هـ	předat, odevzdat (někomu něco)	s-l-m			sallama	AR_muj_slovnicek_1 cat_slovesa dvoji_akuzativ II_kmen
 سلَّم	(لـ) على	pozdravovat (někoho od někoho)	s-l-m				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa II_kmen opakovani_zapomenutych
-قَائِمَةٌ (قَوَائِمُ)		seznam.cz, soupis	q-'-m			qá'imatun (qawá'imu)	AR_muj_slovnicek_1 AR_muj_slovnicek_2 AR_slovnik_131-140
-نصيحة (نصائح)		rada (doporučení)	n-S-H			naSíHatun (naSá'iHu)	AR_muj_slovnicek_1
+قَائِمَةٌ (قَوَائِمُ)		seznam.cz, soupis	q-'-m			qá'imatun (qawá'imu)	AR_muj_slovnicek_1 AR_muj_slovnicek_2 AR_slovnik_131-140 cat_substantiva
+نصيحة (نصائح)		rada (doporučení)	n-S-H			naSíHatun (naSá'iHu)	AR_muj_slovnicek_1 cat_substantiva
 مسألة (مسائلُ)		otázka, problém, téma	s-'-l			mas'alatun (masá'ilu)	AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva opakovani_zapomenutych
-نوع (أنواعٌ)		druh	n-w-3				AR_muj_slovnicek_1 ostatní
-مُنْتَجٌ		výrobek	n-t-dž				AR_muj_slovnicek_1 ostatní
-خِزانة (خَزَائن)		skříň	ch-z-n				AR_1.rocnik AR_muj_slovnicek_1 dům nábytek opakovani_zapomenutych
+نوع (أنواعٌ)		druh	n-w-3				AR_muj_slovnicek_1 cat_substantiva ostatní
+مُنْتَجٌ		výrobek	n-t-dž				AR_muj_slovnicek_1 cat_substantiva ostatní
+خِزانة (خَزَائن)		skříň	ch-z-n				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva dům nábytek opakovani_zapomenutych
 بطاقة بَرِيدِيَّة		pohlednice	b-T-q				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych
-مبلَغٌ (مَبَالِغُ) {1}		částka, obnos, suma	b-l-gh				AR_lekce_17 AR_muj_slovnicek_1 AR_muj_slovnicek_2b peníze
+مبلَغٌ (مَبَالِغُ) {1}		částka, obnos, suma	b-l-gh				AR_lekce_17 AR_muj_slovnicek_1 AR_muj_slovnicek_2b cat_substantiva peníze
 كم	+ akuzativ singulár	"kolik (""co do..."", zřetelový akuzativ)"	ka		كم وقطًا		AR_muj_slovnicek_1 cat_zajmena
 أساسي		základní	'-s-s			'asásíjun	AR_lekce_7 cat_adjektiva
 بَتْرُولٌ		ropa				batrúlun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva ethym_ie materiály
 برلمان , ات		parlament	IE			barlamánun	AR_lekce_7 cat_substantiva
 بَلَغَ (ـُ) بلوغ		dosáhnout, dospět k	b-l-gh			balagha (jablughu) bulúghun	AR_lekce_7 AR_muj_slovnicek_1 cat_slovesa I_kmen
 بالتّالي		čímž, a tak, a tudíž	t-l-j			bittálí	AR_1.rocnik AR_lekce_7 AR_muj_slovnicek_1 cat_spojky opakovani_zapomenutych
-ثورة		revoluce	th-w-r			thauratun	AR_lekce_7 cat_substantiva
+ثَوْرَةٌ		revoluce	th-w-r			thawratun	AR_lekce_7 cat_substantiva
 مجلس (مجالس)		rada, zasedání, sněmovna	dž-l-s			madžlisun, madžálisu	AR_lekce_7 cat_substantiva
 مجلس الشيوخ		Senát	dž-l-s			madžlisu aš-šujúchi	AR_lekce_7 cat_substantiva
 مجلس النوّاب		Poslanecká sněmovna	dž-l-s			madžlisu an-nuwwábi	AR_lekce_7 cat_substantiva
@@ -784,39 +784,39 @@
 مرِض (ـَ) مَرَضٌ		onemocnět	m-r-D			mariDa (jamraDu) maraDun	AR_muj_slovnicek_1 cat_slovesa I_kmen
 عزم (ـِ) عَزْمٌ	على (أنْ)	rozhodnout se (k/že)	3-z-m			3azama 3alá (an)	AR_1.rocnik AR_lekce_6 AR_muj_slovnicek_1 cat_slovesa I_kmen opakovani_zapomenutych
 كَشَفَ (ـِ) كَشْفٌ {2}	هـ/عن	objevit, odhalit (koho co?)	k-š-f			kašafa (jakšifu) kašfun 3an	AR_muj_slovnicek_1 cat_slovesa I_kmen
-نقاب (مناقبة)		závoje na obličeji (žena zahalená i s niqábem)	n-q-b				AR_muj_slovnicek_1 kultura oblečení
-حجاب (محاجبة)		šátek na hlavu a krk (žena s hidžábem - splňující pravidla)	H-dž-b				AR_muj_slovnicek_1 kultura marked oblečení
-بُرْقعَ (بَرَاقعُ)		burka	b-r-q-3				AR_muj_slovnicek_1 kultura oblečení
-طابورٌ (طَوَابِيرُ)		fronta, zástup	T-b-r				AR_muj_slovnicek_1 ostatní
-جامعٌ (جوامعٌ)		páteční mešita	dž-m-3				AR_1.rocnik AR_muj_slovnicek_1 kultura město opakovani_zapomenutych
-مُفرَد (ات)		lexém, slovo (více lingvisticky)	f-r-d				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych škola
+نقاب (مناقبة)		závoje na obličeji (žena zahalená i s niqábem)	n-q-b				AR_muj_slovnicek_1 cat_substantiva kultura oblečení
+حجاب (محاجبة)		šátek na hlavu a krk (žena s hidžábem - splňující pravidla)	H-dž-b				AR_muj_slovnicek_1 cat_substantiva kultura marked oblečení
+بُرْقعَ (بَرَاقعُ)		burka	b-r-q-3				AR_muj_slovnicek_1 cat_substantiva kultura oblečení
+طابورٌ (طَوَابِيرُ)		fronta, zástup	T-b-r				AR_muj_slovnicek_1 cat_substantiva ostatní
+جامعٌ (جوامعٌ)		páteční mešita	dž-m-3				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva kultura město opakovani_zapomenutych
+مُفرَد (ات)		lexém, slovo (více lingvisticky)	f-r-d				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych škola
 مرة أخرى		znovu, ještě jednou	m-r-r	من جديدٍ			AR_muj_slovnicek_1 cat_adverbia
-قَلْعَةٌ (قِلاعٌ)		hrad, citadela	q-l-3				AR_muj_slovnicek_1 historie město
+قَلْعَةٌ (قِلاعٌ)		hrad, citadela	q-l-3				AR_muj_slovnicek_1 cat_substantiva historie město
 مُجَرَّدُ	+ neurčené GS	pouhý, samotný	dž-r-d			mudžarradun	AR_muj_slovnicek_1 cat_adjektiva
-جَوَاز		cestovní pas	dž-w-z				AR_muj_slovnicek_1 cestování oficiality
-حديث (أحديثة)		vyprávění, rozhovor, interview	H-d-th				AR_muj_slovnicek_1 marked ostatní
-دارُ البلديةُ		radnice	d-w-r				AR_1.rocnik AR_muj_slovnicek_1 město opakovani_zapomenutych
-تذكرة طائرةٍ		letenka	dh-k-r				AR_muj_slovnicek_1 cestování
-سيارةُ الأجرةٍ		taxi	s-j-r				AR_muj_slovnicek_1 cestování
-شُبَّاك (شبابيكُ)		okno	š-b-k				AR_muj_slovnicek_1 budovy
+جَوَاز		cestovní pas	dž-w-z				AR_muj_slovnicek_1 cat_substantiva cestování oficiality
+حديث (أحديثة)		vyprávění, rozhovor, interview	H-d-th				AR_muj_slovnicek_1 cat_substantiva marked ostatní
+دارُ البلديةُ		radnice	d-w-r				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva město opakovani_zapomenutych
+تذكرة طائرةٍ		letenka	dh-k-r				AR_muj_slovnicek_1 cat_substantiva cestování
+سيارةُ الأجرةٍ		taxi	s-j-r				AR_muj_slovnicek_1 cat_substantiva cestování
+شُبَّاك (شبابيكُ)		okno	š-b-k				AR_muj_slovnicek_1 budovy cat_substantiva
 صَفٌّ (صُفُوف)		řada	S-f-f				AR_muj_slovnicek_1 cat_substantiva ostatní
 انطِبَاع (ات)		dojem	T-b-3			inTibá3un (-át)	AR_1.rocnik AR_lekce_6 AR_muj_slovnicek_1 cat_substantiva leech opakovani_zapomenutych ostatní
-عِبَارَة (ات)		výraz, formulace, rčení	3-b-r				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
-إعَدَادٌ		příprava	3-d-d				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
+عِبَارَة (ات)		výraz, formulace, rčení	3-b-r				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
+إعَدَادٌ		příprava	3-d-d				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
 معلمٌ (معالمُ)		pamětihodnost	3-l-m			ma3lamun ma3álimu	AR_1.rocnik AR_lekce_6 AR_muj_slovnicek_1 cat_substantiva cestování historie leech opakovani_zapomenutych
-عُنوَانٌ (عَنَاوِينٌ)		adresa, titulek	3-n-w-n				AR_muj_slovnicek_1 oficiality
+عُنوَانٌ (عَنَاوِينٌ)		adresa, titulek	3-n-w-n				AR_muj_slovnicek_1 cat_substantiva oficiality
 قُنْصُلٌ (قَنَاصِلُ)		konzul	IE			qunSulun (qanáSilu)	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva oficiality profese
-مقهى (مقاهٍ)		kavárna	q-h-j				AR_muj_slovnicek_1 město zábava
+مقهى (مقاهٍ)		kavárna	q-h-j				AR_muj_slovnicek_1 cat_substantiva město zábava
 مَعِدَةٌ (مِعَدٌ)		žaludek	m-3-d			ma3idatun (mi3adun)	AR_1.rocnik AR_lekce_6 AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych tělo
 حتى الآن		dosud	'-j-n			7attá al-ána	AR_lekce_6 AR_muj_slovnicek_1 cat_prepozice
 ساري المَفْعُولِ		platný	s-r-j			sárí al-maf3úli	AR_1.rocnik AR_lekce_6 AR_muj_slovnicek_1 cat_adjektiva opakovani_zapomenutych
-كنيسة (كنائس)		kostel	k-n-s				AR_muj_slovnicek_1 kultura město
-قِسْمٌ (أقسامٌ)		oddělení, katedra	q-s-m				AR_muj_slovnicek_1 oficiality škola
+كنيسة (كنائس)		kostel	k-n-s				AR_muj_slovnicek_1 cat_substantiva kultura město
+قِسْمٌ (أقسامٌ)		oddělení, katedra	q-s-m				AR_muj_slovnicek_1 cat_substantiva oficiality škola
 ذَكَرَ (ـُ) ذِكْرٌ/ذِكْرَى/تَذْكَارٌ	هـ	zmínit (něco), uvést (něco), zmínit se (o něčem)	dh-k-r			dhakara (jadhkuru) dhikrun/dhikrá/tadhkárun	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa I_kmen
 استخراجٌ		těžba (proces dostávání něčeho ven)	ch-r-dž			istichrádžun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva form_masdar ostatní X_kmen
 مَرْحَلَة (مراحل)		etapa	r-H-l			marHalatun, maráHilu	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva čas
-زيادة		zvýšení, nárust	z-j-d				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
-غاز طبعيٌّ		zemní plyn	IE				AR_muj_slovnicek_1 materiály
+زيادة		zvýšení, nárust	z-j-d				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
+الغاز الطبيعيُّ		zemní plyn	IE				AR_muj_slovnicek_1 cat_substantiva materiály
 مَتْرٌ (أمتارٌ)		metr	IE			matrun, amtárun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva jednotky_měřící
 مَنْجَمٌ (مناجمُ)		důl	n-dž-m			mandžamun, manádžimu	AR_1.rocnik AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva město opakovani_zapomenutych
 نِسْبَةٌ (نِسَبٌ)		vztah, příbuznost (1); poměr, procento, míra (2); měřítko (3)	n-s-b		نسبة البِطَالة (míra nezaměstnanosti)	nisbatun, nisabun	AR_1.rocnik AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní slovnik_151-160
@@ -824,7 +824,7 @@
 سادسٌ		šestý	s-d-s				AR_muj_slovnicek_1 cat_adjektiva cat_cislovky
 وطني		národní	w-T-n				AR_muj_slovnicek_1 cat_adjektiva
 حَوْلَ		o (týkající se čeho)	H-w-l				AR_muj_slovnicek_1 cat_prepozice
-الصينُ		Čína					AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
+الصينُ		Čína					AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
 نَحْوَ		zhruba, asi, kolem (před číslovkou)	n-H-w				AR_1.rocnik AR_lekce_7 AR_muj_slovnicek_1 cat_adverbia opakovani_zapomenutych
 اِتِّفاقٌ (ات)		dohoda	w-f-q			ittifáqun	AR_1.rocnik AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva marked oficiality opakovani_zapomenutych
 مثل هذه البيت		takovéto domy	b-j-t				AR_muj_slovnicek_1 příklad slovní_spojení
@@ -832,18 +832,18 @@
 أمثالُ هؤلاءِ الصحفيين		takovíto novináři (spojení s osobním plurálem)	m-th-l				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych příklad slovní_spojení
 مثل (أمثالٌ)		"""takový"" (použití různé)"	m-th-l				AR_muj_slovnicek_1 cat_adjektiva cat_castice marked
 قدّم	نَفسَهُ/أنفسم لـ/إلى	představit se (někomu)	q-d-m				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa II_kmen opakovani_zapomenutych
-سوقٌ دوليةٌ		mezinárovní veletrh - na sjednávání kontraktů a tak	s-w-q				AR_muj_slovnicek_1 příklad slovní_spojení
-مَعْرِضُ الكتبٍ		knižní veletrh (výstavní akce)	3-r-D				AR_muj_slovnicek_1 příklad slovní_spojení
+سوقٌ دوليةٌ		mezinárovní veletrh - na sjednávání kontraktů a tak	s-w-q				AR_muj_slovnicek_1 cat_substantiva příklad slovní_spojení
+مَعْرِضُ الكتبٍ		knižní veletrh (výstavní akce)	3-r-D				AR_muj_slovnicek_1 cat_substantiva příklad slovní_spojení
 كلُّ وقتٍ		kdykoliv	k-l-l				AR_muj_slovnicek_1 cat_adverbia čas
 تغيّرَ		změnit se V.	gh-j-r				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa IIaeW/J opakovani_zapomenutych slaba_slovesa V_kmen
 تغدّى		obědvat V.	gh-d-j				AR_muj_slovnicek_1 cat_slovesa IIIaeW/J slaba_slovesa V_kmen
 تَعَشَّى		večeřet V.	3-š-j				AR_muj_slovnicek_1 cat_slovesa IIIaeW/J slaba_slovesa V_kmen
 اِنْسَحَبَ	من	stáhnout se (i např. vojsko) (z), být stažený (z)	s-H-b			insaHaba	AR_1.rocnik AR_lekce_10 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa VII_kmen
-نظام (نُظُوم, أنظِمة)		řád, režim	n-Z-m				AR_muj_slovnicek_1 oficiality politika
-عَشَاءٌ		večeře	3-š-'				AR_muj_slovnicek_1 jídlo
-حفلةُ العشاءَ		slavnostní večeře	H-f-l				AR_muj_slovnicek_1 jídlo příklad slovní_spojení zábava
-قوّة (ات)		síla, vojenské síly, jednotky	q-w-w				AR_muj_slovnicek_1 ostatní
-حُكُومة (ات)		vláda, stát	H-k-m				AR_muj_slovnicek_1 oficiality politika
+نظام (نُظُوم, أنظِمة)		řád, režim	n-Z-m				AR_muj_slovnicek_1 cat_substantiva oficiality politika
+عَشَاءٌ		večeře	3-š-'				AR_muj_slovnicek_1 cat_substantiva jídlo
+حفلةُ العشاءَ		slavnostní večeře	H-f-l				AR_muj_slovnicek_1 cat_substantiva jídlo příklad slovní_spojení zábava
+قوّة (ات)		síla, vojenské síly, jednotky	q-w-w				AR_muj_slovnicek_1 cat_substantiva ostatní
+حُكُومة (ات)		vláda, stát	H-k-m				AR_muj_slovnicek_1 cat_substantiva oficiality politika
 قَريباً		brzy	q-r-b				AR_1.rocnik AR_muj_slovnicek_1 cat_adverbia opakovani_zapomenutych
 بعد		už; zatím, ještě ne (v - větě)	b-3-d				AR_muj_slovnicek_1 cat_castice marked
 مُبَاشَراً		přímo	b-š-r				AR_muj_slovnicek_1 cat_adverbia
@@ -855,22 +855,22 @@
 اِنْعَقَدَ		konat se, být uspořádaný	3-q-d			in3aqada	AR_1.rocnik AR_lekce_10 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa opakovani_zapomenutych VII_kmen
 اِرْتَفَعَ		zvýšit se, vzrůst	r-f-3				AR_muj_slovnicek_1 cat_slovesa VIII_kmen
 صِحّةٌ		zdraví (1); pravdivost (2)	S-H-H			SiHHatun	AR_lekce_9 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva tema_lekarstvi_zdravi zdraví
-سِعْرٌ (أَسْعَارٌ)		cena, sazba, kurz	s-3-r				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 peníze
-غِذَاءٌ (أَغْذِيَة)		potravina (1); jídlo (2)	gh-dh-'				AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 jídlo opakovani_zapomenutych
-فَصْلٌ (فُصُولٌ)		semestr (1); roční období (2); kapitola (3)	f-S-l			faSlun (fuSúlun)	AR_lekce_17 AR_muj_slovnicek_1 AR_slovicka_gramatika_1
-مُجَلّدٌ (ات)		svazek, díl (knihy); složka (PC)	dž-l-d				AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 knihy opakovani_zapomenutych
+سِعْرٌ (أَسْعَارٌ)		cena, sazba, kurz	s-3-r				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva peníze
+غِذَاءٌ (أَغْذِيَة)		potravina (1); jídlo (2)	gh-dh-'				AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva jídlo opakovani_zapomenutych
+فَصْلٌ (فُصُولٌ)		semestr (1); roční období (2); kapitola (3)	f-S-l			faSlun (fuSúlun)	AR_lekce_17 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva
+مُجَلّدٌ (ات)		svazek, díl (knihy); složka (PC)	dž-l-d				AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva knihy opakovani_zapomenutych
 عَصْرٌ (عُصُورٌ)		epocha, období	3-S-r			3aSrun (3uSúrun)	AR_lekce_10 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva čas
-مَدْخَلٌ (مَدَاخِلُ)		vstup, vchod	d-ch-l				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 budovy
+مَدْخَلٌ (مَدَاخِلُ)		vstup, vchod	d-ch-l				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 budovy cat_substantiva
 بَعْدَ ذلك		poté, potom	b-3-d				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_prepozice čas
-بِشَكْلٍ مَلْحُوظٍ		výrazně, znatelně	š-k-l				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych
-حَالَةٌ صِحِّية		zdravotní stav	H-w-l				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 příklad slovní_spojení tema_lekarstvi_zdravi zdraví
-الخِلاَفَةُ الأُمَوِيّة		Umajjovský chalífát	ch-l-f				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 historie
+بِشَكْلٍ مَلْحُوظٍ		výrazně, znatelně	š-k-l				AR_1.rocnik AR_muj_slovnicek_1 cat_adverbia opakovani_zapomenutych
+حَالَةٌ صِحِّية		zdravotní stav	H-w-l				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva příklad slovní_spojení tema_lekarstvi_zdravi zdraví
+الخِلاَفَةُ الأُمَوِيّة		Umajjovský chalífát	ch-l-f				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva historie
 غسل (ـِ) غَسْل		mýt, umývat, prát	gh-s-l			ghasala (jaghsilu) ghaslun	AR_muj_slovnicek_1 cat_slovesa I_kmen
-هَاتِفُ مَحْمُولٍ		mobilní (přenosný) telefon	h-t-f				AR_muj_slovnicek_1 předměty
+هَاتِفُ مَحْمُولٍ		mobilní (přenosný) telefon	h-t-f				AR_muj_slovnicek_1 cat_substantiva předměty
 كنس (ـُ) كَنْس		zamést, zametat	k-n-s			kanasa (jaknusu) kansun	AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen opakovani_zapomenutych
-قَارُورَةٌ (ات/قَوَارِيرُ)		láhev {1}, lahvička, flaška	q-r-r				AR_muj_slovnicek_1 předměty
-قوب (أقَوَابٌ)		hrníček	q-w-b				AR_muj_slovnicek_1 ethym_ie předměty
-لتر (لترات)		litr				litrun, átun	AR_lekce_18 AR_muj_slovnicek_1 ethym_ie jednotky_měřící
+قَارُورَةٌ (ات/قَوَارِيرُ)		láhev {1}, lahvička, flaška	q-r-r				AR_muj_slovnicek_1 cat_substantiva předměty
+قوب (أقَوَابٌ)		hrníček	q-w-b				AR_muj_slovnicek_1 cat_substantiva ethym_ie předměty
+لتر (لترات)		litr				litrun, átun	AR_lekce_18 AR_muj_slovnicek_1 cat_substantiva ethym_ie jednotky_měřící
 أسْمَرُ / سَمْرَاءُ(سمر/سمراوات)		snědý	s-m-r				AR_muj_slovnicek_1 barvy cat_adjektiva
 أحمر / حَمْرَاءُ(حُمْرٌ/حَمْرَاوَات)		červená	H-m-r				AR_muj_slovnicek_1 barvy cat_adjektiva
 أزرق/زَرْقَاءُ(زُرْقٌ/زرقاوات)		modrá	z-r-q				AR_muj_slovnicek_1 barvy cat_adjektiva
@@ -886,48 +886,48 @@
 جمع (ـَـ)		shromáždit, získat	dž-m-3			džama3a	AR_muj_slovnicek_1 cat_slovesa I_kmen
 حقَّق		uskutečnit, realizovat	H-q-q				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa II_kmen opakovani_zapomenutych
 قصد (ـِ)		mínit, mít na mysli	q-S-d			qaSada jaqSidu	AR_lekce_7 AR_muj_slovnicek_1 cat_slovesa I_kmen
-بُلُوغٌ		dosažení	b-l-gh				AR_muj_slovnicek_1 ostatní
-حصول (على)		získání (čeho)	H-S-l				AR_muj_slovnicek_1 marked ostatní
-تَحَقِيقٌ		uskutečnění, realizace	H-q-q				AR_muj_slovnicek_1 ostatní
+بُلُوغٌ		dosažení	b-l-gh				AR_muj_slovnicek_1 cat_substantiva ostatní
+حصول (على)		získání (čeho)	H-S-l				AR_muj_slovnicek_1 cat_substantiva marked ostatní
+تَحَقِيقٌ		uskutečnění, realizace	H-q-q				AR_muj_slovnicek_1 cat_substantiva ostatní
 إداريٌّ		organizátor	d-w-r			idáríjun	AR_1.rocnik AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva lidé opakovani_zapomenutych
-مركز (مراكز)		centrum, střed; postavení, místo (pořadí)	r-k-z				AR_muj_slovnicek_1 ostatní
+مركز (مراكز)		centrum, střed; postavení, místo (pořadí)	r-k-z				AR_muj_slovnicek_1 cat_substantiva ostatní
 سَيْطَرَةٌ		nadvláda, převaha	s-j-T-r			sajTaratun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva ostatní
 أَصْبَحَ (1)	ه/هـ	stát se (kým, čím)	S-b-H			aSba7a	AR_lekce_7 AR_muj_slovnicek_1 cat_slovesa IV_kmen
 صُعُود		vzestup	S-3-d				AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva form_masdar ostatní
 مُقابِلٌ		protistojící, protilehlý	q-b-l			muqábilun	AR_muj_slovnicek_1 cat_adjektiva
-قارّة		kontinent	q-r-r				AR_muj_slovnicek_1 geografie
-قُوّة		síla	q-w-w				AR_muj_slovnicek_1 ostatní
+قارّة		kontinent	q-r-r				AR_muj_slovnicek_1 cat_substantiva geografie
+قُوّة		síla	q-w-w				AR_muj_slovnicek_1 cat_substantiva ostatní
 لَجْنَة (لَجَان)		komise, výbor	l-dž-n			ladžnatun, lidžánun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva ostatní
 هَدَفٌ (أهْدَاف)		cíl	h-d-f			hadafun, ahdáfun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva ostatní
 إذْ أنَّ		neboť	a-n			idh anna	AR_lekce_7 AR_muj_slovnicek_1 cat_spojky
-أطلانطا		Atlanta	IE				AR_muj_slovnicek_1 ethym_topo toponyma
-أتينا		Athény	IE				AR_muj_slovnicek_1 ethym_topo toponyma
-أستراليا		Austrálie	IE				AR_muj_slovnicek_1 ethym_topo státy toponyma
+أطلانطا		Atlanta	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie toponyma
+أتينا		Athény	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie toponyma
+أستراليا		Austrálie	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
 أطلسي		atlantský, atlantický					AR_muj_slovnicek_1 cat_adjektiva cat_adverbia ethym_topo geografie
-إندونيسيا		Indonésie	IE				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
+إندونيسيا		Indonésie	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
 أولمبي		Olympijský	IE				AR_muj_slovnicek_1 cat_adjektiva ethym_topo geografie toponyma
-أولمبياد		Olympiáda	IE				AR_muj_slovnicek_1 sport
-إيطاليا		Itálie	IE				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-بريطانيا		Británie	IE				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-بكين		Peking	IE				AR_muj_slovnicek_1 ethym_topo geografie toponyma
-تايلاند		Thajsko	IE				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-الجازائر		Alžírsko	dž-z-r				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-جمهورية جنوب إفريقيا		JAR	dž-m-h-r				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-روسيا		Rusko	toponymum				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-سيدني		Sydney	toponymum				AR_muj_slovnicek_1 ethym_topo geografie toponyma
-غرينيتش		Greenwich	toponymum				AR_muj_slovnicek_1 ethym_topo geografie toponyma
-فرنسا		Francie	toponymum				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-كندا		Kanada	IE				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-كوريا		Korea	toponymum				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-الولايةُ المتحدةُ		Spojené Státy	w-l-j				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-اليابان		Japonsko	IE				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
-اليونان		Řecko	IE				AR_muj_slovnicek_1 ethym_topo geografie státy toponyma
+أولمبياد		Olympiáda	IE				AR_muj_slovnicek_1 cat_substantiva sport
+إيطاليا		Itálie	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+بريطانيا		Británie	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+بكين		Peking	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie toponyma
+تايلاند		Thajsko	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+الجازائر		Alžírsko	dž-z-r				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+جمهورية جنوب إفريقيا		JAR	dž-m-h-r				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+روسيا		Rusko	toponymum				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+سيدني		Sydney	toponymum				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie toponyma
+غرينيتش		Greenwich	toponymum				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie toponyma
+فرنسا		Francie	toponymum				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+كندا		Kanada	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+كوريا		Korea	toponymum				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+الولايةُ المتحدةُ		Spojené Státy	w-l-j				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+اليابان		Japonsko	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
+اليونان		Řecko	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
 دمَّر	هـ	zničit	d-m-r			dammara	AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa II_kmen opakovani_zapomenutych
 ضِفَّة (ضِفَافٌ)		břeh	D-f-f				AR_muj_slovnicek_1 cat_substantiva
-فَقِيرٌ (فُقَرَاءُ)		chudý, chuďas	f-q-r				AR_muj_slovnicek_1 lidé
-حَدٌّ (حُدُودٌ)		hranice	H-d-d				AR_muj_slovnicek_1 geografie
-عالمُ الآثارِ		archeolog	3-l-m				AR_muj_slovnicek_1 profese
-ثَوْرَةٌ (ات)		revoluce	th-w-r				AR_muj_slovnicek_1 ostatní
+فَقِيرٌ (فُقَرَاءُ)		chudý (1); chuďas (2)	f-q-r				AR_muj_slovnicek_1 cat_adjektiva cat_substantiva lidé
+حَدٌّ (حُدُودٌ)		hranice	H-d-d				AR_muj_slovnicek_1 cat_substantiva geografie
+عالمُ الآثارِ		archeolog	3-l-m				AR_muj_slovnicek_1 cat_substantiva profese
+ثَوْرَةٌ (ات)		revoluce	th-w-r				AR_muj_slovnicek_1 cat_substantiva ostatní
 على بُعْدِ	من	ve vzdálenosti (od)	b-3-d			3alá bu3di min	AR_muj_slovnicek_1 cat_adverbia cat_prepozice
 حَسَبَ		podle	H-s-b			Hasaba	AR_lekce_10 AR_muj_slovnicek_1 cat_prepozice
 قُرنٌ (قُرُونٌ)		století (1); roh (2)	q-r-n			qarnun qurúnun	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva čas
@@ -961,9 +961,9 @@
 إِخْبَارِيٌّ		zpravodajský	ch-b-r			ichbáríjun	AR_lekce_8 cat_adjektiva
 خطوة		krok	ch-T-w			chaTwatun	AR_lekce_8 cat_substantiva
 دكتوراه		doktorát	IE			duktúráh	AR_lekce_8 cat_substantiva
-رسالة الدكتوراه		disertační práce	r-s-l			risálatu -d-duktúráh	AR_lekce_8 příklad škola
+رسالة الدكتوراه		disertační práce	r-s-l			risálatu -d-duktúráh	AR_lekce_8 cat_substantiva příklad škola
 أدنى		blízký, přední	d-n-w			adná	AR_lekce_8 cat_adjektiva
-الشَرْقُ الأَدْنَى		Přední východ	š-r-q			aš-šarqu al-adná	AR_lekce_8 ethym_topo toponyma
+الشَرْقُ الأَدْنَى		Přední východ	š-r-q			aš-šarqu al-adná	AR_lekce_8 cat_substantiva ethym_topo toponyma
 دنيا		svět (pozemský)	d-n-w			dunjá	AR_lekce_8 cat_substantiva
 دائم		stálý, trvalý	d-w-m			dá'imun	AR_lekce_8 cat_adjektiva
 يرى أن		domnívá se, že	'-r-j			jará anna	AR_lekce_8 cat_fraze příklad
@@ -973,7 +973,7 @@
 رَامٍ	إلى	směřující (k)	r-m-j			rámin ilá	AR_lekce_8 cat_adjektiva
 رُوحٌ (أَرْوَاحٌ)		duch	r-w-H			rú7un (arwá7un)	AR_lekce_8 cat_substantiva
 سَدٌّ (سُدُودٌ)		přehrada	s-d-d			saddun (sudúdun)	AR_lekce_8 cat_substantiva
-السَدُّ العَالِيُّ		Asuánská přehrada	s-d-d			as-sadda al-3álí	AR_lekce_8 ethym_topo toponyma
+السَدُّ العَالِيُّ		Asuánská přehrada	s-d-d			as-sadda al-3álí	AR_lekce_8 cat_substantiva ethym_topo toponyma
 أسْعَدَ		potěšit	s-3-d			as3ada	AR_1.rocnik AR_lekce_8 AR_muj_slovnicek_1 cat_slovesa IV_kmen opakovani_zapomenutych
 مسلسل		seriál	s-l-s-l			musalsalun (-átun)	AR_lekce_8 cat_substantiva
 سِلْعَةٌ (سِلْعٌ)		zboží	s-l-3			sil3atun (sil3un)	AR_1.rocnik AR_lekce_8 cat_substantiva opakovani_zapomenutych
@@ -1026,7 +1026,7 @@
 ملحوظ		význačný, významný	l-H-Z			mal7úZun	AR_lekce_8 cat_adjektiva
 ليبرالية		liberalismus	IE			líbirálíjatun	AR_lekce_8 cat_substantiva
 ماجستير		magisterský titul	IE			mádžistírun	AR_lekce_8 cat_substantiva
-رسالة المجستير		diplomka	r-s-l			risálatu -l-madžistíri	AR_lekce_8 marked
+رسالة المجستير		diplomka	r-s-l			risálatu -l-madžistíri	AR_lekce_8 cat_substantiva marked
 مَثَّلَ		představovat	m-th-l			maththala	AR_lekce_8 AR_muj_slovnicek_1 cat_slovesa II_kmen
 مما		což				mimmá	AR_lekce_8 cat_zajmena
 موسيقى		hudba	IE			músíqá	AR_lekce_8 cat_substantiva
@@ -1039,7 +1039,7 @@
 ناضل		bojovat	n-D-l			náDala	AR_1.rocnik AR_lekce_8 cat_slovesa III_kmen opakovani_zapomenutych
 بصرف النظر عن		nehledě na	n-Z-r			biSarfi -n-naZari 3an	AR_lekce_8 cat_fraze marked
 تنظيم		organizování	n-Z-m			tanZímun	AR_lekce_8 cat_substantiva form_masdar
-تنظيم الاسرة		plánované rodičovství	n-Z-m			tanZímu -l-asrati	AR_lekce_8 marked
+تنظيم الاسرة		plánované rodičovství	n-Z-m			tanZímu -l-asrati	AR_lekce_8 cat_substantiva marked příklad
 نَاقِدٌ (نُقَّادٌ)		kritik	n-q-d			náqidun (nuqqádun)	AR_1.rocnik AR_lekce_8 cat_substantiva
 مناقشة		diskuse, obhajoba (práce)	n-q-š			munáqašatun	AR_lekce_8 cat_substantiva
 نهضة		renesance, obrození	n-h-D			nahDatun	AR_lekce_8 cat_substantiva
@@ -1055,45 +1055,45 @@
 انقطع		přerušit se, být přerušen	q-T-3				AR_muj_slovnicek_1 cat_slovesa VII_kmen
 اِنْطَلَقَ		vyrazit, vydat se na cestu	T-l-q				AR_muj_slovnicek_1 cat_slovesa VII_kmen
 اِشْتَرَى (شِرَاءٌ)	هـ	koupit (něco)	š-r-j			ištará (jaštarí) širá'un	AR_muj_slovnicek_1 cat_slovesa slaba_slovesa VIII_kmen
-حاتف (حواتف)		telefon	H-t-f				AR_muj_slovnicek_1 marked technologie
-حقيبة		taška (ale ne igelitka, lepší)	H-q-b				AR_muj_slovnicek_1 ostatní
+حاتف (حواتف)		telefon	H-t-f				AR_muj_slovnicek_1 cat_substantiva marked technologie
+حقيبة		taška (ale ne igelitka, lepší)	H-q-b				AR_muj_slovnicek_1 cat_substantiva ostatní
 مَدَنِيٌّ		civilista, civilní	m-d-n				AR_muj_slovnicek_1 cat_adjektiva
-جَارٌ (جِيرَانٌ)		soused	dž-j-r				AR_muj_slovnicek_1 lidé
-تَيَّارٌ (ات)		proud (i hudební, všeobecné použití)	t-j-r				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
-صَلِيبِيٌّ (صُلْبانُ)		křižák, křížový (výpravy...)	S-l-n				AR_1.rocnik AR_muj_slovnicek_1 historie opakovani_zapomenutych
-مَطْلَبٌ (مطالب)		požadavky	T-l-b				AR_muj_slovnicek_1 ostatní
-كشكُ اعترافٍ		zpovědnice	k-š-k				AR_muj_slovnicek_1 příklad slovní_spojení
-هنديٌّ (هنود)		ind	h-n-d				AR_muj_slovnicek_1 ethym_topo státy toponyma
-كَهْرَبَائِيٌّ		elektrický, elektrikář	k-h-r-b			kahrabá'í	AR_muj_slovnicek_1 cat_adjektiva profese
+جَارٌ (جِيرَانٌ)		soused	dž-j-r				AR_muj_slovnicek_1 cat_substantiva lidé
+تَيَّارٌ (ات)		proud (i hudební, všeobecné použití)	t-j-r				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
+صَلِيبِيٌّ (صُلْبانُ)		křižák, křížový (výpravy...)	S-l-n				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva historie opakovani_zapomenutych
+مَطْلَبٌ (مطالب)		požadavky	T-l-b				AR_muj_slovnicek_1 cat_substantiva ostatní
+كشكُ اعترافٍ		zpovědnice	k-š-k				AR_muj_slovnicek_1 cat_substantiva příklad slovní_spojení
+هنديٌّ (هنود)		ind	h-n-d				AR_muj_slovnicek_1 cat_substantiva ethym_topo státy toponyma
+كَهْرَبَائِيٌّ		elektrický, elektrikář	k-h-r-b			kahrabá'í	AR_muj_slovnicek_1 cat_adjektiva cat_substantiva profese
 بَعْدَ أنْ	+ perfektum	poté, co... (v minulosti)	b-3-d			ba3da an + perfektum	AR_muj_slovnicek_1 AR_muj_slovnicek_2 cat_fraze cat_spojky
 بعد أنْ	+ subjunktiv	poté, co (v budoucnosti)	b-3-d				AR_muj_slovnicek_1 cat_spojky
 أحياناً		někdy	H-j-n				AR_muj_slovnicek_1 cat_adverbia čas_určení
 في غَالِبِ الأحيانِ		většinou	H-j-n				AR_1.rocnik AR_muj_slovnicek_1 cat_adverbia opakovani_zapomenutych příklad
 في أيِّ حال من الأحوال		v žádném případě	H-w-l				AR_muj_slovnicek_1 cat_fraze příklad
 اقتصاديٌّ		ekonomický, hospodářský	q-S-d				AR_muj_slovnicek_1 cat_adjektiva
-غسّالة (ات)		pračka, myčka, pradlena	gh-s-l				AR_muj_slovnicek_1 profese
-لِيمُونَاتٍ		limonáda	IE				AR_muj_slovnicek_1 jídlo
-كرسيٌّ (كراسٍ)		židle	k-r-s				AR_1.rocnik AR_muj_slovnicek_1 nábytek opakovani_zapomenutych
-عِلْبَةٌ (عِلَبٌ)		plechovka	3-l-b				AR_muj_slovnicek_1 leech předměty
+غسّالة (ات)		pračka, myčka, pradlena	gh-s-l				AR_muj_slovnicek_1 cat_substantiva profese
+لِيمُونَاتٍ		limonáda	IE				AR_muj_slovnicek_1 cat_substantiva jídlo
+كرسيٌّ (كراسٍ)		židle	k-r-s				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva nábytek opakovani_zapomenutych
+عِلْبَةٌ (عِلَبٌ)		plechovka	3-l-b				AR_muj_slovnicek_1 cat_substantiva leech předměty
 خِرِّيجٌ (ون)		absolvent univerzity	ch-r-dž			chirrídžun (-úna)	AR_lekce_4 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva lidé škola
-نِسْفٌ		polovina	n-s-f				AR_muj_slovnicek_1 ostatní
-حَاكِمٌ (حُكّامٌ)		vládce	H-k-m				AR_muj_slovnicek_1 lidé
+نِسْفٌ		polovina	n-s-f				AR_muj_slovnicek_1 cat_substantiva ostatní
+حَاكِمٌ (حُكّامٌ)		vládce	H-k-m				AR_muj_slovnicek_1 cat_substantiva lidé
 غَنِيٌّ		bohatý, majetný, zaopatřený	gh-n-j				AR_muj_slovnicek_1 cat_adjektiva
-سِيجَارٌ		cigareta	IE				AR_muj_slovnicek_1 předměty
-نَبِيذٌ		víno	n-b-dh				AR_muj_slovnicek_1 jídlo
-مَعْجَبَةٌ		"""člověk, libující si v něčem"", milovník"	3-dž-b				AR_muj_slovnicek_1 lidé
-فَرْدٌ (أفرادٌ) {1}	العائلة	člen (rodiny)	f-r-d				AR_muj_slovnicek_1 rodina
+سِيجَارٌ		cigareta	IE				AR_muj_slovnicek_1 cat_substantiva předměty
+نَبِيذٌ		víno	n-b-dh				AR_muj_slovnicek_1 cat_substantiva jídlo
+مَعْجَبَةٌ		"""člověk, libující si v něčem"", milovník"	3-dž-b				AR_muj_slovnicek_1 cat_substantiva lidé
+فَرْدٌ (أفرادٌ) {1}	العائلة	člen (rodiny)	f-r-d				AR_muj_slovnicek_1 cat_substantiva rodina
 حَبَّ (ـِ) حُبٌّ		milovat, mít rád	H-b-b			Habba jaHibbu Hubbun	AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeGeminae
-حُبٌّ		láska	H-b-b		حُبًّا فِي z lásky k		AR_muj_slovnicek_1 rodina
-حِبٌّ (أَحْبَابٌ)		miláček, drahý/á	H-b-b				AR_muj_slovnicek_1 rodina
+حُبٌّ		láska	H-b-b		حُبًّا فِي z lásky k		AR_muj_slovnicek_1 cat_substantiva rodina
+حِبٌّ (أَحْبَابٌ)		miláček, drahý/á	H-b-b				AR_muj_slovnicek_1 cat_substantiva rodina
 حضَّر		připravit, přichystat	H-D-r			7aDDara	AR_1.rocnik AR_lekce_8 AR_muj_slovnicek_1 cat_slovesa II_kmen opakovani_zapomenutych
 حَاوَلَ		snažit se	H-w-l				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa IIaeW/J III_kmen opakovani_zapomenutych slaba_slovesa
 أخْرَجَ {2}		režírovat	ch-r-dž			achradža	AR_lekce_8 AR_muj_slovnicek_1 cat_slovesa IV_kmen
 أَصْبَحَ (2)	+ imperfektum	začít (něco dělat)	S-b-H		أَصْبَحَ يَتَجَنَّبُ لِقَاءَهُ začít se vyhýbat (komu)	aSba7a	AR_1.rocnik AR_lekce_8 AR_muj_slovnicek_1 cat_slovesa IV_kmen opakovani_zapomenutych
 ثَمَنٌ (أثمان)		hodnota, cena	th-m-n			thamanun athmánun	AR_lekce_8 AR_muj_slovnicek_1 cat_substantiva ostatní
-خِدْمَةٌ		služba	ch-d-m				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
+خِدْمَةٌ		služba	ch-d-m				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
 خَطَأٌ (أخطاءٌ)		chyba	ch-T-'			chaTa'un (achTá'un)	AR_lekce_8 AR_muj_slovnicek_1 cat_substantiva ostatní
-مَشْرُوعٌ (ات, مَشَارِيعُ)		projekt	š-r-3				AR_muj_slovnicek_1 oficiality
+مَشْرُوعٌ (ات, مَشَارِيعُ)		projekt	š-r-3				AR_muj_slovnicek_1 cat_substantiva oficiality
 نَدْوَةٌ		beseda	n-d-w			nadwatun	AR_lekce_8 AR_muj_slovnicek_1 cat_substantiva ostatní
 وَاحَةٌ		oáza	w-j-H			wá7atun	AR_lekce_8 AR_muj_slovnicek_1 cat_substantiva ostatní
 بِالتَّأكِيدِ		jistě, jistěže, ovšem	'-k-d				AR_muj_slovnicek_1 cat_fraze
@@ -1103,37 +1103,37 @@
 صِفْرٌ		nula	S-f-r				AR_muj_slovnicek_1 cat_cislovky
 تحت سطح البحر		pod mořskou hladinou	b-H-r				AR_muj_slovnicek_1 příklad slovní_spojení
 فَوْقَ سطح البحر		nad mořskou hladinou	s-T-H				AR_muj_slovnicek_1 příklad slovní_spojení
-عُضْوٌ في		členství v	3-D-w				AR_muj_slovnicek_1 ostatní
-المَوْقِعُ الجِغْرَافِي		geografická poloha	w-q-3				AR_muj_slovnicek_1 geografie
-عاصمة (عَوَاصِمٌ)		hlavní město	3-S-m				AR_muj_slovnicek_1 geografie
-طولُ الشاطئِ		délka pobřeží	T-w-l				AR_muj_slovnicek_1 geografie
-أخفضُ نقطةٍ		nejnižší bod	n-q-T				AR_muj_slovnicek_1 geografie
-أعلى نقطة		nejvyšší bod	n-q-T				AR_muj_slovnicek_1 geografie
-اللغة الرسمية		úřední jazyk	l-gh-w				AR_muj_slovnicek_1 geografie
-عدد السكان		počet obyvatel	3-d-d				AR_muj_slovnicek_1 geografie
+عُضْوٌ في		členství v	3-D-w				AR_muj_slovnicek_1 cat_substantiva ostatní
+المَوْقِعُ الجِغْرَافِي		geografická poloha	w-q-3				AR_muj_slovnicek_1 cat_substantiva geografie příklad
+عاصمة (عَوَاصِمٌ)		hlavní město	3-S-m				AR_muj_slovnicek_1 cat_substantiva geografie
+طولُ الشاطئِ		délka pobřeží	T-w-l				AR_muj_slovnicek_1 cat_substantiva geografie příklad
+أخفضُ نقطةٍ		nejnižší bod	n-q-T				AR_muj_slovnicek_1 cat_substantiva geografie příklad
+أعلى نقطة		nejvyšší bod	n-q-T				AR_muj_slovnicek_1 cat_substantiva geografie příklad
+اللغة الرسمية		úřední jazyk	l-gh-w				AR_muj_slovnicek_1 cat_substantiva geografie příklad
+عدد السكان		počet obyvatel	3-d-d				AR_muj_slovnicek_1 cat_substantiva geografie příklad
 لَبَسَ (ـُ) لَبْسٌ	هـ	obléci si (co) (1); mít oblečení (2)	l-b-s				AR_muj_slovnicek_1 cat_slovesa I_kmen oblečení
 طار (ـِ) طَيْرَانٌ		letět (samo o sobě), člověk vždy létá letadlem!	T-j-r			Tára (jaTíru) Tajránun	AR_muj_slovnicek_1 cat_slovesa I_kmen IIaeW/J slaba_slovesa
 نَقَلَ (ـُ) نَقْلٌ {1}		přenést, transportovat	n-q-l			naqala (janqulu) naqlun	AR_muj_slovnicek_1 cat_slovesa I_kmen
 قَطَعَ (ـَ) قطعٌ	هـ	uříznout, useknout (něco) (1); urazit (vzdálenost) (2)	q-T-3			qaTa3a (jaqTa3u) qaT3un	AR_muj_slovnicek_1 cat_slovesa I_kmen
 تأخَّر		opozdit se, zpozdit se, zdržet se (někde), mít zpoždění V.	'-ch-r			ta'achchara	AR_lekce_9 AR_muj_slovnicek_1 cat_slovesa IaeW/J slaba_slovesa V_kmen
-بُعْدٌ (أبعَادٌ)		vzdálenost, rozměr	b-3-d				AR_muj_slovnicek_1 ostatní
-مُسَافقة (ات)		vzdálenost	s-f-q				AR_muj_slovnicek_1 ostatní
-اِرْتِفاع	(على)	výška; pozvednutí, vyvýšení	r-f-3				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych ostatní
-مِعْطَفٌ (مَعَاطِفُ)		kabát, plášť, svrchník	3-T-f			mi3Tafun ma3áTifu	AR_muj_slovnicek_1 oblečení
-بَنْطَلُون (ات)		kalhoty					AR_muj_slovnicek_1 ethym_ie oblečení
-قُبَّعَة (ات)		čepice	q-b-3				AR_muj_slovnicek_1 marked oblečení
-سِرْوَالٌ (سَرَاوِلُ)		kalhoty	IE				AR_muj_slovnicek_1 oblečení
+بُعْدٌ (أبعَادٌ)		vzdálenost, rozměr	b-3-d				AR_muj_slovnicek_1 cat_substantiva ostatní
+مُسَافقة (ات)		vzdálenost	s-f-q				AR_muj_slovnicek_1 cat_substantiva ostatní
+اِرْتِفاع	على	výška (1); pozvednutí, vyvýšení (na) (2)	r-f-3			irtifá3un	AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva form_masdar opakovani_zapomenutych ostatní
+مِعْطَفٌ (مَعَاطِفُ)		kabát, plášť, svrchník	3-T-f			mi3Tafun ma3áTifu	AR_muj_slovnicek_1 cat_substantiva oblečení
+بَنْطَلُون (ات)		kalhoty					AR_muj_slovnicek_1 cat_substantiva ethym_ie oblečení
+قُبَّعَة (ات)		čepice	q-b-3				AR_muj_slovnicek_1 cat_substantiva marked oblečení
+سِرْوَالٌ (سَرَاوِلُ)		kalhoty	IE				AR_muj_slovnicek_1 cat_substantiva oblečení
 فَرِيقٌ (فِرْقٌ)		tým (sportovní, odborný), pracovní skupina	f-r-q			faríqun (firaqun)	AR_1.rocnik AR_lekce_10 AR_muj_slovnicek_1 cat_substantiva marked opakovani_zapomenutych sport
-حَفْرِيَّةٌ (ات)		vykopávka	H-f-r				AR_muj_slovnicek_1 historie
-شُرْطَةٌ		policie	š-r-T				AR_muj_slovnicek_1 oficiality
-بَائِعٌ		prodavač	b-j-3				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych profese
-قُماشٌ (أقْمِشة)		látka (textilie)	q-m-š				AR_muj_slovnicek_1 marked materiály
-أزمة (ات)		krize	'-z-m			azmatun	AR_muj_slovnicek_1 AR_muj_slovnicek_2 události
-جُنَيْهُ		Libra					AR_muj_slovnicek_1 ethym_ie peníze
+حَفْرِيَّةٌ (ات)		vykopávka	H-f-r				AR_muj_slovnicek_1 cat_substantiva historie
+شُرْطَةٌ		policie	š-r-T				AR_muj_slovnicek_1 cat_substantiva oficiality
+بَائِعٌ		prodavač	b-j-3				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych profese
+قُماشٌ (أقْمِشة)		látka (textilie)	q-m-š				AR_muj_slovnicek_1 cat_substantiva marked materiály
+أزمة (ات)		krize	'-z-m			azmatun	AR_muj_slovnicek_1 AR_muj_slovnicek_2 cat_substantiva události
+جُنَيْهُ		Libra					AR_muj_slovnicek_1 cat_substantiva ethym_ie peníze
 حَرِيرِيٌّ		hedvábný	H-r-r				AR_1.rocnik AR_muj_slovnicek_1 cat_adjektiva materiály opakovani_zapomenutych
 رَغْمَ أنَّ		přestože, ačkoli	r-gh-m				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_spojky
 خَلْفٌ (خلوفٌ)		za (zadní)	ch-l-f				AR_muj_slovnicek_1 cat_prepozice
-جماعة (ات)		skupina (může evokovat teroristické skupiny apod.)	dž-m-3			džamá3atun	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 lidé marked
+جماعة (ات)		skupina (může evokovat teroristické skupiny apod.)	dž-m-3			džamá3atun	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva lidé marked
 مَجْمُوعَة (ات)		skupina (zcela neutrální kontext) (1); sbírka, kolekce (2)	dž-m-3			madžmú3atun	AR_lekce_9 AR_muj_slovnicek_1 cat_substantiva lidé ostatní
 عَقَدَ (ـِ) عَقْدٌ {1}	ٱلْجَلْسَةَ	uspořádat, svolat (zasedání, schůzi, konferenci)	3-q-d			3aqada	AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa I_kmen opakovani_zapomenutych
 اختلف	عن	lišit se od, odlišovat se od	ch-l-f				AR_muj_slovnicek_1 cat_slovesa marked VIII_kmen
@@ -1141,16 +1141,15 @@
 استشار	ه في	konzultovat, radit se s někým o něcem X.	š-w-r				AR_1.rocnik AR_muj_slovnicek_1 cat_slovesa opakovani_zapomenutych slaba_slovesa X_kmen
 استخرج	هـ من	těžit (něco z), dobývat (něco z)	ch-r-dž			istachradža	AR_lekce_10 AR_muj_slovnicek_1 cat_slovesa X_kmen
 استراح	من	odpočinout si od něčeho X.	r-w-H				AR_muj_slovnicek_1 cat_slovesa slaba_slovesa X_kmen
-حاسُوبٌ (ات)		počítač	H-s-b				AR_muj_slovnicek_1 technologie
-بِضَاعَةٌ (بَضَائِعُ)		zboží	b-D-3			biDá3atun, baDá'i3u	AR_lekce_18 AR_muj_slovnicek_1 AR_muj_slovnicek_2 jídlo
-مُبَارَاةٌ (مُبَارَيَاتٌ)		zápas, střetnutí, utkání (sportovní)	b-r-j				AR_1.rocnik AR_muj_slovnicek_1 opakovani_zapomenutych sport
+حاسُوبٌ (ات)		počítač	H-s-b				AR_muj_slovnicek_1 cat_substantiva technologie
+بِضَاعَةٌ (بَضَائِعُ)		zboží	b-D-3			biDá3atun, baDá'i3u	AR_lekce_18 AR_muj_slovnicek_1 AR_muj_slovnicek_2 cat_substantiva jídlo
+مُبَارَاةٌ (مُبَارَيَاتٌ)		zápas, střetnutí, utkání (sportovní)	b-r-j				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych sport
 طَبعة (ات)		vydání	T-b-3				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych
 كمِّيَّة ضَخْمَةٌ من...		obrovské množství něčeho	k-m				AR_muj_slovnicek_1 cat_fraze
-الغاز الطبيعيُّ		zemní plyn	IE				AR_muj_slovnicek_1 materiály
 مَرّ (ـُ) مُرُورٌ	بـ	procházet, projíždět (kolem něčeho, přes něco)	m-r-r				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa I_kmen IIaeGeminae
-نوع (أنواع) من الـــ...		druh něčeho	n-w-3				AR_muj_slovnicek_1 ostatní
-الموسيقى		muzika, hudba	IE				AR_muj_slovnicek_1 kultura zábava
-محامٍ (مُحامونَ)		právník, advokát	m-H-m				AR_muj_slovnicek_1 profese
+نوع (أنواع) من الـــ...		druh něčeho	n-w-3				AR_muj_slovnicek_1 cat_substantiva ostatní
+الموسيقى		muzika, hudba	IE				AR_muj_slovnicek_1 cat_substantiva kultura zábava
+محامٍ (مُحامونَ)		právník, advokát	m-H-m				AR_muj_slovnicek_1 cat_substantiva profese
 مُحتَلٌّ		okupovaný	H-l-l				AR_muj_slovnicek_1 cat_adjektiva
 الحقيقة أنَّ		pravdou je, že	H-q-q				AR_muj_slovnicek_1 cat_fraze
 أداءٌ		provedení (práce), vykonání (zkoušky)	'-d-j			'adá'un	AR_1.rocnik AR_lekce_9 cat_substantiva opakovani_zapomenutych
@@ -1197,8 +1196,8 @@
 شِعرٌ (أشْعَارٌ)		poezie (obecný pojem), básnické dílo (celek)	š-3-r			ši3run (aš3árun)	AR_lekce_9 AR_muj_slovnicek_2 cat_substantiva literatura
 شهادة		vysvědčení, osvědčení, diplom	š-h-d			šahádatun	AR_lekce_9 cat_substantiva
 شهيّ		chutný, lahodný	š-h-j			šahíjun	AR_1.rocnik AR_lekce_9 cat_adjektiva
-منظّمة الصحّة العالميّة		Světová zdravotnická organizace (WHO)	n-Z-m			munaZZamatu-S-SiHHati-l-3álamíjati	AR_lekce_9 zdraví
-وزارة الصحّة		ministerstvo zdravotnictví	w-z-r			wizarátu - S-SiHHati	AR_lekce_9 zdraví
+منظّمة الصحّة العالميّة		Světová zdravotnická organizace (WHO)	n-Z-m			munaZZamatu-S-SiHHati-l-3álamíjati	AR_lekce_9 cat_substantiva organizace zdraví
+وزارة الصحّة		ministerstvo zdravotnictví	w-z-r			wizarátu - S-SiHHati	AR_lekce_9 cat_substantiva oficiality zdraví
 صحّيّ		zdravý, zdravotní	S-H-H			SiHHíjun	AR_lekce_9 cat_adjektiva
 تصفّح		listovat	S-f-H			taSaffaHa	AR_lekce_9 cat_slovesa marked V_kmen
 ضَمِنَ (ـَ)		zaručit, zajistit, garantovat	D-m-n			Damina (jaDmanu)	AR_lekce_9 cat_slovesa I_kmen
@@ -1372,71 +1371,71 @@
 بديهمٌّ		"""to je jedno, to je fuk, na tom nesejde"""					AR_1.rocnik AR_slovicka_gramatika_1 cat_fraze marked opakovani_zapomenutych
 آخر	+ neurčené	poslední (v poslední)	'-ch-r				AR_1.rocnik AR_slovicka_gramatika_1 cat_adjektiva
 آخر	+ určené	konec (na konci)	'-ch-r				AR_slovicka_gramatika_1 cat_substantiva
-بِضعُ	+ neurčené GS v plurálu, polarita	pár, několik, málo	b-D-3				AR_slovicka_gramatika_1
+بِضعُ	+ neurčené GS v plurálu, polarita	pár, několik, málo	b-D-3				AR_slovicka_gramatika_1 cat_adverbia
 طُول		"""po celou dobu"" (předložka)"	T-w-l				AR_slovicka_gramatika_1 cat_prepozice
 تصبِح على خير!		Dobrou noc.	S-b-H				AR_slovicka_gramatika_1 cat_fraze
 أنت من أهله.		"""Ty jsi z lidu Dobrého."" (odpověď na ""Dobrou noc."")"	'-h-l				AR_slovicka_gramatika_1 cat_fraze
 دمعة (دموعة)		slzy	d-m-3				AR_1.rocnik AR_slovicka_gramatika_1 cat_substantiva marked opakovani_zapomenutych
 مسح (ـَـ)	هــ	namazat, natřít	m-s-H				AR_slovicka_gramatika_1 cat_slovesa I_kmen
-جنديٌّ (جنودٌ)		voják	dž-n-d				AR_slovicka_gramatika_1 profese
-النِزاعُ الفِلَسْطِينِي الإِسْرائِيلي		Izraelsko-palestinský konflikt	n-z-3				AR_slovicka_gramatika_1
-مَهَم (مَهَام)		úkol, povinnost	h-m-m				
+جنديٌّ (جنودٌ)		voják	dž-n-d				AR_slovicka_gramatika_1 cat_substantiva profese
+النِزاعُ الفِلَسْطِينِي الإِسْرائِيلي		Izraelsko-palestinský konflikt	n-z-3				AR_slovicka_gramatika_1 cat_substantiva tema_konflikty_terorismus události
+مُهِمٌّ		důležitý	h-m-m			muhimmun	cat_adjektiva
 تَحَسَّنَ		zlepšit se	H-s-n			taHassana	AR_lekce_9 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa correct V_kmen
 غَيْرَ أَنّ		avšak, nicméně	gh-j-r			ghajri anna	AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_spojky marked
-أَجْهِزَةٌ إِلِكْتْرُونِّية		elektronika, elektronické přístroje	dž-h-z				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 slovní_spojení technologie
-مَوْسُوعَةٌ (ات)		encyklopedie	w-s-3				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 škola
+أَجْهِزَةٌ إِلِكْتْرُونِّية		elektronika, elektronické přístroje	dž-h-z				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva slovní_spojení technologie
+مَوْسُوعَةٌ (ات)		encyklopedie	w-s-3				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva škola
 مُصَّورٌ		ilustrovaný, obrázkový	S-w-r			muSawwarun	AR_1.rocnik AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_adjektiva cat_adverbia opakovani_zapomenutych
-بَاحِثٌ (ون)		badatel, výzkumník, vědec, výzkumný pracovník	b-H-th			báHithun (-úna)	AR_lekce_11 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 profese
+بَاحِثٌ (ون)		badatel, výzkumník, vědec, výzkumný pracovník	b-H-th			báHithun (-úna)	AR_lekce_11 AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_substantiva profese
 اِنْقَسَمَ	إِلَى	rozdělit se, být rozdělen na	q-s-m				AR_slovicka_gramatika_1 cat_slovesa VII_kmen
 عَبَرَ (ـُ) عُبُورٌ	هـ	přejít (něco)	3-b-r			3abara (u) 3ubúrun	AR_slovicka_gramatika_1 cat_slovesa I_kmen
-جِسْرٌ (جُسُورٌ)		most	dž-s-r				AR_lekce_17 AR_slovicka_gramatika_1
+جِسْرٌ (جُسُورٌ)		most	dž-s-r				AR_lekce_17 AR_slovicka_gramatika_1 cat_substantiva město
 اِنْعَطَفَ	إِلَى	zahnout, zabočit	3-T-f				AR_1.rocnik AR_slovicka_gramatika_1 cat_slovesa opakovani_zapomenutych VII_kmen
-اليَسَارُ		levá strana	j-s-r				AR_slovicka_gramatika_1
-فِيلْمٌ وَثَائِقِيّ		dokumentární film	w-th-q				AR_slovicka_gramatika_1
-حِمَايَةُ البِيئَةِ		ochrana životního prostředí	H-m-j				AR_slovicka_gramatika_1
+اليَسَارُ		levá strana	j-s-r				AR_slovicka_gramatika_1 cat_substantiva
+فِيلْمٌ وَثَائِقِيّ		dokumentární film	w-th-q				AR_slovicka_gramatika_1 cat_substantiva příklad
+حِمَايَةُ البِيئَةِ		ochrana životního prostředí	H-m-j				AR_slovicka_gramatika_1 cat_substantiva příklad
 فَاسِدٌ		zkorumpovaný	f-s-d				AR_slovicka_gramatika_1 cat_adjektiva
 مِنَ السَهْلِ أَنْ		je snadné	s-h-l				AR_slovicka_gramatika_1 cat_fraze příklad
-رَسّامٌ (ون)		malíř	r-s-m				AR_slovicka_gramatika_1
-شَاهِدٌ (شُهُودٌ)		svědek (1); notář (2)	š-h-d				AR_slovicka_gramatika_1
-الشُرْطَة		policie	š-r-T				AR_slovicka_gramatika_1
-مُسْتَشْرِقٌ (ون)		orientalista	š-r-q				AR_slovicka_gramatika_1
-فِي الوَقْتِ الَذِي...... فِيهِ		v době, kdy	w-q-t				AR_slovicka_gramatika_1
-العُثْمَانِيّونَ		Osmané	toponymum				AR_slovicka_gramatika_1
-فِيِينا		Vídeň					AR_slovicka_gramatika_1 ethym_topo toponyma
+رَسّامٌ (ون)		malíř	r-s-m				AR_slovicka_gramatika_1 cat_substantiva profese
+شَاهِدٌ (شُهُودٌ)		svědek (1); notář (2)	š-h-d				AR_slovicka_gramatika_1 cat_substantiva
+الشُرْطَة		policie	š-r-T				AR_slovicka_gramatika_1 cat_substantiva oficiality
+مُسْتَشْرِقٌ (ون)		orientalista	š-r-q				AR_slovicka_gramatika_1 cat_substantiva profese
+فِي الوَقْتِ الَذِي...... فِيهِ		v době, kdy	w-q-t				AR_slovicka_gramatika_1 cat_spojky
+العُثْمَانِيّونَ		Osmané	toponymum				AR_slovicka_gramatika_1 cat_substantiva
+فِيِينا		Vídeň					AR_slovicka_gramatika_1 cat_substantiva ethym_topo toponyma
 كَسَرَ (ـِ) كَسْرٌ	ه	rozbít; zlomit	k-s-r				AR_slovicka_gramatika_1 cat_slovesa I_kmen
-نَتِيجَةً	لِــ	v důsledku	n-t-dž				AR_slovicka_gramatika_1
+نَتِيجَةً	لِــ	v důsledku	n-t-dž				AR_slovicka_gramatika_1 cat_adverbia
 المُسْتَقْبَلُ		budoucnost	q-b-l			al-mustaqbalu	AR_lekce_9 AR_slovicka_gramatika_1 cat_substantiva
 شَكَا (ـُ) شَكْوٌ	لِـ/إِلَى مِنْ	stěžovat si někomu na něco/někoho	š-k-w			šaká (jaškú) šakwun	AR_slovicka_gramatika_1 cat_slovesa I_kmen IIIaeW/J slaba_slovesa vz_da3á
-(اللُغَة) العِبْرِيّة		hebrejština, hebrejský jazyk	3-b-r				AR_slovicka_gramatika_1
-مُجْرِمٌ (ون)		zločinec	dž-r-m				AR_slovicka_gramatika_1
+(اللُغَة) العِبْرِيّة		hebrejština, hebrejský jazyk	3-b-r				AR_slovicka_gramatika_1 cat_substantiva
+مُجْرِمٌ (ون)		zločinec	dž-r-m				AR_slovicka_gramatika_1 cat_substantiva
 هَرَبَ (ـُـ) هُرُوبٌ		utéct, uniknout	h-r-b			haraba (u) hurúbun	AR_1.rocnik AR_slovicka_gramatika_1 cat_slovesa I_kmen opakovani_zapomenutych
 عَبرَ		přes, skrze	3-b-r			3abra	AR_slovicka_gramatika_1 cat_adverbia
-مَادّةٌ (مَوَادّ)		látka, materiál	m-d-d			máddatun (mawáddu)	AR_slovicka_gramatika_1
-مُطْرِبٌ (ون)		zpěvák	T-r-b				AR_slovicka_gramatika_1
+مَادّةٌ (مَوَادّ)		látka, materiál	m-d-d			máddatun (mawáddu)	AR_slovicka_gramatika_1 cat_substantiva
+مُطْرِبٌ (ون)		zpěvák	T-r-b				AR_slovicka_gramatika_1 cat_substantiva profese
 اِعْتَبَرَ	هـ/ه هـ/ه	považovat, pokládat (něco/někoho za něco/někoho)	3-b-r			i3tabara	AR_slovicka_gramatika_1 cat_slovesa VIII_kmen
-طرِيقٌ (طُرُقٌ)		cesta, silnice	T-r-q				AR_slovicka_gramatika_1
+طرِيقٌ (طُرُقٌ)		cesta, silnice	T-r-q				AR_slovicka_gramatika_1 cat_substantiva
 أَتَاحَ فُرْصَةً	لِـ	poskytnout (někomu) příležitost	t-j-H			atáHa furSatan	AR_slovicka_gramatika_1 cat_fraze příklad
 وَلَدَ (يَلِدُ) وِلاَدَةٌ	ه	porodit, (pas.) narodit se	w-l-d				AR_slovicka_gramatika_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
-اِسْتِعْراضٌ عَسْكَرِيّ		vojenská přehlídka	3-r-D				AR_slovicka_gramatika_1
+اِسْتِعْراضٌ عَسْكَرِيّ		vojenská přehlídka	3-r-D				AR_slovicka_gramatika_1 cat_substantiva příklad
 لَذِيذٌ (ألذُّ)		chutný, lahodný	l-dh-dh				AR_slovicka_gramatika_1 cat_adjektiva
-بَائِعٌ (بَاعَة)		obchodník, prodavač	b-j-3				AR_slovicka_gramatika_1
+بَائِعٌ (بَاعَة)		obchodník, prodavač	b-j-3				AR_slovicka_gramatika_1 cat_substantiva profese
 خَاطِئ		chybný, nesprávný	ch-T-'				AR_slovicka_gramatika_1 cat_adjektiva
 اِحْتَرَمَ	هـ	vážit si, respektovat	H-r-m			iHtarama	AR_1.rocnik AR_slovicka_gramatika_1 cat_slovesa VIII_kmen
-شَرّفَ بِزِيَارَة	هـ	poctít někoho návštěvou	š-r-f				AR_slovicka_gramatika_1 příklad
+شَرّفَ بِزِيَارَة	هـ	poctít někoho návštěvou	š-r-f				AR_slovicka_gramatika_1 cat_fraze příklad
 بَذَلَ (ـُـِ) جُهُودًا		vynaložit úsilí	b-dh-l			badhala (u) džuhúdan	AR_slovicka_gramatika_1 cat_fraze příklad
 كَافٍ		dostatečný	k-f-j				AR_slovicka_gramatika_1 cat_adjektiva
-فَتْرَةُ الاِمْتِحَانَاتِ		zkouškové období	m-H-n				AR_slovicka_gramatika_1
+فَتْرَةُ الاِمْتِحَانَاتِ		zkouškové období	m-H-n				AR_slovicka_gramatika_1 cat_substantiva
 بِنَجَاحٍ		úspěšně	n-dž-H				AR_slovicka_gramatika_1 cat_adverbia
-طَرِيقَةٌ (طُرُقٌ)		metoda; způsob	T-r-q				AR_slovicka_gramatika_1
-البَحْثُ العِلْمِيُّ		vědecký výzkum	b-H-th				AR_slovicka_gramatika_1
-رحلة (ات)		cesta, výlet	r-H-l			riHlatun	
+طَرِيقَةٌ (طُرُقٌ)		metoda; způsob	T-r-q				AR_slovicka_gramatika_1 cat_substantiva
+البَحْثُ العِلْمِيُّ		vědecký výzkum	b-H-th				AR_slovicka_gramatika_1 cat_substantiva příklad
+رحلة (ات)		cesta, výlet	r-H-l			riHlatun	cat_substantiva
 أَحْسَنَ	هــ	umět něco dobře, dobře zacházet	H-s-n			aHsana	AR_lekce_8 AR_muj_slovnicek_2 cat_slovesa IV_kmen
-ظُهْرٌ (أَظْهَارٌ)		poledne	Z-h-r			Zuhrun	AR_muj_slovnicek_1 AR_muj_slovnicek_2 čas
+ظُهْرٌ (أَظْهَارٌ)		poledne	Z-h-r			Zuhrun	AR_muj_slovnicek_1 AR_muj_slovnicek_2 cat_substantiva čas
 بَحَثَ (ـَـ) بَحْثٌ	عن	hledat	b-H-th			baHatha 3an	AR_lekce_3 AR_muj_slovnicek_2 cat_slovesa I_kmen
 ذَهَبَ (ـَ) ذَهَابٌ/ذُهُوبٌ		jít	dh-h-b			dhahaba (jadhhabu) dhahábun	cat_slovesa I_kmen
 قام (ـُ) قِيامٌ/قَوْمٌ {3}		stát, vstát, postavit se (1); odjet dopravním prostředkem (2)	q-w-m		قَامَ مِنَ ٱلنَّوْمِ vstávat	qáma (jaqúmu)	AR_muj_slovnicek_2 cat_slovesa I_kmen IIaeW/J slaba_slovesa
-مَوْقِفٌ (مواقِفُ)	من	postoj (k), názor (ohledně) (1); zastávka (2)	w-q-f			mawqifun (mawáqifu)	AR_muj_slovnicek_1 AR_muj_slovnicek_2 ostatní slovnik_161-konec
-حُكْمٌ	على	rozsudek, rozhodnutí (1); posouzení, zhodnocení (2)	H-k-m				AR_muj_slovnicek_1 AR_muj_slovnicek_2 AR_Ondrasoviny AR_Ondrasoviny-Zlocin_a_trest oficiality
+مَوْقِفٌ (مواقِفُ)	من	postoj (k), názor (ohledně) (1); zastávka (2)	w-q-f			mawqifun (mawáqifu)	AR_muj_slovnicek_1 AR_muj_slovnicek_2 cat_substantiva ostatní slovnik_161-konec
+حُكْمٌ	على	rozsudek, rozhodnutí (1); posouzení, zhodnocení (2)	H-k-m				AR_muj_slovnicek_1 AR_muj_slovnicek_2 AR_Ondrasoviny AR_Ondrasoviny-Zlocin_a_trest cat_substantiva oficiality
 مُكَثَّفٌ		intenzivní	k-th-f			mukaththafun	AR_lekce_3 AR_muj_slovnicek_1 AR_muj_slovnicek_2 cat_adjektiva
 لاَ دَاعِيَ لِـ		není důvodu k	d-w-3				cat_fraze
 تَرْبِيَة		pedagogika, vzdělávání	r-b-j			tarbijatun	cat_substantiva II_kmen masdar

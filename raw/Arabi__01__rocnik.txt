@@ -899,7 +899,7 @@
 قُوّة		síla	q-w-w				AR_muj_slovnicek_1 cat_substantiva ostatní
 لَجْنَة (لَجَان)		komise, výbor	l-dž-n			ladžnatun, lidžánun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva ostatní
 هَدَفٌ (أهْدَاف)		cíl	h-d-f			hadafun, ahdáfun	AR_lekce_7 AR_muj_slovnicek_1 cat_substantiva ostatní
-إذْ أنَّ		neboť	a-n			idh anna	AR_lekce_7 AR_muj_slovnicek_1 cat_spojky
+إذْ أنَّ		neboť	'-n			idh anna	AR_lekce_7 AR_muj_slovnicek_1 cat_spojky
 أطلانطا		Atlanta	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie toponyma
 أتينا		Athény	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie toponyma
 أستراليا		Austrálie	IE				AR_muj_slovnicek_1 cat_substantiva ethym_topo geografie státy toponyma
@@ -1227,7 +1227,7 @@
 بِنَاية (ات)		budova	b-n-j			binájatun	AR_lekce_10 AR_muj_slovnicek_1 budovy cat_substantiva město
 باب (أبواب)		dveře	b-w-b			bábun (abwábun)	AR_lekce_10 cat_substantiva
 اتّبع		sledovat, uplatňovat, provádět (politiku)	t-b-3			ittaba3a	AR_1.rocnik AR_lekce_10 cat_slovesa opakovani_zapomenutych VIII_kmen
-استثنائي		výjimečný	th-n-y			istithná'íjun	AR_1.rocnik AR_lekce_10 cat_adjektiva opakovani_zapomenutych
+استثنائي		výjimečný	th-n-j			istithná'íjun	AR_1.rocnik AR_lekce_10 cat_adjektiva opakovani_zapomenutych
 جدير بالذّكرِ أنّ..		stojí za zmínku, že ...	dž-d-r			džadírun bi-dhdhakri anna...	AR_lekce_10 cat_fraze
 تجربة (تجارب)		zkušenost	dž-r-b			tadžribatun (tadžáribu)	AR_lekce_10 cat_substantiva
 اِجْتَمَعَ		sejít se, shromáždit se	dž-m-3			idžtama3a	AR_lekce_10 cat_slovesa VIII_kmen

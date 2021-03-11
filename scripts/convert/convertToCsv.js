@@ -37,6 +37,16 @@ function transformToJson(array) {
     return '';
 }
  
+function getCleanVal(val) {
+    let output = val.replace(/\u0640{2,}/g, 'ـ');
+
+    return output;
+}
+
+function getBooleanRepresentation(value) {
+    return value === true ? 1 : 0;
+}
+
 /**
   * Scans each word's tags and sorts them into an object based on information that is obtained from tags.
   * Replaces tags with their ids based on what's to be found in specific files generated in "prepare" step.
@@ -78,7 +88,7 @@ function resolveTags(tagsString) {
         tags: transformToJson(outputTags),
         category: transformToJson(outputCategory),
         source: transformToJson(outputSource), // @todo
-        disabled: 'false', // @todo: tag: is-disabled
+        isDisabled: 'false', // @todo: tag: is-disabled
         stem: transformToJson(outputStem),
     };
  
@@ -90,9 +100,7 @@ function resolveTags(tagsString) {
  
 async function convertFile(data, outputStream) {
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
-    const {tags: _tags, category, source, disabled, stem} = resolveTags(tags);
-
-    const rootId = getId(root, roots);
+    const {tags: _tags, category, source, isDisabled, stem} = resolveTags(tags);
 
     const getMeaningVariant = (word) => {
         let match = word.match(/\(\d\)|{\d}/g);
@@ -108,6 +116,7 @@ async function convertFile(data, outputStream) {
 
     const isVerb = categories.includes('cat_slovesa');
     const isNoun = categories.includes('cat_substantiva');
+    const isExample = tags.includes('příklad');
 
     const verbalForms = isVerb && parseVerb(data);
     const nounForms = isNoun && parseNoun(data);
@@ -125,8 +134,6 @@ async function convertFile(data, outputStream) {
     };
 
     const normTranscription = convertToNormTranscription(transcription, root);
-    // resolveAr() // checks data for plural, masdar, stem_vowel
-
     const wordForm = getTheWord(ar, verbalForms, nounForms);
 
     const otherFormsObj = {
@@ -136,55 +143,61 @@ async function convertFile(data, outputStream) {
         plural: nounForms?.plural
     };
  
+    /**
+     * ar, cz : basic forms
+     * plural, masdar : derived forms
+     * val, arVariant : props closely related to main word
+     * norm, arTranscription : normalization
+     * stem, stemVowel : stem
+     * rootId, catIds, synonymsIds, tagsIds, exampleIds, sourceIds : interconnections
+     * isDisabled, isExample : props
+     */
     const output = {
         ar: wordForm,
         cz,
-        norm: '',
-        cat_id: category,
-        root_id: rootId,
-        stem: stem,
-        stem_vowel: otherFormsObj.vowel,
         plural: otherFormsObj.plural,
         masdar: otherFormsObj.masdar,
-        val, // todo: replace doubled tatweels
-        transcription: normTranscription,
-        meaning_variant: getMeaningVariant(ar),
-        synonyms_ids: syn,
-        tags_ids: _tags,
-        examples_ids: example, // todo -- jaké examples k němu patří
-        source_ids: source,
-        disabled,
-        isExample: false, // todo - je samo o sobě example?
+        val: getCleanVal(val),
+        arVariant: getMeaningVariant(ar),
+        norm: '', // todo
+        arTranscription: normTranscription,
+        stem: stem,
+        stemVowel: otherFormsObj.vowel,
+        rootId: getId(root, roots),
+        catIds: category,
+        synonymsIds: syn,
+        tagIds: _tags,
+        exampleIds: example, // todo -- jaké examples k němu patří
+        sourceIds: source,
+        isDisabled: getBooleanRepresentation(isDisabled),
+        isExample: getBooleanRepresentation(isExample), // todo - je samo o sobě example?
     };
  
-    // console.log();
     const csvOutput = await new ObjectsToCsv([output]).toString(false);
  
     // console.log(csvOutput)
     outputStream.write(csvOutput);
- 
-    // console.log(output)
 }
  
 const outputKeys = {
     ar: null,
     cz: null,
-    norm: null,
-    cat_id: null,
-    root_id: null,
-    stem: null,
-    stem_vowel: null,
     plural: null,
     masdar: null,
     val: null,
-    transcription: null, 
-    meaning_variant: null,
-    synonyms_ids: null,
-    tags_ids: null,
-    examples_ids: null, // todo
-    source_ids: null,
-    disabled: null,
-    isExample: null, // todo
+    arVariant: null,
+    norm: null,
+    arTranscription: null,
+    stem: null,
+    stemVowel: null,
+    rootId: null,
+    catIds: null,
+    synonymsIds: null,
+    tagIds: null,
+    exampleIds: null,
+    sourceIds: null,
+    isDisabled: null,
+    isExample: null,
 };
  
 /**

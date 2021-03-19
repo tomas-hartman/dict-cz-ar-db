@@ -13,8 +13,11 @@ dvoji_akuzativ
 dům
 ekonomika_finance
 elementy
+ethym_fa
 ethym_ie
+ethym_other
 ethym_topo
+ethym_tu
 filozofie
 form_masdar
 freetime

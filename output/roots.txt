@@ -38,7 +38,7 @@ S-H-H
 q-m-s
 S-H-f
 m-k-n
-türkçe
+
 S-d-r
 H-dž-z
 f-j-d
@@ -84,7 +84,6 @@ m-r-n
 n-S-S
 gh-d-r
 ch-m-s
-IE
 b-k-r
 '-H-d
 T-j-r
@@ -92,7 +91,6 @@ f-S-H
 n-q-l
 t-l-w
 b-s-T
-
 m-t-3
 3-l-m
 n-Z-m
@@ -226,7 +224,6 @@ dh-k-r
 s-n-w
 3-j-m
 n-q-d
-fá
 r-w-j
 dž-n-b
 gh-r-b
@@ -309,7 +306,6 @@ s-ch-n
 s-b-H
 s-r-H
 s-k-n
-cizí
 š-m-l
 š-h-d
 T-b-ch
@@ -383,7 +379,6 @@ m-w-dž
 d-w-n
 '-š-r
 f-D-l
-toponymum
 b-r-dž
 dž-w-z
 H-f-Z
@@ -488,6 +483,7 @@ q-h-j
 s-r-j
 k-n-s
 r-H-l
+m-t-r
 n-dž-m
 s-d-s
 b-j-t
@@ -511,7 +507,6 @@ z-r-q
 S-f-r
 s-w-d
 b-j-D
-FA
 b-n-n
 r-m-d
 w-r-d
@@ -594,6 +589,7 @@ l-b-s
 s-f-q
 3-T-f
 q-b-3
+s-r-w-l
 f-r-q
 H-f-r
 š-r-T
@@ -664,7 +660,6 @@ n-b-b
 s-q-l
 w-S-3
 w-S-f
-fráze
 j-b-s
 k-s-r
 q-t-l

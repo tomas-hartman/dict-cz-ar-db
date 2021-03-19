@@ -8,7 +8,7 @@ const uniqueRoots = new Set();
 function getRoots(data, dataStream) {
     const [_ar, _val, _cz, root, ..._args] = data;
 
-    if(!uniqueRoots.has(root)){
+    if(!uniqueRoots.has(root) && root.trim() !== ''){
         uniqueRoots.add(root);
         dataStream.write(root + '\n');
     }

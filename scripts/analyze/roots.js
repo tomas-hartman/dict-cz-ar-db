@@ -12,14 +12,30 @@ function analyzeRoots(data, dataStream) {
     if(root.trim() === '' && (containsEthymTag || isToponym)) return;
 
     // Kořen není vyplněn, obsahuje ?, mezeru (značí více slov, což je podezřelé), nebo začíná na "-" (chyba)
-    if (root.match(regexNonStandardLetters) 
-        || root.match(regexEmptyOfUnknown) 
-        || root.trim() === '' 
-        || root.match(regexMissingAleph)) {
-        dataStream.write(data.join('\t') + '\n');
+    if (root.match(regexNonStandardLetters) ) {
+        dataStream.write('Error: root contains forbidden chars:\t' + data.join('\t') + '\n');
+        
+        return [root, data.join('\t')];
+    } 
+    
+    if(root.match(regexEmptyOfUnknown)){
+        dataStream.write('Error: root uncertain:\t' + data.join('\t') + '\n');
+
+        return [root, data.join('\t')];
+    } 
+    
+    if(root.trim() === ''){
+        dataStream.write('Error: root is missing:\t' + data.join('\t') + '\n');
 
         return [root, data.join('\t')];
     }
+    
+    if(root.match(regexMissingAleph)) {
+        dataStream.write('Error: aleph is missing:\t' + data.join('\t') + '\n');
+
+        return [root, data.join('\t')];
+    }
+
 }
 
 module.exports = { analyzeRoots };

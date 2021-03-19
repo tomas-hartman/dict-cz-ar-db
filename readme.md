@@ -142,3 +142,16 @@ n. konverze do csv a import do db
 - after prepare!
 
 3. transform -> transforms raw data (that should be fixed after analyzation) into csv file suitable for db
+
+
+
+## Rethinking flow:
+
+1. proccess raw data
+2. analyze raw data and fix them                                                --> analyze
+3. prepare index data = roots, tags, categories, synonyms, examples, sources    --> extract attributes (transform)
+  - extract all roots, tags+, synonyms+examples, stems
+  - analyze and fix them
+  - convert them to db                                                          --> convert attributes
+4. convert words to db                                                          --> convert vocabulary
+  - convertToCsv --> find indexes in db

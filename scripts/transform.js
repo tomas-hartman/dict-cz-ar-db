@@ -8,7 +8,7 @@ const createOutputStream = require('./utils/createOutputStream');
  */
 const transform = (filename) => {
     // Write file with roots
-    const outputRoots = createOutputStream('../../output/', 'roots.txt');
+    const outputRoots = createOutputStream('../../output/', 'roots.txt', filename);
     readfile(filename, (data) => getRoots(data, outputRoots));
     
     // Prepare data from tags

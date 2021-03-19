@@ -38,8 +38,8 @@ function sortTagsIntoCategories(data, dataStream) {
  * @param {*} outputName 
  * @param {*} setOfValues 
  */
-const generateOutputFromSet = (outputName, setOfValues) => {
-    const outputStream = createOutputStream('../../output/', `${outputName}.txt`);
+const generateOutputFromSet = (outputName, setOfValues, inputFilename) => {
+    const outputStream = createOutputStream('../../output/', `${outputName}.txt`, inputFilename);
 
     const sortedSet = Array.from(setOfValues).sort();
 
@@ -57,10 +57,10 @@ async function getTags(inputFilename) {
     // const outputTags = createOutputStream('../../output/', 'tags_unsorted.txt');
     await readfile(inputFilename, (data) => sortTagsIntoCategories(data));
 
-    generateOutputFromSet('categories', uniqueCategories);
-    generateOutputFromSet('sources', uniqueSources);
-    generateOutputFromSet('stems', uniqueStems);
-    generateOutputFromSet('tags', uniqueValues);
+    generateOutputFromSet('categories', uniqueCategories, inputFilename);
+    generateOutputFromSet('sources', uniqueSources, inputFilename);
+    generateOutputFromSet('stems', uniqueStems, inputFilename);
+    generateOutputFromSet('tags', uniqueValues, inputFilename);
 }
 
 module.exports = {sortTags: sortTagsIntoCategories, getTags};

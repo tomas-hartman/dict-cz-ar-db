@@ -1,9 +1,4 @@
-const readfile = require('../readfile');
-const path = require('path');
-
-const {db} = require('../dbconnect/prepareRootTable');
-
-const importToDb = (db, tableName, row) => {
+const categoriesImporter = (db, tableName, row) => {
     const createTableSql = `
     CREATE TABLE IF NOT EXISTS ${tableName} (
         id INTEGER PRIMARY KEY, 
@@ -45,27 +40,4 @@ const importToDb = (db, tableName, row) => {
     });
 };
 
-function transformFileLine(data) {
-    const [category] = data;
-
-    return {
-        category,
-        description: undefined,
-        isDisabled: 0,
-    };
-}
-
-function convertCategoriesToDb(inputFile) {
-    
-    const dirName = path.parse(inputFile).name;
-    const dataFile = path.resolve(__dirname, '../../output', dirName, 'categories.txt');
-
-    readfile(dataFile, async (data) => {
-        const outputRowObj = transformFileLine(data);
-        
-        // console.log(await outputRowObj);
-        importToDb(db, 'categories', outputRowObj);
-    });
-}
-
-module.exports = { convertCategoriesToDb };
+module.exports = { categoriesImporter };

@@ -154,7 +154,7 @@ async function convertFile(data, outputStream) {
      */
     const output = {
         ar: wordForm,
-        cz,
+        cs: cz,
         plural: otherFormsObj.plural,
         masdar: otherFormsObj.masdar,
         val: getCleanVal(val),
@@ -171,6 +171,8 @@ async function convertFile(data, outputStream) {
         sourceIds: source,
         isDisabled: getBooleanRepresentation(isDisabled),
         isExample: getBooleanRepresentation(isExample), // todo - je samo o sobě example?
+        tExample: example,
+        tSynonym: syn,
     };
  
     const csvOutput = await new ObjectsToCsv([output]).toString(false);
@@ -181,7 +183,7 @@ async function convertFile(data, outputStream) {
  
 const outputKeys = {
     ar: null,
-    cz: null,
+    cs: null,
     plural: null,
     masdar: null,
     val: null,
@@ -198,6 +200,8 @@ const outputKeys = {
     sourceIds: null,
     isDisabled: null,
     isExample: null,
+    tExample: null,
+    tSynonym: null,
 };
  
 /**

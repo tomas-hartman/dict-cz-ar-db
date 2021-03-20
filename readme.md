@@ -28,6 +28,8 @@ __Sloupce:__
 - examples_ids (id přidružených příkladů)
 - source_ids (id týkající se zdroje slovíčka, AR_gramatika_1 apod.) vlastní tabulka
 - disabled (true | false, zablokovaná položka, která se nemá propsat do Db)
+- t_synonym (temporary string with synonym from synonym field)
+- t_example (temporary string with example from example field)
 
 | id  | word | cz_id | cat_id | plural | stem_form | stem  | masdar | transcription | example_id | valency | root_id | meaning_variant |
 | --- | ---: | :---: | :---:  | ---:   | ---:      | :---: | ---:   | ---           | ---        | ---     | :---:   | :---: |

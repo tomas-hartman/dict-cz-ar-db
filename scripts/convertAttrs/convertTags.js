@@ -1,9 +1,4 @@
-const readfile = require('../readfile');
-const path = require('path');
-
-const {db} = require('../dbconnect/prepareRootTable');
-
-const importToDb = (db, tableName, row) => {
+const tagsImporter = (db, tableName, row) => {
     const createTableSql = `
     CREATE TABLE IF NOT EXISTS ${tableName} (
         id INTEGER PRIMARY KEY, 
@@ -43,27 +38,4 @@ const importToDb = (db, tableName, row) => {
     });
 };
 
-function transformRootFileLine(data) {
-    const [tag] = data;
-
-    return {
-        tag,
-        description: undefined,
-        isDisabled: 0,
-    };
-}
-
-function convertTagsToDb(inputFile) {
-    
-    const dirName = path.parse(inputFile).name;
-    const dataFile = path.resolve(__dirname, '../../output', dirName, 'tags.txt');
-
-    readfile(dataFile, async (data) => {
-        const outputRowObj = transformRootFileLine(data);
-        
-        // console.log(await outputRowObj);
-        importToDb(db, 'tags', outputRowObj);
-    });
-}
-
-module.exports = { convertTagsToDb };
+module.exports = { tagsImporter };

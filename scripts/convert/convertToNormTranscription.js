@@ -59,4 +59,4 @@ const convertWrapperCb = (data) => {
 // readfile(file, convertRoot);
 // readfile(file, convertWrapperCb);
 
-module.exports = convertToNormTranscription;
+module.exports = {convertToNormTranscription};

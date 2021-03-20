@@ -24,8 +24,8 @@ function parseFourConsonant(data, regexes) {
     const splitForm = cleanedAr.split(' ');
 
     const output = {
-        word: splitForm[0],
-        vowel: transformVowel(splitForm[1]),
+        ar: splitForm[0],
+        stemVowel: transformVowel(splitForm[1]),
         masdar: undefined
     };
 
@@ -44,11 +44,11 @@ function parseFirstStem(data, regexes) {
      * Forma: word (vowel, full form) | word (vowel, masdar) -> tohle se odchytí v analyze
      */
     if(cleanedAr.match(splitTwoFormsRegex)) {
-        const [word, vowel] = cleanedAr.split(splitTwoFormsRegex).filter((item) => item !== '');
+        const [ar, vowel] = cleanedAr.split(splitTwoFormsRegex).filter((item) => item !== '');
 
         const output = {
-            word, 
-            vowel: transformVowel(vowel), 
+            ar, 
+            stemVowel: transformVowel(vowel), 
             masdar: undefined
         };
 
@@ -63,8 +63,8 @@ function parseFirstStem(data, regexes) {
         const [word, vowel, masdar] = splitForm;
 
         const output = {
-            word: cleanWord(word, regexes), 
-            vowel: transformVowel(vowel), 
+            ar: cleanWord(word, regexes), 
+            stemVowel: transformVowel(vowel), 
             masdar
         };
 
@@ -80,8 +80,8 @@ function parseFirstStem(data, regexes) {
         console.warn('Warning:', ar, cz);
 
         const output = {
-            word: cleanedAr, 
-            vowel: undefined, 
+            ar: cleanedAr, 
+            stemVowel: undefined, 
             masdar: undefined
         };
 
@@ -104,8 +104,8 @@ function parseFirstStem(data, regexes) {
     const [word, vowel, masdar] = filteredCleanArArr.map(filteredMapCb);
 
     const output = {
-        word, 
-        vowel: transformVowel(vowel), 
+        ar: word, 
+        stemVowel: transformVowel(vowel), 
         masdar
     };
 
@@ -123,8 +123,8 @@ function parseExtendedStems(data, regexes) {
      */
     if(cleanedAr.split(' ').length === 1){
         const output = {
-            word: cleanedAr,
-            vowel: undefined,
+            ar: cleanedAr,
+            stemVowel: undefined,
             masdar: undefined
         };
 
@@ -139,8 +139,8 @@ function parseExtendedStems(data, regexes) {
         const [word, masdar] = cleanedAr.split(regexes.regexWordInParentheses).filter((item) => item !== '');
             
         const output = {
-            word,
-            vowel: undefined,
+            ar: word,
+            stemVowel: undefined,
             masdar,
         };
             

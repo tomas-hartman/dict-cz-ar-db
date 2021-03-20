@@ -5,9 +5,12 @@ const fs = require('fs');
 const path = require('path');
 const readfile = require('../readfile');
 const ObjectsToCsv = require('objects-to-csv');
-const convertToNormTranscription = require('./convertToNormTranscription');
+
+const { convertToNormTranscription } = require('./convertToNormTranscription');
 const { parseVerb } = require('../transform/parseVerb');
 const { parseNoun } = require('../transform/parseNoun');
+const { getCleanVal } = require('../utils/getCleanVal');
+const { transformToJson } = require('../utils/transformToJson');
  
 const getValues = (name) => {
     const filePath = path.resolve(__dirname, '../../output/' + name + '.txt');
@@ -30,18 +33,6 @@ const getId = (value, collection) => {
  
     return;
 };
-
-function transformToJson(array) {
-    if(array.length > 0) return JSON.stringify(array);
-
-    return '';
-}
- 
-function getCleanVal(val) {
-    let output = val.replace(/\u0640{2,}/g, 'ـ');
-
-    return output;
-}
 
 function getBooleanRepresentation(value) {
     return value === true ? 1 : 0;

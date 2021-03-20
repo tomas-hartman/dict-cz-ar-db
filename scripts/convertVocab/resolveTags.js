@@ -1,11 +1,6 @@
 const { db } = require('../dbconnect/prepareRootTable');
 const { extractTags } = require('../utils/extractTags');
-
-function transformToJson(array) {
-    if(array.length > 0) return JSON.stringify(array);
-
-    return undefined;
-}
+const { transformToJson } = require('../utils/transformToJson');
 
 /**
   * Finds id of every tag
@@ -58,7 +53,7 @@ async function resolveTags(tagsString) {
         tagIds: transformToJson(outputTags),
         catIds: transformToJson(outputCategory),
         sourceIds: transformToJson(outputSource),
-        stem: transformToJson(outputStem),
+        stemId: outputStem[0],
         isDisabled: isDisabled.length > 0 ? 1 : 0,
         isExample: isExample.length > 0 ? 1 : 0
     };

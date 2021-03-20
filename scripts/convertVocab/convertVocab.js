@@ -1,18 +1,20 @@
-/**
- * 1. otevře raw file
- * 2. 
- */
-
+const { convertToNormTranscription } = require('../convert/convertToNormTranscription');
+const { getCleanVal } = require('../utils/getCleanVal');
+const { resolveRoot } = require('./resolveRoot');
 const { resolveTags } = require('./resolveTags');
+const { resolveWord } = require('./resolveWord');
 
 async function convertVocab(dataFileLine) {
-    const [ar, val, cs, root, tSynonym, tExample, transcription, tags] = dataFileLine.split('\t');
+    const data = dataFileLine.split('\t');
+    const [_ar, _val, cs, _root, tSynonym, tExample, transcription, tags] = data;
 
-    console.log('tags:', tags);
+    const { tagIds, catIds, stemId, sourceIds, isDisabled, isExample } = await resolveTags(tags);
+    const { ar, plural, masdar, stemVowel, arVariant } = resolveWord(data);
+    const { rootId } = await resolveRoot(_root);
+    const val = getCleanVal(_val);
+    const arTranscription = convertToNormTranscription(transcription, _root);
 
-    const {tagIds, catIds, stem, sourceIds, isDisabled, isExample} = await resolveTags(tags);
-
-    // console.log(await resolveTags(tags));
+    // console.log(resolveWord(data));
 
     /**
      * ar, cz : basic forms
@@ -24,17 +26,17 @@ async function convertVocab(dataFileLine) {
      * isDisabled, isExample : props
      */
     const output = {
-        // ar: wordForm,
+        ar,
         cs,
-        // plural: otherFormsObj.plural,
-        // masdar: otherFormsObj.masdar,
-        // val: getCleanVal(val),
-        // arVariant: getMeaningVariant(ar),
+        plural,
+        masdar,
+        val,
+        arVariant,
         // norm: '', // todo
-        // arTranscription: normTranscription,
-        stem,
-        // stemVowel: otherFormsObj.vowel,
-        // rootId: getId(root, roots),
+        arTranscription,
+        stemId,
+        stemVowel,
+        rootId,
         catIds,
         tagIds,
         synonymsIds: undefined,

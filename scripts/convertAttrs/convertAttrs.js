@@ -1,4 +1,7 @@
 /**
+ * Converts all important attributed data for vocabulary, except the vocabulary itself.
+ * Prepares all indexes to be ready, so vocabulary conversion can be achieved.
+ * 
  * 1. convert and merge roots
  * 2. tags, categories, sources
  * 3. stems (manually)

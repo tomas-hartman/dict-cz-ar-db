@@ -42,7 +42,7 @@ const parseNoun = (data) => {
         const cleanedPlural = cleanPlural(plural);
 
         const output = {
-            word: singular,
+            ar: singular,
             plural: cleanedPlural
         };
 

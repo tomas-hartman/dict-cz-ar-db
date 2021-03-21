@@ -246,7 +246,7 @@
 مقرٌّ		sídlo, rezidence	q-r-r			maqarrun	AR_lekce_4 AR_muj_slovnicek_1 budovy cat_substantiva oficiality
 قسم		oddělení, katedra	q-s-m			qismun (aqsámun)	AR_lekce_4 cat_substantiva
 قضية		případ, otázka (např. politická)	q-D-j			qadíjatun (qadájá)	AR_lekce_4 cat_substantiva marked
-مستقل		nezávislý, samostatný	q-l-l			mustaqilun	AR_lekce_4 cat_adjektiva
+مُسْتَقِلّ	عن	nezávislý (na něčem), samostatný	q-l-l			mustaqillun	AR_1.rocnik AR_lekce_4 AR_muj_slovnicek_1 cat_adjektiva opakovani_zapomenutych
 قاعة		sál, hala (1); terminál (2)	q-w-3			qá3atun	AR_lekce_4 AR_muj_slovnicek_1 AR_muj_slovnicek_2 budovy cat_substantiva
 كما		rovněž, také	ka			kamá	AR_lekce_4 AR_muj_slovnicek_1 cat_adverbia
 ماض		minulý, uplynulý	m-d-j			mádin	AR_lekce_4 cat_adjektiva
@@ -325,7 +325,6 @@
 في أواخر		koncem, na konci	'-w-l				AR_muj_slovnicek_1 cat_prepozice cat_substantiva marked čas
 حرب (حروب)		válka (fem)	H-r-b				AR_muj_slovnicek_1 cat_substantiva ostatní
 عُضْوٌ (أعضاءٌ)		člen	3-D-w				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva oficiality opakovani_zapomenutych
-مُسْتَقِلّ (عن)		nezávislý	q-l-l				AR_1.rocnik AR_muj_slovnicek_1 cat_adjektiva marked opakovani_zapomenutych
 عضوية		členství	3-d-w			3uDwíjatun	AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva oficiality opakovani_zapomenutych
 دَعْمٌ		podpora	d-3-m			da3mun	AR_lekce_4 AR_muj_slovnicek_1 cat_substantiva oficiality
 على إنترنيت		na internetu					AR_muj_slovnicek_1 cat_fraze ethym_ie příklad

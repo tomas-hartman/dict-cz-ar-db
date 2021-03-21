@@ -1,4 +1,4 @@
-const { getCategories } = require('../utils/getCategory');
+const { getCategories } = require('../utils/getCategories');
 
 const regexes = {
     variants: /\{\d\}|\(\d\)/g,
@@ -31,7 +31,7 @@ const parseNoun = (data) => {
     const isNoun = getCategories(tags).includes('cat_substantiva');
 
     if(!isNoun) return {
-        word: ar,
+        ar,
         plural: undefined
     };
 

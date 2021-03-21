@@ -4,7 +4,14 @@ const { resolveRoot } = require('./resolveRoot');
 const { resolveTags } = require('./resolveTags');
 const { resolveWord } = require('./resolveWord');
 
-async function convertVocab(dataFileLine) {
+/**
+ * Converts a line from raw file data to object of semantically ordered data,
+ * that can be imported to db
+ * 
+ * @param {String} dataFileLine 
+ * @returns {Object}
+ */
+async function convertVocabLine(dataFileLine) {
     const data = dataFileLine.split('\t');
     const [_ar, _val, cs, _root, tSynonym, tExample, transcription, tags] = data;
 
@@ -32,7 +39,7 @@ async function convertVocab(dataFileLine) {
         masdar,
         val,
         arVariant,
-        // norm: '', // todo
+        norm: undefined,
         arTranscription,
         stemId,
         stemVowel,
@@ -51,4 +58,4 @@ async function convertVocab(dataFileLine) {
     return output;
 }
 
-module.exports = {convertVocab};
+module.exports = {convertVocabLine};

@@ -1,8 +1,13 @@
-const { getCategories } = require('../utils/getCategory');
+const { getCategories } = require('../utils/getCategories');
 const { parseVerb } = require('../transform/parseVerb');
 const { parseNoun } = require('../transform/parseNoun');
 const { getMeaningVariant } = require('../utils/getMeaningVariant');
 
+/**
+ * Enhanced variant of convertToCsv's convertFile()
+ * @param {String} data 
+ * @returns {Object} 
+ */
 function resolveWord(data) {
     const [ar, _val, _cz, _root, _syn, _example, _transcription, tags] = data;
 

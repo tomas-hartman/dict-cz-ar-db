@@ -1,4 +1,4 @@
-const { convertVocab } = require('./scripts/convertVocab/convertVocab');
+const { convertVocabLine } = require('./scripts/convertVocab/convertVocab');
 const { resolveRoot } = require('./scripts/convertVocab/resolveRoot');
 const { resolveWord } = require('./scripts/convertVocab/resolveWord');
 
@@ -37,7 +37,7 @@ const arrFromStr = str.split('\t');
 console.log('Origin:\n', str, '\n');
 
 (async () => {
-    const output = await convertVocab(verbStr);
+    const output = await convertVocabLine(verbStr);
     
     console.log('Output:', output);
 })();

@@ -1,5 +1,6 @@
 /**
- * Transforms proccessed output into csv formatted output ready to be imported into db
+ * Transforms proccessed output files into csv formatted output ready to be imported into db
+ * @deprecated Use convertVocab + db requests
  */
 const fs = require('fs');
 const path = require('path');
@@ -45,7 +46,7 @@ function getBooleanRepresentation(value) {
   * @returns object with categorized information obtained from tags
   * @param {*} tagsString 
   */
-function resolveTags(tagsString) {
+function resolveTagsFromFiles(tagsString) {
     const tagsArr = tagsString.split(' ');
  
     const outputCategory = [];
@@ -91,7 +92,7 @@ function resolveTags(tagsString) {
  
 async function convertFile(data, outputStream) {
     const [ar, val, cz, root, syn, example, transcription, tags] = data;
-    const {tags: _tags, category, source, isDisabled, stem} = resolveTags(tags);
+    const {tags: _tags, category, source, isDisabled, stem} = resolveTagsFromFiles(tags);
 
     const getMeaningVariant = (word) => {
         let match = word.match(/\(\d\)|{\d}/g);
@@ -198,6 +199,7 @@ const outputKeys = {
 /**
   * Gathers all information and generates final csv file. 
   * @param {*} dataStream 
+  * @deprecated Use convertVocab + db requests
   */
 const convertToCsv = (inputFile, dataStream) => {
     const firstLine = Object.keys(outputKeys).join(',');

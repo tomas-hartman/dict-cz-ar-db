@@ -42,7 +42,7 @@ const analyze = (filename) => {
     
     // TAGS:
     // analyze words without category
-    /** @todo lze vyřešit pomocí getCategory */
+    /** @todo lze vyřešit pomocí getCategories */
     const outputUncategorized = createOutputStream('../../output/logs/', 'errors_uncategorized.txt', filename);
     readfile(filename, (data) => analyzeUncategorized(data, outputUncategorized));
 

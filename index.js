@@ -20,10 +20,9 @@ const path = require('path');
 const { analyze } = require('./scripts/analyze');
 const transform = require('./scripts/transform');
 // const { convert } = require('./scripts/convert');
-const { parseVerb } = require('./scripts/transform/parseVerb');
-const { parseNoun } = require('./scripts/transform/parseNoun');
 const readfile = require('./scripts/readfile');
 const convertAttrs = require('./scripts/convertAttrs/convertAttrs');
+const { convertVocab } = require('./scripts/convertVocab/convertVocab');
 
 if(argv._.length === 0) throw new Error('You must include path to raw data file first');
 
@@ -34,7 +33,7 @@ const question = [
         type: 'list',
         name: 'action',
         message: 'What action do you want to perform?',
-        choices: ['Parse noun','Analyze', 'Extract attributes', 'Convert attributes', 'Convert vocabulary']
+        choices: ['Analyze', 'Extract attributes', 'Convert attributes', 'Convert vocabulary', 'Drop vocabulary']
     }
 ];
 
@@ -44,9 +43,6 @@ inquirer.prompt(question).then((answers) => {
     try {
         if(filename){
             switch (action) {
-            case 'Parse noun':
-                readfile(filename, (data) => parseNoun(data, ''));
-                break;
             case 'Analyze':
                 analyze(filename);
                 break;
@@ -54,13 +50,13 @@ inquirer.prompt(question).then((answers) => {
                 transform(filename);
                 break;
             case 'Convert attributes':
-                // TODO
-                // convert(filename);
                 convertAttrs(filename);
                 break;
             case 'Convert vocabulary':
-                // TODO
-                // convert(filename);
+                convertVocab(filename);
+                break;
+            case 'Drop vocabulary':
+                // convertVocab(filename);
                 break;
             default:
                 console.log('Nothing...');

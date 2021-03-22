@@ -1,6 +1,6 @@
 const readfile = require('../readfile');
 const crypto = require('crypto');
-const {getCategories} = require('../utils/getCategory');
+const {getCategories} = require('../utils/getCategories');
 
 const normalizeAr = require('../normalize/normalizeAr');
 

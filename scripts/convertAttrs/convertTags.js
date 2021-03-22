@@ -25,7 +25,7 @@ const tagsImporter = (db, tableName, row) => {
             const [isExisting] = Object.values(resultRow);
             
             if(isExisting > 0) {
-                console.log('Entry already existing:', row);
+                console.log('Entry already exists:', row);
             } else {
                 //  * 3. create new entry
                 db.run(addEntrySql, {

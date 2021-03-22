@@ -1,8 +1,7 @@
 const readfile = require('../readfile');
 const path = require('path');
 
-const convertToNormTranscription = require('../convert/convertToNormTranscription');
-
+const { convertToNormTranscription } = require('../convert/convertToNormTranscription');
 const {conversionTableToAr} = require('../convert/conversionTableToAr');
 
 const {db} = require('../dbconnect/prepareRootTable');
@@ -41,7 +40,7 @@ const importToDb = (db, tableName, row) => {
             const [isExisting] = Object.values(resultRow);
             
             if(isExisting > 0) {
-                console.log('Root already existing:', row);
+                console.log('Root already exists:', row);
             } else {
                 //  * 3. create new entry
                 db.run(addRootToDbSql, {

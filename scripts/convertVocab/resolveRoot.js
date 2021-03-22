@@ -1,9 +1,7 @@
 const { db } = require('../dbconnect/prepareRootTable');
-const { extractTags } = require('../utils/extractTags');
-const { transformToJson } = require('../utils/transformToJson');
 
 async function resolveRoot(rootStr) {
-    if(rootStr.trim() === '') return undefined;
+    if(rootStr.trim() === '') return {root: undefined};
 
     const getRootId = async (rootStr) => {
         let output;
@@ -29,7 +27,6 @@ async function resolveRoot(rootStr) {
     };
 
     const rootId = await getRootId(rootStr);
-
     const output = { rootId };
 
     return output;

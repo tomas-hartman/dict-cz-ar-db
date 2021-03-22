@@ -1,32 +1,27 @@
-const readfile = require('../readfile');
-const path = require('path');
-
-const {db} = require('../dbconnect/prepareRootTable');
-
 const vocabImporter = (db, tableName, row) => {
     const createTableSql = `
-    CREATE TABLE IF NOT EXISTS vocabulary (
-        id INTEGER PRIMARY KEY,
-        ar TEXT,
-        cs TEXT,
-        plural TEXT,
-        masdar TEXT,
-        valency TEXT,
-        ar_variant TEXT,
-        norm TEXT,
-        ar_transcription TEXT,
-        stemId INTEGER,
-        stem_vowel TEXT,
-        root_id INTEGER,
-        cat_ids TEXT,
-        synonyms_ids TEXT,
-        tag_ids TEXT,
-        example_ids TEXT,
-        source_ids TEXT,
-        is_disabled INTEGER,
-        is_example INTERER,
-        t_example TEXT,
-        t_synonym TEXT,
+        CREATE TABLE IF NOT EXISTS ${tableName} (
+            id INTEGER PRIMARY KEY,
+            ar TEXT,
+            cs TEXT,
+            plural TEXT,
+            masdar TEXT,
+            valency TEXT,
+            ar_variant TEXT,
+            norm TEXT,
+            ar_transcription TEXT,
+            stem_id INTEGER,
+            stem_vowel TEXT,
+            root_id INTEGER,
+            cat_ids TEXT,
+            tag_ids TEXT,
+            synonyms_ids TEXT,
+            example_ids TEXT,
+            source_ids TEXT,
+            is_disabled INTEGER,
+            is_example INTEGER,
+            t_example TEXT,
+            t_synonym TEXT
         )`;
         
 
@@ -49,14 +44,14 @@ const vocabImporter = (db, tableName, row) => {
             stem_vowel,
             root_id,
             cat_ids,
-            synonyms_ids,
             tag_ids,
+            synonyms_ids,
             example_ids,
             source_ids,
             is_disabled,
             is_example,
             t_example,
-            t_synonym,
+            t_synonym
         )
         VALUES (
             $ar,
@@ -71,14 +66,14 @@ const vocabImporter = (db, tableName, row) => {
             $stem_vowel,
             $root_id,
             $cat_ids,
-            $synonyms_ids,
             $tag_ids,
+            $synonyms_ids,
             $example_ids,
             $source_ids,
             $is_disabled,
             $is_example,
             $t_example,
-            $t_synonym,
+            $t_synonym
         )
         `;
         
@@ -94,6 +89,7 @@ const vocabImporter = (db, tableName, row) => {
             
             if(isExisting > 0) {
                 console.log('Entry already existing:', row);
+                // consider some updates here! this should prevent multiple imports
             } else {
                 //  * 3. create new entry
                 db.run(addEntrySql, {
@@ -101,7 +97,7 @@ const vocabImporter = (db, tableName, row) => {
                     $cs: row.cs,
                     $plural: row.plural,
                     $masdar: row.masdar,
-                    $valency: row.valency,
+                    $valency: row.val,
                     $ar_variant: row.arVariant,
                     $norm: row.norm,
                     $ar_transcription: row.arTranscription,
@@ -109,14 +105,18 @@ const vocabImporter = (db, tableName, row) => {
                     $stem_vowel: row.stemVowel,
                     $root_id: row.rootId,
                     $cat_ids: row.catIds,
-                    $synonyms_ids: row.synonymsIds,
                     $tag_ids: row.tagIds,
+                    $synonyms_ids: row.synonymsIds,
                     $example_ids: row.exampleIds,
                     $source_ids: row.sourceIds,
                     $is_disabled: row.isDisabled,
                     $is_example: row.isExample,
                     $t_example: row.tExample,
                     $t_synonym: row.tSynonym,
+                }, (error) => {
+                    if(error) throw new Error(error);
+
+                    console.log('Successfully imported', row.ar, row.cs);
                 });
             }
         });

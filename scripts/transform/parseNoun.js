@@ -37,6 +37,7 @@ const parseNoun = (data) => {
 
     const cleanedAr = cleanWord(ar, regexes.variants);
 
+    // Form: word (plural)
     if(isNoun && cleanedAr.match(regexes.nounWithPlural)){
         const [singular, plural] = cleanedAr.split(regexes.nounWithPlural).filter((item) => item !== '');
         const cleanedPlural = cleanPlural(plural);
@@ -49,6 +50,11 @@ const parseNoun = (data) => {
         return output;
     }
 
+    // Form: word | word other-word ...
+    return {
+        ar,
+        plural: undefined
+    };
 };
 
 module.exports = {parseNoun};

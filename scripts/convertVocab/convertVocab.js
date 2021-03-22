@@ -1,5 +1,8 @@
 const { convertToNormTranscription } = require('../convert/convertToNormTranscription');
+const { db } = require('../dbconnect/prepareRootTable');
+const readfile = require('../readfile');
 const { getCleanVal } = require('../utils/getCleanVal');
+const { vocabImporter } = require('./convertVocabImporter');
 const { resolveRoot } = require('./resolveRoot');
 const { resolveTags } = require('./resolveTags');
 const { resolveWord } = require('./resolveWord');
@@ -12,11 +15,11 @@ const { resolveWord } = require('./resolveWord');
  * @returns {Object}
  */
 async function convertVocabLine(dataFileLine) {
-    const data = dataFileLine.split('\t');
-    const [_ar, _val, cs, _root, tSynonym, tExample, transcription, tags] = data;
+    // const data = dataFileLine.split('\t');
+    const [_ar, _val, cs, _root, tSynonym, tExample, transcription, tags] = dataFileLine;
 
     const { tagIds, catIds, stemId, sourceIds, isDisabled, isExample } = await resolveTags(tags);
-    const { ar, plural, masdar, stemVowel, arVariant } = resolveWord(data);
+    const { ar, plural, masdar, stemVowel, arVariant } = resolveWord(dataFileLine);
     const { rootId } = await resolveRoot(_root);
     const val = getCleanVal(_val);
     const arTranscription = convertToNormTranscription(transcription, _root);
@@ -58,4 +61,21 @@ async function convertVocabLine(dataFileLine) {
     return output;
 }
 
-module.exports = {convertVocabLine};
+/**
+ * Callback that handles one line of data obtained from readfile
+ * @param {*} lineData 
+ */
+const convertVocabCb = async (lineData) => {
+    try{
+        const vocabObj = await convertVocabLine(lineData); // this converts raw data from file to object
+        vocabImporter(db,'vocabulary',vocabObj); // this imports vocab to db
+    } catch (err) {
+        throw new Error(err);
+    }    
+};
+
+const convertVocab = (inputFile) => {    
+    readfile(inputFile, (data) => convertVocabCb(data));
+};
+
+module.exports = {convertVocab, convertVocabLine};

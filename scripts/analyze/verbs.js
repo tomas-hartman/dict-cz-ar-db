@@ -1,4 +1,4 @@
-const { getCategories } = require('../utils/getCategory');
+const { getCategories } = require('../utils/getCategories');
 const { getStem } = require('../utils/getStem');
 const { cleanWord } = require('../utils/removeParenthesesFromAr');
 

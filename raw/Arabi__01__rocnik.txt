@@ -29,7 +29,7 @@
 مَعْرُوفٌ		proslulý, známý	3-r-f				AR_1.rocnik AR_muj_slovnicek_1 cat_adjektiva opakovani_zapomenutych
 ضَيْفٌ (ضُيُوفٌ)		host	D-j-f			Dajfun Dujúfun	AR_muj_slovnicek_1 cat_substantiva lidé
 فَتَاةٌ (فَتَيَاتٌ)		mladé ženy	f-t-j				AR_muj_slovnicek_1 cat_substantiva lidé
-وَلَدٌ (أَوْلاَدُ)		mladý chlapec	w-l-d				AR_muj_slovnicek_1 cat_substantiva lidé
+وَلَدٌ (أَوْلاَدُ)		chlapec	w-l-d			waladun ('awládun)	AR_muj_slovnicek_1 cat_substantiva lidé rodina
 سُؤَالٌ (أَسئِلَةُ)		otázka	s-'-l				AR_muj_slovnicek_1 cat_substantiva ostatní
 إِجَابَةٌ (ات)		odpověď	dž-w-b	رَدٌّ (رُدُودٌ)، جَوَابٌ (أَجْوِبَةٌ)			AR_1.rocnik AR_lekce_17 AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
 سَهْلٌ		snadný	s-h-l				AR_muj_slovnicek_1 cat_adjektiva
@@ -288,7 +288,6 @@
 كفَايَة		dostatek	k-f-j				abstraktní AR_muj_slovnicek_1 cat_substantiva ostatní
 بستان		sad, zahrada					AR_muj_slovnicek_1 cat_substantiva dům ethym_fa ethym_ie krajina
 والد (والدان)		rodiče (obvykle v duálu)	w-l-d				AR_muj_slovnicek_1 cat_substantiva rodina
-وَلَدٌ		chlapec	w-l-d			waladun	AR_muj_slovnicek_1 cat_substantiva rodina
 رواية		román	r-w-j			riwájatun	AR_lekce_3 AR_muj_slovnicek_1 cat_substantiva knihy
 جنوب		jih	dž-n-b				AR_muj_slovnicek_1 cat_substantiva geografie
 غَرْبٌ		západ	gh-r-b				AR_muj_slovnicek_1 cat_substantiva geografie
@@ -543,7 +542,7 @@
 مُثلَّج		ledový	th-l-dž				AR_1.rocnik AR_muj_slovnicek_1 cat_adjektiva opakovani_zapomenutych
 ذاتِيَّةٌ		osobnost, identita	dh				AR_muj_slovnicek_1 cat_substantiva marked oficiality ostatní
 اِسْتَخْدَامٌ		užití, použití	ch-d-m			istichdámun	AR_1.rocnik AR_lekce_10 AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
-وَلَدَ (ـِـ)		porodit, mít dítě	w-l-d				AR_muj_slovnicek_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
+وَلَدَ (يَلِدُ) وِلاَدَةٌ	ه	porodit někoho, (v pasivu) narodit se	w-l-d				AR_muj_slovnicek_1 AR_slovicka_gramatika_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
 مَعُونَةٌ مَالِيَّةٌ		finanční pomoc	3-w-n				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva oficiality opakovani_zapomenutych
 أمير البحر		admirál	'-m-r				AR_muj_slovnicek_1 cat_substantiva profese
 إِمكَانِيَّة	= إمكان	možnost, schopnost	m-k-n				AR_1.rocnik AR_muj_slovnicek_1 cat_substantiva opakovani_zapomenutych ostatní
@@ -1414,7 +1413,6 @@
 اِعْتَبَرَ	هـ/ه هـ/ه	považovat, pokládat (něco/někoho za něco/někoho)	3-b-r			i3tabara	AR_slovicka_gramatika_1 cat_slovesa VIII_kmen
 طرِيقٌ (طُرُقٌ)		cesta, silnice	T-r-q				AR_slovicka_gramatika_1 cat_substantiva
 أَتَاحَ فُرْصَةً	لِـ	poskytnout (někomu) příležitost	t-j-H			atáHa furSatan	AR_slovicka_gramatika_1 cat_fraze příklad
-وَلَدَ (يَلِدُ) وِلاَدَةٌ	ه	porodit, (pas.) narodit se	w-l-d				AR_slovicka_gramatika_1 cat_slovesa I_kmen IaeW/J slaba_slovesa
 اِسْتِعْراضٌ عَسْكَرِيّ		vojenská přehlídka	3-r-D				AR_slovicka_gramatika_1 cat_substantiva příklad
 لَذِيذٌ (ألذُّ)		chutný, lahodný	l-dh-dh				AR_slovicka_gramatika_1 cat_adjektiva
 بَائِعٌ (بَاعَة)		obchodník, prodavač	b-j-3				AR_slovicka_gramatika_1 cat_substantiva profese

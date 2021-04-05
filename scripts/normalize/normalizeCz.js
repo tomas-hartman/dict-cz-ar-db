@@ -24,4 +24,6 @@ function normalizeCz(text) {
     return output;
 }
 
-normalizeCz('PříliŠ ŽluŤouČký kůň pěl Ďábelské Ódy');
+// normalizeCz('PříliŠ ŽluŤouČký kůň pěl Ďábelské Ódy');
+
+module.exports = {normalizeCz};

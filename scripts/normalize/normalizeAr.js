@@ -1,3 +1,9 @@
+const { arRemoveAllParentheses } = require('./ar/arRemoveAllParentheses');
+const { arRemoveNativeInterpunction } = require('./ar/arRemoveNativeInterpunction');
+const { arRemoveNumerals } = require('./ar/arRemoveNumerals');
+const { arRemoveVocalization } = require('./ar/arRemoveVocalization');
+const { removeMultipleWhitespace } = require('./general/removeMultipleWhitespace');
+
 String.prototype.toUnicode = function(){
     let result = '';
     for(var i = 0; i < this.length; i++){
@@ -16,20 +22,12 @@ String.prototype.toUnicode = function(){
 function normalizeAr(word) {
     let output = word.normalize('NFD');
     
-    // Remove vocalization
-    output = output.replace(/[\u064b-\u0652]/g, '');
-    
-    // Remove [()[]{},.?]
-    output = output.replace(/[\u0028-\u002f\u003a-\u0040\u005b-\u005f\u007b-\u007e]/g,'');
+    output = arRemoveVocalization(output);
+    output = arRemoveAllParentheses(output); // Remove [()[]{},.?]
+    output = arRemoveNativeInterpunction(output);
+    output = arRemoveNumerals(output);
+    output = removeMultipleWhitespace(output);
 
-    // Remove arabic interpunction and tatweel
-    output = output.replace(/[\u061e-\u061f\u061b\u060c-\u060d\u0640]/g, '');
-
-    // Remove numerals (both latin and arabic and persian, just in case)
-    output = output.replace(/[\u0030-\u0039\u0660-\u0669\u06f0-\u06f9]/g, '');
-
-    // Remove whitespaces where there is more than 1
-    output = output.replace(/\s{2,}/g,' ');
     output = output.trim();
 
     return output;

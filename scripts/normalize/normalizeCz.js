@@ -1,3 +1,6 @@
+const { czRemoveDiacritics } = require('./cz/czRemoveDiacritics');
+const { czRemoveSpecialChars } = require('./cz/czRemoveSpecialChars');
+
 String.prototype.toUnicode = function(){
     let result = '';
     for(var i = 0; i < this.length; i++){
@@ -10,20 +13,12 @@ String.prototype.toUnicode = function(){
 function normalizeCz(text) {
     let output = text.normalize('NFD');
 
-    // Lowercase
-    output = output.toLowerCase();
+    output = output.toLowerCase(); // Convert to lowercase
 
-    // Strip diacritics
-    output = output.replace(/[\u02b0-\u036f]/g, '');
-    
-    // Strip ()[]{} and special chars
-    output = output.replace(/[\u0020-\u002f]/g, '');
-    output = output.replace(/[\u005b-\u005f]/g, '');
-    output = output.replace(/[\u007b-\u007f]/g, '');
+    output = czRemoveDiacritics(output);
+    output = czRemoveSpecialChars(output);
 
     return output;
 }
-
-// normalizeCz('PříliŠ ŽluŤouČký kůň pěl Ďábelské Ódy');
 
 module.exports = {normalizeCz};

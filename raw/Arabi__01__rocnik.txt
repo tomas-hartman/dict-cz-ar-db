@@ -1436,3 +1436,6 @@
 مُكَثَّفٌ		intenzivní	k-th-f			mukaththafun	AR_lekce_3 AR_muj_slovnicek_1 AR_muj_slovnicek_2 cat_adjektiva
 لاَ دَاعِيَ لِـ		není důvodu k	d-w-3				cat_fraze
 تَرْبِيَة		pedagogika, vzdělávání	r-b-j			tarbijatun	cat_substantiva II_kmen masdar
+كَتَبَ (ـُ)	هـ	psát	k-t-b			kataba (jaktubu)	cat_slovesa I_kmen
+كِتَابٌ (كُتُبٌ)		kniha	k-t-b			kitábun (kutubun)	cat_substantiva škola
+كاتِبٌ		spisovatel, písař	k-t-b			kátibun	cat_substantiva profese

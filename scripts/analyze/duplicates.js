@@ -2,7 +2,7 @@ const readfile = require('../readfile');
 const crypto = require('crypto');
 const {getCategories} = require('../utils/getCategories');
 
-const normalizeAr = require('../normalize/normalizeAr');
+const {normalizeAr} = require('../normalize/normalize');
 
 const chunks = new Set(); // referenční string, na základě něhož se pozná, zda je slovo unikátní; neobsahuje data
 const references = {};

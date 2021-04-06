@@ -33,6 +33,4 @@ function normalizeAr(word) {
     return output;
 }
 
-// console.log(normalizeAr("حَضَرَ (ـُ) حُضُورٌ"));
-
 module.exports = {normalizeAr};

@@ -1,5 +1,4 @@
-const {normalizeCz} = require('../../scripts/normalize/normalizeCz');
-const {normalizeAr} = require('../../scripts/normalize/normalizeAr');
+const { normalizeCz, normalizeAr } = require('../../scripts/normalize/normalize');
 const { convertToNormTranscription } = require('../../scripts/convert/convertToNormTranscription');
 
 const isRootInArabic = (input) => {
@@ -55,8 +54,6 @@ function resolveRoot(input) {
      * 2. kitáb (=== obsahuje vokály)
      * 3. 
      */
-
-    // if(!isInputValid(input)) return 'some error'; // should return 
 
     const query = clean(input); // todo: some basic normalization, maybe validate input?
 

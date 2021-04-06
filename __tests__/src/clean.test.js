@@ -1,4 +1,4 @@
-const {clean} = require('../search/resolveRoot');
+const {clean} = require('../../src/search/resolveRoot');
 
 describe('Function clean()', () => {
     describe('Arabic', () => {

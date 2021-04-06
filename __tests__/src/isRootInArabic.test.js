@@ -1,4 +1,4 @@
-const {isRootInArabic} = require('../search/resolveRoot');
+const {isRootInArabic} = require('../../src/search/resolveRoot');
 
 describe('isRootInArabic', () => {
     describe('Basic', () => {

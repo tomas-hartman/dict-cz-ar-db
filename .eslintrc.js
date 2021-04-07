@@ -8,7 +8,8 @@ module.exports = {
     'plugins': ['jest'],
     'extends': [
         'eslint:recommended',
-        'plugin:node/recommended'
+        'plugin:node/recommended',
+        'plugin:jest/style'
     ],
     'parserOptions': {
         'ecmaVersion': 12

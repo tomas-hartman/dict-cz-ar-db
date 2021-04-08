@@ -1,8 +1,4 @@
-// Funkce, kam pošlu název vstupního souboru a ono mi to vyanalyzuje výstup
-// NEBO vytvoří csv
-
-// Mělo by se pouštět přes CI a mělo by se ptát, co chco provést
-// aby bylo univerzální, logy by se měly generovat do output/logs/__Filename__/__.txt
+// Aby bylo univerzální, logy by se měly generovat do output/logs/__Filename__/__.txt
 
 /**
  * Aktuální todo:
@@ -12,9 +8,6 @@
  */
 
 const inquirer = require('inquirer');
-const yargs = require('yargs/yargs');
-const { hideBin } = require('yargs/helpers');
-const argv = yargs(hideBin(process.argv)).argv;
 const path = require('path');
 
 const { analyze } = require('./scripts/analyze');
@@ -23,40 +16,59 @@ const transform = require('./scripts/transform');
 const readfile = require('./scripts/readfile');
 const convertAttrs = require('./scripts/convertAttrs/convertAttrs');
 const { convertVocab } = require('./scripts/convertVocab/convertVocab');
-
-if(argv._.length === 0) throw new Error('You must include path to raw data file first');
-
-const [pathToFile] = argv._;
+const { resetAll } = require('./scripts/reset/reset');
 
 const question = [
+    {
+        type: 'fuzzypath',
+        name: 'raw',
+        itemType: 'file',
+        rootPath: 'raw',
+        message: 'Select raw file:',
+        default: 'Skip',
+        depthLimit: 0,
+    },
     {
         type: 'list',
         name: 'action',
         message: 'What action do you want to perform?',
-        choices: ['Analyze', 'Extract attributes', 'Convert attributes', 'Convert vocabulary', 'Drop vocabulary']
-    }
+        choices: ['Quit', 'Analyze', 'Extract attributes', 'Convert attributes & vocabulary', 'Reset database'],
+        when: (answers) => answers.raw !== 'Skip' 
+    },
+    {
+        type: 'list',
+        name: 'action',
+        message: 'What action do you want to perform?',
+        choices: ['Quit', 'Reset database'],
+        when: (answers) => answers.raw === 'Skip' 
+    },
 ];
 
+inquirer.registerPrompt('fuzzypath', require('inquirer-fuzzy-path'));
 inquirer.prompt(question).then((answers) => {
-    const {action} = answers;
-    const filename = path.join(process.cwd(), pathToFile);
+    const {raw, action} = answers;
+    const filename = path.join(process.cwd(), raw);
     try {
         if(filename){
             switch (action) {
             case 'Analyze':
                 analyze(filename);
+                console.log('Analyzation finished.');
                 break;
             case 'Extract attributes':
                 transform(filename);
+                console.log('Attributes extracted to separate files.');
                 break;
-            case 'Convert attributes':
+            case 'Convert attributes & vocabulary':
                 convertAttrs(filename);
-                break;
-            case 'Convert vocabulary':
                 convertVocab(filename);
+                console.log('Attributes and vocabulary converted into db.');
                 break;
-            case 'Drop vocabulary':
-                // convertVocab(filename);
+            case 'Reset database':
+                resetAll();
+                break;
+            case 'Quit': 
+                console.log('Application was terminated.');
                 break;
             default:
                 console.log('Nothing...');

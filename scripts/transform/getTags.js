@@ -1,5 +1,5 @@
 const readfile = require('../readfile');
-const createOutputStream = require('../utils/createOutputStream');
+const { createOutputStream } = require('../utils');
 
 const uniqueValues = new Set();
 const uniqueCategories = new Set();

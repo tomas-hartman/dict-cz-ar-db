@@ -1,4 +1,4 @@
-const { normalizeAr, normalizeCz } = require('../../scripts/normalize/normalize');
+const { normalizeAr, normalizeCz } = require('../../scripts/normalize/');
 
 describe('NormalizeCz', () => {
     describe('default', () => {

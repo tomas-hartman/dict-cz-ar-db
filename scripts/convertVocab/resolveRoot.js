@@ -1,4 +1,4 @@
-const { db } = require('../dbconnect/prepareRootTable');
+const { db } = require('../dbconnect');
 
 async function resolveRoot(rootStr) {
     if(rootStr.trim() === '') return {root: undefined};

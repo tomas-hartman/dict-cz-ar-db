@@ -8,7 +8,7 @@ const errorCb = (err) => {
         throw new Error(err);
     }
 
-    // console.log('Connected to the database.');
+    console.log('Connected to the database.');
 };
 
 let db = new sqlite3.Database(pathToDb, errorCb);

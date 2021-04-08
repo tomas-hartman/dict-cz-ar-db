@@ -1,7 +1,6 @@
-const { getCategories } = require('../utils/getCategories');
 const { parseVerb } = require('../transform/parseVerb');
 const { parseNoun } = require('../transform/parseNoun');
-const { getMeaningVariant } = require('../utils/getMeaningVariant');
+const { getMeaningVariant, getCategories } = require('../utils');
 
 /**
  * Enhanced variant of convertToCsv's convertFile()

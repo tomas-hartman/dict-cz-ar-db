@@ -1,7 +1,7 @@
 const { getRoots } = require('./transform/getRootsList');
 const { getTags } = require('./transform/getTags');
 const readfile = require('./readfile');
-const createOutputStream = require('./utils/createOutputStream');
+const { createOutputStream } = require('./utils');
 
 /**
  * Extract information from tags and generates separate list of roots.

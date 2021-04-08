@@ -1,5 +1,4 @@
-const { getCategories } = require('../utils/getCategories');
-const { getStem } = require('../utils/getStem');
+const { getStem, getCategories } = require('../utils');
 
 function transformVowel(rawVowel) {
     if(!rawVowel) return;

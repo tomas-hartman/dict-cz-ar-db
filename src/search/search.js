@@ -1,4 +1,4 @@
-const { db } = require('../../scripts/dbconnect/prepareRootTable');
+const { db } = require('../../scripts/dbconnect');
 const { resolveRoot } = require('./resolveRoot');
 const { getWhereClause } = require('./getWhereClause');
 
@@ -42,7 +42,7 @@ const searchRoot = (input) => {
  * @param {String} input 
  * @returns {Array | Error} Array of results or Error with incorrect query exception
  */
-async function search(input) {
+async function search(input, findRoot = false) {
     /**
      * Input resolves into query
      * 
@@ -52,7 +52,7 @@ async function search(input) {
     // db.serialize(() => {
 
     try {
-        const results = searchRoot(input);
+        const results = findRoot && searchRoot(input);
 
         console.log(await results);
         return await results;
@@ -62,27 +62,7 @@ async function search(input) {
     }
 }
 
-/**
- * Phases:
- * 
- * 1. simple root query
- * 2. more complicated root query (w-j-'-?)
- */
-
-const input1 = 'ktb';
-const input2 = 'كتب';
-const input3 = 's-f-r';
-const input4 = 'k t b';
-const input5 = 'd3?'; 
-const input6 = '?l?'; 
-const input7 = 'd3*'; 
-const input8 = '?'; 
-const input9 = '*'; 
-const input10 = '2mn'; 
-const input11 = 'ول؟'; 
-const input12 = '?-l-*'; 
-
-search(input7);
+// search(inputE, true);
 
 module.exports = { 
     search,

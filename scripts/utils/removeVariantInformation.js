@@ -2,12 +2,12 @@
  * Strips out variant information from input words: {1} or (1)
  * @param {String} word 
  * @returns String
- * @todo fix regex functionality
+ * @todo fix regex functionality: refactor
  */
-function cleanWord(word, regexes) {
+function removeVariantInformation(word, regexes) {
     const output = word.replace(regexes.regexVariants, '').trim();
 
     return output;
 }
 
-module.exports = {cleanWord};
+module.exports = {removeVariantInformation};

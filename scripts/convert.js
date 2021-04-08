@@ -1,6 +1,6 @@
 const path = require('path');
 const convertToCsv = require('./convert/convertToCsv');
-const createOutputStream = require('./utils/createOutputStream');
+const { createOutputStream } = require('./utils');
 
 const convert = (filename) => {
     const outputFileNameChunk = path.parse(filename).name;

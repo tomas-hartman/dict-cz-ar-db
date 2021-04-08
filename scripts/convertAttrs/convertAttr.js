@@ -1,7 +1,7 @@
 const readfile = require('../readfile');
 const path = require('path');
 
-const {db} = require('../dbconnect/prepareRootTable');
+const { db } = require('../dbconnect');
 
 function transformFileLine(data, attrName) {
     const [attrValue] = data;

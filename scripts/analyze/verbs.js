@@ -1,6 +1,4 @@
-const { getCategories } = require('../utils/getCategories');
-const { getStem } = require('../utils/getStem');
-const { cleanWord } = require('../utils/removeParenthesesFromAr');
+const { getStem, removeVariantInformation, getCategories } = require('../utils');
 
 function analyzeVerbs(data, dataStream) {
     const [ar, _val, _cz, _root, _syn, _example, _transcription, tags] = data;
@@ -12,7 +10,7 @@ function analyzeVerbs(data, dataStream) {
         regexVariants: /\{\d\}|\(\d\)/g,
     };
 
-    const cleanedAr = cleanWord(ar, regexes);
+    const cleanedAr = removeVariantInformation(ar, regexes);
 
     const isVerb = categories.includes('cat_slovesa');
     const isFirstStem = stem[0] === 'I_kmen';

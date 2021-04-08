@@ -1,4 +1,4 @@
-const { getCategories } = require('../utils/getCategories');
+const { getCategories } = require('../utils');
 
 const regexes = {
     variants: /\{\d\}|\(\d\)/g,

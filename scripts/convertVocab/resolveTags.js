@@ -1,6 +1,5 @@
-const { db } = require('../dbconnect/prepareRootTable');
-const { extractTags } = require('../utils/extractTags');
-const { transformToJson } = require('../utils/transformToJson');
+const { db } = require('../dbconnect');
+const { extractTags, transformToJson } = require('../utils');
 
 /**
   * Finds id of every tag

@@ -1,4 +1,4 @@
-const { normalizeCz, normalizeAr } = require('../../scripts/normalize/normalize');
+const { normalizeCz, normalizeAr } = require('../../scripts/normalize');
 const { convertToNormTranscription } = require('../../scripts/convert/convertToNormTranscription');
 
 const isRootInArabic = (input) => {

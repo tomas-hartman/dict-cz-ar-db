@@ -4,7 +4,7 @@ const path = require('path');
 const { convertToNormTranscription } = require('../convert/convertToNormTranscription');
 const {conversionTableToAr} = require('../convert/conversionTableToAr');
 
-const {db} = require('../dbconnect/prepareRootTable');
+const { db } = require('../dbconnect');
 
 /**
  * Imports roots directly to DB (skipping csv)

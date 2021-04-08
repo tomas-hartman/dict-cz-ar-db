@@ -1,7 +1,7 @@
 const { convertToNormTranscription } = require('../convert/convertToNormTranscription');
-const { db } = require('../dbconnect/prepareRootTable');
+const { db } = require('../dbconnect');
 const readfile = require('../readfile');
-const { getCleanVal } = require('../utils/getCleanVal');
+const { getCleanVal } = require('../utils');
 const { vocabImporter } = require('./convertVocabImporter');
 const { resolveRoot } = require('./resolveRoot');
 const { resolveTags } = require('./resolveTags');

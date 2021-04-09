@@ -4,7 +4,7 @@ function analyzeRoots(data, dataStream) {
     const containsEthymTag = tags.includes('ethym_');
     const isToponym = tags.includes('toponyma');
 
-    const regexNonStandardLetters = /^ž|-ž|7|2|R|ů|^g-|-g-|-g$/;
+    const regexNonStandardLetters = /^ž|-ž|7|2|R|ů|^g-|-g-|-g$|y/;
     const regexMissingAleph = /^-/g;
     const regexEmptyOfUnknown = /\s|[?]/;
 

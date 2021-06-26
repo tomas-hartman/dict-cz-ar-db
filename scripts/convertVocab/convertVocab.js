@@ -92,7 +92,7 @@ const convertVocab = async (inputFile) => {
     const hasTables = ['category', 'tag', 'synonym', 'example', 'source'];
 
     createHasTables(hasTables);
-    readfile(inputFile, (data) => convertVocabCb(data));
+    await readfile(inputFile, async (data) => await convertVocabCb(data));
 };
 
 module.exports = {convertVocab, convertVocabLine};

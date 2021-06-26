@@ -1,4 +1,4 @@
-const tagsImporter = (db, tableName, row) => {
+const tagsImporter = async (db, tableName, row) => {
     const createTableSql = `
     CREATE TABLE IF NOT EXISTS ${tableName} (
         id INTEGER PRIMARY KEY, 
@@ -15,25 +15,31 @@ const tagsImporter = (db, tableName, row) => {
         INSERT INTO ${tableName} (tag, description, is_disabled)
         VALUES ($tag, $description, $is_disabled)
         `;
-        
-    db.serialize(() => {
-        //  * 1. does the table exist --> create if not --> done
-        db.run(createTableSql);
-        
-        //  * 2. does the row exist --> log if yes --> 
-        db.each(isEntryExistingSql, {$tag: row.tag}, (err, resultRow) => {
-            const [isExisting] = Object.values(resultRow);
+    
+    return new Promise((resolve, reject) => {
+        db.serialize(() => {
+            //  * 1. does the table exist --> create if not --> done
+            db.run(createTableSql);
             
-            if(isExisting > 0) {
-                console.log('Entry already exists:', row);
-            } else {
-                //  * 3. create new entry
-                db.run(addEntrySql, {
-                    $tag: row.tag, 
-                    $description: row.description, 
-                    $is_disabled: row.isDisabled,
-                });
-            }
+            //  * 2. does the row exist --> log if yes --> 
+            db.each(isEntryExistingSql, {$tag: row.tag}, (err, resultRow) => {
+                const [isExisting] = Object.values(resultRow);
+                
+                if(isExisting > 0) {
+                    console.log('Entry already exists:', row);
+                } else {
+                    //  * 3. create new entry
+                    db.run(addEntrySql, {
+                        $tag: row.tag, 
+                        $description: row.description, 
+                        $is_disabled: row.isDisabled,
+                    });
+                }
+            }, (err, count) => {
+                if(err) reject(err);
+
+                resolve(count);
+            });
         });
     });
 };

@@ -30,26 +30,32 @@ const importToDb = (db, tableName, row) => {
         INSERT INTO ${tableName} (root_origin, root_ar, root_lat, is_disabled)
         VALUES ($origin, $arabic, $transcription, $is_disabled)
         `;
-        
-    db.serialize(() => {
-        //  * 1. does the table exist --> create if not --> done
-        db.run(createTableSql);
-        
-        //  * 2. does the row exist --> log if yes --> 
-        db.each(isEntryExistingSql, {$root: row.origin}, (err, resultRow) => {
-            const [isExisting] = Object.values(resultRow);
+    
+    return new Promise((resolve, reject) => {
+        db.serialize(() => {
+            //  * 1. does the table exist --> create if not --> done
+            db.run(createTableSql);
             
-            if(isExisting > 0) {
-                console.log('Root already exists:', row);
-            } else {
-                //  * 3. create new entry
-                db.run(addRootToDbSql, {
-                    $origin: row.origin, 
-                    $arabic: row.arabic, 
-                    $transcription: row.transcription, 
-                    $is_disabled: 0,
-                });
-            }
+            //  * 2. does the row exist --> log if yes --> 
+            db.each(isEntryExistingSql, {$root: row.origin}, (err, resultRow) => {
+                const [isExisting] = Object.values(resultRow);
+                
+                if(isExisting > 0) {
+                    console.log('Root already exists:', row);
+                } else {
+                    //  * 3. create new entry
+                    db.run(addRootToDbSql, {
+                        $origin: row.origin, 
+                        $arabic: row.arabic, 
+                        $transcription: row.transcription, 
+                        $is_disabled: 0,
+                    });
+                }
+            }, (err, count) => {
+                if(err) reject(err);
+
+                resolve(count);
+            });
         });
     });
 };
@@ -59,7 +65,7 @@ const importToDb = (db, tableName, row) => {
  * @todo přidat upozornění na chyby
  * @param {*} data 
  */
-async function transformRootFileLine(data) {
+function transformRootFileLine(data) {
     const [root] = data;
 
     const getTranscription = (root) => {
@@ -113,15 +119,20 @@ async function transformRootFileLine(data) {
     return output;
 }
 
-function convertRootsToDb(inputFile) {
+async function convertRootsToDb(inputFile) {
     const dirName = path.parse(inputFile).name;
     const dataFile = path.resolve(__dirname, '../../output', dirName, 'roots.txt');
 
-    readfile(dataFile, async (data) => {
+    const promises = [];
+
+    await readfile(dataFile, async (data) => {
         const outputRowObj = transformRootFileLine(data);
-        
-        importToDb(db, 'roots', await outputRowObj);
+        const promise = importToDb(db, 'roots', outputRowObj);
+
+        promises.push(promise);
     });
+
+    return Promise.allSettled(promises);
 }
 
 module.exports = { convertRootsToDb };

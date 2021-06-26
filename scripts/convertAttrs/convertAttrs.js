@@ -22,13 +22,14 @@ const { tagsImporter } = require('./convertTags');
 const convertAttrs = async (filename) => {
     if(checkAttrFilesExist(filename)){    
         // Convert roots to db     
-        convertRootsToDb(filename);
+        const roots = convertRootsToDb(filename);
         
         // Convert tags, sources and categories to db
-        convertAttrToDb(filename, 'source', 'sources', sourcesImporter);
-        convertAttrToDb(filename, 'tag', 'tags', tagsImporter);
-        convertAttrToDb(filename, 'category', 'categories', categoriesImporter);
+        const source = convertAttrToDb(filename, 'source', 'sources', sourcesImporter);
+        const tag = convertAttrToDb(filename, 'tag', 'tags', tagsImporter);
+        const category = convertAttrToDb(filename, 'category', 'categories', categoriesImporter);
 
+        return Promise.allSettled([roots, source, tag, category]);
     } else {
         throw new Error('Make sure all attribute files exist and that are properly analyzed before proceeding to this step!');
     }

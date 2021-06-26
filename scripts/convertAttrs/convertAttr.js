@@ -16,15 +16,20 @@ function transformFileLine(data, attrName) {
     return output;
 }
 
-function convertAttrToDb(inputFile, attrName, tableName, importerCb) {
+async function convertAttrToDb(inputFile, attrName, tableName, importerCb) {
     const dirName = path.parse(inputFile).name;
     const dataFile = path.resolve(__dirname, '../../output', dirName, tableName + '.txt');
 
-    readfile(dataFile, async (data) => {
-        const outputRowObj = transformFileLine(data, attrName);
-        
-        importerCb(db, tableName, outputRowObj);
+    const promises = [];
+
+    await readfile(dataFile, async (data) => {
+        const outputRowObj = transformFileLine(data, attrName);        
+        const result = importerCb(db, tableName, outputRowObj);
+
+        promises.push(result);
     });
+
+    return Promise.allSettled(promises);
 }
 
 module.exports = {convertAttrToDb, transformFileLine};

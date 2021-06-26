@@ -4,7 +4,8 @@
   "description": "Database repo for dictCzAr project",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "engines": {
     "node": ">=10.0.0"

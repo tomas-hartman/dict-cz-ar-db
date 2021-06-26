@@ -19,7 +19,7 @@ const { tagsImporter } = require('./convertTags');
 /**
   * Extract information from tags and generates separate list of roots.
   */
-const convertAttrs = (filename) => {
+const convertAttrs = async (filename) => {
     if(checkAttrFilesExist(filename)){    
         // Convert roots to db     
         convertRootsToDb(filename);
@@ -34,5 +34,5 @@ const convertAttrs = (filename) => {
     }
 };
  
-module.exports = convertAttrs;
+module.exports = {convertAttrs};
  

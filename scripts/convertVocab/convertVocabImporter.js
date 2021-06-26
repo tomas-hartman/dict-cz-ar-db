@@ -88,6 +88,7 @@ const vocabImporter = (db, tableName, row) => {
             const [isExisting] = Object.values(resultRow);
             
             if(isExisting > 0) {
+                /** @todo log into separate file */
                 console.log('Entry already existing:', row);
                 // consider some updates here! this should prevent multiple imports
             } else {
@@ -113,9 +114,10 @@ const vocabImporter = (db, tableName, row) => {
                     $is_example: row.isExample,
                     $t_example: row.tExample,
                     $t_synonym: row.tSynonym,
-                }, (error) => {
+                }, function (error) {
                     if(error) throw new Error(error);
-
+                    
+                    const { lastID } = this;
                     console.log('Successfully imported', row.ar, row.cs);
                 });
             }

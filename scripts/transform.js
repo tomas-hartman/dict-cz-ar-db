@@ -15,5 +15,5 @@ const transform = (filename) => {
     getTags(filename);
 };
 
-module.exports = transform;
+module.exports = {transform};
 

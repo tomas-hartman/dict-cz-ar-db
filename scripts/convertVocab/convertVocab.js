@@ -2,7 +2,9 @@ const { convertToNormTranscription } = require('../convert/convertToNormTranscri
 const { db } = require('../dbconnect');
 const readfile = require('../readfile');
 const { getCleanVal } = require('../utils');
+const { convertVocabHasTable } = require('./convertVocabHasTable');
 const { vocabImporter } = require('./convertVocabImporter');
+const { createHasTable } = require('./createHasTable');
 const { resolveRoot } = require('./resolveRoot');
 const { resolveTags } = require('./resolveTags');
 const { resolveWord } = require('./resolveWord');
@@ -17,6 +19,8 @@ const { resolveWord } = require('./resolveWord');
 async function convertVocabLine(dataFileLine) {
     // const data = dataFileLine.split('\t');
     const [_ar, _val, cs, _root, tSynonym, tExample, transcription, tags] = dataFileLine;
+
+    console.log(dataFileLine, tags);
 
     const { tagIds, catIds, stemId, sourceIds, isDisabled, isExample } = await resolveTags(tags);
     const { ar, plural, masdar, stemVowel, arVariant } = resolveWord(dataFileLine);
@@ -61,6 +65,17 @@ async function convertVocabLine(dataFileLine) {
     return output;
 }
 
+/** 
+ * @todo add root?
+ * @todo extract to separate file?
+ * @see convertVocab -> createHasTables()
+ */
+const createHasTables = (tables) => {
+    tables.forEach((tableName) => {
+        createHasTable(db, tableName);
+    });
+};
+
 /**
  * Callback that handles one line of data obtained from readfile
  * @param {*} lineData 
@@ -69,12 +84,16 @@ const convertVocabCb = async (lineData) => {
     try{
         const vocabObj = await convertVocabLine(lineData); // this converts raw data from file to object
         vocabImporter(db,'vocabulary',vocabObj); // this imports vocab to db
+        convertVocabHasTable(db, vocabObj); // this creates relation tables for categories (tags, category, source...)
     } catch (err) {
         throw new Error(err);
     }    
 };
 
-const convertVocab = (inputFile) => {    
+const convertVocab = async (inputFile) => {    
+    const hasTables = ['category', 'tag', 'synonym', 'example', 'source'];
+
+    createHasTables(hasTables);
     readfile(inputFile, (data) => convertVocabCb(data));
 };
 

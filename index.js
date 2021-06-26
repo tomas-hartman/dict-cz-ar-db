@@ -11,11 +11,8 @@ const inquirer = require('inquirer');
 const path = require('path');
 
 const { analyze } = require('./scripts/analyze');
-const transform = require('./scripts/transform');
-// const { convert } = require('./scripts/convert');
-const readfile = require('./scripts/readfile');
-const convertAttrs = require('./scripts/convertAttrs/convertAttrs');
-const { convertVocab } = require('./scripts/convertVocab/convertVocab');
+const { transform } = require('./scripts/transform');
+const { convert } = require('./scripts/convert');
 const { resetAll } = require('./scripts/reset/reset');
 
 const question = [
@@ -32,7 +29,7 @@ const question = [
         type: 'list',
         name: 'action',
         message: 'What action do you want to perform?',
-        choices: ['Quit', 'Analyze', 'Extract attributes', 'Convert attributes & vocabulary', 'Reset database'],
+        choices: ['Quit', 'Analyze', 'Extract attributes', 'Convert attributes & vocabulary into DB', 'Reset database'],
         when: (answers) => answers.raw !== 'Skip' 
     },
     {
@@ -53,15 +50,14 @@ inquirer.prompt(question).then((answers) => {
             switch (action) {
             case 'Analyze':
                 analyze(filename);
-                console.log('Analyzation finished.');
+                console.log(`Analyzation finished. You can find output in 'output/logs/${path.parse(filename).name}'`);
                 break;
             case 'Extract attributes':
                 transform(filename);
-                console.log('Attributes extracted to separate files.');
+                console.log(`Attributes extracted to separate files. You can find output in 'output/${path.parse(filename).name}'`);
                 break;
-            case 'Convert attributes & vocabulary':
-                convertAttrs(filename);
-                convertVocab(filename);
+            case 'Convert attributes & vocabulary into DB':
+                convert(filename);
                 console.log('Attributes and vocabulary converted into db.');
                 break;
             case 'Reset database':
@@ -79,5 +75,3 @@ inquirer.prompt(question).then((answers) => {
         console.error(err);
     }
 });
-
-

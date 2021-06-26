@@ -1,13 +1,9 @@
-const path = require('path');
-const convertToCsv = require('./convert/convertToCsv');
-const { createOutputStream } = require('./utils');
+const { convertAttrs } = require('./convertAttrs/convertAttrs');
+const { convertVocab } = require('./convertVocab/convertVocab');
 
-const convert = (filename) => {
-    const outputFileNameChunk = path.parse(filename).name;
-
-    // This must be the last step
-    const csvOutputStream = createOutputStream('../../output/', outputFileNameChunk + '__processed.csv');
-    convertToCsv(filename, csvOutputStream);
+const convert = async (filename) => {
+    await convertAttrs(filename);
+    await convertVocab(filename);
 };
 
 module.exports = {convert};

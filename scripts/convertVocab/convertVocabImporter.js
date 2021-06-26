@@ -1,3 +1,5 @@
+const { convertVocabHasTable } = require('./convertVocabHasTable');
+
 const vocabImporter = (db, tableName, row) => {
     const createTableSql = `
         CREATE TABLE IF NOT EXISTS ${tableName} (
@@ -118,6 +120,9 @@ const vocabImporter = (db, tableName, row) => {
                     if(error) throw new Error(error);
                     
                     const { lastID } = this;
+
+                    convertVocabHasTable(db, row, lastID); // this creates relation tables for categories (tags, category, source...)
+
                     console.log('Successfully imported', row.ar, row.cs);
                 });
             }

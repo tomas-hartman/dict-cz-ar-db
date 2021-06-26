@@ -2,7 +2,6 @@ const { convertToNormTranscription } = require('../convert/convertToNormTranscri
 const { db } = require('../dbconnect');
 const readfile = require('../readfile');
 const { getCleanVal } = require('../utils');
-const { convertVocabHasTable } = require('./convertVocabHasTable');
 const { vocabImporter } = require('./convertVocabImporter');
 const { createHasTable } = require('./createHasTable');
 const { resolveRoot } = require('./resolveRoot');
@@ -20,7 +19,7 @@ async function convertVocabLine(dataFileLine) {
     // const data = dataFileLine.split('\t');
     const [_ar, _val, cs, _root, tSynonym, tExample, transcription, tags] = dataFileLine;
 
-    console.log(dataFileLine, tags);
+    // console.log(dataFileLine, tags);
 
     const { tagIds, catIds, stemId, sourceIds, isDisabled, isExample } = await resolveTags(tags);
     const { ar, plural, masdar, stemVowel, arVariant } = resolveWord(dataFileLine);
@@ -84,7 +83,6 @@ const convertVocabCb = async (lineData) => {
     try{
         const vocabObj = await convertVocabLine(lineData); // this converts raw data from file to object
         vocabImporter(db,'vocabulary',vocabObj); // this imports vocab to db
-        convertVocabHasTable(db, vocabObj); // this creates relation tables for categories (tags, category, source...)
     } catch (err) {
         throw new Error(err);
     }    

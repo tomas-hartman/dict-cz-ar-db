@@ -23,7 +23,7 @@ function convertAttrToDb(inputFile, attrName, tableName, importerCb) {
     readfile(dataFile, async (data) => {
         const outputRowObj = transformFileLine(data, attrName);
         
-        importerCb(db, tableName, await outputRowObj);
+        importerCb(db, tableName, outputRowObj);
     });
 }
 

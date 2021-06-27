@@ -157,3 +157,70 @@ n. konverze do csv a import do db
   - convert them to db                                                          --> convert attributes
 4. convert words to db                                                          --> convert vocabulary
   - convertToCsv --> find indexes in db
+
+## Example queries
+
+__Get all nouns:__
+
+```sql
+SELECT * 
+FROM vocabulary 
+WHERE id in (
+  SELECT vocabulary_id 
+  FROM has_category 
+  WHERE category_id in 
+    (
+      SELECT id 
+      FROM categories 
+      WHERE category = 'cat_substantiva'
+    )
+)
+```
+
+__Return all rows with all categories, tags, sources, root info and stems:__
+It does not return source since source is only a parsed value in db.
+
+@todo implement usage for is_disabled = 0: vocabulary, roots, stems
+```sql
+SELECT
+  v.id, v.ar, v.cs, v.plural, v.masdar, v.valency, v.ar_variant, v.norm, v.ar_transcription, v.stem_vowel,
+  c.tags,
+  t.categories,
+  r.root_lat, r.root_ar,
+  st.stem
+FROM
+  vocabulary AS v
+
+LEFT JOIN
+(
+  SELECT has_tag.*, group_concat(tags.tag) as `tags`
+  FROM has_tag
+  JOIN tags 
+  ON tags.id = has_tag.category_id
+  WHERE has_tag.is_disabled = 0 AND tags.is_disabled = 0
+  GROUP BY vocabulary_id
+) as c
+ON c.vocabulary_id = v.id
+
+LEFT JOIN
+(
+  SELECT has_category.*, group_concat(categories.category) as `categories`
+  FROM has_category
+  JOIN categories 
+  ON categories.id = has_category.category_id
+  WHERE has_category.is_disabled = 0 AND categories.is_disabled = 0
+  GROUP BY vocabulary_id
+) as t
+ON t.vocabulary_id = v.id
+
+LEFT JOIN 
+roots as r 
+ON r.id = v.root_id
+
+LEFT JOIN 
+stems as st
+ON st.id = v.root_id
+
+-- WHERE v.id=256 OR v.id=1024
+GROUP BY v.id
+```

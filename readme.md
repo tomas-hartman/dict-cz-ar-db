@@ -7,7 +7,7 @@ Návrh slovníkové tabulky (relační)
 
 ---
 
-### Arabic words table:
+### Arabic words table
 
 __Sloupce:__
 - id (unique primary key)
@@ -41,6 +41,7 @@ __Sloupce:__
 ---
 
 ### Czech words table: todo
+
 V první řadě nebude zvlášť, pokud ji budu chtít zvlášť, možno dodělat.
 
 | id | word | ar_id | ??? |
@@ -51,7 +52,7 @@ V první řadě nebude zvlášť, pokud ji budu chtít zvlášť, možno doděla
 
 ---
 
-### Roots table:
+### Roots table
 
 | id  | root_norm | root_ar | root_lat | 
 | --- | ---       | :---:   | ---      |
@@ -70,7 +71,7 @@ V první řadě nebude zvlášť, pokud ji budu chtít zvlášť, možno doděla
 
 ---
 
-### Categories:
+### Categories
 
 sloveso, substantivum, adjektivum, adverbium, prepozice, spojka, částice, číslovka, fráze
 
@@ -111,13 +112,13 @@ Originální kolekce:
 - vazba
 - cz
 - root (latinka, ar) -> lze podle něj vyhledávat
-- synonyma? optional 
+- synonyma? optional
 - příklad?
 - transkripce?
-- tagy 
+- tagy
 - source ((balíček))
 
-# Analýza dat
+## Analýza dat
 Surová data (raw) je třeba nejprve zanalyzovat a opravit. Aby byla oprava co nejefektivnější, je potřeba udělat několik kroků:
 
 1. zajistit, že jsou správně uvedené kořeny (nemají zakázané znaky nebo nejsou chybějící)
@@ -127,7 +128,7 @@ Surová data (raw) je třeba nejprve zanalyzovat a opravit. Aby byla oprava co n
  - slovesa musí mít kmeny
  - odchytit chybějící slova bez slovních druhů a opravit
 
-# Generování dat @todo
+## Generování dat @todo
 Konverze ze surových dat na čistá data
 
 1. konverze na správnou tabulkovou strukturu
@@ -136,7 +137,7 @@ Konverze ze surových dat na čistá data
 4. ...
 n. konverze do csv a import do db
 
-# Run
+## Run
 
 1. analyze -> generates logs that show bugs that need to be fixed in anki
 2. prepare -> creates files with roots, tags, categories etc.
@@ -224,3 +225,13 @@ ON st.id = v.root_id
 -- WHERE v.id=256 OR v.id=1024
 GROUP BY v.id
 ```
+
+## Folder structure
+
+- `db`: this folder hosts the most recent version of database
+- `experimental`: used to host various experiments build on db data
+- `preprocess`: folder that hosts raw data and scripts used to convert raw data to db
+- `src`: source of scripts that can be used universally
+- `client`: TODO
+- `server`: TODO
+- `dist`: TODO

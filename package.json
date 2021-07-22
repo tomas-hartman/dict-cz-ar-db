@@ -24,7 +24,6 @@
     "inquirer": "^8.0.0",
     "inquirer-directory": "^2.2.0",
     "inquirer-fuzzy-path": "^2.3.0",
-    "objects-to-csv": "^1.3.6",
     "sqlite3": "^5.0.2",
     "yargs": "^16.2.0"
   },

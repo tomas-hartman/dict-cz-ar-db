@@ -3,9 +3,9 @@
 /node_modules
 
 # Analyze reports
-output/logs/**/*.txt
+preprocess/output/logs/**/*.txt
 ./*.txt
 
 # AnkiDB files, keep only original db files
-raw/AnkiDb/*
-!raw/AnkiDb/*.zip
+preprocess/raw/AnkiDb/*
+!preprocess/raw/AnkiDb/*.zip

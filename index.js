@@ -10,17 +10,17 @@
 const inquirer = require('inquirer');
 const path = require('path');
 
-const { analyze } = require('./scripts/analyze');
-const { transform } = require('./scripts/transform');
-const { convert } = require('./scripts/convert');
-const { resetAll } = require('./scripts/reset/reset');
+const { analyze } = require('./preprocess/scripts/analyze');
+const { transform } = require('./preprocess/scripts/transform');
+const { convert } = require('./preprocess/scripts/convert');
+const { resetAll } = require('./preprocess/scripts/reset/reset');
 
 const question = [
     {
         type: 'fuzzypath',
         name: 'raw',
         itemType: 'file',
-        rootPath: 'raw',
+        rootPath: 'preprocess/raw',
         message: 'Select raw file:',
         default: 'Skip',
         depthLimit: 0,
@@ -50,11 +50,11 @@ inquirer.prompt(question).then((answers) => {
             switch (action) {
             case 'Analyze':
                 analyze(filename);
-                console.log(`Analyzation finished. You can find output in 'output/logs/${path.parse(filename).name}'`);
+                console.log(`Analyzation finished. You can find output in 'preprocess/output/logs/${path.parse(filename).name}'`);
                 break;
             case 'Extract attributes':
                 transform(filename);
-                console.log(`Attributes extracted to separate files. You can find output in 'output/${path.parse(filename).name}'`);
+                console.log(`Attributes extracted to separate files. You can find output in 'preprocess/output/${path.parse(filename).name}'`);
                 break;
             case 'Convert attributes & vocabulary into DB':
                 convert(filename);

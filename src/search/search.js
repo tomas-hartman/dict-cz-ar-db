@@ -1,4 +1,4 @@
-const { db } = require('../../scripts/dbconnect');
+const { db } = require('../../preprocess/scripts/dbconnect');
 const { resolveRoot } = require('./resolveRoot');
 const { getWhereClause } = require('./getWhereClause');
 

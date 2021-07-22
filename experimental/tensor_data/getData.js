@@ -1,8 +1,8 @@
 const path = require('path');
 const fs = require('fs');
 
-const {db} = require('../scripts/dbconnect/index');
-const { normalizeAr } = require('../scripts/normalize');
+const {db} = require('../../preprocess/scripts/dbconnect/index');
+const { normalizeAr } = require('../../preprocess/scripts/normalize');
 
 const outputFileName = path.resolve(__dirname, './categories_input_data.json');
 const charsTableFile = path.resolve(__dirname, './chars_convert_table.json');

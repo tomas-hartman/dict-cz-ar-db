@@ -3,7 +3,7 @@ const path = require('path');
 
 const backupDb = () => {
     const dbName = 'dictionary_1.0.0.db';
-    const pathToDb = path.resolve(__dirname, '../../db', dbName);
+    const pathToDb = path.resolve(__dirname, '../../../db', dbName);
 
     const d = new Date();
     const o = (number) => {

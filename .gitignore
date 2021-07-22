@@ -1,7 +1,6 @@
 # System files and other 
 .DS_Store
 /node_modules
-client/admin/
 
 # Analyze reports
 preprocess/output/logs/**/*.txt

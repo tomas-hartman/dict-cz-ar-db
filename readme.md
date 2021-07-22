@@ -220,7 +220,7 @@ ON r.id = v.root_id
 
 LEFT JOIN 
 stems as st
-ON st.id = v.root_id
+ON st.id = v.stem_id
 
 -- WHERE v.id=256 OR v.id=1024
 GROUP BY v.id

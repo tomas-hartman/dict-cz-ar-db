@@ -1,6 +1,7 @@
 # System files and other 
 .DS_Store
 /node_modules
+client/admin/
 
 # Analyze reports
 preprocess/output/logs/**/*.txt
@@ -9,3 +10,11 @@ preprocess/output/logs/**/*.txt
 # AnkiDB files, keep only original db files
 preprocess/raw/AnkiDb/*
 !preprocess/raw/AnkiDb/*.zip
+
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*

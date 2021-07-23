@@ -36,6 +36,7 @@
   },
   "private": true,
   "workspaces": [
-    "client/*"
+    "client/*",
+    "server/*"
   ]
 }

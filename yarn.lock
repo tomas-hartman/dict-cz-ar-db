@@ -5552,6 +5552,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"db@workspace:server/db":
+  version: 0.0.0-use.local
+  resolution: "db@workspace:server/db"
+  dependencies:
+    express: ^4.17.1
+    sqlite3: ^5.0.2
+    typescript: ^4.3.5
+  languageName: unknown
+  linkType: soft
+
 "debug@npm:2.6.9, debug@npm:^2.2.0, debug@npm:^2.3.3, debug@npm:^2.6.0, debug@npm:^2.6.9":
   version: 2.6.9
   resolution: "debug@npm:2.6.9"

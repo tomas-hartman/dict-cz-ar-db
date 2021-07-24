@@ -1,6 +1,7 @@
 const { db } = require('../../preprocess/scripts/dbconnect');
 const { resolveRoot } = require('./resolveRoot');
 const { getWhereClause } = require('./getWhereClause');
+const { getSql } = require('./getSql');
 
 /**
  * searchRoot()
@@ -15,17 +16,21 @@ const searchRoot = (input) => {
     const whereClause = getWhereClause(query);
         
     const results = new Promise((resolve, reject) => {
-        db.all(`
-            SELECT * 
-            FROM (
-                SELECT vocabulary.*, roots.root_origin, roots.root_ar, roots.root_lat 
-                FROM vocabulary 
-                JOIN roots
-                ON vocabulary.root_id = roots.id
-            )
-            WHERE ${whereClause}
-                AND is_disabled = 0
-        `, (err, result) => {
+        // const sql_old = `
+        //     SELECT * 
+        //     FROM (
+        //         SELECT vocabulary.*, roots.root_origin, roots.root_ar, roots.root_lat 
+        //         FROM vocabulary 
+        //         JOIN roots
+        //         ON vocabulary.root_id = roots.id
+        //     )
+        //     ${whereClause}
+        //         AND is_disabled = 0
+        // `;
+
+        const sql = getSql({whereClause});
+
+        db.all(sql, (err, result) => {
             if(err) {
                 reject(err);
             }

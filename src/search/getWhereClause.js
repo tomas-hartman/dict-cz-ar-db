@@ -39,7 +39,7 @@ const getWeakVowelClause = (column, query) => {
     
     rootVariants = rootVariants.join(' OR ');
 
-    return rootVariants;
+    return 'WHERE ' + rootVariants;
 };
 
 /**
@@ -66,7 +66,7 @@ const getWhereClause = (_query) => {
     if(containsWeakVowelWildcard) return getWeakVowelClause(column, query);
     if(containsAsteriskWildcard) return getAsteriskClause(column, query);
 
-    return `${column} = '${query}'`;
+    return `WHERE ${column} = '${query}'`;
 };
 
 module.exports = { getWhereClause, getWeakVowelClause, getAsteriskClause };
